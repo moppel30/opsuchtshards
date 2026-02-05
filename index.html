@@ -100,10 +100,10 @@
     </button>
     <h2 id="modalTitle" style="margin-top:0;"></h2>
     <div class="chart-buttons">
-      <button onclick="loadHistory('HOURLY')">Stunde</button>
-      <button onclick="loadHistory('DAILY')">Tag</button>
-      <button onclick="loadHistory('WEEKLY')">Woche</button>
-      <button onclick="loadHistory('MONTHLY')">Monat</button>
+      <button onclick="loadHistory('HOURLY', App.currentItem, App.currentItemType)">Stunde</button>
+      <button onclick="loadHistory('DAILY', App.currentItem, App.currentItemType)">Tag</button>
+      <button onclick="loadHistory('WEEKLY', App.currentItem, App.currentItemType)">Woche</button>
+      <button onclick="loadHistory('MONTHLY', App.currentItem, App.currentItemType)">Monat</button>
     </div>
     <div class="chart-container">
       <canvas id="priceChart"></canvas>

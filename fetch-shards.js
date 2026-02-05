@@ -1,12 +1,11 @@
 const axios = require('axios');
 const admin = require('firebase-admin');
+const fs = require('fs'); // Node.js File System module
 
-// 1. Firebase-Konfiguration aus den GitHub Secrets laden
 const serviceAccount = JSON.parse(process.env.FIREBASE_CONFIG);
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  // 2. HIER IST DIE KORREKTUR: Die Datenbank-URL explizit angeben
   databaseURL: "https://shardhistory-121a4-default-rtdb.europe-west1.firebasedatabase.app"
 });
 
@@ -20,7 +19,7 @@ async function fetchAndSaveShardHistory() {
 
     if (!shardRates || shardRates.length === 0) {
       console.log('Keine Daten von der API erhalten. Beende.');
-      return;
+      process.exit(0);
     }
     console.log('Daten erfolgreich abgerufen.');
 
@@ -31,14 +30,22 @@ async function fetchAndSaveShardHistory() {
     await ref.set(shardRates);
     console.log('Daten erfolgreich in Firebase gespeichert!');
 
+    // NEU: Lade die gesamte Historie und schreibe sie in eine statische JSON-Datei
+    console.log('Lade gesamte Historie für die JSON-Datei...');
+    const historySnapshot = await db.ref('shardHistory').get();
+    const historyData = historySnapshot.val();
+    fs.writeFileSync('shard-history.json', JSON.stringify(historyData, null, 2));
+    console.log('shard-history.json wurde erfolgreich erstellt.');
+
+    process.exit(0);
+
   } catch (error) {
     console.error('Ein Fehler ist aufgetreten:', error.message);
-  } finally {
-    // Wichtig, damit der Prozess sauber beendet wird
-    db.goOffline();
+    process.exit(1);
   }
 }
 
 fetchAndSaveShardHistory();
+
 
 

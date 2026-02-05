@@ -1,18 +1,36 @@
 name: Save Shard Price History
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
+
 jobs:
   save_history:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: npm install axios firebase-admin
+
+      - name: Install dependencies
+        run: npm install axios firebase-admin
+
       - name: Run script to save shard history
         run: node ./fetch-shards.js
         env:
           FIREBASE_CONFIG: ${{ secrets.FIREBASE_CONFIG }}
+
+      # NEU: Dieser Schritt lädt die neue JSON-Datei ins Repository hoch
+      - name: Commit and push shard history file
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add shard-history.json
+          # Commit nur, wenn es Änderungen gibt
+          git diff --staged --quiet || git commit -m "Update shard-history.json"
+          git push

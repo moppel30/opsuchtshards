@@ -60,7 +60,7 @@
       color: var(--text-primary);
       text-align: center;
       font-size: clamp(2rem, 5vw, 2.5rem);
-      margin-bottom: 0.5rem;
+      margin-bottom: 1rem;
       font-weight: 800;
     }
     h1 span {
@@ -82,7 +82,7 @@
     .visitor-counter {
       text-align: center;
       color: var(--text-secondary);
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
       font-size: 0.875rem;
     }
 
@@ -179,7 +179,7 @@
       box-shadow: 0 0 15px -5px color-mix(in srgb, var(--accent-color1) 30%, transparent);
       opacity: 0; /* Start invisible, animation will fade it in */
     }
-    #marketContainer .card, #auctionContainer .card { cursor: pointer; }
+    #marketContainer .card, #auctionContainer .card, #shardsContainer .card { cursor: pointer; }
     .card.animated {
       animation: fadeInUp 0.5s ease-out forwards;
     }    .card img {

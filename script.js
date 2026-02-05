@@ -5,7 +5,9 @@ const App = {
     marketItems: [],
     auctionsData: [],
     shardRates: [],
+    shardHistory: {}, // Hält die geladene Shard-Historie
     currentItem: null,
+    currentItemType: null,
     chart: null,
     uuidCache: JSON.parse(localStorage.getItem('opsucht_uuid_cache') || '{}'),
     skinCache: JSON.parse(localStorage.getItem('opsucht_skin_cache') || '{}'),
@@ -16,20 +18,38 @@ const App = {
     scheduledNotifications: {}, // Speichert geplante Auktions-Benachrichtigungen
   };
 
-  const firebaseConfig = {
+  // --- Firebase Konfiguration NUR für den Besucherzähler ---
+  const visitorCounterConfig = {
     apiKey: "AIzaSyCyjv3kl1FKh8EGztS6Fimox-9BvqFsihc",
     authDomain: "visitor-counter-4ce96.firebaseapp.com",
+    databaseURL: "https://visitor-counter-4ce96-default-rtdb.europe-west1.firebasedatabase.app/",
     projectId: "visitor-counter-4ce96",
     storageBucket: "visitor-counter-4ce96.firebasestorage.app",
     messagingSenderId: "434296501874",
     appId: "1:434296501874:web:76f948239d7bab1a04f4eb",
-    measurementId: "G-3YZ0GPYCTR",
-    databaseURL: "https://visitor-counter-4ce96-default-rtdb.europe-west1.firebasedatabase.app/"
+    measurementId: "G-3YZ0GPYCTR"
   };
 
-  // Initialize Firebase
-  const app = firebase.initializeApp(firebaseConfig);
-  const database = firebase.database();
+  // --- Firebase Konfiguration NUR für die Shard History ---
+  const shardHistoryConfig = {
+    apiKey: "AIzaSyAXtG4_z1DzhFEocEEKksVmQ2qpWX6U2X8",
+    authDomain: "shardhistory-121a4.firebaseapp.com",
+    databaseURL: "https://shardhistory-121a4-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "shardhistory-121a4",
+    storageBucket: "shardhistory-121a4.firebasestorage.app",
+    messagingSenderId: "1046897922847",
+    appId: "1:1046897922847:web:0f8df0d73ba24fe8ae162a",
+    measurementId: "G-62DDHCZK55"
+  };
+
+  // Initialisiere beide Firebase-Apps mit unterschiedlichen Namen, um Konflikte zu vermeiden
+  const visitorCounterApp = firebase.initializeApp(visitorCounterConfig);
+  const shardHistoryApp = firebase.initializeApp(shardHistoryConfig, 'shardHistoryApp');
+
+  // Erstelle separate Datenbank-Referenzen für jede App
+  const database = visitorCounterApp.database();
+  const shardHistoryDatabase = shardHistoryApp.database();
+
 
   function showSection(id) {
     document.querySelectorAll('.section').forEach(sec => sec.classList.remove('active'));
@@ -208,7 +228,7 @@ const App = {
                 <div class="price-info"><span class="buy">BUY:</span> ${buyOrder.price ?? "-"} (${buyOrder.activeOrders ?? 0})</div>
                 <div class="price-info"><span class="sell">SELL:</span> ${sellOrder.price ?? "-"} (${sellOrder.activeOrders ?? 0})</div>
             `;
-        card.onclick = () => openChart(material);
+        card.onclick = () => openChart(material, 'market');
         grid.appendChild(card);
       }
       container.appendChild(grid);
@@ -577,9 +597,22 @@ const App = {
 
   async function loadShards() {
     try {
-      App.shardRates = await (await fetch("https://api.opsucht.net/merchant/rates")).json();
+      // Lade die aktuellen Raten von der OPsucht API
+      const ratesPromise = fetch("https://api.opsucht.net/merchant/rates").then(res => res.json());
+      // Lade die Historie aus der Firebase Datenbank
+      const historyPromise = shardHistoryDatabase.ref('shardHistory').get().then(snapshot => snapshot.val());
+
+      // Warte auf beide Anfragen
+      const [rates, history] = await Promise.all([ratesPromise, historyPromise]);
+
+      App.shardRates = rates;
+      App.shardHistory = history || {};
+
     } catch (error) {
       console.error("Fehler beim Laden der Shard-Daten:", error);
+      // Setze leere Werte im Fehlerfall, damit die Seite nicht blockiert
+      App.shardRates = [];
+      App.shardHistory = {};
     }
     document.querySelector('#tab-shards .loading-spinner')?.remove();
   }
@@ -635,6 +668,7 @@ const App = {
 
       const card = document.createElement("div");
       card.className = "card";
+      card.style.cursor = "pointer";
 
       card.innerHTML = `
             <img src="${icon}" alt="${itemInfo.name}">
@@ -643,22 +677,40 @@ const App = {
                 Wert: <span style="color: #34D399; font-weight: bold;">${parseFloat(rate.exchangeRate).toFixed(2)}</span> Shards
             </div>
         `;
+      card.onclick = () => openChart(itemInfo.name, 'shards');
       grid.appendChild(card);
     }
     container.appendChild(grid);
     animateCardsWave(document.getElementById('shards'));
-  }  async function loadHistory(period) {
-    if (!App.currentItem) return;
-    const data = await (await fetch(`https://api.opsucht.net/market/history/${App.currentItem}`)).json();
-    const history = data[period];
-    const labels = history.map(h => {
+  }
+
+  async function loadHistory(period, material, type) {
+    let historyData;
+    if (type === 'market') {
+        const data = await (await fetch(`https://api.opsucht.net/market/history/${material}`)).json();
+        historyData = data[period];
+    } else if (type === 'shards') {
+        const allHistory = App.shardHistory;
+        historyData = Object.entries(allHistory).map(([timestamp, rates]) => {
+            const rate = rates.find(r => parseShardItem(r.source).name === material);
+            return {
+                timestamp: parseInt(timestamp),
+                avgPrice: rate ? rate.exchangeRate : null
+            };
+        }).filter(h => h.avgPrice !== null);
+    }
+
+    if (!historyData) {
+        console.error("Keine Verlaufsdaten gefunden für:", material);
+        return;
+    }
+
+    const labels = historyData.map(h => {
       const d = new Date(h.timestamp);
-      if (period === "HOURLY") return d.toLocaleTimeString("de-DE", { hour: '2-digit', minute: '2-digit' });
-      if (period === "DAILY") return d.toLocaleDateString("de-DE");
-      if (period === "WEEKLY") return "KW " + Math.ceil((((d - new Date(d.getFullYear(), 0, 1)) / 86400000) + 1) / 7);
-      return (d.getMonth() + 1).toString().padStart(2, "0") + "." + d.getFullYear();
+      // Vereinfachte Anzeige für Shard-Daten, da wir keinen "period"-Filter haben
+      return d.toLocaleString("de-DE", { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
     });
-    const pricesData = history.map(h => h.avgPrice);
+    const pricesData = historyData.map(h => h.avgPrice);
     const ctx = document.getElementById("priceChart").getContext("2d");
     if (App.chart) App.chart.destroy();
 
@@ -671,10 +723,17 @@ const App = {
     });
   }
 
-  function openChart(material) {
+  function openChart(material, type) {
     App.currentItem = material;
+    App.currentItemType = type;
     document.getElementById("modalTitle").textContent = `Preisentwicklung: ${material}`;
-    document.querySelector(".chart-buttons").style.display = "block";
+
+    const chartButtons = document.querySelector(".chart-buttons");
+    if (type === 'shards') {
+        chartButtons.style.display = 'none';
+    } else {
+        chartButtons.style.display = 'block';
+    }
 
     const chartModal = document.getElementById('chartModal');
 
@@ -697,7 +756,8 @@ const App = {
     if (placeholder) placeholder.remove();
 
     openModal();
-    loadHistory("DAILY");
+    // Lade die Daten. Für Shards verwenden wir einen leeren Perioden-String, da wir alle Daten anzeigen.
+    loadHistory(type === 'shards' ? '' : 'DAILY', material, type);
   }
 
   async function openAuctionChart(auction) {
@@ -1076,7 +1136,7 @@ const App = {
     });
     counterRef.on('value', (snapshot) => {
       const count = snapshot.val();
-      document.getElementById('visitor-counter').textContent = `Alltime Visitors: ${count}`;
+      document.getElementById('visitor-counter').textContent = `Besucher gesamt: ${count}`;
     });
   }
 
