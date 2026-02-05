@@ -1,0 +1,27 @@
+    name: Save Shard Price History
+
+    on:
+      schedule:
+        - cron: '0 * * * *'
+      workflow_dispatch:
+
+    jobs:
+      save_history:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Checkout repository
+            uses: actions/checkout@v3
+
+          - name: Set up Node.js
+            uses: actions/setup-node@v3
+            with:
+              node-version: '18'
+
+          - name: Install dependencies
+            run: npm install axios firebase-admin
+
+          - name: Run script to save shard history
+            run: node ./fetch-shards.js
+            env:
+              FIREBASE_CONFIG: ${{ secrets.FIREBASE_CONFIG }}
+    
