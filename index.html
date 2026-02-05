@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OPSUCHT Markt & Auktionshaus</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="impressumModal" class="modal">
+  <div class="modal-content">
+    <button class="modal-close" onclick="closeImpressumModal()" aria-label="Schließen">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+    </button>
+    <h2 style="margin-top:0;">Impressum</h2>
+    <p>
+      Jonah Potthast<br>
+      Baumschulallee 2<br>
+      53115 Bonn<br>
+      Deutschland
+    </p>
+    <p><strong>Kontakt:</strong><br>jonahpotthast@gmail.com</p>
+  </div>
+</div>
+
+<div id="rain-container"></div>
+<canvas id="matrix-canvas"></canvas>
+
+<div class="container">
+
+  <a onclick="openImpressumModal()" style="display: block; margin-bottom: 1rem; font-size: 0.875rem; color: var(--text-secondary); cursor: pointer; text-decoration: none; background: none; border: none; padding: 0.5rem 0;">Impressum</a>
+
+  <h1><span>OPSUCHT WEB</span></h1>
+  <div id="visitor-counter" class="visitor-counter"></div>
+
+  <div class="header-controls">
+    <div id="tabs" class="tabs">
+      <button onclick="showSection('about')">Über uns</button>
+      <button id="tab-market" onclick="showSection('market')">Markt<span class="loading-spinner"></span></button>
+      <button id="tab-auctions" onclick="showSection('auctions')">Auktionen<span class="loading-spinner"></span></button>
+      <button id="tab-shards" onclick="showSection('shards')">Shards<span class="loading-spinner"></span></button>
+    </div>
+  </div>
+
+  <div id="about" class="section">
+    <div class="team-container">
+      <div class="profile-card">
+        <img src="https://i.postimg.cc/fLfx31VP/annt.png" alt="Profilbild von Raymound" class="profile-card-image">
+        <div class="profile-card-content">
+          <h3 class="profile-card-name">_Raymound_</h3>
+          <p class="profile-card-role">Manager & Organisator</p>
+          <p class="profile-card-description">Gründer des Projekts und zentraler Ansprechpartner im Hintergrund.
+            Als langjähriger OPsucht-Spieler entstand aus eigener Erfahrung die Idee, eine zentrale Plattform zu entwickeln, auf der alle wichtigen Informationen gebündelt sind.
+            Ich übernehme die komplette Organisation des Projekts und sorge dafür, dass das System stabil läuft, regelmäßig genutzt wird und sich stetig weiterentwickelt.</p>
+        </div>
+      </div>
+      <div class="profile-card">
+        <img src="https://i.postimg.cc/L5sZJ5KP/nannt.png" alt="Profilbild von Moppel" class="profile-card-image">
+        <div class="profile-card-content">
+          <h3 class="profile-card-name">_Moppel_</h3>
+          <p class="profile-card-role">Projektleiter & Web Entwickler</p>
+          <p class="profile-card-description">Ich bin Moppel und habe schon seit langer Zeit großes Interesse an Programmierung und Entwicklung. Auf dieser Webseite bin ich für die technische Umsetzung sowie die kontinuierliche Weiterentwicklung zuständig. Mein Ziel ist es, die Seite stetig zu optimieren und technisch immer auf dem neuesten Stand zu halten.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="market" class="section">
+    <input type="text" id="searchMarket" class="search-input" placeholder="🔍 Item oder Kategorie suchen …" oninput="renderMarket()">
+    <div id="marketContainer"></div>
+  </div>
+
+  <div id="auctions" class="section">
+    <div class="auction-controls">
+      <div id="auction-filters" class="auction-filters"></div>
+      <select id="auction-filters-mobile" class="auction-filters-mobile" onchange="setAuctionFilter(this.value)"></select>
+      <select id="auctionSortSelect" class="auction-sort" onchange="setAuctionSort(this.value)">
+        <option value="END">Bald endend</option><option value="NEW">Neueste</option>
+        <option value="PRICE_HIGH">Höchster Preis</option><option value="PRICE_LOW">Niedrigster Preis</option>
+        <option value="BIDS_HIGH">Meiste Gebote</option>
+      </select>
+    </div>
+    <input type="text" id="searchAuctions" class="search-input" placeholder="🔍 Item oder Kategorie/Name suchen …" oninput="renderAuctions()">
+    <div id="auctionContainer"></div>
+  </div>
+
+  <div id="shards" class="section">
+    <input type="text" id="searchShards" class="search-input" placeholder="🔍 Item suchen …" oninput="renderShards()">
+    <div id="shardsContainer"></div>
+  </div>
+
+</div>
+
+<div id="chartModal" class="modal">
+  <div class="modal-content">
+    <button class="modal-close" onclick="closeModal()" aria-label="Schließen">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+    </button>
+    <h2 id="modalTitle" style="margin-top:0;"></h2>
+    <div class="chart-buttons">
+      <button onclick="loadHistory('HOURLY')">Stunde</button>
+      <button onclick="loadHistory('DAILY')">Tag</button>
+      <button onclick="loadHistory('WEEKLY')">Woche</button>
+      <button onclick="loadHistory('MONTHLY')">Monat</button>
+    </div>
+    <div class="chart-container">
+      <canvas id="priceChart"></canvas>
+    </div>
+  </div>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+<script src="config.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
