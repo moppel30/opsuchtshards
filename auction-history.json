@@ -81,6 +81,46 @@
     {
       "endTime": "2026-02-06T19:20:26.904Z",
       "finalPrice": 2266662.2
+    },
+    {
+      "endTime": "2026-02-06T19:24:23.444Z",
+      "finalPrice": 2395720
+    }
+  ],
+  "Runenbrecher": [
+    {
+      "endTime": "2026-02-06T19:27:20.154Z",
+      "finalPrice": 6500000
+    }
+  ],
+  "Normale ★ Hose": [
+    {
+      "endTime": "2026-02-06T19:28:04.700Z",
+      "finalPrice": 5270
+    }
+  ],
+  "ENDER_PEARL": [
+    {
+      "endTime": "2026-02-06T19:28:12.625Z",
+      "finalPrice": 15
+    }
+  ],
+  "heilige lolipop cml clan flügel": [
+    {
+      "endTime": "2026-02-06T19:28:35.067Z",
+      "finalPrice": 32000
+    }
+  ],
+  "Flink040": [
+    {
+      "endTime": "2026-02-06T19:26:03.593Z",
+      "finalPrice": 3800001
+    }
+  ],
+  "1. EDITION Boosterpack": [
+    {
+      "endTime": "2026-02-06T19:26:07.325Z",
+      "finalPrice": 600001
     }
   ]
 }
