@@ -1,0 +1,23 @@
+{
+  "09149a5bc8aca3dbf14699bcba73ed1d": {
+    "endTime": "2026-02-06T18:45:38.719Z",
+    "finalPrice": 450000,
+    "itemName": "Unendlicher Wassereimer",
+    "recordedAt": 1770403567010,
+    "seller": "3652746c-58f9-497c-95ee-f750ea5c0182"
+  },
+  "4f6695e78b85c3ae758fd5650c8c1330": {
+    "endTime": "2026-02-06T18:45:05.962Z",
+    "finalPrice": 50000000,
+    "itemName": "Liam´s Buildertool",
+    "recordedAt": 1770403566916,
+    "seller": "820f35ab-9b1e-44cf-a6ce-ed7e01297994"
+  },
+  "bbb21fd86b02fcce832c2b3d538f970b": {
+    "endTime": "2026-02-06T18:45:14.826Z",
+    "finalPrice": 21000.1,
+    "itemName": "Filmstudio",
+    "recordedAt": 1770403567101,
+    "seller": "33d09390-47a9-4df0-bae6-9aab4164b770"
+  }
+}
