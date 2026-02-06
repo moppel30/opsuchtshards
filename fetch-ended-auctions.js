@@ -29,15 +29,24 @@ async function trackEndedAuctions() {
     }
     console.log(`Letzte aktive Auktionen aus Firebase geladen: ${lastActiveAuctionsMap.size}`);
 
+    // KORREKTUR: Manuelle Berechnung der deutschen Zeit (CEST = UTC+2)
+    const now_utc = new Date();
+    const now_german = new Date(now_utc.getTime() + (2 * 60 * 60 * 1000));
+    
+    // VERBESSERTES LOGGING:
+    console.log(`================ ZEIT-CHECK ================`);
+    console.log(`UTC-Zeit (Server): ${now_utc.toUTCString()}`);
+    console.log(`Deutsche Zeit (berechnet): ${now_german.toUTCString().replace('GMT', 'CEST')}`);
+    console.log(`============================================`);
+
     // 2. Beendete Auktionen identifizieren
     let newlyEndedAuctions = [];
     if (lastActiveAuctionsMap.size > 0) {
       for (const [uid, auction] of lastActiveAuctionsMap.entries()) {
         if (!currentActiveAuctionsMap.has(uid)) {
-          // ZEITZONEN-KORREKTUR: Prüfe die Endzeit hier
-          const nowInGermany = new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" }));
           const endTime = new Date(auction.endTime);
-          if (endTime < nowInGermany) {
+          // Vergleiche die Endzeit mit unserer berechneten deutschen Zeit
+          if (endTime < now_german) {
             newlyEndedAuctions.push(auction);
           }
         }
@@ -45,18 +54,17 @@ async function trackEndedAuctions() {
     }
     console.log(`Neu beendete Auktionen identifiziert: ${newlyEndedAuctions.length}`);
 
-    // 3. Lade die existierende Auktionshistorie aus der JSON-Datei
+    // 3. Lade die existierende Auktionshistorie
     let history = {};
     try {
       if (fs.existsSync('auction-history.json')) {
         history = JSON.parse(fs.readFileSync('auction-history.json', 'utf8'));
-        console.log('Bestehende auction-history.json geladen.');
       }
     } catch (e) {
-      console.log('auction-history.json nicht gefunden oder fehlerhaft, starte neue Historie.');
+      console.log('auction-history.json nicht gefunden, starte neue Historie.');
     }
 
-    // 4. Verarbeite die neu beendeten Auktionen und füge sie zur Historie hinzu
+    // 4. Verarbeite die neu beendeten Auktionen
     let changesMade = false;
     for (const auction of newlyEndedAuctions) {
       if (!auction.bids) {
@@ -72,7 +80,6 @@ async function trackEndedAuctions() {
 
       if (!history[itemName]) {
         history[itemName] = [];
-        console.log(`Neuer Abschnitt für "${itemName}" wird erstellt.`);
       }
       
       history[itemName].push(saleData);
@@ -80,12 +87,12 @@ async function trackEndedAuctions() {
       console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} zur Historie hinzugefügt.`);
     }
 
-    // 5. Schreibe die aktualisierte Historie zurück in die JSON-Datei
+    // 5. Schreibe die aktualisierte Historie zurück
     if (changesMade) {
       fs.writeFileSync('auction-history.json', JSON.stringify(history, null, 2));
       console.log('auction-history.json wurde erfolgreich aktualisiert.');
     } else {
-      console.log('Keine neuen Verkäufe zum Speichern, auction-history.json bleibt unverändert.');
+      console.log('Keine neuen Verkäufe zum Speichern.');
     }
 
     // 6. Aktuellen Zustand für den nächsten Lauf speichern
