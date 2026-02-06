@@ -1,9 +1,10 @@
 const axios = require('axios');
 const admin = require('firebase-admin');
-const fs = require('fs'); // Node.js File System module
 
+// 1. Lade die Zugangsdaten aus den GitHub Secrets
 const serviceAccount = JSON.parse(process.env.FIREBASE_CONFIG_AUCTIONS);
 
+// 2. Initialisiere die Firebase Admin Verbindung
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://auctionpricehistory-default-rtdb.europe-west1.firebasedatabase.app/"
@@ -20,18 +21,29 @@ async function trackEndedAuctions() {
 
     if (!activeAuctions) {
       console.log('Keine Daten von der API erhalten.');
-      return;
+      process.exit(0);
     }
 
-    const now = Date.now();
+    // KORREKTUR: Berücksichtige die Zeitzone (CEST = UTC+2)
+    // Wir holen die UTC-Zeit und addieren 2 Stunden, um sie mit den API-Zeiten zu vergleichen.
+    const now_utc = new Date();
+    const now_cest = new Date(now_utc.getTime() + (2 * 60 * 60 * 1000));
+
+    console.log(`Aktuelle UTC-Zeit: ${now_utc.toISOString()}`);
+    console.log(`Angenommene CEST-Zeit für Vergleich: ${now_cest.toISOString()}`);
+
     let foundEndedAuction = false;
 
+    // Gehe jede Auktion durch
     for (const auction of Object.values(activeAuctions)) {
-      const endTime = new Date(auction.endTime).getTime();
+      const endTime = new Date(auction.endTime);
 
-      if (endTime < now) {
+      // Vergleiche die Endzeit mit unserer angepassten "Jetzt"-Zeit
+      if (endTime < now_cest) {
         foundEndedAuction = true;
         const auctionId = auction.uid;
+
+        // PRÜFUNG AUF DUPLIKATE
         const snapshot = await auctionsRef.child(auctionId).get();
 
         if (snapshot.exists()) {
@@ -50,15 +62,8 @@ async function trackEndedAuctions() {
     }
 
     if (!foundEndedAuction) {
-      console.log('Keine beendeten Auktionen in der aktuellen Liste gefunden.');
+      console.log('Keine beendeten Auktionen in der aktuellen Liste gefunden (unter Berücksichtigung der Zeitzone).');
     }
-
-    // NEU: Lade die gesamte Historie und schreibe sie in eine statische JSON-Datei
-    console.log('Lade gesamte Auktions-Historie für die JSON-Datei...');
-    const historySnapshot = await auctionsRef.get();
-    const historyData = historySnapshot.val();
-    fs.writeFileSync('auction-history.json', JSON.stringify(historyData, null, 2));
-    console.log('auction-history.json wurde erfolgreich erstellt.');
 
   } catch (error) {
     console.error('Ein Fehler ist aufgetreten:', error.message);
