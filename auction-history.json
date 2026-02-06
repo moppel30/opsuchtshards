@@ -215,6 +215,10 @@
     {
       "endTime": "2026-02-06T19:29:47.595Z",
       "finalPrice": 3000000
+    },
+    {
+      "endTime": "2026-02-06T20:53:33.540Z",
+      "finalPrice": 31500
     }
   ],
   "Gletscherstiefel": [
@@ -597,6 +601,28 @@
     {
       "endTime": "2026-02-06T20:41:14.792Z",
       "finalPrice": 45000
+    }
+  ],
+  "OP Minion": [
+    {
+      "endTime": "2026-02-06T20:47:00.357Z",
+      "finalPrice": 100000
+    }
+  ],
+  "Normale ★ Brust": [
+    {
+      "endTime": "2026-02-06T20:51:30.394Z",
+      "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-06T20:51:42.204Z",
+      "finalPrice": 10000
+    }
+  ],
+  "Flammentalisman": [
+    {
+      "endTime": "2026-02-06T20:47:58.350Z",
+      "finalPrice": 571201
     }
   ]
 }
