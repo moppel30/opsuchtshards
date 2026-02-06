@@ -10,5 +10,47 @@
       "endTime": "2026-02-06T19:15:22.550Z",
       "finalPrice": 150000
     }
+  ],
+  "OPSUCHT Rucksack": [
+    {
+      "endTime": "2026-02-06T19:16:38.208Z",
+      "finalPrice": 157500
+    }
+  ],
+  "Zwergenpilz": [
+    {
+      "endTime": "2026-02-06T19:16:13.559Z",
+      "finalPrice": 2205
+    }
+  ],
+  "Neujahrshut": [
+    {
+      "endTime": "2026-02-06T19:18:34.896Z",
+      "finalPrice": 80000
+    }
+  ],
+  "Königliche OPSUCHT Krone": [
+    {
+      "endTime": "2026-02-06T19:19:00.656Z",
+      "finalPrice": 30000
+    }
+  ],
+  "Tresor": [
+    {
+      "endTime": "2026-02-06T19:16:16.029Z",
+      "finalPrice": 30500
+    }
+  ],
+  "Engelschuhe v3": [
+    {
+      "endTime": "2026-02-06T19:17:38.812Z",
+      "finalPrice": 1287876.25
+    }
+  ],
+  "Odin's Schwingen": [
+    {
+      "endTime": "2026-02-06T19:17:20.461Z",
+      "finalPrice": 2040301.03
+    }
   ]
 }
