@@ -209,6 +209,18 @@
     {
       "endTime": "2026-02-06T21:20:53.816Z",
       "finalPrice": 450001
+    },
+    {
+      "endTime": "2026-02-06T21:33:02.219Z",
+      "finalPrice": 217000
+    },
+    {
+      "endTime": "2026-02-06T21:29:33.039Z",
+      "finalPrice": 600100
+    },
+    {
+      "endTime": "2026-02-06T21:34:06.213Z",
+      "finalPrice": 510001.02
     }
   ],
   "Playbutton": [
@@ -237,6 +249,14 @@
     {
       "endTime": "2026-02-06T19:38:10.899Z",
       "finalPrice": 52501.05
+    },
+    {
+      "endTime": "2026-02-06T21:31:01.666Z",
+      "finalPrice": 25000
+    },
+    {
+      "endTime": "2026-02-06T21:31:07.889Z",
+      "finalPrice": 39000
     }
   ],
   "SkyGuyTV": [
@@ -247,6 +267,10 @@
     {
       "endTime": "2026-02-06T20:08:48.856Z",
       "finalPrice": 35000
+    },
+    {
+      "endTime": "2026-02-06T21:36:52.403Z",
+      "finalPrice": 50000
     }
   ],
   "Farmwelt": [
@@ -433,6 +457,10 @@
     {
       "endTime": "2026-02-06T20:03:40.381Z",
       "finalPrice": 2
+    },
+    {
+      "endTime": "2026-02-06T21:44:48.986Z",
+      "finalPrice": 2500
     }
   ],
   "FISHING_ROD": [
@@ -547,12 +575,20 @@
     {
       "endTime": "2026-02-06T20:06:57.768Z",
       "finalPrice": 2520000
+    },
+    {
+      "endTime": "2026-02-06T21:40:25.596Z",
+      "finalPrice": 450000
     }
   ],
   "Superball": [
     {
       "endTime": "2026-02-06T20:07:26.434Z",
       "finalPrice": 20001
+    },
+    {
+      "endTime": "2026-02-06T21:32:39.291Z",
+      "finalPrice": 250001
     }
   ],
   "Emmy's Einhorn": [
@@ -583,6 +619,10 @@
     {
       "endTime": "2026-02-06T20:41:41.996Z",
       "finalPrice": 1000001
+    },
+    {
+      "endTime": "2026-02-06T21:36:07.695Z",
+      "finalPrice": 800000
     }
   ],
   "JonCarrs Schuhe": [
@@ -799,6 +839,138 @@
     {
       "endTime": "2026-02-06T21:25:42.089Z",
       "finalPrice": 800
+    }
+  ],
+  "ByteException_": [
+    {
+      "endTime": "2026-02-06T21:39:57.856Z",
+      "finalPrice": 4000000
+    }
+  ],
+  "Lapisbogen": [
+    {
+      "endTime": "2026-02-06T21:39:59.986Z",
+      "finalPrice": 120000
+    }
+  ],
+  "Herobrines Enderperle": [
+    {
+      "endTime": "2026-02-06T21:45:07.792Z",
+      "finalPrice": 60000
+    }
+  ],
+  "Magischer Adventsapfel": [
+    {
+      "endTime": "2026-02-06T21:46:23.427Z",
+      "finalPrice": 13150
+    }
+  ],
+  "Mini One Hit Wonder": [
+    {
+      "endTime": "2026-02-06T21:46:31.690Z",
+      "finalPrice": 522240
+    },
+    {
+      "endTime": "2026-02-06T21:34:26.992Z",
+      "finalPrice": 50001
+    }
+  ],
+  "JonCarrs Helm": [
+    {
+      "endTime": "2026-02-06T21:46:56.695Z",
+      "finalPrice": 500001
+    }
+  ],
+  "Kartenflügel": [
+    {
+      "endTime": "2026-02-06T21:29:15.492Z",
+      "finalPrice": 700001
+    }
+  ],
+  "Wasserwaage": [
+    {
+      "endTime": "2026-02-06T21:46:42.968Z",
+      "finalPrice": 150001
+    }
+  ],
+  "Supporter-Team": [
+    {
+      "endTime": "2026-02-06T21:30:18.989Z",
+      "finalPrice": 100001
+    }
+  ],
+  "Engelshelm": [
+    {
+      "endTime": "2026-02-06T21:30:33.705Z",
+      "finalPrice": 40000
+    }
+  ],
+  "Großer Glücklicher Ghast": [
+    {
+      "endTime": "2026-02-06T21:30:54.350Z",
+      "finalPrice": 10500
+    }
+  ],
+  "OP Teppichmesser": [
+    {
+      "endTime": "2026-02-06T21:31:07.200Z",
+      "finalPrice": 9000
+    },
+    {
+      "endTime": "2026-02-06T21:37:43.244Z",
+      "finalPrice": 8777.67
+    }
+  ],
+  "Mini Rakete": [
+    {
+      "endTime": "2026-02-06T21:31:21.214Z",
+      "finalPrice": 2000
+    },
+    {
+      "endTime": "2026-02-06T21:33:47.092Z",
+      "finalPrice": 52501.05
+    }
+  ],
+  "Partykanone": [
+    {
+      "endTime": "2026-02-06T21:42:12.256Z",
+      "finalPrice": 450002
+    }
+  ],
+  "Windelytra": [
+    {
+      "endTime": "2026-02-06T21:29:29.012Z",
+      "finalPrice": 150000
+    }
+  ],
+  "Magnet": [
+    {
+      "endTime": "2026-02-06T21:28:36.386Z",
+      "finalPrice": 13234567
+    }
+  ],
+  "Unsichtbarkeitstalisman": [
+    {
+      "endTime": "2026-02-06T21:32:48.592Z",
+      "finalPrice": 50001
+    }
+  ],
+  "Infinity Pinsel": [
+    {
+      "endTime": "2026-02-06T21:33:20.995Z",
+      "finalPrice": 50001
+    }
+  ],
+  "Mini Obsihacke": [
+    {
+      "endTime": "2026-02-06T21:33:32.194Z",
+      "finalPrice": 94501
+    }
+  ],
+  "Lotterieflügel": [
+    {
+      "endTime": "2026-02-06T21:29:32.842Z",
+      "finalPrice": 50999
     }
   ]
 }
