@@ -47,6 +47,10 @@
     {
       "endTime": "2026-02-06T19:16:16.029Z",
       "finalPrice": 30500
+    },
+    {
+      "endTime": "2026-02-06T22:33:42.065Z",
+      "finalPrice": 5250
     }
   ],
   "Engelschuhe v3": [
@@ -235,6 +239,10 @@
     {
       "endTime": "2026-02-06T19:36:00.601Z",
       "finalPrice": 52500
+    },
+    {
+      "endTime": "2026-02-06T22:32:58.167Z",
+      "finalPrice": 2001
     }
   ],
   "Neujahrsballons": [
@@ -275,6 +283,10 @@
     {
       "endTime": "2026-02-06T21:36:52.403Z",
       "finalPrice": 50000
+    },
+    {
+      "endTime": "2026-02-06T22:35:56.425Z",
+      "finalPrice": 7000000
     }
   ],
   "Farmwelt": [
@@ -415,6 +427,10 @@
     {
       "endTime": "2026-02-06T20:06:13.753Z",
       "finalPrice": 5250
+    },
+    {
+      "endTime": "2026-02-06T22:35:42.999Z",
+      "finalPrice": 2
     }
   ],
   "Hexenhose": [
@@ -431,6 +447,10 @@
     {
       "endTime": "2026-02-06T20:38:03.991Z",
       "finalPrice": 3001
+    },
+    {
+      "endTime": "2026-02-06T22:32:46.468Z",
+      "finalPrice": 10000
     }
   ],
   "Filmstudio": [
@@ -519,6 +539,14 @@
     {
       "endTime": "2026-02-06T19:54:34.407Z",
       "finalPrice": 177777
+    },
+    {
+      "endTime": "2026-02-06T22:24:52.140Z",
+      "finalPrice": 178501.03
+    },
+    {
+      "endTime": "2026-02-06T22:25:13.009Z",
+      "finalPrice": 175001
     }
   ],
   "Lebkuchen Christian": [
@@ -561,12 +589,20 @@
     {
       "endTime": "2026-02-06T22:02:56.320Z",
       "finalPrice": 1001
+    },
+    {
+      "endTime": "2026-02-06T22:35:26.243Z",
+      "finalPrice": 2000
     }
   ],
   "H4CKER.exe": [
     {
       "endTime": "2026-02-06T20:06:28.492Z",
       "finalPrice": 22166.55
+    },
+    {
+      "endTime": "2026-02-06T22:42:07.392Z",
+      "finalPrice": 10000
     }
   ],
   "Mini Pilzaxt": [
@@ -605,6 +641,10 @@
     {
       "endTime": "2026-02-06T21:32:39.291Z",
       "finalPrice": 250001
+    },
+    {
+      "endTime": "2026-02-06T22:37:09.486Z",
+      "finalPrice": 10000
     }
   ],
   "Emmy's Einhorn": [
@@ -675,6 +715,10 @@
     {
       "endTime": "2026-02-06T20:37:40.260Z",
       "finalPrice": 612001
+    },
+    {
+      "endTime": "2026-02-06T22:37:01.400Z",
+      "finalPrice": 10000
     }
   ],
   "Christians Hose": [
@@ -697,6 +741,10 @@
     {
       "endTime": "2026-02-06T20:39:24.932Z",
       "finalPrice": 1050
+    },
+    {
+      "endTime": "2026-02-06T22:18:16.638Z",
+      "finalPrice": 3333
     }
   ],
   "Businezz Modpicke": [
@@ -1023,6 +1071,42 @@
     {
       "endTime": "2026-02-06T22:09:07.823Z",
       "finalPrice": 153000
+    }
+  ],
+  "Eile II Trank": [
+    {
+      "endTime": "2026-02-06T22:17:51.315Z",
+      "finalPrice": 120000
+    }
+  ],
+  "Marcels Adminhelm": [
+    {
+      "endTime": "2026-02-06T22:32:56.179Z",
+      "finalPrice": 1000000
+    }
+  ],
+  "B-DAY SAMMLUNG 2025": [
+    {
+      "endTime": "2026-02-06T22:42:47.010Z",
+      "finalPrice": 250002
+    }
+  ],
+  "Immobilienmarkt": [
+    {
+      "endTime": "2026-02-06T22:33:21.132Z",
+      "finalPrice": 2108.4
+    }
+  ],
+  "Shard Blockzerstörer": [
+    {
+      "endTime": "2026-02-06T22:35:12.614Z",
+      "finalPrice": 22000
+    }
+  ],
+  "OP Aktenkoffer": [
+    {
+      "endTime": "2026-02-06T22:42:16.658Z",
+      "finalPrice": 100000
     }
   ]
 }
