@@ -34,7 +34,12 @@ async function trackEndedAuctions() {
     if (lastActiveAuctionsMap.size > 0) {
       for (const [uid, auction] of lastActiveAuctionsMap.entries()) {
         if (!currentActiveAuctionsMap.has(uid)) {
-          newlyEndedAuctions.push(auction);
+          // ZEITZONEN-KORREKTUR: Prüfe die Endzeit hier
+          const nowInGermany = new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" }));
+          const endTime = new Date(auction.endTime);
+          if (endTime < nowInGermany) {
+            newlyEndedAuctions.push(auction);
+          }
         }
       }
     }
@@ -54,7 +59,6 @@ async function trackEndedAuctions() {
     // 4. Verarbeite die neu beendeten Auktionen und füge sie zur Historie hinzu
     let changesMade = false;
     for (const auction of newlyEndedAuctions) {
-      // BEDINGUNG: Nur speichern, wenn Gebote vorhanden sind
       if (!auction.bids) {
         console.log(`Auktion ${auction.uid} wird übersprungen (keine Gebote).`);
         continue;
@@ -66,7 +70,6 @@ async function trackEndedAuctions() {
         finalPrice: auction.currentBid
       };
 
-      // NEUE STRUKTUR: Nach Item-Namen gruppieren
       if (!history[itemName]) {
         history[itemName] = [];
         console.log(`Neuer Abschnitt für "${itemName}" wird erstellt.`);
