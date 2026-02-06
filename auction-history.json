@@ -21,6 +21,14 @@
     {
       "endTime": "2026-02-06T19:16:13.559Z",
       "finalPrice": 2205
+    },
+    {
+      "endTime": "2026-02-06T19:41:49.248Z",
+      "finalPrice": 11000
+    },
+    {
+      "endTime": "2026-02-06T19:30:00.580Z",
+      "finalPrice": 1676
     }
   ],
   "Neujahrshut": [
@@ -91,6 +99,10 @@
     {
       "endTime": "2026-02-06T19:27:20.154Z",
       "finalPrice": 6500000
+    },
+    {
+      "endTime": "2026-02-06T19:30:11.085Z",
+      "finalPrice": 6200000
     }
   ],
   "Normale ★ Hose": [
@@ -121,6 +133,144 @@
     {
       "endTime": "2026-02-06T19:26:07.325Z",
       "finalPrice": 600001
+    },
+    {
+      "endTime": "2026-02-06T19:31:20.105Z",
+      "finalPrice": 500001
+    }
+  ],
+  "Playbutton": [
+    {
+      "endTime": "2026-02-06T19:34:27.626Z",
+      "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-06T19:36:00.601Z",
+      "finalPrice": 52500
+    }
+  ],
+  "Neujahrsballons": [
+    {
+      "endTime": "2026-02-06T19:37:02.649Z",
+      "finalPrice": 501
+    }
+  ],
+  "TRIDENT": [
+    {
+      "endTime": "2026-02-06T19:37:17.099Z",
+      "finalPrice": 100000
+    }
+  ],
+  "Emmys Videokamera": [
+    {
+      "endTime": "2026-02-06T19:38:10.899Z",
+      "finalPrice": 52501.05
+    }
+  ],
+  "SkyGuyTV": [
+    {
+      "endTime": "2026-02-06T19:41:07.279Z",
+      "finalPrice": 20200000
+    }
+  ],
+  "Farmwelt": [
+    {
+      "endTime": "2026-02-06T19:44:03.163Z",
+      "finalPrice": 30
+    }
+  ],
+  "EinfachEmmy": [
+    {
+      "endTime": "2026-02-06T19:45:16.482Z",
+      "finalPrice": 3000001
+    },
+    {
+      "endTime": "2026-02-06T19:29:47.595Z",
+      "finalPrice": 3000000
+    }
+  ],
+  "Gletscherstiefel": [
+    {
+      "endTime": "2026-02-06T19:29:36.986Z",
+      "finalPrice": 70000
+    }
+  ],
+  "Thanos Handschuh": [
+    {
+      "endTime": "2026-02-06T19:30:19.830Z",
+      "finalPrice": 3600000
+    }
+  ],
+  "Hacker00's Griefzeug": [
+    {
+      "endTime": "2026-02-06T19:31:00.925Z",
+      "finalPrice": 50002
+    }
+  ],
+  "Fliegermütze": [
+    {
+      "endTime": "2026-02-06T19:35:52.742Z",
+      "finalPrice": 26250
+    }
+  ],
+  "❄ Wunschliste ❄": [
+    {
+      "endTime": "2026-02-06T19:41:27.206Z",
+      "finalPrice": 5001
+    }
+  ],
+  "Kupferschaufel": [
+    {
+      "endTime": "2026-02-06T19:31:16.744Z",
+      "finalPrice": 52501
+    }
+  ],
+  "SUCHT SCHAUFEL": [
+    {
+      "endTime": "2026-02-06T19:31:26.387Z",
+      "finalPrice": 100000
+    }
+  ],
+  "Quarzschaufel": [
+    {
+      "endTime": "2026-02-06T19:31:34.042Z",
+      "finalPrice": 63001
+    }
+  ],
+  "Drachenschaufel": [
+    {
+      "endTime": "2026-02-06T19:31:48.091Z",
+      "finalPrice": 204000
+    }
+  ],
+  "Endschaufel": [
+    {
+      "endTime": "2026-02-06T19:31:56.585Z",
+      "finalPrice": 102001
+    }
+  ],
+  "Kohleschaufel": [
+    {
+      "endTime": "2026-02-06T19:32:18.037Z",
+      "finalPrice": 52501
+    }
+  ],
+  "Sandcrasher": [
+    {
+      "endTime": "2026-02-06T19:32:45.045Z",
+      "finalPrice": 5255
+    }
+  ],
+  "Dirtklopper": [
+    {
+      "endTime": "2026-02-06T19:33:01.283Z",
+      "finalPrice": 3
+    }
+  ],
+  "POTION": [
+    {
+      "endTime": "2026-02-06T19:34:02.027Z",
+      "finalPrice": 2
     }
   ]
 }
