@@ -229,6 +229,14 @@
     {
       "endTime": "2026-02-06T21:34:06.213Z",
       "finalPrice": 510001.02
+    },
+    {
+      "endTime": "2026-02-06T22:57:53.827Z",
+      "finalPrice": 500000
+    },
+    {
+      "endTime": "2026-02-06T23:01:22.569Z",
+      "finalPrice": 450001
     }
   ],
   "Playbutton": [
@@ -961,6 +969,10 @@
     {
       "endTime": "2026-02-06T21:30:18.989Z",
       "finalPrice": 100001
+    },
+    {
+      "endTime": "2026-02-06T22:59:57.436Z",
+      "finalPrice": 40000
     }
   ],
   "Engelshelm": [
@@ -1011,6 +1023,10 @@
     {
       "endTime": "2026-02-06T21:28:36.386Z",
       "finalPrice": 13234567
+    },
+    {
+      "endTime": "2026-02-06T22:58:17.248Z",
+      "finalPrice": 14000000
     }
   ],
   "Unsichtbarkeitstalisman": [
@@ -1029,6 +1045,10 @@
     {
       "endTime": "2026-02-06T21:33:32.194Z",
       "finalPrice": 94501
+    },
+    {
+      "endTime": "2026-02-06T22:51:31.307Z",
+      "finalPrice": 100000
     }
   ],
   "Lotterieflügel": [
@@ -1107,6 +1127,54 @@
     {
       "endTime": "2026-02-06T22:42:16.658Z",
       "finalPrice": 100000
+    }
+  ],
+  "SUSPICIOUS_GRAVEL": [
+    {
+      "endTime": "2026-02-06T22:58:14.795Z",
+      "finalPrice": 5000
+    }
+  ],
+  "Captain Jacks Auge": [
+    {
+      "endTime": "2026-02-06T22:59:01.025Z",
+      "finalPrice": 52500.1
+    }
+  ],
+  "Emmys Herzstab": [
+    {
+      "endTime": "2026-02-06T22:59:14.103Z",
+      "finalPrice": 750000
+    }
+  ],
+  "Sonnenblume": [
+    {
+      "endTime": "2026-02-06T22:59:19.278Z",
+      "finalPrice": 15750
+    }
+  ],
+  ".. FLINKS ADMINHACKE ..": [
+    {
+      "endTime": "2026-02-06T23:00:54.260Z",
+      "finalPrice": 106052627.01
+    }
+  ],
+  "✳ Sonnen Talisman ✳": [
+    {
+      "endTime": "2026-02-06T22:47:56.971Z",
+      "finalPrice": 107102
+    }
+  ],
+  "Sculkbogen": [
+    {
+      "endTime": "2026-02-06T22:49:54.484Z",
+      "finalPrice": 103000
+    }
+  ],
+  "Builder-Team": [
+    {
+      "endTime": "2026-02-06T22:51:58.855Z",
+      "finalPrice": 150001
     }
   ]
 }
