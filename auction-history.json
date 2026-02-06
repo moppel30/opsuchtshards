@@ -125,6 +125,10 @@
     {
       "endTime": "2026-02-06T21:25:13.029Z",
       "finalPrice": 5300
+    },
+    {
+      "endTime": "2026-02-06T21:53:51.008Z",
+      "finalPrice": 20001
     }
   ],
   "ENDER_PEARL": [
@@ -485,6 +489,10 @@
     {
       "endTime": "2026-02-06T19:55:03.689Z",
       "finalPrice": 35000000
+    },
+    {
+      "endTime": "2026-02-06T21:54:10.644Z",
+      "finalPrice": 35700
     }
   ],
   "Frühlings Tulpe": [
@@ -531,6 +539,10 @@
     {
       "endTime": "2026-02-06T20:04:16.271Z",
       "finalPrice": 2
+    },
+    {
+      "endTime": "2026-02-06T22:08:56.007Z",
+      "finalPrice": 50001
     }
   ],
   "OP Pass": [
@@ -545,6 +557,10 @@
     {
       "endTime": "2026-02-06T21:21:32.231Z",
       "finalPrice": 25000
+    },
+    {
+      "endTime": "2026-02-06T22:02:56.320Z",
+      "finalPrice": 1001
     }
   ],
   "H4CKER.exe": [
@@ -971,6 +987,42 @@
     {
       "endTime": "2026-02-06T21:29:32.842Z",
       "finalPrice": 50999
+    }
+  ],
+  "Knochenbogen": [
+    {
+      "endTime": "2026-02-06T21:57:01.214Z",
+      "finalPrice": 250000
+    }
+  ],
+  "Amors Apfel": [
+    {
+      "endTime": "2026-02-06T22:11:17.934Z",
+      "finalPrice": 11025
+    }
+  ],
+  "Herzglanzschaufel": [
+    {
+      "endTime": "2026-02-06T22:14:52.391Z",
+      "finalPrice": 20000
+    }
+  ],
+  "Herzglanzklinge": [
+    {
+      "endTime": "2026-02-06T22:15:07.132Z",
+      "finalPrice": 5000
+    }
+  ],
+  "MrLostGamers Modpicke": [
+    {
+      "endTime": "2026-02-06T22:16:25.264Z",
+      "finalPrice": 2300000
+    }
+  ],
+  "Windspitzhacke": [
+    {
+      "endTime": "2026-02-06T22:09:07.823Z",
+      "finalPrice": 153000
     }
   ]
 }
