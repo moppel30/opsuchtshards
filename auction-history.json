@@ -52,5 +52,35 @@
       "endTime": "2026-02-06T19:17:20.461Z",
       "finalPrice": 2040301.03
     }
+  ],
+  "Seltene Elytra": [
+    {
+      "endTime": "2026-02-06T19:20:08.991Z",
+      "finalPrice": 816000
+    }
+  ],
+  "Unendliche Kohle": [
+    {
+      "endTime": "2026-02-06T19:20:54.007Z",
+      "finalPrice": 1300001
+    }
+  ],
+  "Infinity Axt": [
+    {
+      "endTime": "2026-02-06T19:23:51.162Z",
+      "finalPrice": 8900
+    }
+  ],
+  "Plüsch elasino": [
+    {
+      "endTime": "2026-02-06T19:21:13.100Z",
+      "finalPrice": 75000
+    }
+  ],
+  "Unendliche Rakete": [
+    {
+      "endTime": "2026-02-06T19:20:26.904Z",
+      "finalPrice": 2266662.2
+    }
   ]
 }
