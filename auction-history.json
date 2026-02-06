@@ -51,6 +51,10 @@
     {
       "endTime": "2026-02-06T22:33:42.065Z",
       "finalPrice": 5250
+    },
+    {
+      "endTime": "2026-02-06T23:55:19.392Z",
+      "finalPrice": 5001
     }
   ],
   "Engelschuhe v3": [
@@ -245,6 +249,10 @@
     {
       "endTime": "2026-02-06T23:09:50.407Z",
       "finalPrice": 450001
+    },
+    {
+      "endTime": "2026-02-06T23:36:25.640Z",
+      "finalPrice": 375000
     }
   ],
   "Playbutton": [
@@ -265,6 +273,10 @@
     {
       "endTime": "2026-02-06T19:37:02.649Z",
       "finalPrice": 501
+    },
+    {
+      "endTime": "2026-02-06T23:48:53.350Z",
+      "finalPrice": 5001
     }
   ],
   "TRIDENT": [
@@ -1133,6 +1145,10 @@
     {
       "endTime": "2026-02-06T22:35:12.614Z",
       "finalPrice": 22000
+    },
+    {
+      "endTime": "2026-02-06T23:39:17.252Z",
+      "finalPrice": 25200
     }
   ],
   "OP Aktenkoffer": [
@@ -1233,6 +1249,10 @@
     {
       "endTime": "2026-02-06T23:04:55.338Z",
       "finalPrice": 20000
+    },
+    {
+      "endTime": "2026-02-06T23:41:50.749Z",
+      "finalPrice": 15000
     }
   ]
 }
