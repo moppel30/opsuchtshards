@@ -29,14 +29,11 @@ async function trackEndedAuctions() {
     }
     console.log(`Letzte aktive Auktionen aus Firebase geladen: ${lastActiveAuctionsMap.size}`);
 
-    // KORREKTUR: Manuelle Berechnung der deutschen Zeit (CEST = UTC+2)
-    const now_utc = new Date();
-    const now_german = new Date(now_utc.getTime() + (2 * 60 * 60 * 1000));
+    // KORREKTE UND ROBUSTE ZEITBERECHNUNG
+    const nowInGermany = new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" }));
     
-    // VERBESSERTES LOGGING:
     console.log(`================ ZEIT-CHECK ================`);
-    console.log(`UTC-Zeit (Server): ${now_utc.toUTCString()}`);
-    console.log(`Deutsche Zeit (berechnet): ${now_german.toUTCString().replace('GMT', 'CEST')}`);
+    console.log(`Aktuelle Zeit in Deutschland (für Vergleich): ${nowInGermany.toLocaleString('de-DE')}`);
     console.log(`============================================`);
 
     // 2. Beendete Auktionen identifizieren
@@ -46,7 +43,7 @@ async function trackEndedAuctions() {
         if (!currentActiveAuctionsMap.has(uid)) {
           const endTime = new Date(auction.endTime);
           // Vergleiche die Endzeit mit unserer berechneten deutschen Zeit
-          if (endTime < now_german) {
+          if (endTime < nowInGermany) {
             newlyEndedAuctions.push(auction);
           }
         }
