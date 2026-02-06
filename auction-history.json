@@ -1,0 +1,32 @@
+{
+  "073ac3632930dcacf36c76d80320ea3b": {
+    "endTime": "2026-02-06T18:18:14.691Z",
+    "finalPrice": 4500000,
+    "itemName": "Flink040",
+    "seller": "f4b28b09-f203-4a86-b1e4-f0708e650349"
+  },
+  "221f6777fa7e06e790fcba1f581a2a2f": {
+    "endTime": "2026-02-06T18:18:22.710Z",
+    "finalPrice": 2223,
+    "itemName": "Ballon der Liebe",
+    "seller": "afa1f402-8a0b-425c-b350-55091a8cac14"
+  },
+  "451e1bbab369c79ad39d269c822be0d6": {
+    "endTime": "2026-02-06T18:18:37.388Z",
+    "finalPrice": 2500000,
+    "itemName": "Flammentalisman",
+    "seller": "4ee48800-8ac3-420e-bc09-b608569dbf6b"
+  },
+  "613d9da9d3eb79120dc9b5d0f7583778": {
+    "endTime": "2026-02-06T18:24:16.312Z",
+    "finalPrice": 3000145,
+    "itemName": "EinfachEmmy",
+    "seller": "0d148f6a-0367-4fab-b77e-ced58bc7df01"
+  },
+  "c4f21ba5efaef44c170599949373345a": {
+    "endTime": "2026-02-06T18:18:01.205Z",
+    "finalPrice": 3150,
+    "itemName": "Rosenstrauß",
+    "seller": "afa1f402-8a0b-425c-b350-55091a8cac14"
+  }
+}
