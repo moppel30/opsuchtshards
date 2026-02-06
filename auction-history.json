@@ -201,6 +201,10 @@
     {
       "endTime": "2026-02-06T19:44:03.163Z",
       "finalPrice": 30
+    },
+    {
+      "endTime": "2026-02-06T20:39:44.282Z",
+      "finalPrice": 99000
     }
   ],
   "EinfachEmmy": [
@@ -223,6 +227,10 @@
     {
       "endTime": "2026-02-06T19:30:19.830Z",
       "finalPrice": 3600000
+    },
+    {
+      "endTime": "2026-02-06T20:40:31.750Z",
+      "finalPrice": 3500000
     }
   ],
   "Hacker00's Griefzeug": [
@@ -331,12 +339,20 @@
     {
       "endTime": "2026-02-06T20:06:26.862Z",
       "finalPrice": 1575
+    },
+    {
+      "endTime": "2026-02-06T20:38:03.991Z",
+      "finalPrice": 3001
     }
   ],
   "Filmstudio": [
     {
       "endTime": "2026-02-06T20:06:41.101Z",
       "finalPrice": 2625
+    },
+    {
+      "endTime": "2026-02-06T20:22:55.309Z",
+      "finalPrice": 501
     }
   ],
   "Wichtelbrustplatte": [
@@ -473,6 +489,114 @@
     {
       "endTime": "2026-02-06T20:07:26.434Z",
       "finalPrice": 20001
+    }
+  ],
+  "Emmy's Einhorn": [
+    {
+      "endTime": "2026-02-06T20:35:54.840Z",
+      "finalPrice": 123000
+    }
+  ],
+  "Emmys Lieblingstorte": [
+    {
+      "endTime": "2026-02-06T20:36:04.547Z",
+      "finalPrice": 100000
+    }
+  ],
+  "Emmy's Sakurasprössling": [
+    {
+      "endTime": "2026-02-06T20:36:14.848Z",
+      "finalPrice": 100000
+    }
+  ],
+  "Emmys Donut": [
+    {
+      "endTime": "2026-02-06T20:36:25.606Z",
+      "finalPrice": 72501.05
+    }
+  ],
+  "JonCarrs Jacke": [
+    {
+      "endTime": "2026-02-06T20:41:41.996Z",
+      "finalPrice": 1000001
+    }
+  ],
+  "JonCarrs Schuhe": [
+    {
+      "endTime": "2026-02-06T20:42:04.272Z",
+      "finalPrice": 635000
+    }
+  ],
+  "Trank der Nachtsicht": [
+    {
+      "endTime": "2026-02-06T20:44:00.736Z",
+      "finalPrice": 15000
+    }
+  ],
+  "Phils Glocke": [
+    {
+      "endTime": "2026-02-06T20:43:16.710Z",
+      "finalPrice": 122001.02
+    }
+  ],
+  "Katzen-Spawn-Egg": [
+    {
+      "endTime": "2026-02-06T20:21:30.496Z",
+      "finalPrice": 55000
+    }
+  ],
+  "Zero der Geisterhund": [
+    {
+      "endTime": "2026-02-06T20:22:36.446Z",
+      "finalPrice": 50001
+    }
+  ],
+  ".. Flinks Admin-Stiefel ..": [
+    {
+      "endTime": "2026-02-06T20:37:40.260Z",
+      "finalPrice": 612001
+    }
+  ],
+  "Christians Hose": [
+    {
+      "endTime": "2026-02-06T20:37:54.483Z",
+      "finalPrice": 111111
+    }
+  ],
+  "Mod-Team": [
+    {
+      "endTime": "2026-02-06T20:39:03.303Z",
+      "finalPrice": 55126.05
+    }
+  ],
+  "Luxury Island": [
+    {
+      "endTime": "2026-02-06T20:39:24.932Z",
+      "finalPrice": 1050
+    }
+  ],
+  "Businezz Modpicke": [
+    {
+      "endTime": "2026-02-06T20:44:06.198Z",
+      "finalPrice": 2400000
+    }
+  ],
+  "Grappling Hook": [
+    {
+      "endTime": "2026-02-06T20:20:53.134Z",
+      "finalPrice": 50001
+    }
+  ],
+  "OP Bank": [
+    {
+      "endTime": "2026-02-06T20:37:53.210Z",
+      "finalPrice": 100000
+    }
+  ],
+  "SHULKER_SHELL": [
+    {
+      "endTime": "2026-02-06T20:41:14.792Z",
+      "finalPrice": 45000
     }
   ]
 }
