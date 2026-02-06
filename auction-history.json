@@ -77,6 +77,10 @@
     {
       "endTime": "2026-02-06T19:23:51.162Z",
       "finalPrice": 8900
+    },
+    {
+      "endTime": "2026-02-06T20:06:40.101Z",
+      "finalPrice": 10000
     }
   ],
   "Plüsch elasino": [
@@ -137,6 +141,22 @@
     {
       "endTime": "2026-02-06T19:31:20.105Z",
       "finalPrice": 500001
+    },
+    {
+      "endTime": "2026-02-06T19:51:31.440Z",
+      "finalPrice": 380000
+    },
+    {
+      "endTime": "2026-02-06T19:51:55.686Z",
+      "finalPrice": 450000
+    },
+    {
+      "endTime": "2026-02-06T19:59:23.125Z",
+      "finalPrice": 418200
+    },
+    {
+      "endTime": "2026-02-06T20:11:15.727Z",
+      "finalPrice": 250000
     }
   ],
   "Playbutton": [
@@ -171,6 +191,10 @@
     {
       "endTime": "2026-02-06T19:41:07.279Z",
       "finalPrice": 20200000
+    },
+    {
+      "endTime": "2026-02-06T20:08:48.856Z",
+      "finalPrice": 35000
     }
   ],
   "Farmwelt": [
@@ -271,6 +295,184 @@
     {
       "endTime": "2026-02-06T19:34:02.027Z",
       "finalPrice": 2
+    }
+  ],
+  "Ballon der Liebe": [
+    {
+      "endTime": "2026-02-06T19:55:34.545Z",
+      "finalPrice": 3150
+    }
+  ],
+  "Marcels Adminharnisch": [
+    {
+      "endTime": "2026-02-06T19:58:18.190Z",
+      "finalPrice": 9090000
+    }
+  ],
+  "Marcels Adminstiefel": [
+    {
+      "endTime": "2026-02-06T19:58:58.369Z",
+      "finalPrice": 2550000
+    }
+  ],
+  "Kristalle": [
+    {
+      "endTime": "2026-02-06T20:06:13.753Z",
+      "finalPrice": 5250
+    }
+  ],
+  "Hexenhose": [
+    {
+      "endTime": "2026-02-06T20:06:26.565Z",
+      "finalPrice": 15750
+    }
+  ],
+  "Marktplatz": [
+    {
+      "endTime": "2026-02-06T20:06:26.862Z",
+      "finalPrice": 1575
+    }
+  ],
+  "Filmstudio": [
+    {
+      "endTime": "2026-02-06T20:06:41.101Z",
+      "finalPrice": 2625
+    }
+  ],
+  "Wichtelbrustplatte": [
+    {
+      "endTime": "2026-02-06T20:06:54.399Z",
+      "finalPrice": 21000
+    }
+  ],
+  "OP-City": [
+    {
+      "endTime": "2026-02-06T20:07:07.499Z",
+      "finalPrice": 1001
+    },
+    {
+      "endTime": "2026-02-06T20:03:29.441Z",
+      "finalPrice": 5250
+    },
+    {
+      "endTime": "2026-02-06T20:03:40.381Z",
+      "finalPrice": 2
+    }
+  ],
+  "FISHING_ROD": [
+    {
+      "endTime": "2026-02-06T20:10:32.968Z",
+      "finalPrice": 26000
+    }
+  ],
+  "Erdspalter-Schaufel": [
+    {
+      "endTime": "2026-02-06T20:14:20.233Z",
+      "finalPrice": 1250002
+    }
+  ],
+  "Propellerhut": [
+    {
+      "endTime": "2026-02-06T20:11:30.387Z",
+      "finalPrice": 29809.5
+    }
+  ],
+  "OPPhil": [
+    {
+      "endTime": "2026-02-06T19:55:03.689Z",
+      "finalPrice": 35000000
+    }
+  ],
+  "Frühlings Tulpe": [
+    {
+      "endTime": "2026-02-06T20:07:41.006Z",
+      "finalPrice": 400000
+    }
+  ],
+  "Eulenflügel": [
+    {
+      "endTime": "2026-02-06T20:11:17.785Z",
+      "finalPrice": 20001
+    }
+  ],
+  "Holzbündel": [
+    {
+      "endTime": "2026-02-06T19:54:10.356Z",
+      "finalPrice": 142806.12
+    },
+    {
+      "endTime": "2026-02-06T19:54:22.566Z",
+      "finalPrice": 140001
+    },
+    {
+      "endTime": "2026-02-06T19:54:34.407Z",
+      "finalPrice": 177777
+    }
+  ],
+  "Lebkuchen Christian": [
+    {
+      "endTime": "2026-02-06T20:00:29.765Z",
+      "finalPrice": 200000
+    }
+  ],
+  "OP-Kiste": [
+    {
+      "endTime": "2026-02-06T20:03:51.703Z",
+      "finalPrice": 2
+    },
+    {
+      "endTime": "2026-02-06T20:04:03.958Z",
+      "finalPrice": 2
+    },
+    {
+      "endTime": "2026-02-06T20:04:16.271Z",
+      "finalPrice": 2
+    }
+  ],
+  "OP Pass": [
+    {
+      "endTime": "2026-02-06T20:04:28.929Z",
+      "finalPrice": 2
+    },
+    {
+      "endTime": "2026-02-06T20:04:41.649Z",
+      "finalPrice": 105
+    }
+  ],
+  "H4CKER.exe": [
+    {
+      "endTime": "2026-02-06T20:06:28.492Z",
+      "finalPrice": 22166.55
+    }
+  ],
+  "Mini Pilzaxt": [
+    {
+      "endTime": "2026-02-06T20:06:34.573Z",
+      "finalPrice": 20000
+    }
+  ],
+  "Unendlicher Milcheimer": [
+    {
+      "endTime": "2026-02-06T20:06:45.300Z",
+      "finalPrice": 20000
+    }
+  ],
+  "Unendlicher Wassereimer": [
+    {
+      "endTime": "2026-02-06T20:06:50.953Z",
+      "finalPrice": 164050
+    }
+  ],
+  "SHULKER_BOX": [
+    {
+      "endTime": "2026-02-06T20:06:57.768Z",
+      "finalPrice": 2520000
+    }
+  ],
+  "Superball": [
+    {
+      "endTime": "2026-02-06T20:07:26.434Z",
+      "finalPrice": 20001
     }
   ]
 }
