@@ -113,6 +113,18 @@
     {
       "endTime": "2026-02-06T19:28:04.700Z",
       "finalPrice": 5270
+    },
+    {
+      "endTime": "2026-02-06T21:10:39.978Z",
+      "finalPrice": 50000
+    },
+    {
+      "endTime": "2026-02-06T21:23:57.827Z",
+      "finalPrice": 8000
+    },
+    {
+      "endTime": "2026-02-06T21:25:13.029Z",
+      "finalPrice": 5300
     }
   ],
   "ENDER_PEARL": [
@@ -157,6 +169,46 @@
     {
       "endTime": "2026-02-06T20:11:15.727Z",
       "finalPrice": 250000
+    },
+    {
+      "endTime": "2026-02-06T20:54:11.276Z",
+      "finalPrice": 500000
+    },
+    {
+      "endTime": "2026-02-06T20:53:55.348Z",
+      "finalPrice": 400000
+    },
+    {
+      "endTime": "2026-02-06T20:55:05.291Z",
+      "finalPrice": 400000
+    },
+    {
+      "endTime": "2026-02-06T20:55:15.990Z",
+      "finalPrice": 400000
+    },
+    {
+      "endTime": "2026-02-06T20:55:26.703Z",
+      "finalPrice": 500000
+    },
+    {
+      "endTime": "2026-02-06T21:01:33.071Z",
+      "finalPrice": 1500000
+    },
+    {
+      "endTime": "2026-02-06T21:13:02.334Z",
+      "finalPrice": 500001
+    },
+    {
+      "endTime": "2026-02-06T21:13:13.300Z",
+      "finalPrice": 500001
+    },
+    {
+      "endTime": "2026-02-06T21:05:38.596Z",
+      "finalPrice": 600001
+    },
+    {
+      "endTime": "2026-02-06T21:20:53.816Z",
+      "finalPrice": 450001
     }
   ],
   "Playbutton": [
@@ -219,6 +271,10 @@
     {
       "endTime": "2026-02-06T20:53:33.540Z",
       "finalPrice": 31500
+    },
+    {
+      "endTime": "2026-02-06T20:55:45.339Z",
+      "finalPrice": 30000
     }
   ],
   "Gletscherstiefel": [
@@ -457,6 +513,10 @@
     {
       "endTime": "2026-02-06T20:04:41.649Z",
       "finalPrice": 105
+    },
+    {
+      "endTime": "2026-02-06T21:21:32.231Z",
+      "finalPrice": 25000
     }
   ],
   "H4CKER.exe": [
@@ -571,6 +631,10 @@
     {
       "endTime": "2026-02-06T20:39:03.303Z",
       "finalPrice": 55126.05
+    },
+    {
+      "endTime": "2026-02-06T20:55:52.313Z",
+      "finalPrice": 500000
     }
   ],
   "Luxury Island": [
@@ -583,6 +647,10 @@
     {
       "endTime": "2026-02-06T20:44:06.198Z",
       "finalPrice": 2400000
+    },
+    {
+      "endTime": "2026-02-06T21:01:08.871Z",
+      "finalPrice": 2800500
     }
   ],
   "Grappling Hook": [
@@ -607,6 +675,10 @@
     {
       "endTime": "2026-02-06T20:47:00.357Z",
       "finalPrice": 100000
+    },
+    {
+      "endTime": "2026-02-06T20:56:15.779Z",
+      "finalPrice": 50001
     }
   ],
   "Normale ★ Brust": [
@@ -617,12 +689,116 @@
     {
       "endTime": "2026-02-06T20:51:42.204Z",
       "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-06T21:26:17.585Z",
+      "finalPrice": 10600
     }
   ],
   "Flammentalisman": [
     {
       "endTime": "2026-02-06T20:47:58.350Z",
       "finalPrice": 571201
+    }
+  ],
+  "Anfänger Helm": [
+    {
+      "endTime": "2026-02-06T20:56:28.588Z",
+      "finalPrice": 2500
+    }
+  ],
+  "Pinker Ballon": [
+    {
+      "endTime": "2026-02-06T21:05:35.008Z",
+      "finalPrice": 53199.4
+    }
+  ],
+  "WEATHERED_COPPER": [
+    {
+      "endTime": "2026-02-06T21:10:15.122Z",
+      "finalPrice": 2
+    }
+  ],
+  "Normale ★ Schuhe": [
+    {
+      "endTime": "2026-02-06T21:10:28.071Z",
+      "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-06T21:05:34.440Z",
+      "finalPrice": 10001
+    }
+  ],
+  "Winterei": [
+    {
+      "endTime": "2026-02-06T21:14:10.266Z",
+      "finalPrice": 275401.03
+    }
+  ],
+  "✳ Flip Flops ✳": [
+    {
+      "endTime": "2026-02-06T21:16:09.376Z",
+      "finalPrice": 251000
+    }
+  ],
+  "OPSUCHT Stollen": [
+    {
+      "endTime": "2026-02-06T21:21:55.399Z",
+      "finalPrice": 175001
+    }
+  ],
+  "Lapis Paket": [
+    {
+      "endTime": "2026-02-06T21:14:37.103Z",
+      "finalPrice": 200500
+    }
+  ],
+  "Pilz Paket": [
+    {
+      "endTime": "2026-02-06T21:14:50.264Z",
+      "finalPrice": 225000
+    }
+  ],
+  "Gletscherklinge": [
+    {
+      "endTime": "2026-02-06T20:54:00.594Z",
+      "finalPrice": 84005
+    }
+  ],
+  "Delfin-Spawn-Egg": [
+    {
+      "endTime": "2026-02-06T21:12:43.181Z",
+      "finalPrice": 100001
+    }
+  ],
+  "Phils geheime Freundin": [
+    {
+      "endTime": "2026-02-06T20:58:22.192Z",
+      "finalPrice": 60001
+    }
+  ],
+  "Wumpus Flügel": [
+    {
+      "endTime": "2026-02-06T21:05:59.597Z",
+      "finalPrice": 950000
+    }
+  ],
+  "Frostpanzer": [
+    {
+      "endTime": "2026-02-06T21:22:03.564Z",
+      "finalPrice": 2000
+    }
+  ],
+  "Schubkarre": [
+    {
+      "endTime": "2026-02-06T21:22:13.050Z",
+      "finalPrice": 2
+    }
+  ],
+  "Tauschaufel": [
+    {
+      "endTime": "2026-02-06T21:25:42.089Z",
+      "finalPrice": 800
     }
   ]
 }
