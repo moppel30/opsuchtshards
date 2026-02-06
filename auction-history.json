@@ -237,6 +237,14 @@
     {
       "endTime": "2026-02-06T23:01:22.569Z",
       "finalPrice": 450001
+    },
+    {
+      "endTime": "2026-02-06T23:10:02.504Z",
+      "finalPrice": 500001
+    },
+    {
+      "endTime": "2026-02-06T23:09:50.407Z",
+      "finalPrice": 450001
     }
   ],
   "Playbutton": [
@@ -973,6 +981,10 @@
     {
       "endTime": "2026-02-06T22:59:57.436Z",
       "finalPrice": 40000
+    },
+    {
+      "endTime": "2026-02-06T23:10:49.792Z",
+      "finalPrice": 60001
     }
   ],
   "Engelshelm": [
@@ -1175,6 +1187,52 @@
     {
       "endTime": "2026-02-06T22:51:58.855Z",
       "finalPrice": 150001
+    }
+  ],
+  "Wolle Paket ": [
+    {
+      "endTime": "2026-02-06T23:04:10.186Z",
+      "finalPrice": 160650
+    }
+  ],
+  "ELYTRA": [
+    {
+      "endTime": "2026-02-06T23:03:29.707Z",
+      "finalPrice": 78751.05
+    }
+  ],
+  "Rosenstrauß": [
+    {
+      "endTime": "2026-02-06T23:22:19.185Z",
+      "finalPrice": 12600.01
+    }
+  ],
+  "Jonahchos Modpicke": [
+    {
+      "endTime": "2026-02-06T23:07:56.304Z",
+      "finalPrice": 1635261
+    },
+    {
+      "endTime": "2026-02-06T23:08:26.459Z",
+      "finalPrice": 1616100
+    }
+  ],
+  "Dornenkuss der Rosennacht": [
+    {
+      "endTime": "2026-02-06T23:33:11.654Z",
+      "finalPrice": 80000
+    }
+  ],
+  "Angel des Sonnenaufgangs": [
+    {
+      "endTime": "2026-02-06T23:33:48.085Z",
+      "finalPrice": 80002
+    }
+  ],
+  "Straßenlaterne": [
+    {
+      "endTime": "2026-02-06T23:04:55.338Z",
+      "finalPrice": 20000
     }
   ]
 }
