@@ -19,7 +19,7 @@ const App = {
   };
 
   // --- Firebase Konfiguration NUR für den Besucherzähler ---
-  const visitorCounterConfig = {
+  const firebaseConfig = {
     apiKey: "AIzaSyCyjv3kl1FKh8EGztS6Fimox-9BvqFsihc",
     authDomain: "visitor-counter-4ce96.firebaseapp.com",
     databaseURL: "https://visitor-counter-4ce96-default-rtdb.europe-west1.firebasedatabase.app/",
@@ -30,25 +30,9 @@ const App = {
     measurementId: "G-3YZ0GPYCTR"
   };
 
-  // --- Firebase Konfiguration NUR für die Shard History ---
-  const shardHistoryConfig = {
-    apiKey: "AIzaSyAXtG4_z1DzhFEocEEKksVmQ2qpWX6U2X8",
-    authDomain: "shardhistory-121a4.firebaseapp.com",
-    databaseURL: "https://shardhistory-121a4-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "shardhistory-121a4",
-    storageBucket: "shardhistory-121a4.firebasestorage.app",
-    messagingSenderId: "1046897922847",
-    appId: "1:1046897922847:web:0f8df0d73ba24fe8ae162a",
-    measurementId: "G-62DDHCZK55"
-  };
-
-  // Initialisiere beide Firebase-Apps mit unterschiedlichen Namen, um Konflikte zu vermeiden
-  const visitorCounterApp = firebase.initializeApp(visitorCounterConfig);
-  const shardHistoryApp = firebase.initializeApp(shardHistoryConfig, 'shardHistoryApp');
-
-  // Erstelle separate Datenbank-Referenzen für jede App
-  const database = visitorCounterApp.database();
-  const shardHistoryDatabase = shardHistoryApp.database();
+  // Initialisiere Firebase NUR für den Besucherzähler
+  const app = firebase.initializeApp(firebaseConfig);
+  const database = firebase.database();
 
 
   function showSection(id) {
@@ -260,20 +244,25 @@ const App = {
     return iconUrl;
   }
 
-  function getAuctionItemCategory(item) {
-    if (!item || !item.material) return "Sonstiges";
-    if (getAuctionItemIcon(item) === 'https://i.postimg.cc/d1K5xLLB/1-edition-boosterpack.png') return "Sammelkarten";
-    const mat = item.material.toUpperCase();
-    if (mat.includes("HELMET") || mat.includes("CHESTPLATE") || mat.includes("LEGGINGS") || mat.includes("BOOTS")) return "Armor";
-    if (mat.includes("SWORD") || mat.includes("AXE") || mat.includes("PICKAXE") || mat.includes("SHOVEL") || mat.includes("HOE") || mat.includes("BOW")) return "Tools & Weapons";
-    if (mat.includes("SPAWNER") || mat.includes("SPAWN_EGG")) return "Spawneggs";
-    return "Sonstiges";
+  // --- Auktions-Kategorien direkt aus der API ---
+  // Versucht zuerst auction.category, dann auction.item.category,
+  // fällt sonst auf "Unkategorisiert" zurück.
+  function getAuctionCategoryKey(auction) {
+    if (!auction) return "Unkategorisiert";
+    if (auction.category) return auction.category;
+    if (auction.item && auction.item.category) return auction.item.category;
+    return "Unkategorisiert";
+  }
+
+  function getAuctionCategoryLabel(categoryKey) {
+    if (!categoryKey) return "Unkategorisiert";
+    return categoryKey.replace(/_/g, " ");
   }
 
   async function setAuctionFilter(category) {
     App.auctionCategoryFilter = category;
     document.querySelectorAll('#auction-filters button').forEach(btn => {
-      btn.classList.toggle('active', btn.textContent === category);
+      btn.classList.toggle('active', btn.dataset.category === category);
     });
 
     const sortSelect = document.getElementById('auctionSortSelect');
@@ -305,19 +294,39 @@ const App = {
     filterContainer.innerHTML = '';
     mobileFilterContainer.innerHTML = '';
 
-    const categories = ["Alle", "Spieler", "Armor", "Tools & Weapons", "Spawneggs", "Sammelkarten", "Sonstiges"];
+    // Basis-Tabs
+    const categories = ["Alle", "Spieler"];
 
-    categories.forEach(cat => {
+    // Kategorien dynamisch aus den Auktionsdaten aufbauen
+    const apiCategoryKeys = new Set();
+    App.auctionsData.forEach(a => {
+      const key = getAuctionCategoryKey(a);
+      apiCategoryKeys.add(key);
+    });
+
+    const sortedApiCategories = Array.from(apiCategoryKeys)
+      .filter(key => key !== "Unkategorisiert") // "Unkategorisiert" aus Filtern entfernen, da "Alle" dasselbe macht
+      .sort((a, b) =>
+        getAuctionCategoryLabel(a).localeCompare(getAuctionCategoryLabel(b), 'de-DE')
+      );
+
+    categories.push(...sortedApiCategories);
+
+    categories.forEach(catKey => {
+      const isSpecial = catKey === "Alle" || catKey === "Spieler";
+      const label = isSpecial ? catKey : getAuctionCategoryLabel(catKey);
+
       const btn = document.createElement('button');
-      btn.textContent = cat;
-      if (cat === App.auctionCategoryFilter) btn.classList.add('active');
-      btn.onclick = async () => await setAuctionFilter(cat);
+      btn.textContent = label;
+      btn.dataset.category = catKey;
+      if (catKey === App.auctionCategoryFilter) btn.classList.add('active');
+      btn.onclick = () => setAuctionFilter(catKey);
       filterContainer.appendChild(btn);
 
       const option = document.createElement('option');
-      option.value = cat;
-      option.textContent = cat;
-      if (cat === App.auctionCategoryFilter) option.selected = true;
+      option.value = catKey;
+      option.textContent = label;
+      if (catKey === App.auctionCategoryFilter) option.selected = true;
       mobileFilterContainer.appendChild(option);
     });
   }
@@ -381,6 +390,22 @@ const App = {
     return card;
   }
 
+  function sortAuctionsByMode(a, b) {
+    switch (App.auctionSortMode) {
+      case 'NEW':
+        return new Date(b.startTime) - new Date(a.startTime);
+      case 'PRICE_HIGH':
+        return (b.currentBid ?? b.startBid) - (a.currentBid ?? a.startBid);
+      case 'PRICE_LOW':
+        return (a.currentBid ?? a.startBid) - (b.currentBid ?? b.startBid);
+      case 'END':
+      default:
+        return new Date(a.endTime) - new Date(b.endTime);
+      case 'BIDS_HIGH':
+        return (b.bids ? Object.keys(b.bids).length : 0) - (a.bids ? Object.keys(a.bids).length : 0);
+    }
+  }
+
   async function renderAuctions() {
     const container = document.getElementById("auctionContainer");
     const search = document.getElementById("searchAuctions").value.toLowerCase();
@@ -435,26 +460,13 @@ const App = {
       const ownedAuctions = playerAuctions.filter(a => a.seller === App.selectedPlayerUuid);
       const biddedAuctions = playerAuctions.filter(a => a.bids && App.selectedPlayerUuid in a.bids);
 
-      const sortFunction = (a, b) => {
-        switch (App.auctionSortMode) {
-          case 'NEW':
-            return new Date(b.startTime) - new Date(a.startTime);
-          case 'PRICE_HIGH':
-            return (b.currentBid ?? b.startBid) - (a.currentBid ?? a.startBid);
-          case 'PRICE_LOW':
-            return (a.currentBid ?? a.startBid) - (b.currentBid ?? b.startBid);
-          default: // 'END'
-            return new Date(a.endTime) - new Date(b.endTime);
-        }
-      };
-
       if (ownedAuctions.length > 0) {
         const h2 = document.createElement("h2");
         h2.textContent = "Eigene Auktionen";
         container.appendChild(h2);
         const grid = document.createElement("div");
         grid.className = "grid";
-        ownedAuctions.sort(sortFunction).forEach(auction => grid.appendChild(createAuctionCard(auction)));
+        ownedAuctions.sort(sortAuctionsByMode).forEach(auction => grid.appendChild(createAuctionCard(auction)));
         container.appendChild(grid);
       }
 
@@ -464,7 +476,7 @@ const App = {
         container.appendChild(h2);
         const grid = document.createElement("div");
         grid.className = "grid";
-        biddedAuctions.sort(sortFunction).forEach(auction => {
+        biddedAuctions.sort(sortAuctionsByMode).forEach(auction => {
           const card = createAuctionCard(auction);
           const playerBid = auction.bids[App.selectedPlayerUuid];
           const bidInfo = document.createElement('div');
@@ -531,33 +543,32 @@ const App = {
       return;
     }
 
-    let filteredAuctions = App.auctionsData.filter(a => {
+    // Zuerst nur nach Suchbegriff filtern (Name, Material, Kategorie)
+    const baseAuctions = App.auctionsData.filter(a => {
       const displayName = a.item.displayName?.toLowerCase() ?? "";
       const material = a.item.material?.toLowerCase() ?? "";
-      const itemCategory = getAuctionItemCategory(a.item);
+      const categoryKey = getAuctionCategoryKey(a).toLowerCase();
+      const categoryLabel = getAuctionCategoryLabel(getAuctionCategoryKey(a)).toLowerCase();
 
-      const matchesSearch = displayName.includes(search) || material.includes(search);
-      const matchesCategory = App.auctionCategoryFilter === 'Alle' || itemCategory === App.auctionCategoryFilter;
-      return matchesSearch && matchesCategory;
+      const matchesSearch =
+        displayName.includes(search) ||
+        material.includes(search) ||
+        categoryKey.includes(search) ||
+        categoryLabel.includes(search);
+
+      return matchesSearch;
     });
 
-    filteredAuctions.sort((a, b) => { // Erweiterte Sortierlogik
-      switch (App.auctionSortMode) {
-        case 'NEW':
-          return new Date(b.startTime) - new Date(a.startTime);
-        case 'PRICE_HIGH':
-          return (b.currentBid ?? b.startBid) - (a.currentBid ?? a.startBid);
-        case 'PRICE_LOW':
-          return (a.currentBid ?? a.startBid) - (b.currentBid ?? b.startBid);
-        case 'END':
-        default:
-          return new Date(a.endTime) - new Date(b.endTime);
-        case 'BIDS_HIGH':
-          return (b.bids ? Object.keys(b.bids).length : 0) - (a.bids ? Object.keys(a.bids).length : 0);
-          return new Date(a.endTime) - new Date(b.endTime);
-      }
-    });
+    // Nach ausgewählter Kategorie filtern:
+    // - \"Alle\"  → alle Auktionen
+    // - sonst    → nur Auktionen mit dieser API-Kategorie
+    const filteredAuctions = baseAuctions.filter(a =>
+      App.auctionCategoryFilter === 'Alle' ||
+      getAuctionCategoryKey(a) === App.auctionCategoryFilter
+    );
+    filteredAuctions.sort(sortAuctionsByMode);
 
+    // Immer ein einziges Grid ohne Kategorie-Überschriften rendern
     const grid = document.createElement("div");
     grid.className = "grid";
     filteredAuctions.forEach(auction => {
@@ -565,6 +576,7 @@ const App = {
       grid.appendChild(card);
     });
     container.appendChild(grid);
+
     animateCardsWave(document.getElementById('auctions'));
   }
 
@@ -597,12 +609,9 @@ const App = {
 
   async function loadShards() {
     try {
-      // Lade die aktuellen Raten von der OPsucht API
       const ratesPromise = fetch("https://api.opsucht.net/merchant/rates").then(res => res.json());
-      // Lade die Historie aus der Firebase Datenbank
-      const historyPromise = shardHistoryDatabase.ref('shardHistory').get().then(snapshot => snapshot.val());
+      const historyPromise = fetch("https://cdn.jsdelivr.net/gh/moppel30/opsuchtshards@main/shard-history.json").then(res => res.json());
 
-      // Warte auf beide Anfragen
       const [rates, history] = await Promise.all([ratesPromise, historyPromise]);
 
       App.shardRates = rates;
@@ -610,7 +619,6 @@ const App = {
 
     } catch (error) {
       console.error("Fehler beim Laden der Shard-Daten:", error);
-      // Setze leere Werte im Fehlerfall, damit die Seite nicht blockiert
       App.shardRates = [];
       App.shardHistory = {};
     }
@@ -689,25 +697,78 @@ const App = {
     if (type === 'market') {
         const data = await (await fetch(`https://api.opsucht.net/market/history/${material}`)).json();
         historyData = data[period];
+        
+        // Berechne und zeige den Durchschnittspreis für Markt-Diagramme
+        if (historyData && historyData.length > 0) {
+            const prices = historyData.map(h => h.avgPrice).filter(p => p != null);
+            if (prices.length > 0) {
+                const sum = prices.reduce((acc, price) => acc + price, 0);
+                const avgPrice = Math.round(sum / prices.length);
+                
+                // Entferne alte Durchschnittsanzeige, falls vorhanden
+                const oldAvgDisplay = document.getElementById('average-price-display');
+                if (oldAvgDisplay) oldAvgDisplay.remove();
+                
+                // Erstelle und zeige die Durchschnittsanzeige über dem Diagramm
+                const chartModal = document.getElementById('chartModal');
+                const chartContainer = chartModal.querySelector('.chart-container');
+                const avgDisplay = document.createElement('div');
+                avgDisplay.id = 'average-price-display';
+                avgDisplay.style.cssText = 'text-align: center; margin-bottom: 1rem; font-size: 1.1em; color: var(--text-primary);';
+                avgDisplay.innerHTML = `<span>⌀ Durchschnitt:</span> <span style="color: var(--accent-color1); font-weight: bold;">${avgPrice.toLocaleString('de-DE')}</span>`;
+                chartContainer.insertBefore(avgDisplay, chartContainer.querySelector('canvas'));
+            }
+        }
     } else if (type === 'shards') {
         const allHistory = App.shardHistory;
-        historyData = Object.entries(allHistory).map(([timestamp, rates]) => {
+        let fullHistoryData = Object.entries(allHistory).map(([timestamp, rates]) => {
             const rate = rates.find(r => parseShardItem(r.source).name === material);
             return {
                 timestamp: parseInt(timestamp),
                 avgPrice: rate ? rate.exchangeRate : null
             };
         }).filter(h => h.avgPrice !== null);
+
+        if (fullHistoryData.length > 2) {
+            let filteredHistory = [fullHistoryData[0]];
+            for (let i = 1; i < fullHistoryData.length - 1; i++) {
+                if (fullHistoryData[i].avgPrice !== filteredHistory[filteredHistory.length - 1].avgPrice) {
+                    filteredHistory.push(fullHistoryData[i]);
+                }
+            }
+            filteredHistory.push(fullHistoryData[fullHistoryData.length - 1]);
+            historyData = filteredHistory;
+        } else {
+            historyData = fullHistoryData;
+        }
+
+        // Füge den aktuellen Live-Preis hinzu
+        const currentRate = App.shardRates.find(r => parseShardItem(r.source).name === material);
+        if (currentRate && historyData.length > 0) {
+            const lastHistoryPrice = historyData[historyData.length - 1].avgPrice;
+            if (currentRate.exchangeRate !== lastHistoryPrice) {
+                historyData.push({
+                    timestamp: Date.now(),
+                    avgPrice: currentRate.exchangeRate
+                });
+            }
+        }
     }
 
-    if (!historyData) {
+    if (!historyData || historyData.length === 0) {
         console.error("Keine Verlaufsdaten gefunden für:", material);
+        const ctx = document.getElementById("priceChart").getContext("2d");
+        if (App.chart) App.chart.destroy();
+        ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+        ctx.font = "16px Arial";
+        ctx.fillStyle = "white";
+        ctx.textAlign = "center";
+        ctx.fillText("Keine historischen Daten für dieses Item verfügbar.", ctx.canvas.width / 2, ctx.canvas.height / 2);
         return;
     }
 
     const labels = historyData.map(h => {
       const d = new Date(h.timestamp);
-      // Vereinfachte Anzeige für Shard-Daten, da wir keinen "period"-Filter haben
       return d.toLocaleString("de-DE", { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
     });
     const pricesData = historyData.map(h => h.avgPrice);
@@ -747,6 +808,14 @@ const App = {
     const biddersGrid = chartModal.querySelector('#bidders-grid');
     if (biddersGrid) biddersGrid.style.display = 'none';
 
+    // Entferne den Auktions-Erinnerungs-Button, falls er existiert (nur für Markt/Shards relevant)
+    const notificationBtn = chartModal.querySelector('#notificationBtn');
+    if (notificationBtn) notificationBtn.remove();
+
+    // Entferne alte Durchschnittsanzeige, falls vorhanden
+    const oldAvgDisplay = chartModal.querySelector('#average-price-display');
+    if (oldAvgDisplay) oldAvgDisplay.remove();
+
     // Stelle sicher, dass der Chart-Container sichtbar ist
     const chartContainer = chartModal.querySelector('.chart-container');
     chartContainer.style.display = 'block';
@@ -756,7 +825,6 @@ const App = {
     if (placeholder) placeholder.remove();
 
     openModal();
-    // Lade die Daten. Für Shards verwenden wir einen leeren Perioden-String, da wir alle Daten anzeigen.
     loadHistory(type === 'shards' ? '' : 'DAILY', material, type);
   }
 
