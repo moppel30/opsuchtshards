@@ -139,6 +139,10 @@
     {
       "endTime": "2026-02-06T19:30:11.085Z",
       "finalPrice": 6200000
+    },
+    {
+      "endTime": "2026-02-07T06:44:46.007Z",
+      "finalPrice": 6767000
     }
   ],
   "Normale ★ Hose": [
@@ -1323,6 +1327,10 @@
     {
       "endTime": "2026-02-06T22:51:58.855Z",
       "finalPrice": 150001
+    },
+    {
+      "endTime": "2026-02-07T06:11:52.474Z",
+      "finalPrice": 500000
     }
   ],
   "Wolle Paket ": [
@@ -1349,6 +1357,10 @@
     {
       "endTime": "2026-02-07T00:05:33.693Z",
       "finalPrice": 40001.01
+    },
+    {
+      "endTime": "2026-02-07T06:46:05.707Z",
+      "finalPrice": 19800
     }
   ],
   "Jonahchos Modpicke": [
@@ -1487,6 +1499,30 @@
     {
       "endTime": "2026-02-07T04:47:43.684Z",
       "finalPrice": 800000
+    }
+  ],
+  "NETHERITE_CHESTPLATE": [
+    {
+      "endTime": "2026-02-07T06:07:05.520Z",
+      "finalPrice": 35000
+    }
+  ],
+  "NETHERITE_LEGGINGS": [
+    {
+      "endTime": "2026-02-07T06:07:26.121Z",
+      "finalPrice": 30001
+    }
+  ],
+  "NETHERITE_BOOTS": [
+    {
+      "endTime": "2026-02-07T06:07:35.019Z",
+      "finalPrice": 35000
+    }
+  ],
+  "ECHO_SHARD": [
+    {
+      "endTime": "2026-02-07T06:14:52.855Z",
+      "finalPrice": 1001
     }
   ]
 }
