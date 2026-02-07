@@ -52,7 +52,6 @@ async function trackEndedAuctions() {
           continue;
         }
 
-        // KORREKTE BEDINGUNG: Nur speichern, wenn es einen Höchstbietenden gibt.
         if (!auction.highestBidder) {
           console.log(`Auktion ${auctionId} für "${itemName}" wird übersprungen (keine Gebote/kein Käufer).`);
           continue;
@@ -63,7 +62,8 @@ async function trackEndedAuctions() {
         const saleData = {
           endTime: auction.endTime,
           finalPrice: auction.currentBid,
-          highestBidder: auction.highestBidder
+          highestBidder: auction.highestBidder,
+          seller: auction.seller // HIER WIRD DER VERKÄUFER HINZUGEFÜGT
         };
 
         if (!history[itemName]) {
