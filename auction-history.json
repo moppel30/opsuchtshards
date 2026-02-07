@@ -297,6 +297,10 @@
     {
       "endTime": "2026-02-07T09:15:22.818Z",
       "finalPrice": 153001.02
+    },
+    {
+      "endTime": "2026-02-07T10:01:28.103Z",
+      "finalPrice": 357000
     }
   ],
   "Playbutton": [
@@ -993,6 +997,10 @@
     {
       "endTime": "2026-02-07T09:24:24.593Z",
       "finalPrice": 1000
+    },
+    {
+      "endTime": "2026-02-07T10:11:55.951Z",
+      "finalPrice": 5000
     }
   ],
   "Flammentalisman": [
@@ -1513,6 +1521,10 @@
     {
       "endTime": "2026-02-07T00:38:57.074Z",
       "finalPrice": 94500
+    },
+    {
+      "endTime": "2026-02-07T09:58:43.397Z",
+      "finalPrice": 78750
     }
   ],
   "Keramik Paket": [
@@ -1669,6 +1681,24 @@
     {
       "endTime": "2026-02-07T09:18:47.449Z",
       "finalPrice": 244077.84
+    }
+  ],
+  "DIAMOND_BLOCK": [
+    {
+      "endTime": "2026-02-07T09:49:02.528Z",
+      "finalPrice": 42919.8
+    }
+  ],
+  "Schneemann": [
+    {
+      "endTime": "2026-02-07T10:03:34.307Z",
+      "finalPrice": 42000
+    }
+  ],
+  "Windhose": [
+    {
+      "endTime": "2026-02-07T10:12:33.998Z",
+      "finalPrice": 105
     }
   ]
 }
