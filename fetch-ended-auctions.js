@@ -10,7 +10,7 @@ admin.initializeApp({
 });
 
 const db = admin.database();
-const endedAuctionsRef = db.ref('endedAuctions'); // Ref für die Rohdaten in Firebase
+const auctionsRef = db.ref('endedAuctions');
 
 async function trackEndedAuctions() {
   try {
@@ -30,7 +30,6 @@ async function trackEndedAuctions() {
 
     let changesMade = false;
     
-    // Lade die existierende Auktionshistorie aus der JSON-Datei
     let history = {};
     try {
       if (fs.existsSync('auction-history.json')) {
@@ -46,8 +45,6 @@ async function trackEndedAuctions() {
 
       if (endTime < nowInGermany) {
         const auctionId = auction.uid;
-        
-        // Prüfe, ob die Auktion bereits in der JSON-Struktur verarbeitet wurde
         const itemName = auction.item.displayName || auction.item.material;
         const isAlreadySaved = history[itemName]?.some(sale => new Date(sale.endTime).getTime() === endTime.getTime());
 
@@ -65,7 +62,8 @@ async function trackEndedAuctions() {
         
         const saleData = {
           endTime: auction.endTime,
-          finalPrice: auction.currentBid
+          finalPrice: auction.currentBid,
+          highestBidder: auction.highestBidder // HIER WIRD DER HÖCHSTBIETENDE HINZUGEFÜGT
         };
 
         if (!history[itemName]) {
@@ -75,7 +73,7 @@ async function trackEndedAuctions() {
         
         history[itemName].push(saleData);
         changesMade = true;
-        console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} zur Historie hinzugefügt.`);
+        console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} an ${saleData.highestBidder} zur Historie hinzugefügt.`);
       }
     }
 
@@ -90,8 +88,7 @@ async function trackEndedAuctions() {
     console.error('Ein Fehler ist aufgetreten:', error.message);
     process.exit(1);
   } finally {
-    // Die Firebase-Verbindung wird nicht mehr benötigt, da wir nicht mehr in sie schreiben
-    // await db.goOffline(); 
+    await db.goOffline();
     process.exit(0);
   }
 }
