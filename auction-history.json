@@ -75,6 +75,10 @@
     {
       "endTime": "2026-02-07T10:33:50.653Z",
       "finalPrice": 10.7
+    },
+    {
+      "endTime": "2026-02-07T13:45:41.600Z",
+      "finalPrice": 1
     }
   ],
   "Engelschuhe v3": [
@@ -189,6 +193,10 @@
     {
       "endTime": "2026-02-07T10:15:41.023Z",
       "finalPrice": 1113
+    },
+    {
+      "endTime": "2026-02-07T13:39:21.637Z",
+      "finalPrice": 551.26
     }
   ],
   "ENDER_PEARL": [
@@ -329,6 +337,14 @@
     {
       "endTime": "2026-02-07T12:50:17.242Z",
       "finalPrice": 350000
+    },
+    {
+      "endTime": "2026-02-07T13:37:50.824Z",
+      "finalPrice": 400000
+    },
+    {
+      "endTime": "2026-02-07T13:51:00.379Z",
+      "finalPrice": 5000001
     }
   ],
   "Playbutton": [
@@ -631,6 +647,10 @@
     {
       "endTime": "2026-02-07T11:05:19.188Z",
       "finalPrice": 2
+    },
+    {
+      "endTime": "2026-02-07T13:36:56.170Z",
+      "finalPrice": 3000
     }
   ],
   "Filmstudio": [
@@ -677,6 +697,10 @@
     {
       "endTime": "2026-02-07T13:27:02.974Z",
       "finalPrice": 30000
+    },
+    {
+      "endTime": "2026-02-07T13:46:02.804Z",
+      "finalPrice": 3000
     }
   ],
   "FISHING_ROD": [
@@ -1011,6 +1035,14 @@
     {
       "endTime": "2026-02-07T12:09:54.243Z",
       "finalPrice": 200000
+    },
+    {
+      "endTime": "2026-02-07T13:49:59.285Z",
+      "finalPrice": 100001
+    },
+    {
+      "endTime": "2026-02-07T13:40:08.539Z",
+      "finalPrice": 100001
     }
   ],
   "Luxury Island": [
@@ -1025,6 +1057,10 @@
     {
       "endTime": "2026-02-07T02:17:50.195Z",
       "finalPrice": 2940
+    },
+    {
+      "endTime": "2026-02-07T13:46:12.779Z",
+      "finalPrice": 10
     }
   ],
   "Businezz Modpicke": [
@@ -1499,6 +1535,10 @@
     {
       "endTime": "2026-02-07T13:26:48.513Z",
       "finalPrice": 526
+    },
+    {
+      "endTime": "2026-02-07T13:45:51.700Z",
+      "finalPrice": 10
     }
   ],
   "Shard Blockzerstörer": [
@@ -1609,6 +1649,10 @@
     {
       "endTime": "2026-02-07T06:46:05.707Z",
       "finalPrice": 19800
+    },
+    {
+      "endTime": "2026-02-07T13:53:16.788Z",
+      "finalPrice": 1.07
     }
   ],
   "Jonahchos Modpicke": [
@@ -1651,6 +1695,10 @@
     {
       "endTime": "2026-02-07T00:04:31.949Z",
       "finalPrice": 5251.05
+    },
+    {
+      "endTime": "2026-02-07T13:35:18.925Z",
+      "finalPrice": 2317.36
     }
   ],
   "GOAT_HORN": [
@@ -1773,6 +1821,10 @@
     {
       "endTime": "2026-02-07T06:07:05.520Z",
       "finalPrice": 35000
+    },
+    {
+      "endTime": "2026-02-07T13:56:08.949Z",
+      "finalPrice": 30003
     }
   ],
   "NETHERITE_LEGGINGS": [
@@ -2043,6 +2095,54 @@
     {
       "endTime": "2026-02-07T12:58:58.637Z",
       "finalPrice": 103000
+    }
+  ],
+  "Trank der Feuerresistenz": [
+    {
+      "endTime": "2026-02-07T13:43:22.740Z",
+      "finalPrice": 30001
+    }
+  ],
+  "DRAGON_HEAD": [
+    {
+      "endTime": "2026-02-07T13:35:37.575Z",
+      "finalPrice": 4001
+    }
+  ],
+  "END_CRYSTAL": [
+    {
+      "endTime": "2026-02-07T13:40:08.105Z",
+      "finalPrice": 1050
+    }
+  ],
+  "Fotoaufsteller Bärenpaar": [
+    {
+      "endTime": "2026-02-07T13:40:21.149Z",
+      "finalPrice": 10000
+    }
+  ],
+  "Herzglanzspitzhacke": [
+    {
+      "endTime": "2026-02-07T13:40:32.543Z",
+      "finalPrice": 10000
+    }
+  ],
+  "Windaxt": [
+    {
+      "endTime": "2026-02-07T13:40:47.384Z",
+      "finalPrice": 5000
+    }
+  ],
+  "Tauklinge": [
+    {
+      "endTime": "2026-02-07T13:40:59.074Z",
+      "finalPrice": 3000
+    }
+  ],
+  "Kartenkrone": [
+    {
+      "endTime": "2026-02-07T13:41:10.649Z",
+      "finalPrice": 1100
     }
   ]
 }
