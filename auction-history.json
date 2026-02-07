@@ -1569,6 +1569,10 @@
     {
       "endTime": "2026-02-07T04:39:42.095Z",
       "finalPrice": 60000
+    },
+    {
+      "endTime": "2026-02-07T14:41:36.173Z",
+      "finalPrice": 25002
     }
   ],
   "Marcels Adminhelm": [
@@ -1635,6 +1639,10 @@
     {
       "endTime": "2026-02-07T12:08:59.338Z",
       "finalPrice": 57750
+    },
+    {
+      "endTime": "2026-02-07T14:41:52.174Z",
+      "finalPrice": 12600
     }
   ],
   "SUSPICIOUS_GRAVEL": [
@@ -2277,6 +2285,42 @@
     {
       "endTime": "2026-02-07T14:22:10.953Z",
       "finalPrice": 550001
+    }
+  ],
+  "Blauer Ballon": [
+    {
+      "endTime": "2026-02-07T14:46:16.094Z",
+      "finalPrice": 400000
+    }
+  ],
+  "PIGLIN_BRUTE_SPAWN_EGG": [
+    {
+      "endTime": "2026-02-07T14:48:18.465Z",
+      "finalPrice": 800000
+    }
+  ],
+  "Mandalore Dunkelschwert": [
+    {
+      "endTime": "2026-02-07T14:54:37.116Z",
+      "finalPrice": 170001
+    }
+  ],
+  "Normaler ★ Helm": [
+    {
+      "endTime": "2026-02-07T14:55:17.659Z",
+      "finalPrice": 2000
+    }
+  ],
+  "Jesus Christus am Kreuz": [
+    {
+      "endTime": "2026-02-07T14:56:16.394Z",
+      "finalPrice": 5001
+    }
+  ],
+  "Jagdmesser": [
+    {
+      "endTime": "2026-02-07T14:52:12.947Z",
+      "finalPrice": 2808080.08
     }
   ]
 }
