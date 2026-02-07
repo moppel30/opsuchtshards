@@ -63,6 +63,10 @@
     {
       "endTime": "2026-02-07T01:18:04.901Z",
       "finalPrice": 10500
+    },
+    {
+      "endTime": "2026-02-07T02:55:21.702Z",
+      "finalPrice": 10001
     }
   ],
   "Engelschuhe v3": [
@@ -75,6 +79,10 @@
     {
       "endTime": "2026-02-06T19:17:20.461Z",
       "finalPrice": 2040301.03
+    },
+    {
+      "endTime": "2026-02-07T03:37:26.194Z",
+      "finalPrice": 2100000
     }
   ],
   "Seltene Elytra": [
@@ -371,6 +379,10 @@
     {
       "endTime": "2026-02-06T20:55:45.339Z",
       "finalPrice": 30000
+    },
+    {
+      "endTime": "2026-02-07T04:09:03.613Z",
+      "finalPrice": 10001
     }
   ],
   "Gletscherstiefel": [
@@ -493,6 +505,10 @@
     {
       "endTime": "2026-02-06T20:06:26.565Z",
       "finalPrice": 15750
+    },
+    {
+      "endTime": "2026-02-07T03:55:19.217Z",
+      "finalPrice": 100001
     }
   ],
   "Marktplatz": [
@@ -507,6 +523,10 @@
     {
       "endTime": "2026-02-06T22:32:46.468Z",
       "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-07T02:56:18.369Z",
+      "finalPrice": 10001
     }
   ],
   "Filmstudio": [
@@ -639,6 +659,10 @@
     {
       "endTime": "2026-02-07T01:17:56.011Z",
       "finalPrice": 315
+    },
+    {
+      "endTime": "2026-02-07T02:17:55.680Z",
+      "finalPrice": 1050
     }
   ],
   "OP Pass": [
@@ -679,6 +703,14 @@
     {
       "endTime": "2026-02-07T02:07:45.231Z",
       "finalPrice": 82693.8
+    },
+    {
+      "endTime": "2026-02-07T03:31:39.307Z",
+      "finalPrice": 114040
+    },
+    {
+      "endTime": "2026-02-07T02:21:51.129Z",
+      "finalPrice": 200001
     }
   ],
   "Mini Pilzaxt": [
@@ -825,6 +857,10 @@
     {
       "endTime": "2026-02-06T22:18:16.638Z",
       "finalPrice": 3333
+    },
+    {
+      "endTime": "2026-02-07T02:17:50.195Z",
+      "finalPrice": 2940
     }
   ],
   "Businezz Modpicke": [
@@ -997,6 +1033,10 @@
     {
       "endTime": "2026-02-07T00:24:36Z",
       "finalPrice": 20001
+    },
+    {
+      "endTime": "2026-02-07T04:08:05.490Z",
+      "finalPrice": 50001
     }
   ],
   "Lapisbogen": [
@@ -1403,6 +1443,30 @@
     {
       "endTime": "2026-02-07T00:22:59.355Z",
       "finalPrice": 50001
+    }
+  ],
+  "Shard Schwert": [
+    {
+      "endTime": "2026-02-07T02:56:43.332Z",
+      "finalPrice": 300000
+    }
+  ],
+  "Auktionshaus": [
+    {
+      "endTime": "2026-02-07T02:18:01.263Z",
+      "finalPrice": 1575
+    }
+  ],
+  "OMINOUS_TRIAL_KEY": [
+    {
+      "endTime": "2026-02-07T02:59:58.990Z",
+      "finalPrice": 30001
+    }
+  ],
+  "Hexenmütze": [
+    {
+      "endTime": "2026-02-07T03:54:56.324Z",
+      "finalPrice": 105000
     }
   ]
 }
