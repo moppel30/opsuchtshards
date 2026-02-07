@@ -319,6 +319,12 @@
       "finalPrice": 2,
       "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
       "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
+    },
+    {
+      "endTime": "2026-02-07T21:58:34.511Z",
+      "finalPrice": 50001,
+      "highestBidder": "f5634940-1928-4a9c-a0d6-8c286d81e128",
+      "seller": "00000000-0000-0000-0009-01f96fd54b62"
     }
   ],
   "ByteException_": [
@@ -629,6 +635,12 @@
       "finalPrice": 100,
       "highestBidder": "fd3f8679-2baa-456b-966c-f4783e8b5128",
       "seller": "45de5515-d827-4430-9bc4-aa223b78f085"
+    },
+    {
+      "endTime": "2026-02-07T22:25:57.785Z",
+      "finalPrice": 100,
+      "highestBidder": "bccd74a1-aa80-49c4-8ec8-89e9cc6954c7",
+      "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
     }
   ],
   "Ballon der Liebe": [
@@ -927,6 +939,12 @@
       "finalPrice": 500,
       "highestBidder": "00000000-0000-0000-0009-01fc2d8f1862",
       "seller": "7dd55e61-a8eb-4746-b7eb-42838295d03f"
+    },
+    {
+      "endTime": "2026-02-07T22:45:43.930Z",
+      "finalPrice": 10,
+      "highestBidder": "85d49535-1a39-4f97-beec-3c08f0c4b30a",
+      "seller": "da5424e1-edd0-419b-b79d-a11339106ae5"
     }
   ],
   "Playbutton": [
@@ -1203,6 +1221,12 @@
       "finalPrice": 100001,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-07T22:48:51.257Z",
+      "finalPrice": 250001,
+      "highestBidder": "e6d802c3-a6f6-43a2-b6e3-75d28e82aeb5",
+      "seller": "675faf83-3f11-4a34-bc72-16ad06eca0ba"
     }
   ],
   "DIRT": [
@@ -1333,6 +1357,18 @@
       "finalPrice": 150000,
       "highestBidder": "00000000-0000-0000-0009-01fedfcb4b6e",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-07T22:50:09.959Z",
+      "finalPrice": 110000,
+      "highestBidder": "378f4538-68fe-4cff-a3c6-320b46a55d68",
+      "seller": "5f05cc87-93e7-4055-b93b-c157ef0cb165"
+    },
+    {
+      "endTime": "2026-02-07T22:09:27.655Z",
+      "finalPrice": 50002,
+      "highestBidder": "914102e6-6d4b-46a8-b315-3cab18f0bbce",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "Unendliche Rakete": [
@@ -1341,6 +1377,12 @@
       "finalPrice": 2041220.1,
       "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
       "seller": "e17bb1e4-abb2-4cf9-9a7e-0d4fabff8a73"
+    },
+    {
+      "endTime": "2026-02-07T22:10:42.463Z",
+      "finalPrice": 2000001,
+      "highestBidder": "f7740fe2-aa49-4c0f-9bb0-dc97da41bc47",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "Elfenbein Helm": [
@@ -1397,6 +1439,12 @@
       "finalPrice": 25000,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "00000000-0000-0000-0009-00000d74ea6f"
+    },
+    {
+      "endTime": "2026-02-07T22:19:27.904Z",
+      "finalPrice": 1,
+      "highestBidder": "ff70d135-e98e-45b9-94f6-604a63ada398",
+      "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
     }
   ],
   "PLAYER_HEAD": [
@@ -1405,6 +1453,12 @@
       "finalPrice": 30000,
       "highestBidder": "2f2bb859-c73b-428f-b674-cd664ea68a5c",
       "seller": "f63843ea-571b-4f8e-8a49-2b8c40a05fa4"
+    },
+    {
+      "endTime": "2026-02-07T22:50:01.577Z",
+      "finalPrice": 3150,
+      "highestBidder": "bcffa2da-e821-40bf-ab6a-70e6613d7265",
+      "seller": "6f1b4167-fe6a-4e02-9816-9194be624d00"
     }
   ],
   "NETHERITE_PICKAXE": [
@@ -1633,6 +1687,18 @@
       "finalPrice": 10,
       "highestBidder": "85d49535-1a39-4f97-beec-3c08f0c4b30a",
       "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-07T22:19:03.377Z",
+      "finalPrice": 3,
+      "highestBidder": "e66c2693-0954-49cc-83d0-e4c394cd9628",
+      "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
+    },
+    {
+      "endTime": "2026-02-07T22:25:50.612Z",
+      "finalPrice": 10,
+      "highestBidder": "00000000-0000-0000-0009-01f4f84e45af",
+      "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
     }
   ],
   "Auktionshaus": [
@@ -1657,6 +1723,12 @@
       "finalPrice": 28350,
       "highestBidder": "369f97f4-cce7-408c-8aed-c349330b80ef",
       "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50"
+    },
+    {
+      "endTime": "2026-02-07T22:38:12.732Z",
+      "finalPrice": 40000,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "1a2d303c-51ee-478a-b6ff-f325e872d4e1"
     }
   ],
   "DRAGON_EGG": [
@@ -1773,6 +1845,12 @@
       "finalPrice": 170000,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
+    },
+    {
+      "endTime": "2026-02-07T22:50:12.180Z",
+      "finalPrice": 160000,
+      "highestBidder": "aabab78f-167a-4560-97e4-9fc495e6fe79",
+      "seller": "b20c549e-fe2a-4bc0-adca-2a80d598de48"
     }
   ],
   "DIAMOND": [
@@ -2169,6 +2247,12 @@
       "finalPrice": 52501.05,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    },
+    {
+      "endTime": "2026-02-07T22:05:58.798Z",
+      "finalPrice": 10001,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
     }
   ],
   "DRAGON_HEAD": [
@@ -2539,6 +2623,14 @@
       "finalPrice": 40000,
       "highestBidder": "36c4fb90-e4e2-4835-8203-be913d5af8a2",
       "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
+    }
+  ],
+  "Meisterball": [
+    {
+      "endTime": "2026-02-07T22:47:28.838Z",
+      "finalPrice": 17500001,
+      "highestBidder": "8a4dab04-d37d-47a1-bba5-0e57b5562ef4",
+      "seller": "7d46edfe-1ce5-4857-9200-22c47b7ca5ff"
     }
   ]
 }
