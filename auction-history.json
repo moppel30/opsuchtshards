@@ -421,6 +421,10 @@
     {
       "endTime": "2026-02-07T09:47:45.081Z",
       "finalPrice": 10001
+    },
+    {
+      "endTime": "2026-02-07T11:13:05.084Z",
+      "finalPrice": 2001
     }
   ],
   "EinfachEmmy": [
@@ -653,12 +657,20 @@
     {
       "endTime": "2026-02-06T20:14:20.233Z",
       "finalPrice": 1250002
+    },
+    {
+      "endTime": "2026-02-07T11:12:31.153Z",
+      "finalPrice": 1550000
     }
   ],
   "Propellerhut": [
     {
       "endTime": "2026-02-06T20:11:30.387Z",
       "finalPrice": 29809.5
+    },
+    {
+      "endTime": "2026-02-07T11:12:43.722Z",
+      "finalPrice": 58332.75
     }
   ],
   "OPPhil": [
@@ -1573,6 +1585,10 @@
     {
       "endTime": "2026-02-07T09:58:43.397Z",
       "finalPrice": 78750
+    },
+    {
+      "endTime": "2026-02-07T11:25:05.518Z",
+      "finalPrice": 200000
     }
   ],
   "Keramik Paket": [
@@ -1819,6 +1835,18 @@
     {
       "endTime": "2026-02-07T11:04:43.053Z",
       "finalPrice": 78750
+    }
+  ],
+  "Phils Kristallkrone": [
+    {
+      "endTime": "2026-02-07T11:23:32.031Z",
+      "finalPrice": 2000000
+    }
+  ],
+  "Leuchtfeuer": [
+    {
+      "endTime": "2026-02-07T11:23:49.677Z",
+      "finalPrice": 2000022
     }
   ]
 }
