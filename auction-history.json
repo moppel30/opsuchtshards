@@ -943,6 +943,10 @@
     {
       "endTime": "2026-02-07T10:51:43.024Z",
       "finalPrice": 110000
+    },
+    {
+      "endTime": "2026-02-07T11:41:36.278Z",
+      "finalPrice": 510000
     }
   ],
   "Christians Hose": [
@@ -1411,6 +1415,10 @@
     {
       "endTime": "2026-02-07T10:15:25.837Z",
       "finalPrice": 52.5
+    },
+    {
+      "endTime": "2026-02-07T11:46:02.974Z",
+      "finalPrice": 10000
     }
   ],
   "Shard Blockzerstörer": [
@@ -1847,6 +1855,24 @@
     {
       "endTime": "2026-02-07T11:23:49.677Z",
       "finalPrice": 2000022
+    }
+  ],
+  "BUDDING_AMETHYST": [
+    {
+      "endTime": "2026-02-07T11:42:10.866Z",
+      "finalPrice": 200
+    }
+  ],
+  "EinfachEmmy Statue": [
+    {
+      "endTime": "2026-02-07T11:47:15.841Z",
+      "finalPrice": 450001
+    }
+  ],
+  "🍂 Frühlingssprössling 🍂": [
+    {
+      "endTime": "2026-02-07T11:39:13.706Z",
+      "finalPrice": 2
     }
   ]
 }
