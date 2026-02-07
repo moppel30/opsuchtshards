@@ -95,6 +95,12 @@
       "finalPrice": 1500000,
       "highestBidder": "00000000-0000-0000-0009-01fc2d8f1862",
       "seller": "00000000-0000-0000-0009-01f895a00868"
+    },
+    {
+      "endTime": "2026-02-07T20:02:40.022Z",
+      "finalPrice": 2525001.05,
+      "highestBidder": "9465abf2-9710-42ac-bf0f-6b9b61c26b37",
+      "seller": "7ae2954b-9202-47f8-96f3-993c1a7668ad"
     }
   ],
   "Christianoooo": [
@@ -103,6 +109,12 @@
       "finalPrice": 3500003,
       "highestBidder": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
       "seller": "522c337d-db68-4435-a52f-293cac960e6a"
+    },
+    {
+      "endTime": "2026-02-07T20:51:25.571Z",
+      "finalPrice": 2500001,
+      "highestBidder": "00000000-0000-0000-0009-01fb8d54c4b1",
+      "seller": "5f05cc87-93e7-4055-b93b-c157ef0cb165"
     }
   ],
   "Supporter-Team": [
@@ -1385,6 +1397,12 @@
       "finalPrice": 5300000,
       "highestBidder": "616c0973-ff10-4763-b655-2a0b4d3f91e3",
       "seller": "22eabfeb-8d58-407d-b97d-ba32f2d50613"
+    },
+    {
+      "endTime": "2026-02-07T20:02:12.639Z",
+      "finalPrice": 5300000,
+      "highestBidder": "616c0973-ff10-4763-b655-2a0b4d3f91e3",
+      "seller": "a9a5e64a-84f6-4c9d-a264-3e08971b3dc6"
     }
   ],
   "Keramik Paket": [
@@ -1624,6 +1642,174 @@
       "endTime": "2026-02-07T20:35:59.955Z",
       "finalPrice": 50000,
       "highestBidder": "00000000-0000-0000-0009-01f746a56532",
+      "seller": "00000000-0000-0000-0009-01f895a00868"
+    }
+  ],
+  "OPPass Trophäe": [
+    {
+      "endTime": "2026-02-07T20:41:21.012Z",
+      "finalPrice": 305522.5,
+      "highestBidder": "c79ea2a3-7bbf-45fb-888e-422819f8e99d",
+      "seller": "a611e02e-c44c-446f-b5e4-2b7e878842a7"
+    }
+  ],
+  "Weihnachtskamin": [
+    {
+      "endTime": "2026-02-07T20:41:46.363Z",
+      "finalPrice": 80000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "a611e02e-c44c-446f-b5e4-2b7e878842a7"
+    }
+  ],
+  "Gebäckvitrine": [
+    {
+      "endTime": "2026-02-07T20:42:08.614Z",
+      "finalPrice": 39000,
+      "highestBidder": "00000000-0000-0000-0009-01f92709af1c",
+      "seller": "a611e02e-c44c-446f-b5e4-2b7e878842a7"
+    }
+  ],
+  "Kasse": [
+    {
+      "endTime": "2026-02-07T20:42:25.329Z",
+      "finalPrice": 150000,
+      "highestBidder": "00000000-0000-0000-0009-01f0137caa09",
+      "seller": "a611e02e-c44c-446f-b5e4-2b7e878842a7"
+    }
+  ],
+  "Normale ★ Spitzhacke": [
+    {
+      "endTime": "2026-02-07T20:42:33.046Z",
+      "finalPrice": 204000,
+      "highestBidder": "300dc194-7b75-4869-a5f1-f3d45f25e92b",
+      "seller": "70a5b55a-262b-49a7-8666-16d2775747d0"
+    }
+  ],
+  "Streak Trophäe": [
+    {
+      "endTime": "2026-02-07T20:42:43.034Z",
+      "finalPrice": 84000,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "a611e02e-c44c-446f-b5e4-2b7e878842a7"
+    }
+  ],
+  "Marcels Adminharnisch": [
+    {
+      "endTime": "2026-02-07T20:43:23.697Z",
+      "finalPrice": 6120600,
+      "highestBidder": "ccaef063-6a22-41e9-a0ed-2d36938e5206",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    }
+  ],
+  "Marcels Adminhelm": [
+    {
+      "endTime": "2026-02-07T20:43:51.935Z",
+      "finalPrice": 1000000,
+      "highestBidder": "11e4a94d-db4b-43ea-ad2f-bb0dbeffb01c",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    }
+  ],
+  "Engelshose": [
+    {
+      "endTime": "2026-02-07T20:44:07.308Z",
+      "finalPrice": 163000,
+      "highestBidder": "e5d2d8fd-0f66-4988-858f-91b3dbaf6b51",
+      "seller": "7f2e4bf9-f714-4b7f-ace8-16acd0925de5"
+    }
+  ],
+  "Redstone Paket": [
+    {
+      "endTime": "2026-02-07T20:44:12.014Z",
+      "finalPrice": 190000,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    }
+  ],
+  "Knochenschuhe": [
+    {
+      "endTime": "2026-02-07T20:44:27.914Z",
+      "finalPrice": 80000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "7f2e4bf9-f714-4b7f-ace8-16acd0925de5"
+    }
+  ],
+  "Winterei": [
+    {
+      "endTime": "2026-02-07T20:46:02.199Z",
+      "finalPrice": 300000,
+      "highestBidder": "aabab78f-167a-4560-97e4-9fc495e6fe79",
+      "seller": "7f2e4bf9-f714-4b7f-ace8-16acd0925de5"
+    }
+  ],
+  "Flink040": [
+    {
+      "endTime": "2026-02-07T20:50:44.078Z",
+      "finalPrice": 700000,
+      "highestBidder": "00000000-0000-0000-0009-01fee2f84284",
+      "seller": "beafb66e-9802-4662-8292-19de3157b428"
+    }
+  ],
+  "Phils Kristallkrone": [
+    {
+      "endTime": "2026-02-07T20:52:44.238Z",
+      "finalPrice": 1050703,
+      "highestBidder": "66b9c1be-805e-4021-bdfd-d550039ce7ae",
+      "seller": "256607e9-3b39-4d3f-b071-47292599cee0"
+    }
+  ],
+  "Tauaxt": [
+    {
+      "endTime": "2026-02-07T19:57:13.639Z",
+      "finalPrice": 52501.05,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    }
+  ],
+  "Windaxt": [
+    {
+      "endTime": "2026-02-07T19:58:08.890Z",
+      "finalPrice": 50001,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    }
+  ],
+  "Tauklinge": [
+    {
+      "endTime": "2026-02-07T19:58:27.582Z",
+      "finalPrice": 52501.05,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    }
+  ],
+  "DRAGON_HEAD": [
+    {
+      "endTime": "2026-02-07T20:49:51.268Z",
+      "finalPrice": 102001.02,
+      "highestBidder": "61a47adc-c704-4579-a008-485d6438b245",
+      "seller": "4f57179d-becd-4385-8b29-ffec0192611f"
+    }
+  ],
+  "ENCHANTED_GOLDEN_APPLE": [
+    {
+      "endTime": "2026-02-07T20:52:56.319Z",
+      "finalPrice": 120001,
+      "highestBidder": "e72980d3-4ac9-470f-bfeb-1df3b02718fc",
+      "seller": "00000000-0000-0000-0009-01f70a6266cf"
+    }
+  ],
+  "Tauschuhe": [
+    {
+      "endTime": "2026-02-07T20:50:24.998Z",
+      "finalPrice": 1500,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "5bb9e447-36a7-4a83-8b78-3fef8818e85e"
+    }
+  ],
+  "Talisman ✦ Lebensbooster": [
+    {
+      "endTime": "2026-02-07T20:42:47.144Z",
+      "finalPrice": 5000,
+      "highestBidder": "257d0723-05d8-4adc-8d2a-c096b2a93393",
       "seller": "00000000-0000-0000-0009-01f895a00868"
     }
   ]
