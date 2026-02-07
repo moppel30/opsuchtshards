@@ -10,91 +10,63 @@ admin.initializeApp({
 });
 
 const db = admin.database();
-const lastActiveAuctionsSnapshotRef = db.ref('lastActiveAuctionsSnapshot');
+const auctionsRef = db.ref('endedAuctions');
 
 async function trackEndedAuctions() {
   try {
-    console.log('Starte Auktions-Tracking-Lauf...');
+    console.log('Rufe aktive Auktionen von der API ab...');
+    const response = await axios.get('https://api.opsucht.net/auctions/active');
+    const activeAuctions = response.data;
 
-    // 1. Aktuelle und letzte aktive Auktionen laden
-    const currentActiveResponse = await axios.get('https://api.opsucht.net/auctions/active');
-    const currentActiveAuctionsArray = currentActiveResponse.data || [];
-    const currentActiveAuctionsMap = new Map(currentActiveAuctionsArray.map(a => [a.uid, a]));
-    console.log(`Aktuell aktive Auktionen gefunden: ${currentActiveAuctionsArray.length}`);
-
-    const lastActiveSnapshot = await lastActiveAuctionsSnapshotRef.get();
-    const lastActiveAuctionsMap = new Map();
-    if (lastActiveSnapshot.exists()) {
-      lastActiveSnapshot.val().forEach(a => lastActiveAuctionsMap.set(a.uid, a));
+    if (!activeAuctions) {
+      console.log('Keine Daten von der API erhalten.');
+      process.exit(0);
     }
-    console.log(`Letzte aktive Auktionen aus Firebase geladen: ${lastActiveAuctionsMap.size}`);
 
-    // KORREKTE UND ROBUSTE ZEITBERECHNUNG
     const nowInGermany = new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" }));
-    
     console.log(`================ ZEIT-CHECK ================`);
-    console.log(`Aktuelle Zeit in Deutschland (für Vergleich): ${nowInGermany.toLocaleString('de-DE')}`);
+    console.log(`Aktuelle deutsche Zeit (für Vergleich): ${nowInGermany.toLocaleString('de-DE')}`);
     console.log(`============================================`);
 
-    // 2. Beendete Auktionen identifizieren
-    let newlyEndedAuctions = [];
-    if (lastActiveAuctionsMap.size > 0) {
-      for (const [uid, auction] of lastActiveAuctionsMap.entries()) {
-        if (!currentActiveAuctionsMap.has(uid)) {
-          const endTime = new Date(auction.endTime);
-          // Vergleiche die Endzeit mit unserer berechneten deutschen Zeit
-          if (endTime < nowInGermany) {
-            newlyEndedAuctions.push(auction);
+    let foundEndedAuction = false;
+
+    for (const auction of Object.values(activeAuctions)) {
+      const endTime = new Date(auction.endTime);
+
+      if (endTime < nowInGermany) {
+        foundEndedAuction = true;
+        const auctionId = auction.uid;
+        const snapshot = await auctionsRef.child(auctionId).get();
+
+        if (snapshot.exists()) {
+          console.log(`Auktion ${auctionId} wurde bereits gespeichert. Überspringe.`);
+        } else {
+          if (!auction.bids) {
+            console.log(`Auktion ${auctionId} wird übersprungen (keine Gebote).`);
+            continue;
           }
+          console.log(`Neue beendete Auktion gefunden: ${auctionId}. Speichere...`);
+          await auctionsRef.child(auctionId).set({
+            itemName: auction.item.displayName || auction.item.material,
+            finalPrice: auction.currentBid,
+            endTime: auction.endTime,
+            seller: auction.seller
+          });
+          console.log(`Auktion ${auctionId} erfolgreich gespeichert.`);
         }
       }
     }
-    console.log(`Neu beendete Auktionen identifiziert: ${newlyEndedAuctions.length}`);
 
-    // 3. Lade die existierende Auktionshistorie
-    let history = {};
-    try {
-      if (fs.existsSync('auction-history.json')) {
-        history = JSON.parse(fs.readFileSync('auction-history.json', 'utf8'));
-      }
-    } catch (e) {
-      console.log('auction-history.json nicht gefunden, starte neue Historie.');
+    if (!foundEndedAuction) {
+      console.log('Keine beendeten Auktionen in der aktuellen Liste gefunden.');
     }
 
-    // 4. Verarbeite die neu beendeten Auktionen
-    let changesMade = false;
-    for (const auction of newlyEndedAuctions) {
-      if (!auction.bids) {
-        console.log(`Auktion ${auction.uid} wird übersprungen (keine Gebote).`);
-        continue;
-      }
-
-      const itemName = auction.item.displayName || auction.item.material;
-      const saleData = {
-        endTime: auction.endTime,
-        finalPrice: auction.currentBid
-      };
-
-      if (!history[itemName]) {
-        history[itemName] = [];
-      }
-      
-      history[itemName].push(saleData);
-      changesMade = true;
-      console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} zur Historie hinzugefügt.`);
+    // Update der JSON-Datei auf GitHub
+    const allEndedAuctionsSnapshot = await auctionsRef.get();
+    if (allEndedAuctionsSnapshot.exists()) {
+        fs.writeFileSync('auction-history.json', JSON.stringify(allEndedAuctionsSnapshot.val(), null, 2));
+        console.log('auction-history.json wurde erfolgreich erstellt/aktualisiert.');
     }
-
-    // 5. Schreibe die aktualisierte Historie zurück
-    if (changesMade) {
-      fs.writeFileSync('auction-history.json', JSON.stringify(history, null, 2));
-      console.log('auction-history.json wurde erfolgreich aktualisiert.');
-    } else {
-      console.log('Keine neuen Verkäufe zum Speichern.');
-    }
-
-    // 6. Aktuellen Zustand für den nächsten Lauf speichern
-    await lastActiveAuctionsSnapshotRef.set(currentActiveAuctionsArray);
-    console.log('Aktueller Snapshot für den nächsten Lauf gespeichert.');
 
   } catch (error) {
     console.error('Ein Fehler ist aufgetreten:', error.message);
