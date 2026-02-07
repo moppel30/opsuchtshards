@@ -91,6 +91,24 @@
       "finalPrice": 384540,
       "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
       "seller": "acd10fbb-727b-430b-b959-6b2002df2272"
+    },
+    {
+      "endTime": "2026-02-07T21:45:00.512Z",
+      "finalPrice": 102001.02,
+      "highestBidder": "1e92fb59-0270-40ac-99af-925158233c51",
+      "seller": "b0b0fe5f-e645-4564-9d08-d825daf05cd9"
+    },
+    {
+      "endTime": "2026-02-07T21:55:13.884Z",
+      "finalPrice": 160000,
+      "highestBidder": "00000000-0000-0000-0009-01fcdcedf44f",
+      "seller": "7a91272e-52dd-4fad-8e33-b70df9d8609b"
+    },
+    {
+      "endTime": "2026-02-07T21:09:05.408Z",
+      "finalPrice": 800002,
+      "highestBidder": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "seller": "cc32863f-9988-4ea8-bef0-479af4e19731"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -299,6 +317,18 @@
       "finalPrice": 57881.25,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-07T21:38:55.579Z",
+      "finalPrice": 52501.05,
+      "highestBidder": "2c13b7ff-cb4d-4370-9c43-8a5046982d41",
+      "seller": "16f43287-9d68-44ce-bfd6-baaa3c551c23"
+    },
+    {
+      "endTime": "2026-02-07T21:41:19.240Z",
+      "finalPrice": 100001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "e72980d3-4ac9-470f-bfeb-1df3b02718fc"
     }
   ],
   "Mod-Team": [
@@ -639,6 +669,12 @@
       "finalPrice": 21000,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "06d980bf-231d-4d44-ba90-0dc18bbb4946"
+    },
+    {
+      "endTime": "2026-02-07T21:53:06.946Z",
+      "finalPrice": 20001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "cd0fa871-f3cc-4d4b-9a3c-8dad3d96b4df"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -925,6 +961,12 @@
       "finalPrice": 50000,
       "highestBidder": "00000000-0000-0000-0009-01fdc37d98ee",
       "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060"
+    },
+    {
+      "endTime": "2026-02-07T21:50:46.504Z",
+      "finalPrice": 5,
+      "highestBidder": "4dbe643d-92e0-4fa5-a9fb-4ff52675c5d6",
+      "seller": "00000000-0000-0000-0009-01f110ee2991"
     }
   ],
   "Neujahrshut": [
@@ -1098,6 +1140,12 @@
       "endTime": "2026-02-07T20:52:29.866Z",
       "finalPrice": 55127,
       "highestBidder": "53f676af-01be-4e1f-a7a2-b94812d2f2c5",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-07T20:59:37.121Z",
+      "finalPrice": 150000,
+      "highestBidder": "08c37d38-ae20-43ed-8002-817a13045d9e",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
@@ -1641,6 +1689,12 @@
       "finalPrice": 230000,
       "highestBidder": "ab96317e-4539-4552-b5d5-886da01ac9f7",
       "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20"
+    },
+    {
+      "endTime": "2026-02-07T21:45:55.806Z",
+      "finalPrice": 185000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20"
     }
   ],
   "Flink040 Sammelkarte": [
@@ -1849,6 +1903,12 @@
     {
       "endTime": "2026-02-07T20:52:44.238Z",
       "finalPrice": 1050703,
+      "highestBidder": "66b9c1be-805e-4021-bdfd-d550039ce7ae",
+      "seller": "256607e9-3b39-4d3f-b071-47292599cee0"
+    },
+    {
+      "endTime": "2026-02-07T20:58:59.566Z",
+      "finalPrice": 2525000,
       "highestBidder": "66b9c1be-805e-4021-bdfd-d550039ce7ae",
       "seller": "256607e9-3b39-4d3f-b071-47292599cee0"
     }
@@ -2067,6 +2127,22 @@
       "finalPrice": 1.06,
       "highestBidder": "2b2aacd9-2288-4bb1-ae44-8170fa5e574f",
       "seller": "00000000-0000-0000-0009-01ff9a48b34a"
+    }
+  ],
+  "Emmys Herzstab": [
+    {
+      "endTime": "2026-02-07T21:04:24.336Z",
+      "finalPrice": 100001,
+      "highestBidder": "4e9b8fe7-c429-4c14-a993-d9bfcda28976",
+      "seller": "18b8ef10-2b0c-4814-95c0-cd8463b8a51d"
+    }
+  ],
+  "Holzbündel": [
+    {
+      "endTime": "2026-02-07T21:35:00.697Z",
+      "finalPrice": 320500,
+      "highestBidder": "4f917865-cbad-4669-8653-28516445c8c2",
+      "seller": "8ff2fc00-5950-4b45-be36-255e06886639"
     }
   ]
 }
