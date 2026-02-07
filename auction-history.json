@@ -71,6 +71,10 @@
     {
       "endTime": "2026-02-07T05:46:35.993Z",
       "finalPrice": 5001
+    },
+    {
+      "endTime": "2026-02-07T10:33:50.653Z",
+      "finalPrice": 10.7
     }
   ],
   "Engelschuhe v3": [
@@ -173,6 +177,10 @@
     {
       "endTime": "2026-02-07T08:52:58.147Z",
       "finalPrice": 31502
+    },
+    {
+      "endTime": "2026-02-07T10:15:41.023Z",
+      "finalPrice": 1113
     }
   ],
   "ENDER_PEARL": [
@@ -579,6 +587,10 @@
     {
       "endTime": "2026-02-07T02:56:18.369Z",
       "finalPrice": 10001
+    },
+    {
+      "endTime": "2026-02-07T10:33:42.560Z",
+      "finalPrice": 106
     }
   ],
   "Filmstudio": [
@@ -617,6 +629,10 @@
     {
       "endTime": "2026-02-07T09:08:59.375Z",
       "finalPrice": 1000
+    },
+    {
+      "endTime": "2026-02-07T10:15:16.338Z",
+      "finalPrice": 52.6
     }
   ],
   "FISHING_ROD": [
@@ -1177,6 +1193,10 @@
     {
       "endTime": "2026-02-06T21:29:15.492Z",
       "finalPrice": 700001
+    },
+    {
+      "endTime": "2026-02-07T10:14:15.389Z",
+      "finalPrice": 200000
     }
   ],
   "Wasserwaage": [
@@ -1311,6 +1331,10 @@
     {
       "endTime": "2026-02-06T22:15:07.132Z",
       "finalPrice": 5000
+    },
+    {
+      "endTime": "2026-02-07T10:14:58.254Z",
+      "finalPrice": 5255
     }
   ],
   "MrLostGamers Modpicke": [
@@ -1359,6 +1383,10 @@
     {
       "endTime": "2026-02-07T08:55:18.062Z",
       "finalPrice": 555
+    },
+    {
+      "endTime": "2026-02-07T10:15:25.837Z",
+      "finalPrice": 52.5
     }
   ],
   "Shard Blockzerstörer": [
@@ -1579,6 +1607,10 @@
     {
       "endTime": "2026-02-07T02:18:01.263Z",
       "finalPrice": 1575
+    },
+    {
+      "endTime": "2026-02-07T10:33:33.655Z",
+      "finalPrice": 3
     }
   ],
   "OMINOUS_TRIAL_KEY": [
@@ -1699,6 +1731,42 @@
     {
       "endTime": "2026-02-07T10:12:33.998Z",
       "finalPrice": 105
+    }
+  ],
+  "PRISMARINE_CRYSTALS": [
+    {
+      "endTime": "2026-02-07T10:47:18.792Z",
+      "finalPrice": 2626.05
+    }
+  ],
+  "REINFORCED_DEEPSLATE": [
+    {
+      "endTime": "2026-02-07T10:13:56.147Z",
+      "finalPrice": 50000
+    }
+  ],
+  "LODESTONE": [
+    {
+      "endTime": "2026-02-07T10:14:25.293Z",
+      "finalPrice": 10500
+    }
+  ],
+  "Herzbett": [
+    {
+      "endTime": "2026-02-07T10:14:37.191Z",
+      "finalPrice": 170000
+    }
+  ],
+  "Tauschuhe": [
+    {
+      "endTime": "2026-02-07T10:15:01.949Z",
+      "finalPrice": 1060
+    }
+  ],
+  "Netherite Schwert": [
+    {
+      "endTime": "2026-02-07T10:24:59.381Z",
+      "finalPrice": 390000
     }
   ]
 }
