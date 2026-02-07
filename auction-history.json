@@ -151,6 +151,24 @@
       "finalPrice": 26251.06,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01f5bc9d911f"
+    },
+    {
+      "endTime": "2026-02-08T00:35:07.835Z",
+      "finalPrice": 280000,
+      "highestBidder": "d2ebfdfe-ff02-4b84-a1f0-b944f8c245ef",
+      "seller": "ef6b1b0a-36c4-46fa-b425-f87e8ee1d0ed"
+    },
+    {
+      "endTime": "2026-02-08T00:35:48.334Z",
+      "finalPrice": 280000,
+      "highestBidder": "d2ebfdfe-ff02-4b84-a1f0-b944f8c245ef",
+      "seller": "ef6b1b0a-36c4-46fa-b425-f87e8ee1d0ed"
+    },
+    {
+      "endTime": "2026-02-08T00:06:37.981Z",
+      "finalPrice": 280000,
+      "highestBidder": "d2ebfdfe-ff02-4b84-a1f0-b944f8c245ef",
+      "seller": "fe4d65b4-d83f-4303-b179-1bc7b897e776"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -177,6 +195,12 @@
       "finalPrice": 606000,
       "highestBidder": "647a9de1-20b8-4ad1-aac7-7b743901eb7a",
       "seller": "11e4a94d-db4b-43ea-ad2f-bb0dbeffb01c"
+    },
+    {
+      "endTime": "2026-02-08T00:18:50.665Z",
+      "finalPrice": 102000,
+      "highestBidder": "00000000-0000-0000-0009-01f7231ed0e8",
+      "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
     }
   ],
   "Thanos Handschuh": [
@@ -695,6 +719,12 @@
       "finalPrice": 100,
       "highestBidder": "bccd74a1-aa80-49c4-8ec8-89e9cc6954c7",
       "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
+    },
+    {
+      "endTime": "2026-02-07T23:44:06.145Z",
+      "finalPrice": 2000,
+      "highestBidder": "64387c6f-eed7-4925-b235-b89bca446dbd",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Ballon der Liebe": [
@@ -1043,6 +1073,12 @@
       "finalPrice": 60000,
       "highestBidder": "00000000-0000-0000-0009-01f6f4f89f34",
       "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
+    },
+    {
+      "endTime": "2026-02-08T00:08:18.889Z",
+      "finalPrice": 2000,
+      "highestBidder": "00000000-0000-0000-0009-01f1a947edab",
+      "seller": "6a06a729-933d-4818-8a4e-cdf843830164"
     }
   ],
   "Normale ★ Brust": [
@@ -1807,6 +1843,12 @@
       "finalPrice": 10,
       "highestBidder": "00000000-0000-0000-0009-01f4f84e45af",
       "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
+    },
+    {
+      "endTime": "2026-02-07T23:43:48.899Z",
+      "finalPrice": 50000,
+      "highestBidder": "332e37de-1991-4a4f-9c3a-f02d7c13903f",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Auktionshaus": [
@@ -2225,6 +2267,12 @@
       "finalPrice": 50000,
       "highestBidder": "00000000-0000-0000-0009-01f746a56532",
       "seller": "00000000-0000-0000-0009-01f895a00868"
+    },
+    {
+      "endTime": "2026-02-08T00:18:08.569Z",
+      "finalPrice": 302000,
+      "highestBidder": "647a9de1-20b8-4ad1-aac7-7b743901eb7a",
+      "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
     }
   ],
   "OPPass Trophäe": [
@@ -2873,6 +2921,36 @@
       "finalPrice": 30001,
       "highestBidder": "f2f5c52a-d4ce-4631-ae7a-c36478816fda",
       "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818"
+    }
+  ],
+  "SHULKER_BOX": [
+    {
+      "endTime": "2026-02-08T00:05:35.203Z",
+      "finalPrice": 210000,
+      "highestBidder": "fd3f8679-2baa-456b-966c-f4783e8b5128",
+      "seller": "18ce68d7-0575-41cd-9326-78e8951486cf"
+    },
+    {
+      "endTime": "2026-02-08T00:33:34.197Z",
+      "finalPrice": 2500002,
+      "highestBidder": "6005f620-5d2e-46da-a497-88da82ab5080",
+      "seller": "001e197e-d7f6-4455-9753-43c4560334d5"
+    }
+  ],
+  "Builder Axt": [
+    {
+      "endTime": "2026-02-08T00:27:10.415Z",
+      "finalPrice": 3000001,
+      "highestBidder": "8ff2fc00-5950-4b45-be36-255e06886639",
+      "seller": "001e197e-d7f6-4455-9753-43c4560334d5"
+    }
+  ],
+  "Rosenstrauß": [
+    {
+      "endTime": "2026-02-07T23:58:58.464Z",
+      "finalPrice": 5002,
+      "highestBidder": "7ef3c3d4-3082-4bdf-a27c-61832e885e28",
+      "seller": "986d9342-769c-483a-9f20-8643d93ca7cf"
     }
   ]
 }
