@@ -357,6 +357,11 @@
     {
       "endTime": "2026-02-07T17:15:21.731Z",
       "finalPrice": 300000
+    },
+    {
+      "endTime": "2026-02-07T16:32:38.047Z",
+      "finalPrice": 94815,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
     }
   ],
   "Auktionshaus": [
@@ -424,6 +429,11 @@
     {
       "endTime": "2026-02-07T16:30:09.563Z",
       "finalPrice": 6000,
+      "highestBidder": "609e26c5-b26b-4f73-a276-2c9185ebbfed"
+    },
+    {
+      "endTime": "2026-02-07T16:31:18.753Z",
+      "finalPrice": 6700,
       "highestBidder": "609e26c5-b26b-4f73-a276-2c9185ebbfed"
     }
   ],
@@ -634,6 +644,14 @@
     {
       "endTime": "2026-02-07T16:38:34.972Z",
       "finalPrice": 50000
+    },
+    {
+      "endTime": "2026-02-07T17:29:26.485Z",
+      "finalPrice": 50000
+    },
+    {
+      "endTime": "2026-02-07T17:29:39.785Z",
+      "finalPrice": 50000
     }
   ],
   "Lama-Spawn-Egg": [
@@ -671,6 +689,29 @@
     {
       "endTime": "2026-02-07T17:26:49.206Z",
       "finalPrice": 1
+    }
+  ],
+  "❄ Wunschliste ❄": [
+    {
+      "endTime": "2026-02-07T17:29:28.967Z",
+      "finalPrice": 10000,
+      "highestBidder": "1c12b094-f25b-40dc-835e-87a0e9e5e22d"
+    }
+  ],
+  "Phils geheime Freundin": [
+    {
+      "endTime": "2026-02-07T17:29:47.678Z",
+      "finalPrice": 15000
+    }
+  ],
+  "Plüsch oopslee ": [
+    {
+      "endTime": "2026-02-07T17:30:07.697Z",
+      "finalPrice": 15000
+    },
+    {
+      "endTime": "2026-02-07T17:30:27.133Z",
+      "finalPrice": 15000
     }
   ]
 }
