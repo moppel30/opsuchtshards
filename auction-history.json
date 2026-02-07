@@ -121,6 +121,18 @@
       "finalPrice": 157500,
       "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
       "seller": "56387a3c-03c3-4883-b684-dbf48d0ff306"
+    },
+    {
+      "endTime": "2026-02-07T23:09:54.450Z",
+      "finalPrice": 250000,
+      "highestBidder": "00000000-0000-0000-0009-01fee4286556",
+      "seller": "00000000-0000-0000-0009-01f1aab0574e"
+    },
+    {
+      "endTime": "2026-02-07T23:35:16.966Z",
+      "finalPrice": 450001,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "seller": "0a23b04b-7ac2-412e-9bf9-5a6a248b8180"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -141,6 +153,12 @@
       "finalPrice": 350000,
       "highestBidder": "18b8ef10-2b0c-4814-95c0-cd8463b8a51d",
       "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91"
+    },
+    {
+      "endTime": "2026-02-07T23:06:40.443Z",
+      "finalPrice": 606000,
+      "highestBidder": "647a9de1-20b8-4ad1-aac7-7b743901eb7a",
+      "seller": "11e4a94d-db4b-43ea-ad2f-bb0dbeffb01c"
     }
   ],
   "Thanos Handschuh": [
@@ -233,6 +251,12 @@
       "finalPrice": 5.25,
       "highestBidder": "9dead61a-3a36-4d29-8d74-398be39ab6f2",
       "seller": "bf955554-120c-45be-b719-570708a71b4a"
+    },
+    {
+      "endTime": "2026-02-07T23:27:02.812Z",
+      "finalPrice": 5001,
+      "highestBidder": "f5634940-1928-4a9c-a0d6-8c286d81e128",
+      "seller": "8452af63-e62c-4271-a641-1678ab963aa1"
     }
   ],
   "OP Sammelalbum": [
@@ -443,6 +467,12 @@
       "finalPrice": 100001,
       "highestBidder": "9247b93a-fd70-4eac-87dd-9633e58c76cc",
       "seller": "a44e410c-021b-415a-8870-a0539ee89e34"
+    },
+    {
+      "endTime": "2026-02-07T22:39:12.267Z",
+      "finalPrice": 63001.05,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "d5a83889-d53f-4069-8709-06865e608324"
     }
   ],
   "Odin's Schwingen": [
@@ -919,6 +949,12 @@
       "finalPrice": 15612,
       "highestBidder": "3a69ab54-a892-40d2-b60d-fe3ede73ee8f",
       "seller": "f901dfb7-06d1-4224-9bcd-f07888496513"
+    },
+    {
+      "endTime": "2026-02-07T23:07:22.751Z",
+      "finalPrice": 85000,
+      "highestBidder": "00000000-0000-0000-0009-01f8e37e5056",
+      "seller": "11e4a94d-db4b-43ea-ad2f-bb0dbeffb01c"
     }
   ],
   "OP-Kiste": [
@@ -945,6 +981,12 @@
       "finalPrice": 10,
       "highestBidder": "85d49535-1a39-4f97-beec-3c08f0c4b30a",
       "seller": "da5424e1-edd0-419b-b79d-a11339106ae5"
+    },
+    {
+      "endTime": "2026-02-07T22:36:07.901Z",
+      "finalPrice": 501,
+      "highestBidder": "ffafca53-22f1-430a-b155-37100c3d7186",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Playbutton": [
@@ -1581,6 +1623,12 @@
       "finalPrice": 10001,
       "highestBidder": "56ba669a-1895-43d1-807d-40fb1e05c573",
       "seller": "c35e2fc6-cae6-4a65-8a00-e18af515ffac"
+    },
+    {
+      "endTime": "2026-02-07T23:11:26.645Z",
+      "finalPrice": 102500,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c"
     }
   ],
   "Profi Angel v3": [
@@ -1679,6 +1727,12 @@
       "finalPrice": 2,
       "highestBidder": "aed79f11-4ae9-473c-a259-05f305c8b7c1",
       "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
+    },
+    {
+      "endTime": "2026-02-07T23:19:02.571Z",
+      "finalPrice": 1001,
+      "highestBidder": "ffafca53-22f1-430a-b155-37100c3d7186",
+      "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818"
     }
   ],
   "Tresor": [
@@ -1707,6 +1761,12 @@
       "finalPrice": 4,
       "highestBidder": "7dd8a04f-32fa-467f-bf81-dbb36c78035d",
       "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-07T23:26:30.334Z",
+      "finalPrice": 10001,
+      "highestBidder": "f5634940-1928-4a9c-a0d6-8c286d81e128",
+      "seller": "8452af63-e62c-4271-a641-1678ab963aa1"
     }
   ],
   "Pinguin-Paket": [
@@ -1737,6 +1797,12 @@
       "finalPrice": 500000,
       "highestBidder": "00000000-0000-0000-0009-01fca0d31d37",
       "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50"
+    },
+    {
+      "endTime": "2026-02-07T23:14:48.727Z",
+      "finalPrice": 200000,
+      "highestBidder": "aabab78f-167a-4560-97e4-9fc495e6fe79",
+      "seller": "91873160-d330-42a8-81b1-61e2cc1c804f"
     }
   ],
   "Herobrines Enderperle": [
@@ -1913,6 +1979,12 @@
       "finalPrice": 2000001,
       "highestBidder": "ce46bd53-1935-40aa-ae0d-653557942b72",
       "seller": "c14fc66f-ecb3-4595-ad45-a72a2b882a0f"
+    },
+    {
+      "endTime": "2026-02-07T23:23:15.056Z",
+      "finalPrice": 1515002.02,
+      "highestBidder": "7cb6e0dd-91c5-4439-b55f-63898f8d13d6",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "NETHERITE_BOOTS": [
@@ -2311,6 +2383,12 @@
       "finalPrice": 130000,
       "highestBidder": "00000000-0000-0000-0009-01ffb3891039",
       "seller": "0da50058-eab9-4df0-8522-081a4ef0b568"
+    },
+    {
+      "endTime": "2026-02-07T23:22:23.677Z",
+      "finalPrice": 50001,
+      "highestBidder": "244eeff5-1d2d-496e-846f-5c8681592b29",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "Emmys Blume": [
@@ -2495,6 +2573,18 @@
       "finalPrice": 111111,
       "highestBidder": "00000000-0000-0000-0009-01f7231ed0e8",
       "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060"
+    },
+    {
+      "endTime": "2026-02-07T23:07:05.233Z",
+      "finalPrice": 200000,
+      "highestBidder": "00000000-0000-0000-0009-01f71cd96ea0",
+      "seller": "51372a35-d288-4efe-ad09-4b5930fa6737"
+    },
+    {
+      "endTime": "2026-02-07T23:07:15.553Z",
+      "finalPrice": 150001,
+      "highestBidder": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
+      "seller": "51372a35-d288-4efe-ad09-4b5930fa6737"
     }
   ],
   "Holzbündel": [
@@ -2631,6 +2721,62 @@
       "finalPrice": 17500001,
       "highestBidder": "8a4dab04-d37d-47a1-bba5-0e57b5562ef4",
       "seller": "7d46edfe-1ce5-4857-9200-22c47b7ca5ff"
+    }
+  ],
+  "Partykanone": [
+    {
+      "endTime": "2026-02-07T22:44:39.698Z",
+      "finalPrice": 301000,
+      "highestBidder": "22db07b1-7df5-4276-be30-fec08333a286",
+      "seller": "675faf83-3f11-4a34-bc72-16ad06eca0ba"
+    }
+  ],
+  "Erdspalter-Schaufel": [
+    {
+      "endTime": "2026-02-07T23:11:29.881Z",
+      "finalPrice": 1800000,
+      "highestBidder": "7f2e4bf9-f714-4b7f-ace8-16acd0925de5",
+      "seller": "96edd6ea-6716-40ed-9215-2817c4f1d895"
+    }
+  ],
+  "Sculkbogen": [
+    {
+      "endTime": "2026-02-07T23:15:01.780Z",
+      "finalPrice": 200000,
+      "highestBidder": "00facec5-eb1c-4216-9124-c767ea13d39b",
+      "seller": "91873160-d330-42a8-81b1-61e2cc1c804f"
+    }
+  ],
+  "Wichtelschuhe": [
+    {
+      "endTime": "2026-02-07T23:20:45.241Z",
+      "finalPrice": 30000,
+      "highestBidder": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "seller": "213fef3a-5bac-492b-b049-95dc08f1dd91"
+    }
+  ],
+  "Kabeljau-Spawn-Egg": [
+    {
+      "endTime": "2026-02-07T23:11:41.386Z",
+      "finalPrice": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c"
+    }
+  ],
+  "IRON_SWORD": [
+    {
+      "endTime": "2026-02-07T23:24:01.144Z",
+      "finalPrice": 550,
+      "highestBidder": "09f272cd-bb4a-438c-a13a-bb7b14366b43",
+      "seller": "cc1189c2-096a-48b7-8c16-854b6b120640"
+    }
+  ],
+  "DRAGON_BREATH": [
+    {
+      "endTime": "2026-02-07T23:06:06.046Z",
+      "finalPrice": 20002,
+      "highestBidder": "fe74b251-dc2a-471b-88fa-d7a18ffe03b3",
+      "seller": "00000000-0000-0000-0009-01f388805f4c"
     }
   ]
 }
