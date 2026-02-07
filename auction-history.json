@@ -81,6 +81,10 @@
     {
       "endTime": "2026-02-06T19:17:38.812Z",
       "finalPrice": 1287876.25
+    },
+    {
+      "endTime": "2026-02-07T10:55:06.299Z",
+      "finalPrice": 1100000
     }
   ],
   "Odin's Schwingen": [
@@ -591,6 +595,10 @@
     {
       "endTime": "2026-02-07T10:33:42.560Z",
       "finalPrice": 106
+    },
+    {
+      "endTime": "2026-02-07T11:05:19.188Z",
+      "finalPrice": 2
     }
   ],
   "Filmstudio": [
@@ -919,6 +927,10 @@
     {
       "endTime": "2026-02-06T22:37:01.400Z",
       "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-07T10:51:43.024Z",
+      "finalPrice": 110000
     }
   ],
   "Christians Hose": [
@@ -1433,6 +1445,10 @@
     {
       "endTime": "2026-02-06T23:00:54.260Z",
       "finalPrice": 106052627.01
+    },
+    {
+      "endTime": "2026-02-07T10:50:57.067Z",
+      "finalPrice": 92000000
     }
   ],
   "✳ Sonnen Talisman ✳": [
@@ -1543,6 +1559,10 @@
     {
       "endTime": "2026-02-07T01:04:58.482Z",
       "finalPrice": 2500000
+    },
+    {
+      "endTime": "2026-02-07T11:00:55.652Z",
+      "finalPrice": 2525000
     }
   ],
   "MACE": [
@@ -1737,6 +1757,14 @@
     {
       "endTime": "2026-02-07T10:47:18.792Z",
       "finalPrice": 2626.05
+    },
+    {
+      "endTime": "2026-02-07T10:54:59.896Z",
+      "finalPrice": 2501
+    },
+    {
+      "endTime": "2026-02-07T10:55:09.441Z",
+      "finalPrice": 2501
     }
   ],
   "REINFORCED_DEEPSLATE": [
@@ -1767,6 +1795,30 @@
     {
       "endTime": "2026-02-07T10:24:59.381Z",
       "finalPrice": 390000
+    }
+  ],
+  "Sammelkartenbox": [
+    {
+      "endTime": "2026-02-07T10:54:13.802Z",
+      "finalPrice": 400001
+    }
+  ],
+  "Sculkschwert": [
+    {
+      "endTime": "2026-02-07T10:51:10.471Z",
+      "finalPrice": 1000001
+    }
+  ],
+  "DUNE_ARMOR_TRIM_SMITHING_TEMPLATE": [
+    {
+      "endTime": "2026-02-07T11:03:07.317Z",
+      "finalPrice": 2001
+    }
+  ],
+  "Content-Team": [
+    {
+      "endTime": "2026-02-07T11:04:43.053Z",
+      "finalPrice": 78750
     }
   ]
 }
