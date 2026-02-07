@@ -94,6 +94,11 @@
       "endTime": "2026-02-07T17:12:46.578Z",
       "finalPrice": 450001,
       "highestBidder": "00000000-0000-0000-0009-01f4dfb2ab38"
+    },
+    {
+      "endTime": "2026-02-07T17:41:34.049Z",
+      "finalPrice": 52500,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
     }
   ],
   "Luxury Island": [
@@ -181,6 +186,11 @@
       "endTime": "2026-02-07T16:55:22.740Z",
       "finalPrice": 75001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
+    },
+    {
+      "endTime": "2026-02-07T17:42:21.278Z",
+      "finalPrice": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01fee4286556"
     }
   ],
   "Odin's Schwingen": [
@@ -310,6 +320,11 @@
       "endTime": "2026-02-07T16:54:54.705Z",
       "finalPrice": 15001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
+    },
+    {
+      "endTime": "2026-02-07T17:42:48.692Z",
+      "finalPrice": 16000,
+      "highestBidder": "ae218a7b-e9d4-46f4-b751-6f65544ce02b"
     }
   ],
   "ELYTRA": [
@@ -317,6 +332,16 @@
       "endTime": "2026-02-07T17:19:52.376Z",
       "finalPrice": 30000,
       "highestBidder": "363c2c0b-9743-447c-be13-fb64b2f4b554"
+    },
+    {
+      "endTime": "2026-02-07T17:51:38.546Z",
+      "finalPrice": 100001,
+      "highestBidder": "8e6d2e12-3476-41f4-a559-5ac3fc85cb35"
+    },
+    {
+      "endTime": "2026-02-07T17:52:01.040Z",
+      "finalPrice": 100001,
+      "highestBidder": "2ebd72a6-dccf-4753-a751-14fa2f76e4d8"
     }
   ],
   "ENDER_PEARL": [
@@ -324,6 +349,60 @@
       "endTime": "2026-02-07T17:26:49.206Z",
       "finalPrice": 30,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b"
+    }
+  ],
+  "Content-Team": [
+    {
+      "endTime": "2026-02-07T17:41:54.954Z",
+      "finalPrice": 2310,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
+    }
+  ],
+  "DEKO | Box": [
+    {
+      "endTime": "2026-02-07T17:41:24.008Z",
+      "finalPrice": 250000,
+      "highestBidder": "e7154be3-677b-459d-9eb0-37e7cdf0ae88"
+    },
+    {
+      "endTime": "2026-02-07T17:41:37.554Z",
+      "finalPrice": 200000,
+      "highestBidder": "0bd6169d-a49e-470f-9861-f81af014c719"
+    }
+  ],
+  "OP Minion": [
+    {
+      "endTime": "2026-02-07T17:41:16.710Z",
+      "finalPrice": 4,
+      "highestBidder": "69a37f71-c495-41e5-8c21-2bbb5bf88cd6"
+    }
+  ],
+  "Phils geheime Freundin": [
+    {
+      "endTime": "2026-02-07T17:29:47.678Z",
+      "finalPrice": 15001,
+      "highestBidder": "eb4fbdf6-9ffd-45cc-9b02-2552a72f0bed"
+    }
+  ],
+  "Plüsch oopslee ": [
+    {
+      "endTime": "2026-02-07T17:30:27.133Z",
+      "finalPrice": 16000,
+      "highestBidder": "8095ea33-fdef-4e11-9e2f-7d43ad4baa4b"
+    }
+  ],
+  "Windbrustplatte": [
+    {
+      "endTime": "2026-02-07T16:57:33.901Z",
+      "finalPrice": 50001,
+      "highestBidder": "37768f10-aac1-4fc7-a705-f1e630300999"
+    }
+  ],
+  "Windschaufel": [
+    {
+      "endTime": "2026-02-07T17:43:22.462Z",
+      "finalPrice": 50001,
+      "highestBidder": "8e1e6dc3-8eca-4277-bc09-1b5cedb5869f"
     }
   ]
 }
