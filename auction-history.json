@@ -145,6 +145,10 @@
     {
       "endTime": "2026-02-07T08:55:19.198Z",
       "finalPrice": 2000000
+    },
+    {
+      "endTime": "2026-02-07T15:03:32.960Z",
+      "finalPrice": 4000001
     }
   ],
   "Runenbrecher": [
@@ -471,6 +475,10 @@
     {
       "endTime": "2026-02-06T22:35:56.425Z",
       "finalPrice": 7000000
+    },
+    {
+      "endTime": "2026-02-07T15:00:57.023Z",
+      "finalPrice": 10000001
     }
   ],
   "Farmwelt": [
@@ -535,6 +543,10 @@
     {
       "endTime": "2026-02-07T14:29:56.228Z",
       "finalPrice": 3472.94
+    },
+    {
+      "endTime": "2026-02-07T15:01:07.547Z",
+      "finalPrice": 2000000
     }
   ],
   "Gletscherstiefel": [
@@ -917,6 +929,10 @@
     {
       "endTime": "2026-02-07T12:09:39.179Z",
       "finalPrice": 52500
+    },
+    {
+      "endTime": "2026-02-07T15:31:24.212Z",
+      "finalPrice": 5001
     }
   ],
   "H4CKER.exe": [
@@ -1111,6 +1127,10 @@
     {
       "endTime": "2026-02-07T13:40:08.539Z",
       "finalPrice": 100001
+    },
+    {
+      "endTime": "2026-02-07T15:27:47.995Z",
+      "finalPrice": 300001
     }
   ],
   "Luxury Island": [
@@ -1239,6 +1259,10 @@
     {
       "endTime": "2026-02-06T21:05:34.440Z",
       "finalPrice": 10001
+    },
+    {
+      "endTime": "2026-02-07T15:08:53.107Z",
+      "finalPrice": 3087
     }
   ],
   "Winterei": [
@@ -1345,6 +1369,10 @@
     {
       "endTime": "2026-02-07T12:43:33.539Z",
       "finalPrice": 3000000
+    },
+    {
+      "endTime": "2026-02-07T15:15:23Z",
+      "finalPrice": 5001
     }
   ],
   "Lapisbogen": [
@@ -1357,6 +1385,10 @@
     {
       "endTime": "2026-02-06T21:45:07.792Z",
       "finalPrice": 60000
+    },
+    {
+      "endTime": "2026-02-07T15:22:12.148Z",
+      "finalPrice": 6000
     }
   ],
   "Magischer Adventsapfel": [
@@ -1547,6 +1579,10 @@
     {
       "endTime": "2026-02-07T10:14:58.254Z",
       "finalPrice": 5255
+    },
+    {
+      "endTime": "2026-02-07T15:12:05.634Z",
+      "finalPrice": 46305
     }
   ],
   "MrLostGamers Modpicke": [
@@ -1737,6 +1773,10 @@
     {
       "endTime": "2026-02-07T13:53:16.788Z",
       "finalPrice": 1.07
+    },
+    {
+      "endTime": "2026-02-07T15:34:15.187Z",
+      "finalPrice": 50001
     }
   ],
   "Jonahchos Modpicke": [
@@ -2049,6 +2089,10 @@
     {
       "endTime": "2026-02-07T10:15:01.949Z",
       "finalPrice": 1060
+    },
+    {
+      "endTime": "2026-02-07T15:33:35.238Z",
+      "finalPrice": 50000
     }
   ],
   "Netherite Schwert": [
@@ -2207,6 +2251,10 @@
     {
       "endTime": "2026-02-07T13:35:37.575Z",
       "finalPrice": 4001
+    },
+    {
+      "endTime": "2026-02-07T15:12:51.733Z",
+      "finalPrice": 10000
     }
   ],
   "END_CRYSTAL": [
@@ -2309,6 +2357,10 @@
     {
       "endTime": "2026-02-07T14:55:17.659Z",
       "finalPrice": 2000
+    },
+    {
+      "endTime": "2026-02-07T15:00:13.427Z",
+      "finalPrice": 7000
     }
   ],
   "Jesus Christus am Kreuz": [
@@ -2321,6 +2373,72 @@
     {
       "endTime": "2026-02-07T14:52:12.947Z",
       "finalPrice": 2808080.08
+    }
+  ],
+  "Kartenzepter": [
+    {
+      "endTime": "2026-02-07T15:12:10.820Z",
+      "finalPrice": 600000
+    }
+  ],
+  "Windschaufel": [
+    {
+      "endTime": "2026-02-07T15:12:15.626Z",
+      "finalPrice": 13858.75
+    }
+  ],
+  "EXPERIENCE_BOTTLE": [
+    {
+      "endTime": "2026-02-07T15:12:21.336Z",
+      "finalPrice": 1000
+    }
+  ],
+  "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE": [
+    {
+      "endTime": "2026-02-07T15:12:28.027Z",
+      "finalPrice": 28350
+    }
+  ],
+  "Narrenschuhe": [
+    {
+      "endTime": "2026-02-07T15:12:33.905Z",
+      "finalPrice": 50999
+    }
+  ],
+  "NAME_TAG": [
+    {
+      "endTime": "2026-02-07T15:12:40.294Z",
+      "finalPrice": 10000
+    }
+  ],
+  "Narrenjacke": [
+    {
+      "endTime": "2026-02-07T15:12:46.165Z",
+      "finalPrice": 50000
+    }
+  ],
+  ".. Flinks Admin-Brustplatte ..": [
+    {
+      "endTime": "2026-02-07T15:17:13.747Z",
+      "finalPrice": 2000002
+    }
+  ],
+  "WAXED_OXIDIZED_COPPER_BULB": [
+    {
+      "endTime": "2026-02-07T15:34:02.922Z",
+      "finalPrice": 63
+    }
+  ],
+  "Hacke der Herzen": [
+    {
+      "endTime": "2026-02-07T15:04:19.846Z",
+      "finalPrice": 100000
+    }
+  ],
+  "OPSUCHT Holzfäller Axt": [
+    {
+      "endTime": "2026-02-07T15:34:43.572Z",
+      "finalPrice": 50001
     }
   ]
 }
