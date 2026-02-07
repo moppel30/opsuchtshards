@@ -425,6 +425,10 @@
     {
       "endTime": "2026-02-07T11:13:05.084Z",
       "finalPrice": 2001
+    },
+    {
+      "endTime": "2026-02-07T12:44:53.533Z",
+      "finalPrice": 10001
     }
   ],
   "EinfachEmmy": [
@@ -447,6 +451,10 @@
     {
       "endTime": "2026-02-07T04:09:03.613Z",
       "finalPrice": 10001
+    },
+    {
+      "endTime": "2026-02-07T12:20:55.534Z",
+      "finalPrice": 2222222
     }
   ],
   "Gletscherstiefel": [
@@ -681,6 +689,10 @@
     {
       "endTime": "2026-02-06T21:54:10.644Z",
       "finalPrice": 35700
+    },
+    {
+      "endTime": "2026-02-07T11:57:03.407Z",
+      "finalPrice": 1022
     }
   ],
   "Frühlings Tulpe": [
@@ -789,6 +801,10 @@
     {
       "endTime": "2026-02-07T00:56:34.434Z",
       "finalPrice": 2001
+    },
+    {
+      "endTime": "2026-02-07T12:09:39.179Z",
+      "finalPrice": 52500
     }
   ],
   "H4CKER.exe": [
@@ -963,6 +979,10 @@
     {
       "endTime": "2026-02-06T20:55:52.313Z",
       "finalPrice": 500000
+    },
+    {
+      "endTime": "2026-02-07T12:09:54.243Z",
+      "finalPrice": 200000
     }
   ],
   "Luxury Island": [
@@ -1181,6 +1201,10 @@
     {
       "endTime": "2026-02-07T06:59:18.825Z",
       "finalPrice": 2000000
+    },
+    {
+      "endTime": "2026-02-07T12:43:33.539Z",
+      "finalPrice": 3000000
     }
   ],
   "Lapisbogen": [
@@ -1231,6 +1255,10 @@
     {
       "endTime": "2026-02-06T21:46:42.968Z",
       "finalPrice": 150001
+    },
+    {
+      "endTime": "2026-02-07T11:55:39.759Z",
+      "finalPrice": 150001
     }
   ],
   "Supporter-Team": [
@@ -1245,6 +1273,10 @@
     {
       "endTime": "2026-02-06T23:10:49.792Z",
       "finalPrice": 60001
+    },
+    {
+      "endTime": "2026-02-07T12:00:48.939Z",
+      "finalPrice": 42000
     }
   ],
   "Engelshelm": [
@@ -1303,6 +1335,10 @@
     {
       "endTime": "2026-02-06T22:58:17.248Z",
       "finalPrice": 14000000
+    },
+    {
+      "endTime": "2026-02-07T12:26:10.068Z",
+      "finalPrice": 15444315
     }
   ],
   "Unsichtbarkeitstalisman": [
@@ -1419,6 +1455,10 @@
     {
       "endTime": "2026-02-07T11:46:02.974Z",
       "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-07T12:09:20.596Z",
+      "finalPrice": 1500
     }
   ],
   "Shard Blockzerstörer": [
@@ -1435,6 +1475,10 @@
     {
       "endTime": "2026-02-06T22:42:16.658Z",
       "finalPrice": 100000
+    },
+    {
+      "endTime": "2026-02-07T12:08:59.338Z",
+      "finalPrice": 57750
     }
   ],
   "SUSPICIOUS_GRAVEL": [
@@ -1873,6 +1917,48 @@
     {
       "endTime": "2026-02-07T11:39:13.706Z",
       "finalPrice": 2
+    }
+  ],
+  "Builder Axt": [
+    {
+      "endTime": "2026-02-07T12:22:17.309Z",
+      "finalPrice": 2500000
+    }
+  ],
+  "NETHERITE_PICKAXE": [
+    {
+      "endTime": "2026-02-07T12:26:51.585Z",
+      "finalPrice": 40950
+    },
+    {
+      "endTime": "2026-02-07T12:27:07.182Z",
+      "finalPrice": 30000
+    },
+    {
+      "endTime": "2026-02-07T12:27:20.497Z",
+      "finalPrice": 37000
+    }
+  ],
+  "DIAMOND_PICKAXE": [
+    {
+      "endTime": "2026-02-07T12:06:08.602Z",
+      "finalPrice": 27501
+    },
+    {
+      "endTime": "2026-02-07T12:06:25.567Z",
+      "finalPrice": 30000
+    }
+  ],
+  "Plüsch Flink": [
+    {
+      "endTime": "2026-02-07T12:39:32.096Z",
+      "finalPrice": 180000
+    }
+  ],
+  "OPSUCHT Miner Rucksack": [
+    {
+      "endTime": "2026-02-07T11:54:36.127Z",
+      "finalPrice": 158666.1
     }
   ]
 }
