@@ -10,7 +10,7 @@ admin.initializeApp({
 });
 
 const db = admin.database();
-const auctionsRef = db.ref('endedAuctions');
+const endedAuctionsRef = db.ref('endedAuctions'); // Ref für die Rohdaten in Firebase
 
 async function trackEndedAuctions() {
   try {
@@ -28,51 +28,70 @@ async function trackEndedAuctions() {
     console.log(`Aktuelle deutsche Zeit (für Vergleich): ${nowInGermany.toLocaleString('de-DE')}`);
     console.log(`============================================`);
 
-    let foundEndedAuction = false;
+    let changesMade = false;
+    
+    // Lade die existierende Auktionshistorie aus der JSON-Datei
+    let history = {};
+    try {
+      if (fs.existsSync('auction-history.json')) {
+        history = JSON.parse(fs.readFileSync('auction-history.json', 'utf8'));
+        console.log('Bestehende auction-history.json geladen.');
+      }
+    } catch (e) {
+      console.log('auction-history.json nicht gefunden oder fehlerhaft, starte neue Historie.');
+    }
 
     for (const auction of Object.values(activeAuctions)) {
       const endTime = new Date(auction.endTime);
 
       if (endTime < nowInGermany) {
-        foundEndedAuction = true;
         const auctionId = auction.uid;
-        const snapshot = await auctionsRef.child(auctionId).get();
+        
+        // Prüfe, ob die Auktion bereits in der JSON-Struktur verarbeitet wurde
+        const itemName = auction.item.displayName || auction.item.material;
+        const isAlreadySaved = history[itemName]?.some(sale => new Date(sale.endTime).getTime() === endTime.getTime());
 
-        if (snapshot.exists()) {
-          console.log(`Auktion ${auctionId} wurde bereits gespeichert. Überspringe.`);
-        } else {
-          if (!auction.bids) {
-            console.log(`Auktion ${auctionId} wird übersprungen (keine Gebote).`);
-            continue;
-          }
-          console.log(`Neue beendete Auktion gefunden: ${auctionId}. Speichere...`);
-          await auctionsRef.child(auctionId).set({
-            itemName: auction.item.displayName || auction.item.material,
-            finalPrice: auction.currentBid,
-            endTime: auction.endTime,
-            seller: auction.seller
-          });
-          console.log(`Auktion ${auctionId} erfolgreich gespeichert.`);
+        if (isAlreadySaved) {
+          console.log(`Auktion ${auctionId} für "${itemName}" wurde bereits verarbeitet. Überspringe.`);
+          continue;
         }
+
+        if (!auction.bids) {
+          console.log(`Auktion ${auctionId} für "${itemName}" wird übersprungen (keine Gebote).`);
+          continue;
+        }
+
+        console.log(`Neue beendete Auktion gefunden: ${auctionId} für "${itemName}".`);
+        
+        const saleData = {
+          endTime: auction.endTime,
+          finalPrice: auction.currentBid
+        };
+
+        if (!history[itemName]) {
+          history[itemName] = [];
+          console.log(`Neuer Abschnitt für "${itemName}" wird erstellt.`);
+        }
+        
+        history[itemName].push(saleData);
+        changesMade = true;
+        console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} zur Historie hinzugefügt.`);
       }
     }
 
-    if (!foundEndedAuction) {
-      console.log('Keine beendeten Auktionen in der aktuellen Liste gefunden.');
-    }
-
-    // Update der JSON-Datei auf GitHub
-    const allEndedAuctionsSnapshot = await auctionsRef.get();
-    if (allEndedAuctionsSnapshot.exists()) {
-        fs.writeFileSync('auction-history.json', JSON.stringify(allEndedAuctionsSnapshot.val(), null, 2));
-        console.log('auction-history.json wurde erfolgreich erstellt/aktualisiert.');
+    if (changesMade) {
+      fs.writeFileSync('auction-history.json', JSON.stringify(history, null, 2));
+      console.log('auction-history.json wurde erfolgreich aktualisiert.');
+    } else {
+      console.log('Keine neuen Verkäufe zum Speichern.');
     }
 
   } catch (error) {
     console.error('Ein Fehler ist aufgetreten:', error.message);
     process.exit(1);
   } finally {
-    await db.goOffline();
+    // Die Firebase-Verbindung wird nicht mehr benötigt, da wir nicht mehr in sie schreiben
+    // await db.goOffline(); 
     process.exit(0);
   }
 }
