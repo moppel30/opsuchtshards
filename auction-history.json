@@ -155,6 +155,10 @@
     {
       "endTime": "2026-02-07T06:44:46.007Z",
       "finalPrice": 6767000
+    },
+    {
+      "endTime": "2026-02-07T12:51:50.429Z",
+      "finalPrice": 7209000
     }
   ],
   "Normale ★ Hose": [
@@ -313,6 +317,18 @@
     {
       "endTime": "2026-02-07T10:01:28.103Z",
       "finalPrice": 357000
+    },
+    {
+      "endTime": "2026-02-07T12:54:26.321Z",
+      "finalPrice": 350000
+    },
+    {
+      "endTime": "2026-02-07T13:05:23.431Z",
+      "finalPrice": 153001.02
+    },
+    {
+      "endTime": "2026-02-07T12:50:17.242Z",
+      "finalPrice": 350000
     }
   ],
   "Playbutton": [
@@ -455,6 +471,10 @@
     {
       "endTime": "2026-02-07T12:20:55.534Z",
       "finalPrice": 2222222
+    },
+    {
+      "endTime": "2026-02-07T13:17:12.687Z",
+      "finalPrice": 2000001
     }
   ],
   "Gletscherstiefel": [
@@ -653,6 +673,10 @@
     {
       "endTime": "2026-02-07T10:15:16.338Z",
       "finalPrice": 52.6
+    },
+    {
+      "endTime": "2026-02-07T13:27:02.974Z",
+      "finalPrice": 30000
     }
   ],
   "FISHING_ROD": [
@@ -669,6 +693,10 @@
     {
       "endTime": "2026-02-07T11:12:31.153Z",
       "finalPrice": 1550000
+    },
+    {
+      "endTime": "2026-02-07T12:56:07.339Z",
+      "finalPrice": 765000
     }
   ],
   "Propellerhut": [
@@ -1071,6 +1099,10 @@
     {
       "endTime": "2026-02-06T20:47:58.350Z",
       "finalPrice": 571201
+    },
+    {
+      "endTime": "2026-02-07T12:55:46.299Z",
+      "finalPrice": 710000
     }
   ],
   "Anfänger Helm": [
@@ -1233,6 +1265,10 @@
     {
       "endTime": "2026-02-06T21:34:26.992Z",
       "finalPrice": 50001
+    },
+    {
+      "endTime": "2026-02-07T13:27:11.269Z",
+      "finalPrice": 600000
     }
   ],
   "JonCarrs Helm": [
@@ -1459,6 +1495,10 @@
     {
       "endTime": "2026-02-07T12:09:20.596Z",
       "finalPrice": 1500
+    },
+    {
+      "endTime": "2026-02-07T13:26:48.513Z",
+      "finalPrice": 526
     }
   ],
   "Shard Blockzerstörer": [
@@ -1711,6 +1751,10 @@
     {
       "endTime": "2026-02-07T03:54:56.324Z",
       "finalPrice": 105000
+    },
+    {
+      "endTime": "2026-02-07T13:13:11.819Z",
+      "finalPrice": 60001
     }
   ],
   "Furious Skyline": [
@@ -1899,6 +1943,10 @@
     {
       "endTime": "2026-02-07T11:23:49.677Z",
       "finalPrice": 2000022
+    },
+    {
+      "endTime": "2026-02-07T12:58:40.876Z",
+      "finalPrice": 410000
     }
   ],
   "BUDDING_AMETHYST": [
@@ -1959,6 +2007,42 @@
     {
       "endTime": "2026-02-07T11:54:36.127Z",
       "finalPrice": 158666.1
+    }
+  ],
+  "1. EDITION Booster Paket": [
+    {
+      "endTime": "2026-02-07T12:59:54.803Z",
+      "finalPrice": 362000
+    }
+  ],
+  "Aushöhllöffel": [
+    {
+      "endTime": "2026-02-07T13:13:23.346Z",
+      "finalPrice": 500000
+    }
+  ],
+  "SkyGuy's Totem V2": [
+    {
+      "endTime": "2026-02-07T13:13:35.648Z",
+      "finalPrice": 275002
+    }
+  ],
+  "Shulker": [
+    {
+      "endTime": "2026-02-07T13:29:01.317Z",
+      "finalPrice": 300001
+    }
+  ],
+  "Schlitten des Nikolaus": [
+    {
+      "endTime": "2026-02-07T13:02:59.446Z",
+      "finalPrice": 200000.01
+    }
+  ],
+  "DEKO | Box": [
+    {
+      "endTime": "2026-02-07T12:58:58.637Z",
+      "finalPrice": 103000
     }
   ]
 }
