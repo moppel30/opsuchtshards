@@ -1229,6 +1229,10 @@
     {
       "endTime": "2026-02-06T22:17:51.315Z",
       "finalPrice": 120000
+    },
+    {
+      "endTime": "2026-02-07T04:39:42.095Z",
+      "finalPrice": 60000
     }
   ],
   "Marcels Adminhelm": [
@@ -1467,6 +1471,18 @@
     {
       "endTime": "2026-02-07T03:54:56.324Z",
       "finalPrice": 105000
+    }
+  ],
+  "Furious Skyline": [
+    {
+      "endTime": "2026-02-07T05:09:46.994Z",
+      "finalPrice": 7000000
+    }
+  ],
+  "Amors Göttliche Schuhe": [
+    {
+      "endTime": "2026-02-07T04:47:43.684Z",
+      "finalPrice": 800000
     }
   ]
 }
