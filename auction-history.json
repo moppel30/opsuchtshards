@@ -129,6 +129,10 @@
     {
       "endTime": "2026-02-06T19:24:23.444Z",
       "finalPrice": 2395720
+    },
+    {
+      "endTime": "2026-02-07T08:55:19.198Z",
+      "finalPrice": 2000000
     }
   ],
   "Runenbrecher": [
@@ -165,6 +169,10 @@
     {
       "endTime": "2026-02-06T21:53:51.008Z",
       "finalPrice": 20001
+    },
+    {
+      "endTime": "2026-02-07T08:52:58.147Z",
+      "finalPrice": 31502
     }
   ],
   "ENDER_PEARL": [
@@ -285,6 +293,10 @@
     {
       "endTime": "2026-02-06T23:36:25.640Z",
       "finalPrice": 375000
+    },
+    {
+      "endTime": "2026-02-07T09:15:22.818Z",
+      "finalPrice": 153001.02
     }
   ],
   "Playbutton": [
@@ -307,6 +319,10 @@
     {
       "endTime": "2026-02-07T01:17:40.504Z",
       "finalPrice": 10500
+    },
+    {
+      "endTime": "2026-02-07T09:09:18.718Z",
+      "finalPrice": 676
     }
   ],
   "Neujahrsballons": [
@@ -341,6 +357,10 @@
     {
       "endTime": "2026-02-06T21:31:07.889Z",
       "finalPrice": 39000
+    },
+    {
+      "endTime": "2026-02-07T09:12:40.474Z",
+      "finalPrice": 150000
     }
   ],
   "SkyGuyTV": [
@@ -411,6 +431,10 @@
     {
       "endTime": "2026-02-06T20:40:31.750Z",
       "finalPrice": 3500000
+    },
+    {
+      "endTime": "2026-02-07T08:55:06.343Z",
+      "finalPrice": 3333333.33
     }
   ],
   "Hacker00's Griefzeug": [
@@ -573,6 +597,10 @@
     {
       "endTime": "2026-02-06T21:44:48.986Z",
       "finalPrice": 2500
+    },
+    {
+      "endTime": "2026-02-07T09:08:59.375Z",
+      "finalPrice": 1000
     }
   ],
   "FISHING_ROD": [
@@ -675,6 +703,14 @@
     {
       "endTime": "2026-02-07T02:17:55.680Z",
       "finalPrice": 1050
+    },
+    {
+      "endTime": "2026-02-07T08:54:48.105Z",
+      "finalPrice": 10500
+    },
+    {
+      "endTime": "2026-02-07T08:55:34.221Z",
+      "finalPrice": 555
     }
   ],
   "OP Pass": [
@@ -723,6 +759,14 @@
     {
       "endTime": "2026-02-07T02:21:51.129Z",
       "finalPrice": 200001
+    },
+    {
+      "endTime": "2026-02-07T08:49:07.581Z",
+      "finalPrice": 102001.02
+    },
+    {
+      "endTime": "2026-02-07T08:54:48.204Z",
+      "finalPrice": 20000
     }
   ],
   "Mini Pilzaxt": [
@@ -1005,12 +1049,20 @@
     {
       "endTime": "2026-02-06T21:12:43.181Z",
       "finalPrice": 100001
+    },
+    {
+      "endTime": "2026-02-07T09:01:51.362Z",
+      "finalPrice": 105000
     }
   ],
   "Phils geheime Freundin": [
     {
       "endTime": "2026-02-06T20:58:22.192Z",
       "finalPrice": 60001
+    },
+    {
+      "endTime": "2026-02-07T09:03:54.535Z",
+      "finalPrice": 32000
     }
   ],
   "Wumpus Flügel": [
@@ -1275,6 +1327,10 @@
     {
       "endTime": "2026-02-07T00:55:37.320Z",
       "finalPrice": 11100
+    },
+    {
+      "endTime": "2026-02-07T08:55:18.062Z",
+      "finalPrice": 555
     }
   ],
   "Shard Blockzerstörer": [
@@ -1547,6 +1603,42 @@
     {
       "endTime": "2026-02-07T08:22:44.099Z",
       "finalPrice": 77777
+    }
+  ],
+  "Poseidon's Talisman": [
+    {
+      "endTime": "2026-02-07T08:55:29.088Z",
+      "finalPrice": 22050
+    }
+  ],
+  "CREEPER_SPAWN_EGG": [
+    {
+      "endTime": "2026-02-07T09:01:56.899Z",
+      "finalPrice": 999601.02
+    }
+  ],
+  "SkyGuyTV Statue": [
+    {
+      "endTime": "2026-02-07T09:04:30.882Z",
+      "finalPrice": 233000
+    }
+  ],
+  "OPPhil Statue": [
+    {
+      "endTime": "2026-02-07T09:05:11.338Z",
+      "finalPrice": 132600
+    }
+  ],
+  "Fotoaufsteller Bär": [
+    {
+      "endTime": "2026-02-07T09:05:39.137Z",
+      "finalPrice": 80000
+    }
+  ],
+  "Plagegeister-Spawn-Egg": [
+    {
+      "endTime": "2026-02-07T09:12:02.122Z",
+      "finalPrice": 25000
     }
   ]
 }
