@@ -29,6 +29,10 @@
     {
       "endTime": "2026-02-06T19:30:00.580Z",
       "finalPrice": 1676
+    },
+    {
+      "endTime": "2026-02-07T00:04:02.763Z",
+      "finalPrice": 1000
     }
   ],
   "Neujahrshut": [
@@ -55,6 +59,10 @@
     {
       "endTime": "2026-02-06T23:55:19.392Z",
       "finalPrice": 5001
+    },
+    {
+      "endTime": "2026-02-07T01:18:04.901Z",
+      "finalPrice": 10500
     }
   ],
   "Engelschuhe v3": [
@@ -79,6 +87,10 @@
     {
       "endTime": "2026-02-06T19:20:54.007Z",
       "finalPrice": 1300001
+    },
+    {
+      "endTime": "2026-02-07T00:22:37.842Z",
+      "finalPrice": 1500001
     }
   ],
   "Infinity Axt": [
@@ -155,6 +167,10 @@
     {
       "endTime": "2026-02-06T19:26:03.593Z",
       "finalPrice": 3800001
+    },
+    {
+      "endTime": "2026-02-07T00:05:48.723Z",
+      "finalPrice": 3607715
     }
   ],
   "1. EDITION Boosterpack": [
@@ -267,6 +283,14 @@
     {
       "endTime": "2026-02-06T22:32:58.167Z",
       "finalPrice": 2001
+    },
+    {
+      "endTime": "2026-02-07T00:56:08.569Z",
+      "finalPrice": 10001
+    },
+    {
+      "endTime": "2026-02-07T01:17:40.504Z",
+      "finalPrice": 10500
     }
   ],
   "Neujahrsballons": [
@@ -325,6 +349,10 @@
     {
       "endTime": "2026-02-06T20:39:44.282Z",
       "finalPrice": 99000
+    },
+    {
+      "endTime": "2026-02-07T00:11:17.551Z",
+      "finalPrice": 2310
     }
   ],
   "EinfachEmmy": [
@@ -575,6 +603,10 @@
     {
       "endTime": "2026-02-06T22:25:13.009Z",
       "finalPrice": 175001
+    },
+    {
+      "endTime": "2026-02-07T01:30:10.278Z",
+      "finalPrice": 100001
     }
   ],
   "Lebkuchen Christian": [
@@ -599,6 +631,14 @@
     {
       "endTime": "2026-02-06T22:08:56.007Z",
       "finalPrice": 50001
+    },
+    {
+      "endTime": "2026-02-07T00:24:21.210Z",
+      "finalPrice": 5251.05
+    },
+    {
+      "endTime": "2026-02-07T01:17:56.011Z",
+      "finalPrice": 315
     }
   ],
   "OP Pass": [
@@ -621,6 +661,10 @@
     {
       "endTime": "2026-02-06T22:35:26.243Z",
       "finalPrice": 2000
+    },
+    {
+      "endTime": "2026-02-07T00:56:34.434Z",
+      "finalPrice": 2001
     }
   ],
   "H4CKER.exe": [
@@ -631,6 +675,10 @@
     {
       "endTime": "2026-02-06T22:42:07.392Z",
       "finalPrice": 10000
+    },
+    {
+      "endTime": "2026-02-07T02:07:45.231Z",
+      "finalPrice": 82693.8
     }
   ],
   "Mini Pilzaxt": [
@@ -659,6 +707,10 @@
     {
       "endTime": "2026-02-06T21:40:25.596Z",
       "finalPrice": 450000
+    },
+    {
+      "endTime": "2026-02-07T00:24:35.455Z",
+      "finalPrice": 2000001
     }
   ],
   "Superball": [
@@ -931,12 +983,20 @@
     {
       "endTime": "2026-02-06T21:25:42.089Z",
       "finalPrice": 800
+    },
+    {
+      "endTime": "2026-02-07T00:04:11.753Z",
+      "finalPrice": 10500
     }
   ],
   "ByteException_": [
     {
       "endTime": "2026-02-06T21:39:57.856Z",
       "finalPrice": 4000000
+    },
+    {
+      "endTime": "2026-02-07T00:24:36Z",
+      "finalPrice": 20001
     }
   ],
   "Lapisbogen": [
@@ -1041,6 +1101,10 @@
     {
       "endTime": "2026-02-06T21:29:29.012Z",
       "finalPrice": 150000
+    },
+    {
+      "endTime": "2026-02-06T23:57:42.092Z",
+      "finalPrice": 100000
     }
   ],
   "Magnet": [
@@ -1079,6 +1143,10 @@
     {
       "endTime": "2026-02-06T21:29:32.842Z",
       "finalPrice": 50999
+    },
+    {
+      "endTime": "2026-02-07T00:36:56.312Z",
+      "finalPrice": 40000
     }
   ],
   "Knochenbogen": [
@@ -1139,6 +1207,10 @@
     {
       "endTime": "2026-02-06T22:33:21.132Z",
       "finalPrice": 2108.4
+    },
+    {
+      "endTime": "2026-02-07T00:55:37.320Z",
+      "finalPrice": 11100
     }
   ],
   "Shard Blockzerstörer": [
@@ -1221,6 +1293,14 @@
     {
       "endTime": "2026-02-06T23:22:19.185Z",
       "finalPrice": 12600.01
+    },
+    {
+      "endTime": "2026-02-07T00:05:23.509Z",
+      "finalPrice": 40001.01
+    },
+    {
+      "endTime": "2026-02-07T00:05:33.693Z",
+      "finalPrice": 40001.01
     }
   ],
   "Jonahchos Modpicke": [
@@ -1253,6 +1333,76 @@
     {
       "endTime": "2026-02-06T23:41:50.749Z",
       "finalPrice": 15000
+    }
+  ],
+  "Tauhelm": [
+    {
+      "endTime": "2026-02-07T00:04:23.247Z",
+      "finalPrice": 5251.05
+    },
+    {
+      "endTime": "2026-02-07T00:04:31.949Z",
+      "finalPrice": 5251.05
+    }
+  ],
+  "GOAT_HORN": [
+    {
+      "endTime": "2026-02-07T00:04:43.192Z",
+      "finalPrice": 5002
+    }
+  ],
+  "Christianoooo": [
+    {
+      "endTime": "2026-02-07T01:04:58.482Z",
+      "finalPrice": 2500000
+    }
+  ],
+  "MACE": [
+    {
+      "endTime": "2026-02-07T00:38:57.074Z",
+      "finalPrice": 94500
+    }
+  ],
+  "Keramik Paket": [
+    {
+      "endTime": "2026-02-07T00:40:49.752Z",
+      "finalPrice": 159183.5
+    }
+  ],
+  "Königlicher OP Thron": [
+    {
+      "endTime": "2026-02-07T01:55:30.585Z",
+      "finalPrice": 183600.1
+    }
+  ],
+  "12 OPSUCHT Helm 12": [
+    {
+      "endTime": "2026-02-07T00:22:10.690Z",
+      "finalPrice": 51000
+    }
+  ],
+  "MOOSHROOM_SPAWN_EGG": [
+    {
+      "endTime": "2026-02-07T00:32:44.958Z",
+      "finalPrice": 57881.25
+    }
+  ],
+  "Totenwächter": [
+    {
+      "endTime": "2026-02-07T00:33:03.208Z",
+      "finalPrice": 10000
+    }
+  ],
+  "Shard Elytra": [
+    {
+      "endTime": "2026-02-07T00:51:47.792Z",
+      "finalPrice": 60001
+    }
+  ],
+  "Frosch-Spawn-Egg": [
+    {
+      "endTime": "2026-02-07T00:22:59.355Z",
+      "finalPrice": 50001
     }
   ]
 }
