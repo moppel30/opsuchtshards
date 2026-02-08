@@ -199,6 +199,12 @@
       "finalPrice": 800001,
       "highestBidder": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
       "seller": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
+    },
+    {
+      "endTime": "2026-02-08T10:59:18.058Z",
+      "finalPrice": 400001,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "seller": "e3bb1bfc-ef2e-4ab5-b25f-f5cdd03e09dd"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -327,6 +333,12 @@
       "finalPrice": 100000,
       "highestBidder": "e1e93136-efe3-4866-941b-ce3e24fe0a1e",
       "seller": "e29e3727-820c-4be1-bed7-e98fe72ba831"
+    },
+    {
+      "endTime": "2026-02-08T11:06:11.162Z",
+      "finalPrice": 6300,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "fe85b25a-8eab-4128-b7c8-40d84f13edd1"
     }
   ],
   "Luxury Island": [
@@ -371,6 +383,18 @@
       "finalPrice": 10001,
       "highestBidder": "7275afba-9c3b-4ac4-b630-2ac16195f231",
       "seller": "00000000-0000-0000-0009-01ffc982eaac"
+    },
+    {
+      "endTime": "2026-02-08T10:51:25.558Z",
+      "finalPrice": 500,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:41:07.515Z",
+      "finalPrice": 10000,
+      "highestBidder": "a481444b-0cf2-492f-b07c-38d23e4718df",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "OP Sammelalbum": [
@@ -475,6 +499,18 @@
       "finalPrice": 500,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "6e90a986-0162-44a5-a700-c89f90eb01fc"
+    },
+    {
+      "endTime": "2026-02-08T10:52:47.501Z",
+      "finalPrice": 1000,
+      "highestBidder": "8e42c22d-f332-4b76-93e7-d68f66047605",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:41:19.208Z",
+      "finalPrice": 10,
+      "highestBidder": "00000000-0000-0000-0009-01fc07e966af",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "ByteException_": [
@@ -733,6 +769,12 @@
       "finalPrice": 10000,
       "highestBidder": "a481444b-0cf2-492f-b07c-38d23e4718df",
       "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
+    },
+    {
+      "endTime": "2026-02-08T11:06:38.636Z",
+      "finalPrice": 2,
+      "highestBidder": "830e1095-d329-4d64-91bf-866728d9d801",
+      "seller": "fe85b25a-8eab-4128-b7c8-40d84f13edd1"
     }
   ],
   "OP-City": [
@@ -759,6 +801,12 @@
       "finalPrice": 1001,
       "highestBidder": "09e69af6-0ce4-44c3-a097-cfe17e44e5bc",
       "seller": "2c7d4eae-5a61-47a2-a211-ff691cfe5bb6"
+    },
+    {
+      "endTime": "2026-02-08T10:41:34.452Z",
+      "finalPrice": 1000,
+      "highestBidder": "79791a41-211e-4300-a9e9-f8445d736d38",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "Normale ★ Hose": [
@@ -893,6 +941,12 @@
       "finalPrice": 10000,
       "highestBidder": "00000000-0000-0000-0009-01f92709af1c",
       "seller": "5261e5c1-31f7-4a7f-b1a4-d2374efdfffa"
+    },
+    {
+      "endTime": "2026-02-08T10:41:13.311Z",
+      "finalPrice": 1000,
+      "highestBidder": "79791a41-211e-4300-a9e9-f8445d736d38",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "Ballon der Liebe": [
@@ -1239,6 +1293,18 @@
       "finalPrice": 1000,
       "highestBidder": "ee8caa26-72eb-442f-a099-1ef9dc48e386",
       "seller": "bb2bfef0-83f4-49a2-bd72-4b8d371dc7d7"
+    },
+    {
+      "endTime": "2026-02-08T10:57:07.968Z",
+      "finalPrice": 6000,
+      "highestBidder": "00000000-0000-0000-0009-01f8f11e53d0",
+      "seller": "1b1d98ab-cdb8-4cd5-94bf-9f86bd2961bb"
+    },
+    {
+      "endTime": "2026-02-08T10:41:24.956Z",
+      "finalPrice": 10000,
+      "highestBidder": "a481444b-0cf2-492f-b07c-38d23e4718df",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "Playbutton": [
@@ -1289,6 +1355,18 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "bb2bfef0-83f4-49a2-bd72-4b8d371dc7d7"
+    },
+    {
+      "endTime": "2026-02-08T10:51:36.920Z",
+      "finalPrice": 1000,
+      "highestBidder": "8e42c22d-f332-4b76-93e7-d68f66047605",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:52:19.367Z",
+      "finalPrice": 1000,
+      "highestBidder": "ee8caa26-72eb-442f-a099-1ef9dc48e386",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
     }
   ],
   "Normale ★ Brust": [
@@ -2061,6 +2139,24 @@
       "finalPrice": 1000,
       "highestBidder": "acc7be4f-a04a-4d07-812b-a6e819b81372",
       "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818"
+    },
+    {
+      "endTime": "2026-02-08T10:57:33.504Z",
+      "finalPrice": 100,
+      "highestBidder": "a19e7602-a278-4db0-82c5-b8ef2ed52602",
+      "seller": "1b1d98ab-cdb8-4cd5-94bf-9f86bd2961bb"
+    },
+    {
+      "endTime": "2026-02-08T10:52:59.753Z",
+      "finalPrice": 1000,
+      "highestBidder": "79791a41-211e-4300-a9e9-f8445d736d38",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:54:08.546Z",
+      "finalPrice": 10001,
+      "highestBidder": "7275afba-9c3b-4ac4-b630-2ac16195f231",
+      "seller": "36c4fb90-e4e2-4835-8203-be913d5af8a2"
     }
   ],
   "Farmwelt": [
@@ -2149,6 +2245,18 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T10:51:47.250Z",
+      "finalPrice": 200,
+      "highestBidder": "5626b97d-f391-4f82-9235-b6f24b071afd",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:14:40.699Z",
+      "finalPrice": 500,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "678133c0-4c19-4458-89f3-4fac982fac17"
     }
   ],
   "Auktionshaus": [
@@ -2399,6 +2507,12 @@
       "finalPrice": 1515002.02,
       "highestBidder": "7cb6e0dd-91c5-4439-b55f-63898f8d13d6",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-08T11:11:06.990Z",
+      "finalPrice": 1545452.52,
+      "highestBidder": "6605d73e-ceb4-4320-9437-6c7165266016",
+      "seller": "f24e166c-3166-4ba2-9c3a-a63faaff1b3f"
     }
   ],
   "NETHERITE_BOOTS": [
@@ -2489,6 +2603,12 @@
       "finalPrice": 530001.02,
       "highestBidder": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d",
       "seller": "b52d6e93-0ce4-4b84-9d6c-bfa86186d24e"
+    },
+    {
+      "endTime": "2026-02-08T10:51:28.368Z",
+      "finalPrice": 816001,
+      "highestBidder": "870b1210-6600-4345-b4c1-b8665ea6d649",
+      "seller": "00000000-0000-0000-0009-01f230cd2010"
     }
   ],
   "COAST_ARMOR_TRIM_SMITHING_TEMPLATE": [
@@ -2517,6 +2637,24 @@
       "finalPrice": 25001,
       "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
       "seller": "b3dcc72d-9971-4ca8-8df0-68e05d5ad439"
+    },
+    {
+      "endTime": "2026-02-08T10:53:11.301Z",
+      "finalPrice": 3,
+      "highestBidder": "ee8caa26-72eb-442f-a099-1ef9dc48e386",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T11:06:26.568Z",
+      "finalPrice": 1000,
+      "highestBidder": "8e42c22d-f332-4b76-93e7-d68f66047605",
+      "seller": "fe85b25a-8eab-4128-b7c8-40d84f13edd1"
+    },
+    {
+      "endTime": "2026-02-08T10:41:39.513Z",
+      "finalPrice": 1000,
+      "highestBidder": "79791a41-211e-4300-a9e9-f8445d736d38",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "Amethystaxt": [
@@ -3381,6 +3519,12 @@
       "finalPrice": 6001,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "27251e12-33b9-43c1-85ee-cfda2b3ee7c7"
+    },
+    {
+      "endTime": "2026-02-08T11:10:48.727Z",
+      "finalPrice": 10501.08,
+      "highestBidder": "cd5c9e95-a59e-41df-bf24-48b74d8c1ea1",
+      "seller": "3cfc168a-3937-4918-856f-3ac1b6f796d5"
     }
   ],
   "Goldener Rollator": [
@@ -3451,6 +3595,24 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T10:51:57.018Z",
+      "finalPrice": 3,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:52:07.059Z",
+      "finalPrice": 1000,
+      "highestBidder": "8e42c22d-f332-4b76-93e7-d68f66047605",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T10:52:38.004Z",
+      "finalPrice": 5,
+      "highestBidder": "79791a41-211e-4300-a9e9-f8445d736d38",
+      "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
     }
   ],
   "WAXED_OXIDIZED_COPPER_BULB": [
@@ -3499,6 +3661,12 @@
       "finalPrice": 3000,
       "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
       "seller": "00000000-0000-0000-0009-01f6f4f89f34"
+    },
+    {
+      "endTime": "2026-02-08T10:56:51.706Z",
+      "finalPrice": 11111,
+      "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
+      "seller": "1b1d98ab-cdb8-4cd5-94bf-9f86bd2961bb"
     }
   ],
   "EMERALD_BLOCK": [
@@ -3523,6 +3691,14 @@
       "finalPrice": 20000,
       "highestBidder": "0da50058-eab9-4df0-8522-081a4ef0b568",
       "seller": "8ab9b648-6134-4737-b544-06bbe6ec932d"
+    }
+  ],
+  "PRISMARINE_SHARD": [
+    {
+      "endTime": "2026-02-08T11:01:01.353Z",
+      "finalPrice": 556.05,
+      "highestBidder": "22db07b1-7df5-4276-be30-fec08333a286",
+      "seller": "f24e166c-3166-4ba2-9c3a-a63faaff1b3f"
     }
   ]
 }
