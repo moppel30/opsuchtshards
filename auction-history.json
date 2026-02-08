@@ -271,6 +271,12 @@
       "finalPrice": 400001,
       "highestBidder": "b339fa1e-bf5c-4a8b-a172-95b7fe597a0b",
       "seller": "343a47c4-9f69-4e00-b7e0-f855e4238e1a"
+    },
+    {
+      "endTime": "2026-02-08T14:40:49.948Z",
+      "finalPrice": 35000,
+      "highestBidder": "36127163-6f36-4e75-b41e-0dbdd7307366",
+      "seller": "67e9ea0a-0c99-4fed-abff-12ebd4e3d4d2"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -435,6 +441,12 @@
       "finalPrice": 5250,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T15:19:12.714Z",
+      "finalPrice": 120001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "33e511c4-a7b6-498d-8687-14c2c905bd63"
     }
   ],
   "Luxury Island": [
@@ -497,6 +509,12 @@
       "finalPrice": 10001,
       "highestBidder": "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3",
       "seller": "53f676af-01be-4e1f-a7a2-b94812d2f2c5"
+    },
+    {
+      "endTime": "2026-02-08T15:23:37.524Z",
+      "finalPrice": 10600,
+      "highestBidder": "00000000-0000-0000-0009-01f5ae30c31c",
+      "seller": "29d5b37b-0aa4-4e12-b87a-1e77badcf7c2"
     }
   ],
   "OP Sammelalbum": [
@@ -989,6 +1007,12 @@
       "finalPrice": 4500,
       "highestBidder": "ed4c61b3-2792-41a9-aac4-531e8b6df256",
       "seller": "32d33cf5-b2c8-449d-9a64-89f025c43ce2"
+    },
+    {
+      "endTime": "2026-02-08T15:13:19.094Z",
+      "finalPrice": 1995,
+      "highestBidder": "db8dc678-8d51-40c0-a9d5-8db9bb79bfdb",
+      "seller": "7239be3e-fb71-4c5d-801b-5fa07ad575ab"
     }
   ],
   "SkyGuyTV": [
@@ -1521,6 +1545,12 @@
       "finalPrice": 100,
       "highestBidder": "1c83631e-810b-48d1-82d3-bc361e58f091",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T15:23:03.619Z",
+      "finalPrice": 10001,
+      "highestBidder": "7275afba-9c3b-4ac4-b630-2ac16195f231",
+      "seller": "29d5b37b-0aa4-4e12-b87a-1e77badcf7c2"
     }
   ],
   "Playbutton": [
@@ -1595,6 +1625,18 @@
       "finalPrice": 1200,
       "highestBidder": "00000000-0000-0000-0009-00000e8bc956",
       "seller": "55785186-ace6-47ea-8523-9149423edd7f"
+    },
+    {
+      "endTime": "2026-02-08T14:35:34.955Z",
+      "finalPrice": 2,
+      "highestBidder": "735b4887-af8f-4883-88e5-d5d79a1a9526",
+      "seller": "fe85b25a-8eab-4128-b7c8-40d84f13edd1"
+    },
+    {
+      "endTime": "2026-02-08T14:36:22.098Z",
+      "finalPrice": 1,
+      "highestBidder": "735b4887-af8f-4883-88e5-d5d79a1a9526",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Normale ★ Brust": [
@@ -1801,6 +1843,12 @@
       "finalPrice": 150000,
       "highestBidder": "00000000-0000-0000-0009-01fedfcb4b6e",
       "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060"
+    },
+    {
+      "endTime": "2026-02-08T15:19:35.503Z",
+      "finalPrice": 500000,
+      "highestBidder": "00000000-0000-0000-0009-01f362fdf1b8",
+      "seller": "18ce68d7-0575-41cd-9326-78e8951486cf"
     }
   ],
   "Neujahrshut": [
@@ -2065,6 +2113,24 @@
       "finalPrice": 600000,
       "highestBidder": "780f8608-efab-41a8-8e7d-efac9f00ec42",
       "seller": "0f6a07fa-40db-4be7-bd6d-08b26e59f933"
+    },
+    {
+      "endTime": "2026-02-08T15:22:05.238Z",
+      "finalPrice": 50001,
+      "highestBidder": "a2e5ec68-ec50-467d-a780-24f7d5c59229",
+      "seller": "ccaef063-6a22-41e9-a0ed-2d36938e5206"
+    },
+    {
+      "endTime": "2026-02-08T15:22:20.334Z",
+      "finalPrice": 50001,
+      "highestBidder": "3badca5c-5a43-44a9-9713-31c7dd1018e5",
+      "seller": "ccaef063-6a22-41e9-a0ed-2d36938e5206"
+    },
+    {
+      "endTime": "2026-02-08T14:59:03.890Z",
+      "finalPrice": 150002,
+      "highestBidder": "a2e5ec68-ec50-467d-a780-24f7d5c59229",
+      "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
     }
   ],
   "Unendliche Rakete": [
@@ -2733,6 +2799,12 @@
       "finalPrice": 200001,
       "highestBidder": "4655d6d5-ad9d-4efa-ad0d-9b486f811e27",
       "seller": "58a08f4e-b2ee-4214-876c-e9241cdec8ca"
+    },
+    {
+      "endTime": "2026-02-08T15:19:53.382Z",
+      "finalPrice": 70000,
+      "highestBidder": "0bd6169d-a49e-470f-9861-f81af014c719",
+      "seller": "ccaef063-6a22-41e9-a0ed-2d36938e5206"
     }
   ],
   "Marcels Adminbeinschutz": [
@@ -3315,6 +3387,12 @@
       "finalPrice": 1500,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "5bb9e447-36a7-4a83-8b78-3fef8818e85e"
+    },
+    {
+      "endTime": "2026-02-08T14:39:15.959Z",
+      "finalPrice": 7000,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "676a4493-036f-4aae-85a1-c3768faa4cbd"
     }
   ],
   "Talisman ✦ Lebensbooster": [
@@ -4463,6 +4541,38 @@
       "finalPrice": 1,
       "highestBidder": "d0452e34-a721-46aa-945c-4739fcc5be4c",
       "seller": "00000000-0000-0000-0009-01f32840de1a"
+    }
+  ],
+  "Glück Spitzhacke": [
+    {
+      "endTime": "2026-02-08T15:15:50.123Z",
+      "finalPrice": 1365000,
+      "highestBidder": "64a1794a-1113-4bfe-b1c5-992bb0b81f70",
+      "seller": "ba0cfa57-6df0-4e20-94cb-d3045b8527de"
+    }
+  ],
+  "Poseidon's Talisman": [
+    {
+      "endTime": "2026-02-08T15:16:23.857Z",
+      "finalPrice": 400500,
+      "highestBidder": "775f056d-d806-4b99-bf8d-a4505ece05c9",
+      "seller": "ba0cfa57-6df0-4e20-94cb-d3045b8527de"
+    }
+  ],
+  ".. Flinks Admin-Brustplatte ..": [
+    {
+      "endTime": "2026-02-08T15:02:37.681Z",
+      "finalPrice": 800000,
+      "highestBidder": "18b8ef10-2b0c-4814-95c0-cd8463b8a51d",
+      "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
+    }
+  ],
+  "✳ Sonnen Talisman ✳": [
+    {
+      "endTime": "2026-02-08T15:21:03.369Z",
+      "finalPrice": 506000,
+      "highestBidder": "0f6a07fa-40db-4be7-bd6d-08b26e59f933",
+      "seller": "700b3d54-774d-45aa-8581-bb2ef40b3ad0"
     }
   ]
 }
