@@ -175,6 +175,12 @@
       "finalPrice": 233465.76,
       "highestBidder": "0d148f6a-0367-4fab-b77e-ced58bc7df01",
       "seller": "25b77a12-4ee2-445e-9779-24080f0eb224"
+    },
+    {
+      "endTime": "2026-02-08T07:37:08.575Z",
+      "finalPrice": 341700,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "seller": "d2b3d89f-794a-409c-91f9-46fe3c5d5b98"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -285,6 +291,12 @@
       "finalPrice": 21000,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T08:17:16.092Z",
+      "finalPrice": 150001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "a7438eac-b7db-4074-b9a9-0f8282ad9159"
     }
   ],
   "Luxury Island": [
@@ -305,6 +317,12 @@
       "finalPrice": 5001,
       "highestBidder": "f5634940-1928-4a9c-a0d6-8c286d81e128",
       "seller": "8452af63-e62c-4271-a641-1678ab963aa1"
+    },
+    {
+      "endTime": "2026-02-08T07:55:31.318Z",
+      "finalPrice": 50001,
+      "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
+      "seller": "00000000-0000-0000-0009-01fe2e45aa20"
     }
   ],
   "OP Sammelalbum": [
@@ -397,6 +415,12 @@
       "finalPrice": 50001,
       "highestBidder": "f5634940-1928-4a9c-a0d6-8c286d81e128",
       "seller": "00000000-0000-0000-0009-01f96fd54b62"
+    },
+    {
+      "endTime": "2026-02-08T07:55:41.534Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "ByteException_": [
@@ -455,6 +479,12 @@
       "finalPrice": 100001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "e72980d3-4ac9-470f-bfeb-1df3b02718fc"
+    },
+    {
+      "endTime": "2026-02-08T08:17:36.462Z",
+      "finalPrice": 160000,
+      "highestBidder": "00000000-0000-0000-0009-01f98ad14c3c",
+      "seller": "a7438eac-b7db-4074-b9a9-0f8282ad9159"
     }
   ],
   "Mod-Team": [
@@ -501,6 +531,12 @@
       "finalPrice": 31001,
       "highestBidder": "2b3d43c0-ea0c-4745-9554-531898d8cdf7",
       "seller": "00000000-0000-0000-0009-01fec25d2bb3"
+    },
+    {
+      "endTime": "2026-02-08T07:56:54.974Z",
+      "finalPrice": 1.06,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "ELYTRA": [
@@ -749,6 +785,18 @@
       "finalPrice": 25001,
       "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
       "seller": "b3dcc72d-9971-4ca8-8df0-68e05d5ad439"
+    },
+    {
+      "endTime": "2026-02-08T07:56:02.824Z",
+      "finalPrice": 1.06,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T07:56:12.363Z",
+      "finalPrice": 120,
+      "highestBidder": "00000000-0000-0000-0009-00000e8bc956",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Ballon der Liebe": [
@@ -1109,6 +1157,12 @@
       "finalPrice": 3151.05,
       "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
       "seller": "d61cac92-85e7-463d-8785-e67087680e75"
+    },
+    {
+      "endTime": "2026-02-08T07:55:50.193Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Normale ★ Brust": [
@@ -1851,6 +1905,12 @@
       "finalPrice": 3500,
       "highestBidder": "00000000-0000-0000-0009-01ff54cf0529",
       "seller": "3dba9994-c441-41c1-aeea-40186728aca2"
+    },
+    {
+      "endTime": "2026-02-08T07:56:40.443Z",
+      "finalPrice": 100,
+      "highestBidder": "00000000-0000-0000-0009-01f5b638959b",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Farmwelt": [
@@ -1877,6 +1937,18 @@
       "finalPrice": 10000,
       "highestBidder": "00000000-0000-0000-0009-01f6f4f89f34",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-08T08:21:29.685Z",
+      "finalPrice": 52,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01fb9a5054c2"
+    },
+    {
+      "endTime": "2026-02-08T07:55:32.593Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Tresor": [
@@ -1915,6 +1987,18 @@
       "finalPrice": 102,
       "highestBidder": "37d9df59-a366-468c-8844-f1ea4f874fb8",
       "seller": "03605c69-200a-4bfc-a834-1fb6d62a87ec"
+    },
+    {
+      "endTime": "2026-02-08T08:22:59.471Z",
+      "finalPrice": 13000,
+      "highestBidder": "00000000-0000-0000-0009-01f1a947edab",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216"
+    },
+    {
+      "endTime": "2026-02-08T07:55:22.484Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Auktionshaus": [
@@ -1941,6 +2025,12 @@
       "finalPrice": 101,
       "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
       "seller": "03605c69-200a-4bfc-a834-1fb6d62a87ec"
+    },
+    {
+      "endTime": "2026-02-08T07:56:24.344Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Pinguin-Paket": [
@@ -2551,6 +2641,12 @@
       "finalPrice": 15,
       "highestBidder": "e1f3ed6f-8b0d-4b78-886b-51fb6c2ca840",
       "seller": "00000000-0000-0000-0009-01fc96448ee4"
+    },
+    {
+      "endTime": "2026-02-08T08:01:57.692Z",
+      "finalPrice": 100001,
+      "highestBidder": "ef2e981c-ea58-4602-ac27-bb78941e67aa",
+      "seller": "6073d9f1-fc06-4d42-b67f-0308846b3079"
     }
   ],
   "Tauschuhe": [
@@ -3087,6 +3183,12 @@
       "finalPrice": 5251.05,
       "highestBidder": "d0452e34-a721-46aa-945c-4739fcc5be4c",
       "seller": "9b979245-54a4-4dad-ad8a-8186580ad90e"
+    },
+    {
+      "endTime": "2026-02-08T07:38:04.822Z",
+      "finalPrice": 6001,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "27251e12-33b9-43c1-85ee-cfda2b3ee7c7"
     }
   ],
   "Goldener Rollator": [
@@ -3119,6 +3221,38 @@
       "finalPrice": 6161000,
       "highestBidder": "e0c31ac8-5213-490c-8287-bd54e293748b",
       "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
+    }
+  ],
+  "x Will´s Bauhacke x": [
+    {
+      "endTime": "2026-02-08T07:36:06.232Z",
+      "finalPrice": 90000001,
+      "highestBidder": "0f3feb67-42d4-4dd5-8828-0d75cf8aa529",
+      "seller": "06cab228-e835-48ed-94d9-a0355526ab85"
+    }
+  ],
+  "Kleeblattschirm": [
+    {
+      "endTime": "2026-02-08T07:56:51.006Z",
+      "finalPrice": 88800,
+      "highestBidder": "99a50691-3f3d-4915-b321-9934868bc076",
+      "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    }
+  ],
+  "ECHO_SHARD": [
+    {
+      "endTime": "2026-02-08T08:08:11.212Z",
+      "finalPrice": 1001,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "c2c17cda-9d6b-4c66-80bb-e13bf1617b04"
+    }
+  ],
+  "OP Bank": [
+    {
+      "endTime": "2026-02-08T07:55:07.255Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ]
 }
