@@ -303,6 +303,18 @@
       "finalPrice": 150001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "a7438eac-b7db-4074-b9a9-0f8282ad9159"
+    },
+    {
+      "endTime": "2026-02-08T09:53:47.965Z",
+      "finalPrice": 120001,
+      "highestBidder": "f19a7a8b-5beb-4822-8b09-4674a56e93ee",
+      "seller": "d312d6f9-1c35-4695-86a8-de22ef48897a"
+    },
+    {
+      "endTime": "2026-02-08T09:58:20.105Z",
+      "finalPrice": 100000,
+      "highestBidder": "e1e93136-efe3-4866-941b-ce3e24fe0a1e",
+      "seller": "e29e3727-820c-4be1-bed7-e98fe72ba831"
     }
   ],
   "Luxury Island": [
@@ -503,6 +515,12 @@
       "finalPrice": 160000,
       "highestBidder": "00000000-0000-0000-0009-01f98ad14c3c",
       "seller": "a7438eac-b7db-4074-b9a9-0f8282ad9159"
+    },
+    {
+      "endTime": "2026-02-08T09:58:00.503Z",
+      "finalPrice": 55555,
+      "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
+      "seller": "e29e3727-820c-4be1-bed7-e98fe72ba831"
     }
   ],
   "Mod-Team": [
@@ -555,6 +573,12 @@
       "finalPrice": 1.06,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T09:48:20.190Z",
+      "finalPrice": 140001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f98ad14c3c"
     }
   ],
   "ELYTRA": [
@@ -2947,6 +2971,12 @@
       "finalPrice": 3000001,
       "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
       "seller": "1fce4817-9554-44d5-8743-3a225400ba6f"
+    },
+    {
+      "endTime": "2026-02-08T10:10:25.613Z",
+      "finalPrice": 300000,
+      "highestBidder": "00000000-0000-0000-0009-01f347c591cc",
+      "seller": "1fce4817-9554-44d5-8743-3a225400ba6f"
     }
   ],
   "Premium": [
@@ -2981,6 +3011,12 @@
       "finalPrice": 150001,
       "highestBidder": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
       "seller": "51372a35-d288-4efe-ad09-4b5930fa6737"
+    },
+    {
+      "endTime": "2026-02-08T10:12:09.797Z",
+      "finalPrice": 224400,
+      "highestBidder": "62157d7d-6328-4f1e-9a81-f6e02bb153d4",
+      "seller": "e17907b2-e3a1-493b-ae81-226d6228b196"
     }
   ],
   "Holzbündel": [
@@ -3429,6 +3465,14 @@
       "finalPrice": 37485,
       "highestBidder": "94768123-0f7f-4300-ad8a-71601dab6f16",
       "seller": "6843bdd9-22e0-408c-881d-c0db23e72b32"
+    }
+  ],
+  "Christians Schuhe": [
+    {
+      "endTime": "2026-02-08T10:12:31.472Z",
+      "finalPrice": 222222,
+      "highestBidder": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "seller": "e17907b2-e3a1-493b-ae81-226d6228b196"
     }
   ]
 }
