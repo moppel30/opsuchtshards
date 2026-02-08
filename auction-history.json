@@ -1219,6 +1219,12 @@
       "finalPrice": 20001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "deda59d2-2cc6-4f8a-8489-83f7c2074520"
+    },
+    {
+      "endTime": "2026-02-08T17:52:25.802Z",
+      "finalPrice": 15000,
+      "highestBidder": "00000000-0000-0000-0009-01f9f16497d4",
+      "seller": "38ae6a13-819a-47bc-87e6-35b67b5ea22b"
     }
   ],
   "OPSUCHT Holzfäller Axt": [
@@ -2359,6 +2365,12 @@
       "finalPrice": 150002,
       "highestBidder": "68bd1062-f578-47df-8e26-6d2f3421a0cd",
       "seller": "aeedfc47-87c5-4961-88be-36c585f76d05"
+    },
+    {
+      "endTime": "2026-02-08T17:41:42.905Z",
+      "finalPrice": 600000,
+      "highestBidder": "00000000-0000-0000-0009-01f9af228134",
+      "seller": "00000000-0000-0000-0009-01fddea05acf"
     }
   ],
   "Unendliche Rakete": [
@@ -2619,6 +2631,12 @@
       "finalPrice": 102500,
       "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
       "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c"
+    },
+    {
+      "endTime": "2026-02-08T17:42:16.169Z",
+      "finalPrice": 6300,
+      "highestBidder": "fb0aa5cd-7f31-4e79-a3a5-7eeda0ff9ae6",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
     }
   ],
   "Profi Angel v3": [
@@ -2799,6 +2817,12 @@
       "finalPrice": 2000,
       "highestBidder": "e153a44e-5f16-447c-8fb2-77b3cb25e38c",
       "seller": "35459012-bd97-44d9-b580-f78733dd5201"
+    },
+    {
+      "endTime": "2026-02-08T17:43:26.044Z",
+      "finalPrice": 10000,
+      "highestBidder": "00000000-0000-0000-0009-01ff66bd8994",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Farmwelt": [
@@ -3001,6 +3025,12 @@
       "finalPrice": 20001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "b6e68a4e-8824-40fd-9c34-4a9893b4b293"
+    },
+    {
+      "endTime": "2026-02-08T18:01:14.674Z",
+      "finalPrice": 10001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "1a2d303c-51ee-478a-b6ff-f325e872d4e1"
     }
   ],
   "DRAGON_EGG": [
@@ -3455,6 +3485,12 @@
       "finalPrice": 500000,
       "highestBidder": "00000000-0000-0000-0009-01f0a0914bef",
       "seller": "00000000-0000-0000-0009-01f70a6266cf"
+    },
+    {
+      "endTime": "2026-02-08T17:48:39.527Z",
+      "finalPrice": 50000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "92942b23-2e75-451d-b95d-ef67487a0495"
     }
   ],
   "NETHERITE_CHESTPLATE": [
@@ -4193,6 +4229,12 @@
       "finalPrice": 2000001,
       "highestBidder": "f5b0ba5c-4e33-45b3-8e5f-d47a1c1a9e96",
       "seller": "0f4460cc-e4ad-4005-b06d-300d63c5db0b"
+    },
+    {
+      "endTime": "2026-02-08T17:41:47.683Z",
+      "finalPrice": 1050000,
+      "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
     }
   ],
   "Trank der Feuerresistenz": [
@@ -4221,6 +4263,12 @@
       "finalPrice": 52500,
       "highestBidder": "00000000-0000-0000-0009-01facfc82642",
       "seller": "90396998-1d97-4a21-b152-01d7a143bc5b"
+    },
+    {
+      "endTime": "2026-02-08T17:41:54.615Z",
+      "finalPrice": 180000,
+      "highestBidder": "cfe0570b-de53-4032-bb4e-409d3ed67fd9",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
     }
   ],
   "Propellerhut": [
@@ -4385,6 +4433,12 @@
       "finalPrice": 30001,
       "highestBidder": "f2f5c52a-d4ce-4631-ae7a-c36478816fda",
       "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818"
+    },
+    {
+      "endTime": "2026-02-08T17:48:51.188Z",
+      "finalPrice": 26251,
+      "highestBidder": "67e9ea0a-0c99-4fed-abff-12ebd4e3d4d2",
+      "seller": "92942b23-2e75-451d-b95d-ef67487a0495"
     }
   ],
   "SHULKER_BOX": [
@@ -4547,6 +4601,12 @@
       "finalPrice": 6600001,
       "highestBidder": "e2aaadb7-ba0e-4590-8eec-8eb7f38eb2a8",
       "seller": "00000000-0000-0000-0009-01fb8d54c4b1"
+    },
+    {
+      "endTime": "2026-02-08T17:34:29.188Z",
+      "finalPrice": 6500001,
+      "highestBidder": "e2aaadb7-ba0e-4590-8eec-8eb7f38eb2a8",
+      "seller": "348e6993-df4d-4de1-a158-a345a82f646d"
     }
   ],
   "x Will´s Bauhacke x": [
@@ -4681,6 +4741,12 @@
       "finalPrice": 11111,
       "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
       "seller": "1b1d98ab-cdb8-4cd5-94bf-9f86bd2961bb"
+    },
+    {
+      "endTime": "2026-02-08T17:23:31.391Z",
+      "finalPrice": 10001,
+      "highestBidder": "00000000-0000-0000-0009-01f8ea659d94",
+      "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
     }
   ],
   "EMERALD_BLOCK": [
@@ -4963,6 +5029,12 @@
       "finalPrice": 5250,
       "highestBidder": "09f272cd-bb4a-438c-a13a-bb7b14366b43",
       "seller": "89bda460-a6de-4f66-ad48-36bd18688ddf"
+    },
+    {
+      "endTime": "2026-02-08T17:39:36.223Z",
+      "finalPrice": 1,
+      "highestBidder": "c8f191a0-be06-4b8a-b724-d04b13059f10",
+      "seller": "676a4493-036f-4aae-85a1-c3768faa4cbd"
     }
   ],
   "Purpurhelm": [
@@ -5103,6 +5175,12 @@
       "finalPrice": 200001,
       "highestBidder": "35468a46-2314-4eae-b594-8307937299e1",
       "seller": "00000000-0000-0000-0009-01faf607ca6d"
+    },
+    {
+      "endTime": "2026-02-08T17:51:26.953Z",
+      "finalPrice": 73500,
+      "highestBidder": "483d2528-350b-46d7-a2d7-78cb65b81585",
+      "seller": "18b8ef10-2b0c-4814-95c0-cd8463b8a51d"
     }
   ],
   "Wumpus Jetpack": [
@@ -5181,6 +5259,12 @@
       "finalPrice": 21000,
       "highestBidder": "00000000-0000-0000-0009-01fee3086657",
       "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3"
+    },
+    {
+      "endTime": "2026-02-08T17:14:27.734Z",
+      "finalPrice": 50,
+      "highestBidder": "fb0aa5cd-7f31-4e79-a3a5-7eeda0ff9ae6",
+      "seller": "00000000-0000-0000-0009-01f32840de1a"
     }
   ],
   "Shard Blockzerstörer": [
@@ -5277,6 +5361,110 @@
       "finalPrice": 500.56,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "00000000-0000-0000-0009-01f32840de1a"
+    }
+  ],
+  "DIAMOND_LEGGINGS": [
+    {
+      "endTime": "2026-02-08T17:44:49.591Z",
+      "finalPrice": 5001,
+      "highestBidder": "f849f1fd-c985-4f20-8c0a-41330c8599a1",
+      "seller": "fa0ad52f-e2fb-4f94-bb68-28277f57b79c"
+    }
+  ],
+  "DIAMOND_HOE": [
+    {
+      "endTime": "2026-02-08T17:46:12.498Z",
+      "finalPrice": 4100,
+      "highestBidder": "00000000-0000-0000-0009-01fe2c625dd7",
+      "seller": "fa0ad52f-e2fb-4f94-bb68-28277f57b79c"
+    }
+  ],
+  "Engelsglanzbogen": [
+    {
+      "endTime": "2026-02-08T17:48:24.143Z",
+      "finalPrice": 25000,
+      "highestBidder": "e357ce61-d6dd-4348-8f01-be3a1d0713c8",
+      "seller": "92942b23-2e75-451d-b95d-ef67487a0495"
+    }
+  ],
+  "NETHERITE_HOE": [
+    {
+      "endTime": "2026-02-08T17:49:09.135Z",
+      "finalPrice": 47300,
+      "highestBidder": "00000000-0000-0000-0009-01f28f91ea33",
+      "seller": "92942b23-2e75-451d-b95d-ef67487a0495"
+    }
+  ],
+  "Geburtstags Buch V7": [
+    {
+      "endTime": "2026-02-08T17:41:40.388Z",
+      "finalPrice": 70000,
+      "highestBidder": "369f97f4-cce7-408c-8aed-c349330b80ef",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
+    }
+  ],
+  "Unendliche Enderperle": [
+    {
+      "endTime": "2026-02-08T17:42:02.291Z",
+      "finalPrice": 1000000,
+      "highestBidder": "0ce7e456-7a68-4508-8d8c-9f65ac031976",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
+    }
+  ],
+  "Ultra-LuckyBlock Stick": [
+    {
+      "endTime": "2026-02-08T17:42:09.308Z",
+      "finalPrice": 50000,
+      "highestBidder": "72e6a20f-fcc4-42d7-98ae-99442f774439",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
+    }
+  ],
+  "Osterhasen Bogen": [
+    {
+      "endTime": "2026-02-08T17:42:22.851Z",
+      "finalPrice": 55125,
+      "highestBidder": "1f0bea02-deca-40c1-800f-9f470992753e",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
+    }
+  ],
+  "Odin's Langbogen": [
+    {
+      "endTime": "2026-02-08T17:42:32.279Z",
+      "finalPrice": 476761,
+      "highestBidder": "eed4b94d-7028-4825-9afc-bfaf94ac7f31",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
+    }
+  ],
+  "Gorgonenklinge": [
+    {
+      "endTime": "2026-02-08T17:42:40.326Z",
+      "finalPrice": 409029,
+      "highestBidder": "91fbbee8-da40-4702-b66c-472ecfd439b4",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843"
+    }
+  ],
+  "Schmelzpicke": [
+    {
+      "endTime": "2026-02-08T17:51:19.708Z",
+      "finalPrice": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01fccbbba798",
+      "seller": "18b8ef10-2b0c-4814-95c0-cd8463b8a51d"
+    }
+  ],
+  "Jagdmesser": [
+    {
+      "endTime": "2026-02-08T18:00:43.783Z",
+      "finalPrice": 2000001,
+      "highestBidder": "0ce7e456-7a68-4508-8d8c-9f65ac031976",
+      "seller": "ebcb4078-aa9a-4493-9c39-8fa692e2c599"
+    }
+  ],
+  "Fotoaufsteller Bärenpaar": [
+    {
+      "endTime": "2026-02-08T17:39:53.660Z",
+      "finalPrice": 20000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "676a4493-036f-4aae-85a1-c3768faa4cbd"
     }
   ]
 }
