@@ -437,6 +437,12 @@
       "finalPrice": 10000,
       "highestBidder": "a481444b-0cf2-492f-b07c-38d23e4718df",
       "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
+    },
+    {
+      "endTime": "2026-02-08T12:21:17.870Z",
+      "finalPrice": 10001,
+      "highestBidder": "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3",
+      "seller": "53f676af-01be-4e1f-a7a2-b94812d2f2c5"
     }
   ],
   "OP Sammelalbum": [
@@ -655,6 +661,12 @@
       "finalPrice": 500001,
       "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
       "seller": "f19a7a8b-5beb-4822-8b09-4674a56e93ee"
+    },
+    {
+      "endTime": "2026-02-08T12:52:40.450Z",
+      "finalPrice": 1,
+      "highestBidder": "c2da88df-dcc0-4666-88a3-213c484458e8",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "Builder-Team": [
@@ -713,6 +725,12 @@
       "finalPrice": 63001.05,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "d5a83889-d53f-4069-8709-06865e608324"
+    },
+    {
+      "endTime": "2026-02-08T12:56:33.424Z",
+      "finalPrice": 63000,
+      "highestBidder": "0ce7e456-7a68-4508-8d8c-9f65ac031976",
+      "seller": "1d6c4db8-eded-4ea8-a288-186ecc9cbeca"
     }
   ],
   "Odin's Schwingen": [
@@ -1219,6 +1237,12 @@
       "finalPrice": 204001,
       "highestBidder": "32d33cf5-b2c8-449d-9a64-89f025c43ce2",
       "seller": "00000000-0000-0000-0009-01f6f4f89f34"
+    },
+    {
+      "endTime": "2026-02-08T12:55:26.172Z",
+      "finalPrice": 150000,
+      "highestBidder": "00000000-0000-0000-0009-00000e8bc956",
+      "seller": "6ba5910a-4e98-4037-ab4d-0bff8a0d3a7a"
     }
   ],
   "Mini Pilzaxt": [
@@ -1259,6 +1283,12 @@
       "finalPrice": 300001,
       "highestBidder": "f63843ea-571b-4f8e-8a49-2b8c40a05fa4",
       "seller": "b40731d1-2b53-467c-a654-71dbaffbc68d"
+    },
+    {
+      "endTime": "2026-02-08T12:53:29.339Z",
+      "finalPrice": 10000,
+      "highestBidder": "4773bbb8-7a7c-4433-88a4-29cbb35282c8",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
     }
   ],
   "Herzglanzklinge": [
@@ -1295,6 +1325,12 @@
       "finalPrice": 102000,
       "highestBidder": "8a4dab04-d37d-47a1-bba5-0e57b5562ef4",
       "seller": "00000000-0000-0000-0009-01fc6e39551f"
+    },
+    {
+      "endTime": "2026-02-08T12:53:21.299Z",
+      "finalPrice": 25000,
+      "highestBidder": "0b89d133-a481-428b-8356-7032906466c5",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
     }
   ],
   "Infinity Axt": [
@@ -1575,6 +1611,12 @@
       "finalPrice": 6000,
       "highestBidder": "dfc9bf9f-1a97-47bb-97a3-48796da0bd59",
       "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060"
+    },
+    {
+      "endTime": "2026-02-08T12:52:07.840Z",
+      "finalPrice": 1000,
+      "highestBidder": "98a61928-8776-4db2-b939-fb4652978350",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
     }
   ],
   "OP Aktenkoffer": [
@@ -2179,6 +2221,12 @@
       "finalPrice": 2.1,
       "highestBidder": "2ebd72a6-dccf-4753-a751-14fa2f76e4d8",
       "seller": "027c03bf-9ec5-45df-a017-390d7589803f"
+    },
+    {
+      "endTime": "2026-02-08T12:53:13.936Z",
+      "finalPrice": 10,
+      "highestBidder": "09f272cd-bb4a-438c-a13a-bb7b14366b43",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
     }
   ],
   "OP Pass": [
@@ -2573,6 +2621,12 @@
       "finalPrice": 100,
       "highestBidder": "ce479790-d81b-4da1-beee-11291cd52e76",
       "seller": "5237daaf-bffc-4983-a834-aa4050407d7f"
+    },
+    {
+      "endTime": "2026-02-08T12:52:31.840Z",
+      "finalPrice": 1,
+      "highestBidder": "20639853-5f8f-48df-ba62-73898ca111d1",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
     }
   ],
   "REPEATER": [
@@ -3236,6 +3290,12 @@
       "endTime": "2026-02-08T11:43:12.418Z",
       "finalPrice": 204000,
       "highestBidder": "0e14b4b0-2e0c-4f9f-995d-ce0ccb7300b6",
+      "seller": "e38bb4d4-3a7f-4475-aabb-dd1c7a4ec279"
+    },
+    {
+      "endTime": "2026-02-08T11:56:53.599Z",
+      "finalPrice": 406980,
+      "highestBidder": "33e511c4-a7b6-498d-8687-14c2c905bd63",
       "seller": "e38bb4d4-3a7f-4475-aabb-dd1c7a4ec279"
     }
   ],
@@ -3929,6 +3989,44 @@
       "finalPrice": 459002.04,
       "highestBidder": "0362e8f6-6aba-4018-8742-992d5a9c1202",
       "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
+    }
+  ],
+  "NETHERITE_SCRAP": [
+    {
+      "endTime": "2026-02-08T11:59:05.456Z",
+      "finalPrice": 3001,
+      "highestBidder": "0bd6169d-a49e-470f-9861-f81af014c719",
+      "seller": "e6bb3451-8c9b-4fb7-944a-a64e81abe9ff"
+    }
+  ],
+  "EXPOSED_COPPER": [
+    {
+      "endTime": "2026-02-08T12:52:23.543Z",
+      "finalPrice": 1,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
+    },
+    {
+      "endTime": "2026-02-08T12:52:40.741Z",
+      "finalPrice": 0.01,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
+    }
+  ],
+  "GOAT_HORN": [
+    {
+      "endTime": "2026-02-08T12:52:48.292Z",
+      "finalPrice": 1,
+      "highestBidder": "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
+    }
+  ],
+  "Rahmen (unsichtbar)": [
+    {
+      "endTime": "2026-02-08T12:53:05.488Z",
+      "finalPrice": 2.1,
+      "highestBidder": "00000000-0000-0000-0009-01f176514cc8",
+      "seller": "00000000-0000-0000-0009-01f1b28a5653"
     }
   ]
 }
