@@ -169,6 +169,12 @@
       "finalPrice": 280000,
       "highestBidder": "d2ebfdfe-ff02-4b84-a1f0-b944f8c245ef",
       "seller": "fe4d65b4-d83f-4303-b179-1bc7b897e776"
+    },
+    {
+      "endTime": "2026-02-08T04:48:47.688Z",
+      "finalPrice": 233465.76,
+      "highestBidder": "0d148f6a-0367-4fab-b77e-ced58bc7df01",
+      "seller": "25b77a12-4ee2-445e-9779-24080f0eb224"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -475,6 +481,12 @@
       "finalPrice": 104040,
       "highestBidder": "2c13b7ff-cb4d-4370-9c43-8a5046982d41",
       "seller": "8452af63-e62c-4271-a641-1678ab963aa1"
+    },
+    {
+      "endTime": "2026-02-08T04:39:11.874Z",
+      "finalPrice": 500001,
+      "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
+      "seller": "f19a7a8b-5beb-4822-8b09-4674a56e93ee"
     }
   ],
   "Builder-Team": [
@@ -1085,6 +1097,12 @@
       "finalPrice": 2000,
       "highestBidder": "00000000-0000-0000-0009-01f1a947edab",
       "seller": "6a06a729-933d-4818-8a4e-cdf843830164"
+    },
+    {
+      "endTime": "2026-02-08T04:21:50.121Z",
+      "finalPrice": 3151.05,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75"
     }
   ],
   "Normale ★ Brust": [
@@ -2235,6 +2253,12 @@
       "finalPrice": 2000,
       "highestBidder": "00000000-0000-0000-0009-01f1a947edab",
       "seller": "7dd55e61-a8eb-4746-b7eb-42838295d03f"
+    },
+    {
+      "endTime": "2026-02-08T05:04:38.248Z",
+      "finalPrice": 25001,
+      "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
+      "seller": "b3dcc72d-9971-4ca8-8df0-68e05d5ad439"
     }
   ],
   "Amethystaxt": [
@@ -3037,6 +3061,22 @@
       "finalPrice": 150000,
       "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
       "seller": "33d09390-47a9-4df0-bae6-9aab4164b770"
+    }
+  ],
+  "Normale ★ Schuhe": [
+    {
+      "endTime": "2026-02-08T04:28:23.005Z",
+      "finalPrice": 5251.05,
+      "highestBidder": "d0452e34-a721-46aa-945c-4739fcc5be4c",
+      "seller": "9b979245-54a4-4dad-ad8a-8186580ad90e"
+    }
+  ],
+  "Goldener Rollator": [
+    {
+      "endTime": "2026-02-08T05:06:54.647Z",
+      "finalPrice": 14735900,
+      "highestBidder": "5f35a868-cb84-4432-8bea-019ba4f0f196",
+      "seller": "20315538-f54d-4432-afeb-901f7cc6e3cf"
     }
   ]
 }
