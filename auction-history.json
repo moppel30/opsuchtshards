@@ -797,6 +797,12 @@
       "finalPrice": 120,
       "highestBidder": "00000000-0000-0000-0009-00000e8bc956",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T08:07:04.406Z",
+      "finalPrice": 1000,
+      "highestBidder": "ee8caa26-72eb-442f-a099-1ef9dc48e386",
+      "seller": "bb2bfef0-83f4-49a2-bd72-4b8d371dc7d7"
     }
   ],
   "Ballon der Liebe": [
@@ -951,6 +957,12 @@
       "finalPrice": 20001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "cd0fa871-f3cc-4d4b-9a3c-8dad3d96b4df"
+    },
+    {
+      "endTime": "2026-02-08T08:40:15.830Z",
+      "finalPrice": 65000,
+      "highestBidder": "00000000-0000-0000-0009-01f547dc9680",
+      "seller": "8295b205-34b0-4eaf-bc49-d978f0c23f43"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -1119,6 +1131,12 @@
       "finalPrice": 501,
       "highestBidder": "ffafca53-22f1-430a-b155-37100c3d7186",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-08T08:07:36.850Z",
+      "finalPrice": 1000,
+      "highestBidder": "ee8caa26-72eb-442f-a099-1ef9dc48e386",
+      "seller": "bb2bfef0-83f4-49a2-bd72-4b8d371dc7d7"
     }
   ],
   "Playbutton": [
@@ -1163,6 +1181,12 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T08:06:36.225Z",
+      "finalPrice": 2,
+      "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
+      "seller": "bb2bfef0-83f4-49a2-bd72-4b8d371dc7d7"
     }
   ],
   "Normale ★ Brust": [
@@ -1910,6 +1934,12 @@
       "endTime": "2026-02-08T07:56:40.443Z",
       "finalPrice": 100,
       "highestBidder": "00000000-0000-0000-0009-01f5b638959b",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T07:57:02.057Z",
+      "finalPrice": 10000,
+      "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
@@ -2785,6 +2815,12 @@
       "finalPrice": 89000,
       "highestBidder": "00000000-0000-0000-0009-01fbc6d6fe32",
       "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060"
+    },
+    {
+      "endTime": "2026-02-08T08:50:39.179Z",
+      "finalPrice": 153000,
+      "highestBidder": "c3413bd3-693f-453a-9782-739081d10b6c",
+      "seller": "00000000-0000-0000-0009-01f1e2fe88e4"
     }
   ],
   "SPAWNER": [
@@ -2895,6 +2931,12 @@
       "finalPrice": 4000,
       "highestBidder": "a5f47dd0-7cc2-4965-a92e-58839af01368",
       "seller": "19098b84-8ee1-4a05-92cb-e05b3d20c834"
+    },
+    {
+      "endTime": "2026-02-08T08:50:55.549Z",
+      "finalPrice": 1000,
+      "highestBidder": "a5f47dd0-7cc2-4965-a92e-58839af01368",
+      "seller": "00000000-0000-0000-0009-01f1e2fe88e4"
     }
   ],
   "MUSIC_DISC_OTHERSIDE": [
@@ -3253,6 +3295,30 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    }
+  ],
+  "WAXED_OXIDIZED_COPPER_BULB": [
+    {
+      "endTime": "2026-02-08T08:42:56.679Z",
+      "finalPrice": 300,
+      "highestBidder": "7a80595c-f89a-4f3e-b7ee-d74719252720",
+      "seller": "e7154be3-677b-459d-9eb0-37e7cdf0ae88"
+    }
+  ],
+  "Vogelscheuche": [
+    {
+      "endTime": "2026-02-08T08:51:05.790Z",
+      "finalPrice": 99225,
+      "highestBidder": "c3413bd3-693f-453a-9782-739081d10b6c",
+      "seller": "00000000-0000-0000-0009-01f1e2fe88e4"
+    }
+  ],
+  "Windhose": [
+    {
+      "endTime": "2026-02-08T08:33:15.963Z",
+      "finalPrice": 42000,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "00000000-0000-0000-0009-01fc6e39551f"
     }
   ]
 }
