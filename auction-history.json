@@ -433,6 +433,18 @@
       "finalPrice": 204000,
       "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
       "seller": "acd10fbb-727b-430b-b959-6b2002df2272"
+    },
+    {
+      "endTime": "2026-02-08T23:42:50.196Z",
+      "finalPrice": 250000,
+      "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
+      "seller": "00000000-0000-0000-0009-01f5bc9d911f"
+    },
+    {
+      "endTime": "2026-02-08T23:43:28.847Z",
+      "finalPrice": 250000,
+      "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
+      "seller": "00000000-0000-0000-0009-01f5bc9d911f"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -587,6 +599,12 @@
       "finalPrice": 2500002,
       "highestBidder": "96edd6ea-6716-40ed-9215-2817c4f1d895",
       "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6"
+    },
+    {
+      "endTime": "2026-02-08T23:04:23.322Z",
+      "finalPrice": 3030001.02,
+      "highestBidder": "0f4460cc-e4ad-4005-b06d-300d63c5db0b",
+      "seller": "8f530c14-9396-4d64-a551-41ae02b5634a"
     }
   ],
   "Christianoooo": [
@@ -723,6 +741,12 @@
       "finalPrice": 42000,
       "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
       "seller": "19ebac1e-7d15-4fac-bfe9-3e613aae0982"
+    },
+    {
+      "endTime": "2026-02-08T23:55:56.870Z",
+      "finalPrice": 81900,
+      "highestBidder": "1ee6b3de-cf58-43fc-8efe-1208cc501beb",
+      "seller": "09f272cd-bb4a-438c-a13a-bb7b14366b43"
     }
   ],
   "Luxury Island": [
@@ -1097,6 +1121,12 @@
       "finalPrice": 30000,
       "highestBidder": "00000000-0000-0000-0009-01f10a127101",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-08T23:57:29.260Z",
+      "finalPrice": 15000,
+      "highestBidder": "fed09422-bbc3-4908-ac75-377d15ddea08",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Mod-Team": [
@@ -1459,6 +1489,12 @@
       "finalPrice": 1001,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "47c8677e-72f6-4220-8f1a-0fdd93ebd35a"
+    },
+    {
+      "endTime": "2026-02-08T23:56:58.489Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "OP-City": [
@@ -2805,6 +2841,12 @@
       "finalPrice": 100001,
       "highestBidder": "a7529824-9a88-4ca7-8b89-4ca0ae7db5e4",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-08T23:41:31.100Z",
+      "finalPrice": 850000,
+      "highestBidder": "53e110ad-a15d-4494-960f-9ac357c90f51",
+      "seller": "20bb805f-e89c-4f7e-b7b0-c6e57cd3d476"
     }
   ],
   "DIRT": [
@@ -3683,6 +3725,12 @@
       "finalPrice": 250,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "968afd67-8987-4483-9e21-759d4fa1004f"
+    },
+    {
+      "endTime": "2026-02-08T23:56:42.391Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Tresor": [
@@ -5107,6 +5155,12 @@
       "finalPrice": 500001,
       "highestBidder": "a6616e43-c109-4fc7-9cd0-e348e52ee87d",
       "seller": "00867be6-3862-49b7-9344-9eb2ffbbf949"
+    },
+    {
+      "endTime": "2026-02-08T23:53:21.130Z",
+      "finalPrice": 1001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01fcd33d32ad"
     }
   ],
   "Premium": [
@@ -6443,6 +6497,12 @@
       "finalPrice": 42000,
       "highestBidder": "94768123-0f7f-4300-ad8a-71601dab6f16",
       "seller": "e7154be3-677b-459d-9eb0-37e7cdf0ae88"
+    },
+    {
+      "endTime": "2026-02-09T00:02:19.261Z",
+      "finalPrice": 70000,
+      "highestBidder": "a7529824-9a88-4ca7-8b89-4ca0ae7db5e4",
+      "seller": "445f8d00-31b2-431d-ab33-39cc733c6dcf"
     }
   ],
   "Kartenflügel": [
