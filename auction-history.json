@@ -421,6 +421,18 @@
       "finalPrice": 290000,
       "highestBidder": "e29e3727-820c-4be1-bed7-e98fe72ba831",
       "seller": "35459012-bd97-44d9-b580-f78733dd5201"
+    },
+    {
+      "endTime": "2026-02-08T23:15:55.155Z",
+      "finalPrice": 204000,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "seller": "acd10fbb-727b-430b-b959-6b2002df2272"
+    },
+    {
+      "endTime": "2026-02-08T23:16:28.837Z",
+      "finalPrice": 204000,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "seller": "acd10fbb-727b-430b-b959-6b2002df2272"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -1079,6 +1091,12 @@
       "finalPrice": 1000,
       "highestBidder": "8e42c22d-f332-4b76-93e7-d68f66047605",
       "seller": "57beddae-c9e6-453b-b0ee-04c5f212d283"
+    },
+    {
+      "endTime": "2026-02-08T23:19:22.180Z",
+      "finalPrice": 30000,
+      "highestBidder": "00000000-0000-0000-0009-01f10a127101",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
     }
   ],
   "Mod-Team": [
@@ -1651,6 +1669,12 @@
       "finalPrice": 7350,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "5210d5d8-f374-4c49-be4d-b83ef8bff82e"
+    },
+    {
+      "endTime": "2026-02-08T23:35:06.977Z",
+      "finalPrice": 1103.61,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "5f21223a-6de2-4344-a2cc-bfab2b08a8e9"
     }
   ],
   "OPSUCHT Holzfäller Axt": [
@@ -1775,6 +1799,12 @@
       "finalPrice": 15001,
       "highestBidder": "00000000-0000-0000-0009-01f4dfb2ab38",
       "seller": "00000000-0000-0000-0009-01f10a127101"
+    },
+    {
+      "endTime": "2026-02-08T23:06:46.891Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75"
     }
   ],
   "Ballon der Liebe": [
@@ -1789,6 +1819,12 @@
       "finalPrice": 22000,
       "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
       "seller": "2f2bb859-c73b-428f-b674-cd664ea68a5c"
+    },
+    {
+      "endTime": "2026-02-08T23:37:45.586Z",
+      "finalPrice": 10000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "cce50f49-a696-4359-8a01-3155c7b1d299"
     }
   ],
   "Plotspitzhacke v2": [
@@ -3579,6 +3615,12 @@
       "finalPrice": 1001,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "bbebbdb1-2942-4cb3-a27e-2d4464c702c9"
+    },
+    {
+      "endTime": "2026-02-08T23:06:23.646Z",
+      "finalPrice": 5000,
+      "highestBidder": "968afd67-8987-4483-9e21-759d4fa1004f",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75"
     }
   ],
   "Farmwelt": [
@@ -4715,6 +4757,12 @@
       "finalPrice": 10010,
       "highestBidder": "befe1afb-b1eb-416b-9efa-a1218631c1be",
       "seller": "00000000-0000-0000-0009-01fbd340864f"
+    },
+    {
+      "endTime": "2026-02-08T23:35:28.515Z",
+      "finalPrice": 5001,
+      "highestBidder": "befe1afb-b1eb-416b-9efa-a1218631c1be",
+      "seller": "e4d4305f-ccd2-4714-a469-d88372879761"
     }
   ],
   "ENCHANTED_GOLDEN_APPLE": [
@@ -5161,6 +5209,12 @@
       "finalPrice": 170001,
       "highestBidder": "9a8639cd-fee7-4f0d-a4e7-0ff0ab49d592",
       "seller": "f3441101-7257-4a29-9d10-22420dc3fc83"
+    },
+    {
+      "endTime": "2026-02-08T23:05:28.216Z",
+      "finalPrice": 300009,
+      "highestBidder": "00000000-0000-0000-0009-01fc7e8f4a79",
+      "seller": "8ff2fc00-5950-4b45-be36-255e06886639"
     }
   ],
   "Zwergenpilz": [
@@ -5401,6 +5455,12 @@
       "finalPrice": 1000002,
       "highestBidder": "96edd6ea-6716-40ed-9215-2817c4f1d895",
       "seller": "c35e2fc6-cae6-4a65-8a00-e18af515ffac"
+    },
+    {
+      "endTime": "2026-02-08T22:44:38.529Z",
+      "finalPrice": 1000001,
+      "highestBidder": "39506b76-f353-4225-ac72-28a3b3ea4af9",
+      "seller": "52179887-8d99-473b-bb6c-d02791219d79"
     }
   ],
   "Sculkbogen": [
@@ -5549,6 +5609,12 @@
       "finalPrice": 6000,
       "highestBidder": "00000000-0000-0000-0009-01f9a2bfd913",
       "seller": "00000000-0000-0000-0009-01f746a56532"
+    },
+    {
+      "endTime": "2026-02-08T23:38:03.189Z",
+      "finalPrice": 189,
+      "highestBidder": "3badca5c-5a43-44a9-9713-31c7dd1018e5",
+      "seller": "cce50f49-a696-4359-8a01-3155c7b1d299"
     }
   ],
   "Hexenmütze": [
@@ -5619,6 +5685,12 @@
       "finalPrice": 2100,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "5bb9e447-36a7-4a83-8b78-3fef8818e85e"
+    },
+    {
+      "endTime": "2026-02-08T23:36:03.302Z",
+      "finalPrice": 8000,
+      "highestBidder": "2e66fe87-8f86-49fc-bc42-7157a7091658",
+      "seller": "e4d4305f-ccd2-4714-a469-d88372879761"
     }
   ],
   "Goldener Rollator": [
@@ -5711,6 +5783,12 @@
       "finalPrice": 1001,
       "highestBidder": "33e511c4-a7b6-498d-8687-14c2c905bd63",
       "seller": "e1701c6d-82be-46b2-9ba3-63146454dffc"
+    },
+    {
+      "endTime": "2026-02-08T23:37:31.195Z",
+      "finalPrice": 222,
+      "highestBidder": "700b3d54-774d-45aa-8581-bb2ef40b3ad0",
+      "seller": "cce50f49-a696-4359-8a01-3155c7b1d299"
     }
   ],
   "OP Bank": [
@@ -5863,6 +5941,12 @@
       "finalPrice": 1001,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "47c8677e-72f6-4220-8f1a-0fdd93ebd35a"
+    },
+    {
+      "endTime": "2026-02-08T23:06:08.757Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75"
     }
   ],
   "EMERALD_BLOCK": [
@@ -7389,6 +7473,46 @@
       "finalPrice": 400000,
       "highestBidder": "254c410f-3c15-4e07-a894-2220b878499b",
       "seller": "52179887-8d99-473b-bb6c-d02791219d79"
+    }
+  ],
+  "Farmers Schwert v2": [
+    {
+      "endTime": "2026-02-08T23:25:31.479Z",
+      "finalPrice": 357001,
+      "highestBidder": "e1e0ce9b-3f3b-4280-8ed4-2ff71c5a88d3",
+      "seller": "a45de020-c908-4670-8826-7d3479f12f8c"
+    }
+  ],
+  "Drachenschaufel": [
+    {
+      "endTime": "2026-02-08T23:33:37.215Z",
+      "finalPrice": 760000,
+      "highestBidder": "0ebc0a73-2b92-4987-92c6-719cd7642f56",
+      "seller": "00000000-0000-0000-0009-01fdd0aeb8a7"
+    }
+  ],
+  "Elfenbeinschwert": [
+    {
+      "endTime": "2026-02-08T23:23:01.880Z",
+      "finalPrice": 3151,
+      "highestBidder": "7f8b652c-3d6e-4d8a-adad-088b87ae939f",
+      "seller": "6c1c9156-433a-4995-9b84-b2a67b0449b9"
+    }
+  ],
+  "Plagegeister-Spawn-Egg": [
+    {
+      "endTime": "2026-02-08T23:13:40.672Z",
+      "finalPrice": 55000,
+      "highestBidder": "1c17da9d-c771-4a96-adcc-0bff0b2a5948",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20"
+    }
+  ],
+  "OP Sachen": [
+    {
+      "endTime": "2026-02-08T23:14:09.446Z",
+      "finalPrice": 600000,
+      "highestBidder": "00000000-0000-0000-0009-01f29c7ec2f4",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20"
     }
   ]
 }
