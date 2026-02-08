@@ -205,6 +205,18 @@
       "finalPrice": 400001,
       "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
       "seller": "e3bb1bfc-ef2e-4ab5-b25f-f5cdd03e09dd"
+    },
+    {
+      "endTime": "2026-02-08T11:13:52.942Z",
+      "finalPrice": 300000,
+      "highestBidder": "8a4dab04-d37d-47a1-bba5-0e57b5562ef4",
+      "seller": "00000000-0000-0000-0009-01f1aab0574e"
+    },
+    {
+      "endTime": "2026-02-08T11:16:55.296Z",
+      "finalPrice": 306000,
+      "highestBidder": "1e92fb59-0270-40ac-99af-925158233c51",
+      "seller": "0ce7e456-7a68-4508-8d8c-9f65ac031976"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -339,6 +351,12 @@
       "finalPrice": 6300,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "fe85b25a-8eab-4128-b7c8-40d84f13edd1"
+    },
+    {
+      "endTime": "2026-02-08T11:19:50.277Z",
+      "finalPrice": 100001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "98a61928-8776-4db2-b939-fb4652978350"
     }
   ],
   "Luxury Island": [
@@ -827,6 +845,12 @@
       "finalPrice": 10001,
       "highestBidder": "b339fa1e-bf5c-4a8b-a172-95b7fe597a0b",
       "seller": "3b5ec4f3-a4fd-424c-a45a-0f903260d65d"
+    },
+    {
+      "endTime": "2026-02-08T11:15:41.630Z",
+      "finalPrice": 4500,
+      "highestBidder": "ed4c61b3-2792-41a9-aac4-531e8b6df256",
+      "seller": "32d33cf5-b2c8-449d-9a64-89f025c43ce2"
     }
   ],
   "SkyGuyTV": [
@@ -1131,6 +1155,12 @@
       "finalPrice": 30000,
       "highestBidder": "0bd6169d-a49e-470f-9861-f81af014c719",
       "seller": "65ca2694-e76b-4532-b509-4385e282d537"
+    },
+    {
+      "endTime": "2026-02-08T11:15:19.776Z",
+      "finalPrice": 30001,
+      "highestBidder": "e8f1c655-b296-46e1-9f45-c26b0a394152",
+      "seller": "09003592-1ded-47da-a01d-39d775e10096"
     }
   ],
   "ENCHANTED_BOOK": [
@@ -1367,6 +1397,18 @@
       "finalPrice": 1000,
       "highestBidder": "ee8caa26-72eb-442f-a099-1ef9dc48e386",
       "seller": "900f4e8e-e822-4cef-8fea-099aa6d1de70"
+    },
+    {
+      "endTime": "2026-02-08T11:14:23.146Z",
+      "finalPrice": 1001,
+      "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
+      "seller": "55785186-ace6-47ea-8523-9149423edd7f"
+    },
+    {
+      "endTime": "2026-02-08T11:14:47.002Z",
+      "finalPrice": 1200,
+      "highestBidder": "00000000-0000-0000-0009-00000e8bc956",
+      "seller": "55785186-ace6-47ea-8523-9149423edd7f"
     }
   ],
   "Normale ★ Brust": [
@@ -1821,6 +1863,12 @@
       "finalPrice": 2000001,
       "highestBidder": "f7740fe2-aa49-4c0f-9bb0-dc97da41bc47",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-08T11:13:33.423Z",
+      "finalPrice": 2525001.02,
+      "highestBidder": "8a4dab04-d37d-47a1-bba5-0e57b5562ef4",
+      "seller": "a53e95a6-b674-4568-bb09-452c78bae489"
     }
   ],
   "Elfenbein Helm": [
@@ -2551,6 +2599,12 @@
       "finalPrice": 110000,
       "highestBidder": "ff70d135-e98e-45b9-94f6-604a63ada398",
       "seller": "bcc0b5bf-dc33-40ca-8505-f0d3039434b8"
+    },
+    {
+      "endTime": "2026-02-08T11:21:23.965Z",
+      "finalPrice": 550000,
+      "highestBidder": "7275afba-9c3b-4ac4-b630-2ac16195f231",
+      "seller": "7b9468c7-dbca-47f6-99cc-52968b41412a"
     }
   ],
   "GOLDEN BLACK Stiefel": [
@@ -2679,6 +2733,12 @@
       "finalPrice": 42001.05,
       "highestBidder": "4e9b8fe7-c429-4c14-a993-d9bfcda28976",
       "seller": "70a5b55a-262b-49a7-8666-16d2775747d0"
+    },
+    {
+      "endTime": "2026-02-08T11:18:32.952Z",
+      "finalPrice": 15001,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "3913bbe7-3f21-46e2-a6d0-1827e858c636"
     }
   ],
   "Zero der Geisterhund": [
@@ -2985,6 +3045,12 @@
       "finalPrice": 55000,
       "highestBidder": "00000000-0000-0000-0009-01f7e62d5859",
       "seller": "18b8ef10-2b0c-4814-95c0-cd8463b8a51d"
+    },
+    {
+      "endTime": "2026-02-08T11:05:19.212Z",
+      "finalPrice": 100000,
+      "highestBidder": "11e4a94d-db4b-43ea-ad2f-bb0dbeffb01c",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16"
     }
   ],
   "EinfachEmmy`s Schaufel": [
@@ -3151,6 +3217,18 @@
       "finalPrice": 300000,
       "highestBidder": "00000000-0000-0000-0009-01f347c591cc",
       "seller": "1fce4817-9554-44d5-8743-3a225400ba6f"
+    },
+    {
+      "endTime": "2026-02-08T11:18:24.942Z",
+      "finalPrice": 60000,
+      "highestBidder": "8108cf99-78ec-42d0-a949-1989857c3b55",
+      "seller": "b1527ad2-ed42-4104-9a53-534baee96fa3"
+    },
+    {
+      "endTime": "2026-02-08T11:14:51.989Z",
+      "finalPrice": 15000,
+      "highestBidder": "00000000-0000-0000-0009-01f169e9530a",
+      "seller": "00000000-0000-0000-0009-01ff414b9100"
     }
   ],
   "Premium": [
@@ -3525,6 +3603,12 @@
       "finalPrice": 10501.08,
       "highestBidder": "cd5c9e95-a59e-41df-bf24-48b74d8c1ea1",
       "seller": "3cfc168a-3937-4918-856f-3ac1b6f796d5"
+    },
+    {
+      "endTime": "2026-02-08T11:44:55.344Z",
+      "finalPrice": 10001,
+      "highestBidder": "b339fa1e-bf5c-4a8b-a172-95b7fe597a0b",
+      "seller": "f39637ad-1e59-41a3-884c-451eda15c945"
     }
   ],
   "Goldener Rollator": [
