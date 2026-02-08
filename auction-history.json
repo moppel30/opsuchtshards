@@ -495,6 +495,12 @@
       "finalPrice": 16000,
       "highestBidder": "ae218a7b-e9d4-46f4-b751-6f65544ce02b",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-08T05:58:28.540Z",
+      "finalPrice": 31001,
+      "highestBidder": "2b3d43c0-ea0c-4745-9554-531898d8cdf7",
+      "seller": "00000000-0000-0000-0009-01fec25d2bb3"
     }
   ],
   "ELYTRA": [
