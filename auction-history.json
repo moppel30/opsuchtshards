@@ -187,6 +187,18 @@
       "finalPrice": 300000,
       "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
       "seller": "852d620b-4911-447b-a82c-cbce96a00347"
+    },
+    {
+      "endTime": "2026-02-08T09:49:59.467Z",
+      "finalPrice": 450000,
+      "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
+      "seller": "852d620b-4911-447b-a82c-cbce96a00347"
+    },
+    {
+      "endTime": "2026-02-08T10:29:35.157Z",
+      "finalPrice": 800001,
+      "highestBidder": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "seller": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -353,6 +365,12 @@
       "finalPrice": 601,
       "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
       "seller": "00000000-0000-0000-0009-01f92709af1c"
+    },
+    {
+      "endTime": "2026-02-08T10:17:20.543Z",
+      "finalPrice": 10001,
+      "highestBidder": "7275afba-9c3b-4ac4-b630-2ac16195f231",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac"
     }
   ],
   "OP Sammelalbum": [
@@ -451,6 +469,12 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T10:22:50.569Z",
+      "finalPrice": 500,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "6e90a986-0162-44a5-a700-c89f90eb01fc"
     }
   ],
   "ByteException_": [
@@ -703,6 +727,12 @@
       "finalPrice": 1000,
       "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
       "seller": "8f530c14-9396-4d64-a551-41ae02b5634a"
+    },
+    {
+      "endTime": "2026-02-08T10:41:45.832Z",
+      "finalPrice": 10000,
+      "highestBidder": "a481444b-0cf2-492f-b07c-38d23e4718df",
+      "seller": "959b3c94-5fb4-435d-bee6-ae04c72180bd"
     }
   ],
   "OP-City": [
@@ -2025,6 +2055,12 @@
       "finalPrice": 10000,
       "highestBidder": "5828dd26-ed79-437b-a207-e2123acfa5af",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T10:20:49.607Z",
+      "finalPrice": 1000,
+      "highestBidder": "acc7be4f-a04a-4d07-812b-a6e819b81372",
+      "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818"
     }
   ],
   "Farmwelt": [
@@ -3095,6 +3131,12 @@
       "finalPrice": 1775000,
       "highestBidder": "d4474ef3-e579-42d2-b14b-9f6090a1f0e3",
       "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20"
+    },
+    {
+      "endTime": "2026-02-08T10:48:20.511Z",
+      "finalPrice": 2000001,
+      "highestBidder": "f5b0ba5c-4e33-45b3-8e5f-d47a1c1a9e96",
+      "seller": "0f4460cc-e4ad-4005-b06d-300d63c5db0b"
     }
   ],
   "Trank der Feuerresistenz": [
@@ -3473,6 +3515,14 @@
       "finalPrice": 222222,
       "highestBidder": "00000000-0000-0000-0009-01fedfcb4b6e",
       "seller": "e17907b2-e3a1-493b-ae81-226d6228b196"
+    }
+  ],
+  "Tiger Schuhe": [
+    {
+      "endTime": "2026-02-08T10:47:09.396Z",
+      "finalPrice": 20000,
+      "highestBidder": "0da50058-eab9-4df0-8522-081a4ef0b568",
+      "seller": "8ab9b648-6134-4737-b544-06bbe6ec932d"
     }
   ]
 }
