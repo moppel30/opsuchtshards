@@ -1371,6 +1371,12 @@
       "finalPrice": 250001,
       "highestBidder": "e6d802c3-a6f6-43a2-b6e3-75d28e82aeb5",
       "seller": "675faf83-3f11-4a34-bc72-16ad06eca0ba"
+    },
+    {
+      "endTime": "2026-02-08T06:53:58.929Z",
+      "finalPrice": 300001,
+      "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
+      "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
     }
   ],
   "DIRT": [
@@ -2297,6 +2303,12 @@
       "finalPrice": 153000,
       "highestBidder": "c3413bd3-693f-453a-9782-739081d10b6c",
       "seller": "a611e02e-c44c-446f-b5e4-2b7e878842a7"
+    },
+    {
+      "endTime": "2026-02-08T06:56:33.054Z",
+      "finalPrice": 500000,
+      "highestBidder": "00000000-0000-0000-0009-01f0a0914bef",
+      "seller": "00000000-0000-0000-0009-01f70a6266cf"
     }
   ],
   "NETHERITE_CHESTPLATE": [
@@ -3083,6 +3095,30 @@
       "finalPrice": 14735900,
       "highestBidder": "5f35a868-cb84-4432-8bea-019ba4f0f196",
       "seller": "20315538-f54d-4432-afeb-901f7cc6e3cf"
+    }
+  ],
+  "Gletscherhose": [
+    {
+      "endTime": "2026-02-08T07:14:48.132Z",
+      "finalPrice": 94501.05,
+      "highestBidder": "b85e95a2-de94-4375-bddc-62a24b6a46a1",
+      "seller": "22685822-2044-464f-be2b-2628c53954dc"
+    }
+  ],
+  "TNT Hacke": [
+    {
+      "endTime": "2026-02-08T07:21:56.611Z",
+      "finalPrice": 2550000,
+      "highestBidder": "00000000-0000-0000-0009-00000d74ea6f",
+      "seller": "e3c4cfdb-893b-4c9f-82c3-4aaa38582112"
+    }
+  ],
+  "Runenbrecher": [
+    {
+      "endTime": "2026-02-08T06:55:41.589Z",
+      "finalPrice": 6161000,
+      "highestBidder": "e0c31ac8-5213-490c-8287-bd54e293748b",
+      "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
     }
   ]
 }
