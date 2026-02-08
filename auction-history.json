@@ -725,6 +725,12 @@
       "finalPrice": 2000,
       "highestBidder": "64387c6f-eed7-4925-b235-b89bca446dbd",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-08T02:04:17.327Z",
+      "finalPrice": 25001,
+      "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
+      "seller": "b3dcc72d-9971-4ca8-8df0-68e05d5ad439"
     }
   ],
   "Ballon der Liebe": [
@@ -1489,6 +1495,18 @@
       "finalPrice": 333000,
       "highestBidder": "1fb041db-1dff-4852-806e-7e2164660dfe",
       "seller": "5f05cc87-93e7-4055-b93b-c157ef0cb165"
+    },
+    {
+      "endTime": "2026-02-08T01:42:49.700Z",
+      "finalPrice": 52500,
+      "highestBidder": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
+      "seller": "00000000-0000-0000-0009-01f5bc9d911f"
+    },
+    {
+      "endTime": "2026-02-08T01:43:03.685Z",
+      "finalPrice": 55125,
+      "highestBidder": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
+      "seller": "00000000-0000-0000-0009-01f5bc9d911f"
     }
   ],
   "Unendliche Rakete": [
@@ -1755,6 +1773,12 @@
       "finalPrice": 210000,
       "highestBidder": "00000000-0000-0000-0009-01f58a4ea286",
       "seller": "c35e2fc6-cae6-4a65-8a00-e18af515ffac"
+    },
+    {
+      "endTime": "2026-02-08T01:10:48.171Z",
+      "finalPrice": 582624,
+      "highestBidder": "b85e95a2-de94-4375-bddc-62a24b6a46a1",
+      "seller": "fb86c5e8-5358-48aa-91f1-b60dd271a4f3"
     }
   ],
   "PEARLESCENT_FROGLIGHT": [
@@ -1849,6 +1873,18 @@
       "finalPrice": 50000,
       "highestBidder": "332e37de-1991-4a4f-9c3a-f02d7c13903f",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-08T01:31:38.468Z",
+      "finalPrice": 5000,
+      "highestBidder": "00000000-0000-0000-0009-01f350b96dad",
+      "seller": "03605c69-200a-4bfc-a834-1fb6d62a87ec"
+    },
+    {
+      "endTime": "2026-02-08T01:31:51.270Z",
+      "finalPrice": 102,
+      "highestBidder": "37d9df59-a366-468c-8844-f1ea4f874fb8",
+      "seller": "03605c69-200a-4bfc-a834-1fb6d62a87ec"
     }
   ],
   "Auktionshaus": [
@@ -1869,6 +1905,12 @@
       "finalPrice": 1000,
       "highestBidder": "00000000-0000-0000-0009-01f2be342024",
       "seller": "3dba9994-c441-41c1-aeea-40186728aca2"
+    },
+    {
+      "endTime": "2026-02-08T01:31:10.325Z",
+      "finalPrice": 101,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "seller": "03605c69-200a-4bfc-a834-1fb6d62a87ec"
     }
   ],
   "Pinguin-Paket": [
@@ -2659,6 +2701,12 @@
       "finalPrice": 26351.05,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "dc99ca1b-ae46-442d-b189-ce061bfadd65"
+    },
+    {
+      "endTime": "2026-02-08T01:51:23.409Z",
+      "finalPrice": 3000001,
+      "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
+      "seller": "1fce4817-9554-44d5-8743-3a225400ba6f"
     }
   ],
   "Premium": [
@@ -2951,6 +2999,44 @@
       "finalPrice": 5002,
       "highestBidder": "7ef3c3d4-3082-4bdf-a27c-61832e885e28",
       "seller": "986d9342-769c-483a-9f20-8643d93ca7cf"
+    }
+  ],
+  "Hexenmütze": [
+    {
+      "endTime": "2026-02-08T01:40:26.427Z",
+      "finalPrice": 60000,
+      "highestBidder": "4deb64ed-6295-44f9-9366-c11238c97952",
+      "seller": "39506b76-f353-4225-ac72-28a3b3ea4af9"
+    }
+  ],
+  "Shard Elytra": [
+    {
+      "endTime": "2026-02-08T01:16:17.176Z",
+      "finalPrice": 200000,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "seller": "33d09390-47a9-4df0-bae6-9aab4164b770"
+    },
+    {
+      "endTime": "2026-02-08T01:40:34.141Z",
+      "finalPrice": 156060,
+      "highestBidder": "01773efd-6432-4a33-8158-a15a0fa28faf",
+      "seller": "0252fb65-ccf8-40a7-af39-0dd065c8a6b5"
+    }
+  ],
+  "Seltene Elytra": [
+    {
+      "endTime": "2026-02-08T01:16:43.149Z",
+      "finalPrice": 89250,
+      "highestBidder": "01773efd-6432-4a33-8158-a15a0fa28faf",
+      "seller": "33d09390-47a9-4df0-bae6-9aab4164b770"
+    }
+  ],
+  "Obsidianbogen": [
+    {
+      "endTime": "2026-02-08T01:17:17.040Z",
+      "finalPrice": 150000,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "seller": "33d09390-47a9-4df0-bae6-9aab4164b770"
     }
   ]
 }
