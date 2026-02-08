@@ -217,6 +217,18 @@
       "finalPrice": 306000,
       "highestBidder": "1e92fb59-0270-40ac-99af-925158233c51",
       "seller": "0ce7e456-7a68-4508-8d8c-9f65ac031976"
+    },
+    {
+      "endTime": "2026-02-08T11:16:17.146Z",
+      "finalPrice": 800001,
+      "highestBidder": "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f",
+      "seller": "51472d55-8185-4c6d-8e7a-f487d7340132"
+    },
+    {
+      "endTime": "2026-02-08T11:13:19.512Z",
+      "finalPrice": 400001,
+      "highestBidder": "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f",
+      "seller": "215b9e9e-b12c-427f-87bf-080afe1e3132"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -1689,6 +1701,12 @@
       "finalPrice": 300001,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
+    },
+    {
+      "endTime": "2026-02-08T11:43:33.016Z",
+      "finalPrice": 50001,
+      "highestBidder": "ffafca53-22f1-430a-b155-37100c3d7186",
+      "seller": "e38bb4d4-3a7f-4475-aabb-dd1c7a4ec279"
     }
   ],
   "DIRT": [
@@ -3183,6 +3201,12 @@
       "finalPrice": 420000,
       "highestBidder": "3b6cccf4-bd10-4d30-b3b0-2b7cefae4246",
       "seller": "19ebac1e-7d15-4fac-bfe9-3e613aae0982"
+    },
+    {
+      "endTime": "2026-02-08T11:43:12.418Z",
+      "finalPrice": 204000,
+      "highestBidder": "0e14b4b0-2e0c-4f9f-995d-ce0ccb7300b6",
+      "seller": "e38bb4d4-3a7f-4475-aabb-dd1c7a4ec279"
     }
   ],
   "Lebkuchen Christian": [
@@ -3277,6 +3301,12 @@
       "finalPrice": 320500,
       "highestBidder": "4f917865-cbad-4669-8653-28516445c8c2",
       "seller": "8ff2fc00-5950-4b45-be36-255e06886639"
+    },
+    {
+      "endTime": "2026-02-08T11:59:20.972Z",
+      "finalPrice": 1,
+      "highestBidder": "f2f5c52a-d4ce-4631-ae7a-c36478816fda",
+      "seller": "00000000-0000-0000-0009-01fd05830912"
     }
   ],
   "Zwergenpilz": [
@@ -3783,6 +3813,54 @@
       "finalPrice": 556.05,
       "highestBidder": "22db07b1-7df5-4276-be30-fec08333a286",
       "seller": "f24e166c-3166-4ba2-9c3a-a63faaff1b3f"
+    }
+  ],
+  "Trichter Limit": [
+    {
+      "endTime": "2026-02-08T11:50:41.040Z",
+      "finalPrice": 5000002,
+      "highestBidder": "df0056b8-90d2-4fb4-90d2-aecd6a9eb6f2",
+      "seller": "39701138-abb7-4430-a793-978e45526993"
+    }
+  ],
+  "NETHERITE_AXE": [
+    {
+      "endTime": "2026-02-08T12:04:08.971Z",
+      "finalPrice": 160000,
+      "highestBidder": "9662d8ae-750a-4a1e-90d4-dc8116ef2e8b",
+      "seller": "a19e7602-a278-4db0-82c5-b8ef2ed52602"
+    }
+  ],
+  "ALLAY_SPAWN_EGG": [
+    {
+      "endTime": "2026-02-08T11:56:07.680Z",
+      "finalPrice": 100000,
+      "highestBidder": "6ba5910a-4e98-4037-ab4d-0bff8a0d3a7a",
+      "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053"
+    }
+  ],
+  "Bambi": [
+    {
+      "endTime": "2026-02-08T11:56:31.211Z",
+      "finalPrice": 20000,
+      "highestBidder": "5b561e4f-a9be-4657-ba58-dcc8be9db147",
+      "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053"
+    }
+  ],
+  "SNOW_GOLEM_SPAWN_EGG": [
+    {
+      "endTime": "2026-02-08T11:57:05.662Z",
+      "finalPrice": 11000,
+      "highestBidder": "c2f35558-e0b3-4c08-8f5c-5fb0e8f6730f",
+      "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053"
+    }
+  ],
+  "OPSUCHT Kaffeetasse": [
+    {
+      "endTime": "2026-02-08T11:57:25.683Z",
+      "finalPrice": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01f368aeefe4",
+      "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053"
     }
   ]
 }
