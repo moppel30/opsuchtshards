@@ -229,6 +229,18 @@
       "finalPrice": 400001,
       "highestBidder": "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f",
       "seller": "215b9e9e-b12c-427f-87bf-080afe1e3132"
+    },
+    {
+      "endTime": "2026-02-08T12:21:13.995Z",
+      "finalPrice": 500001,
+      "highestBidder": "9a8639cd-fee7-4f0d-a4e7-0ff0ab49d592",
+      "seller": "00000000-0000-0000-0009-01ffc1c6b047"
+    },
+    {
+      "endTime": "2026-02-08T12:31:40.801Z",
+      "finalPrice": 11000,
+      "highestBidder": "4f3c7175-cabe-42ce-b9d0-870da153d08a",
+      "seller": "00000000-0000-0000-0009-01fca0d31d37"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -1589,6 +1601,12 @@
       "finalPrice": 50001,
       "highestBidder": "1e2f8173-99df-45fb-91d4-13e21a3c8439",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-08T12:38:12Z",
+      "finalPrice": 120005,
+      "highestBidder": "51472d55-8185-4c6d-8e7a-f487d7340132",
+      "seller": "00000000-0000-0000-0009-01f99f3b7292"
     }
   ],
   "Wasserwaage": [
@@ -2223,6 +2241,12 @@
       "finalPrice": 10001,
       "highestBidder": "7275afba-9c3b-4ac4-b630-2ac16195f231",
       "seller": "36c4fb90-e4e2-4835-8203-be913d5af8a2"
+    },
+    {
+      "endTime": "2026-02-08T12:18:45.691Z",
+      "finalPrice": 5001,
+      "highestBidder": "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f",
+      "seller": "7e18a731-242f-45b7-b2ab-a3cd298846db"
     }
   ],
   "Farmwelt": [
@@ -2261,6 +2285,12 @@
       "finalPrice": 2,
       "highestBidder": "2c1f5342-109a-43a0-807b-d0463a3847ae",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-08T12:26:32.249Z",
+      "finalPrice": 101,
+      "highestBidder": "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f",
+      "seller": "c740aeb7-62ad-47f7-8ed3-64d1b5f86b69"
     }
   ],
   "Tresor": [
@@ -3405,6 +3435,12 @@
       "finalPrice": 110000,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "cd58f0dd-348a-4a86-8e81-acc516cfa60e"
+    },
+    {
+      "endTime": "2026-02-08T12:30:28.926Z",
+      "finalPrice": 52500,
+      "highestBidder": "00000000-0000-0000-0009-01facfc82642",
+      "seller": "90396998-1d97-4a21-b152-01d7a143bc5b"
     }
   ],
   "Propellerhut": [
@@ -3861,6 +3897,38 @@
       "finalPrice": 50000,
       "highestBidder": "00000000-0000-0000-0009-01f368aeefe4",
       "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053"
+    }
+  ],
+  "Magnet": [
+    {
+      "endTime": "2026-02-08T12:19:29.473Z",
+      "finalPrice": 12250000,
+      "highestBidder": "a9a5e64a-84f6-4c9d-a264-3e08971b3dc6",
+      "seller": "f41b0608-6dd6-4b0b-b7be-f5f9c93a114f"
+    }
+  ],
+  "Herzglanzaxt": [
+    {
+      "endTime": "2026-02-08T12:23:13.493Z",
+      "finalPrice": 50000.1,
+      "highestBidder": "f2f5c52a-d4ce-4631-ae7a-c36478816fda",
+      "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    }
+  ],
+  "Komplettes Wind set": [
+    {
+      "endTime": "2026-02-08T12:15:57.982Z",
+      "finalPrice": 612002.05,
+      "highestBidder": "a6e0dc3e-215b-400f-af69-d5b753ca43f9",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91"
+    }
+  ],
+  "Leuchtfeuer": [
+    {
+      "endTime": "2026-02-08T11:51:46.655Z",
+      "finalPrice": 459002.04,
+      "highestBidder": "0362e8f6-6aba-4018-8742-992d5a9c1202",
+      "seller": "8253a4b5-f118-4be6-a36c-0752c3fa98e2"
     }
   ]
 }
