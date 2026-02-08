@@ -1435,6 +1435,12 @@
       "finalPrice": 1000,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "00000000-0000-0000-0009-01fee4286556"
+    },
+    {
+      "endTime": "2026-02-08T22:08:15.100Z",
+      "finalPrice": 1001,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "47c8677e-72f6-4220-8f1a-0fdd93ebd35a"
     }
   ],
   "OP-City": [
@@ -2431,6 +2437,12 @@
       "finalPrice": 6000,
       "highestBidder": "00000000-0000-0000-0009-01f0137caa09",
       "seller": "00000000-0000-0000-0009-01fe1e6e03aa"
+    },
+    {
+      "endTime": "2026-02-08T22:48:41.223Z",
+      "finalPrice": 3150,
+      "highestBidder": "ed4c61b3-2792-41a9-aac4-531e8b6df256",
+      "seller": "00000000-0000-0000-0009-01f0d7a9ca1a"
     }
   ],
   "Zuckerstangen": [
@@ -3189,6 +3201,18 @@
       "finalPrice": 50001,
       "highestBidder": "8bcb2f24-005f-4710-b87c-e34d4ba0f45a",
       "seller": "0b703e9b-b8a0-482f-bb0a-73f50dedc593"
+    },
+    {
+      "endTime": "2026-02-08T22:53:27.482Z",
+      "finalPrice": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01f62df8a108",
+      "seller": "00000000-0000-0000-0009-01f6905ba093"
+    },
+    {
+      "endTime": "2026-02-08T22:55:07.783Z",
+      "finalPrice": 50000,
+      "highestBidder": "780f8608-efab-41a8-8e7d-efac9f00ec42",
+      "seller": "00000000-0000-0000-0009-01f6905ba093"
     }
   ],
   "Kartenzepter": [
@@ -3709,6 +3733,12 @@
       "finalPrice": 4001,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "6832fbf4-1f03-4f76-bb7c-f303e5813f06"
+    },
+    {
+      "endTime": "2026-02-08T22:51:53.942Z",
+      "finalPrice": 5500,
+      "highestBidder": "968afd67-8987-4483-9e21-759d4fa1004f",
+      "seller": "00000000-0000-0000-0009-01f6f576ee01"
     }
   ],
   "Auktionshaus": [
@@ -5731,6 +5761,12 @@
       "finalPrice": 2000,
       "highestBidder": "00000000-0000-0000-0009-01f64a2a2df0",
       "seller": "2c7d4eae-5a61-47a2-a211-ff691cfe5bb6"
+    },
+    {
+      "endTime": "2026-02-08T22:20:30.330Z",
+      "finalPrice": 2501,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "seller": "00000000-0000-0000-0009-01fdd0aeb8a7"
     }
   ],
   "WAXED_OXIDIZED_COPPER_BULB": [
@@ -5821,6 +5857,12 @@
       "finalPrice": 1001,
       "highestBidder": "1ee6b3de-cf58-43fc-8efe-1208cc501beb",
       "seller": "bbebbdb1-2942-4cb3-a27e-2d4464c702c9"
+    },
+    {
+      "endTime": "2026-02-08T22:08:45.884Z",
+      "finalPrice": 1001,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "47c8677e-72f6-4220-8f1a-0fdd93ebd35a"
     }
   ],
   "EMERALD_BLOCK": [
@@ -6393,6 +6435,12 @@
       "finalPrice": 104500,
       "highestBidder": "75332750-844f-4308-92b5-bdd3f7691027",
       "seller": "ecbfe2bf-25ef-403e-ba78-b9390154c704"
+    },
+    {
+      "endTime": "2026-02-08T22:58:13.012Z",
+      "finalPrice": 436223.32,
+      "highestBidder": "a79dfb39-3f06-47bd-ba80-eb77aa5a4bf5",
+      "seller": "0f4460cc-e4ad-4005-b06d-300d63c5db0b"
     }
   ],
   "Frostpanzer": [
@@ -6971,6 +7019,18 @@
       "finalPrice": 2206.12,
       "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
       "seller": "bcf58b65-212a-489f-961d-2800368e5096"
+    },
+    {
+      "endTime": "2026-02-08T22:48:54.211Z",
+      "finalPrice": 1159,
+      "highestBidder": "32d33cf5-b2c8-449d-9a64-89f025c43ce2",
+      "seller": "00000000-0000-0000-0009-01f0d7a9ca1a"
+    },
+    {
+      "endTime": "2026-02-08T22:49:07.888Z",
+      "finalPrice": 5000,
+      "highestBidder": "6bbed69d-0ce3-444a-9950-7304e3411477",
+      "seller": "00000000-0000-0000-0009-01f0d7a9ca1a"
     }
   ],
   "Anubisschaufel": [
@@ -7305,6 +7365,30 @@
       "finalPrice": 100000,
       "highestBidder": "00000000-0000-0000-0009-01f50430cdf3",
       "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20"
+    }
+  ],
+  "Mitarbeiterjacke": [
+    {
+      "endTime": "2026-02-08T22:57:09.966Z",
+      "finalPrice": 505901.02,
+      "highestBidder": "a79dfb39-3f06-47bd-ba80-eb77aa5a4bf5",
+      "seller": "0f4460cc-e4ad-4005-b06d-300d63c5db0b"
+    }
+  ],
+  "JonCarrs Hose": [
+    {
+      "endTime": "2026-02-08T22:40:15.891Z",
+      "finalPrice": 561100,
+      "highestBidder": "fd3aa44a-96d0-48e8-920c-2dcbd3134f4c",
+      "seller": "48ae0708-3ecd-4117-aa8b-1828f74fb987"
+    }
+  ],
+  "Unendliches TNT": [
+    {
+      "endTime": "2026-02-08T22:45:53.536Z",
+      "finalPrice": 400000,
+      "highestBidder": "254c410f-3c15-4e07-a894-2220b878499b",
+      "seller": "52179887-8d99-473b-bb6c-d02791219d79"
     }
   ]
 }
