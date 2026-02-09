@@ -1391,6 +1391,12 @@
       "finalPrice": 100001,
       "highestBidder": "0ce7e456-7a68-4508-8d8c-9f65ac031976",
       "seller": "d2b3d89f-794a-409c-91f9-46fe3c5d5b98"
+    },
+    {
+      "endTime": "2026-02-09T09:09:30.670Z",
+      "finalPrice": 66151,
+      "highestBidder": "a7529824-9a88-4ca7-8b89-4ca0ae7db5e4",
+      "seller": "00000000-0000-0000-0009-01ff21ec9182"
     }
   ],
   "Odin's Schwingen": [
@@ -1647,6 +1653,12 @@
       "finalPrice": 1250,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "968afd67-8987-4483-9e21-759d4fa1004f"
+    },
+    {
+      "endTime": "2026-02-09T08:40:52.375Z",
+      "finalPrice": 4000,
+      "highestBidder": "00000000-0000-0000-0009-01f10a127101",
+      "seller": "eefc3c87-1a08-4667-a8fb-d58cd1bbcf23"
     }
   ],
   "Normale ★ Hose": [
@@ -2133,6 +2145,12 @@
       "finalPrice": 20001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01f42f2af502"
+    },
+    {
+      "endTime": "2026-02-09T09:14:52.943Z",
+      "finalPrice": 31501.06,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f337f42efa"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -2273,6 +2291,12 @@
       "finalPrice": 10000,
       "highestBidder": "4773bbb8-7a7c-4433-88a4-29cbb35282c8",
       "seller": "00000000-0000-0000-0009-01f1b28a5653"
+    },
+    {
+      "endTime": "2026-02-09T08:54:59.149Z",
+      "finalPrice": 55000,
+      "highestBidder": "4773bbb8-7a7c-4433-88a4-29cbb35282c8",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86"
     }
   ],
   "Herzglanzklinge": [
@@ -2881,6 +2905,12 @@
       "finalPrice": 100001,
       "highestBidder": "8e3d44c7-6d52-4f79-8d7d-215ec569f732",
       "seller": "00000000-0000-0000-0009-01f1e6d47189"
+    },
+    {
+      "endTime": "2026-02-09T08:40:58.281Z",
+      "finalPrice": 100000,
+      "highestBidder": "00000000-0000-0000-0009-01fa6b6c26f0",
+      "seller": "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec"
     }
   ],
   "Mini Rakete": [
@@ -3211,6 +3241,12 @@
       "finalPrice": 500000,
       "highestBidder": "00000000-0000-0000-0009-01f9af228134",
       "seller": "00000000-0000-0000-0009-01fddea05acf"
+    },
+    {
+      "endTime": "2026-02-09T08:58:14.340Z",
+      "finalPrice": 700000,
+      "highestBidder": "00000000-0000-0000-0009-01f9af228134",
+      "seller": "9644d019-4809-4734-80ab-87623a314f2c"
     }
   ],
   "Unendliche Rakete": [
@@ -3801,6 +3837,12 @@
       "finalPrice": 26001,
       "highestBidder": "00000000-0000-0000-0009-01f7669f05c3",
       "seller": "b3dcc72d-9971-4ca8-8df0-68e05d5ad439"
+    },
+    {
+      "endTime": "2026-02-09T09:09:12.943Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "45de5515-d827-4430-9bc4-aa223b78f085"
     }
   ],
   "Farmwelt": [
@@ -5031,6 +5073,12 @@
       "finalPrice": 1050,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
+    },
+    {
+      "endTime": "2026-02-09T08:51:42.373Z",
+      "finalPrice": 2501,
+      "highestBidder": "c23eddf0-0605-40dc-b189-e3392f5435ed",
+      "seller": "00000000-0000-0000-0009-01f1441dec3c"
     }
   ],
   "Talisman ✦ Lebensbooster": [
@@ -5873,6 +5921,12 @@
       "finalPrice": 189,
       "highestBidder": "3badca5c-5a43-44a9-9713-31c7dd1018e5",
       "seller": "cce50f49-a696-4359-8a01-3155c7b1d299"
+    },
+    {
+      "endTime": "2026-02-09T09:08:56.939Z",
+      "finalPrice": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "seller": "45de5515-d827-4430-9bc4-aa223b78f085"
     }
   ],
   "Hexenmütze": [
@@ -6769,6 +6823,12 @@
       "finalPrice": 155592,
       "highestBidder": "31a2f37c-3848-4ae8-aa87-2485b1da0825",
       "seller": "e7154be3-677b-459d-9eb0-37e7cdf0ae88"
+    },
+    {
+      "endTime": "2026-02-09T08:51:49.609Z",
+      "finalPrice": 58801.05,
+      "highestBidder": "39506b76-f353-4225-ac72-28a3b3ea4af9",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86"
     }
   ],
   "Profi Angel v2": [
@@ -6943,6 +7003,12 @@
       "finalPrice": 100000,
       "highestBidder": "9644d019-4809-4734-80ab-87623a314f2c",
       "seller": "51372a35-d288-4efe-ad09-4b5930fa6737"
+    },
+    {
+      "endTime": "2026-02-09T08:40:47.333Z",
+      "finalPrice": 50001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec"
     }
   ],
   "Engelshelm": [
@@ -7925,6 +7991,54 @@
       "finalPrice": 100001,
       "highestBidder": "1e609923-0915-46fb-8026-d435c25e07e0",
       "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
+    }
+  ],
+  "Owner | SkyGuyTV": [
+    {
+      "endTime": "2026-02-09T08:59:45.746Z",
+      "finalPrice": 250000,
+      "highestBidder": "00000000-0000-0000-0009-01fb8d54c4b1",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216"
+    }
+  ],
+  "Kopf von EinfachEmmy": [
+    {
+      "endTime": "2026-02-09T09:00:01.930Z",
+      "finalPrice": 15001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216"
+    }
+  ],
+  "SoGehts": [
+    {
+      "endTime": "2026-02-09T09:13:04.751Z",
+      "finalPrice": 400001,
+      "highestBidder": "8bcb2f24-005f-4710-b87c-e34d4ba0f45a",
+      "seller": "d2b3d89f-794a-409c-91f9-46fe3c5d5b98"
+    }
+  ],
+  "HONEY_BLOCK": [
+    {
+      "endTime": "2026-02-09T09:17:06.526Z",
+      "finalPrice": 5.25,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "e7154be3-677b-459d-9eb0-37e7cdf0ae88"
+    }
+  ],
+  "Hoglin-Spawn-Egg": [
+    {
+      "endTime": "2026-02-09T08:43:01.930Z",
+      "finalPrice": 10000,
+      "highestBidder": "17e335c9-a92f-4312-8fd6-261cd1754018",
+      "seller": "c792cd12-91e7-4e03-8d31-11fff04523fa"
+    }
+  ],
+  "Skelettpferde-Spawn-Egg": [
+    {
+      "endTime": "2026-02-09T08:43:16.983Z",
+      "finalPrice": 10000,
+      "highestBidder": "17e335c9-a92f-4312-8fd6-261cd1754018",
+      "seller": "c792cd12-91e7-4e03-8d31-11fff04523fa"
     }
   ]
 }
