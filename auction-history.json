@@ -1241,6 +1241,12 @@
       "finalPrice": 1,
       "highestBidder": "735b4887-af8f-4883-88e5-d5d79a1a9526",
       "seller": "00000000-0000-0000-0009-01f1e2fe88e4"
+    },
+    {
+      "endTime": "2026-02-09T14:45:38.909Z",
+      "finalPrice": 24150.01,
+      "highestBidder": "abbc9e08-089b-4e20-b583-f84ff4fcbdd3",
+      "seller": "00000000-0000-0000-0009-01f5193bb528"
     }
   ],
   "Mod-Team": [
@@ -1469,6 +1475,18 @@
       "finalPrice": 66151,
       "highestBidder": "a7529824-9a88-4ca7-8b89-4ca0ae7db5e4",
       "seller": "00000000-0000-0000-0009-01ff21ec9182"
+    },
+    {
+      "endTime": "2026-02-09T14:58:00.319Z",
+      "finalPrice": 60000,
+      "highestBidder": "4f0d8dcf-2806-45a4-821e-d71fd6112449",
+      "seller": "6973a780-0222-440f-a044-7e40e3593308"
+    },
+    {
+      "endTime": "2026-02-09T15:13:59.215Z",
+      "finalPrice": 10502,
+      "highestBidder": "4f0d8dcf-2806-45a4-821e-d71fd6112449",
+      "seller": "00000000-0000-0000-0009-01f2d883621d"
     }
   ],
   "Odin's Schwingen": [
@@ -1903,6 +1921,12 @@
       "finalPrice": 3000,
       "highestBidder": "00000000-0000-0000-0009-01f9a2bfd913",
       "seller": "c9f7a94c-beac-4a65-9de0-6fc46c45cb5b"
+    },
+    {
+      "endTime": "2026-02-09T14:53:10.805Z",
+      "finalPrice": 5001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f0f5231a15"
     }
   ],
   "OPSUCHT Holzfäller Axt": [
@@ -2277,6 +2301,12 @@
       "finalPrice": 10501.06,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01f60f1fadad"
+    },
+    {
+      "endTime": "2026-02-09T14:55:43.044Z",
+      "finalPrice": 10501.06,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "89031ab2-24fe-44ef-94ab-5f360255c987"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -2951,6 +2981,12 @@
       "finalPrice": 1050,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-09T14:57:34.323Z",
+      "finalPrice": 110160,
+      "highestBidder": "8253a4b5-f118-4be6-a36c-0752c3fa98e2",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "Wasserwaage": [
@@ -3073,6 +3109,12 @@
       "finalPrice": 100000,
       "highestBidder": "00000000-0000-0000-0009-01fa6b6c26f0",
       "seller": "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec"
+    },
+    {
+      "endTime": "2026-02-09T15:25:58.730Z",
+      "finalPrice": 33075,
+      "highestBidder": "75332750-844f-4308-92b5-bdd3f7691027",
+      "seller": "ceb7c8c1-579c-4cb7-8e7c-30c56298e312"
     }
   ],
   "Mini Rakete": [
@@ -3415,6 +3457,24 @@
       "finalPrice": 700000,
       "highestBidder": "00000000-0000-0000-0009-01f9af228134",
       "seller": "9644d019-4809-4734-80ab-87623a314f2c"
+    },
+    {
+      "endTime": "2026-02-09T14:58:36.176Z",
+      "finalPrice": 50002,
+      "highestBidder": "6187fb11-854d-471d-8a4f-1012293ceef1",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-09T14:58:59.812Z",
+      "finalPrice": 50002,
+      "highestBidder": "6187fb11-854d-471d-8a4f-1012293ceef1",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-09T14:59:09.168Z",
+      "finalPrice": 50002,
+      "highestBidder": "6187fb11-854d-471d-8a4f-1012293ceef1",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "Unendliche Rakete": [
@@ -3702,6 +3762,12 @@
       "endTime": "2026-02-07T19:37:24.997Z",
       "finalPrice": 100002,
       "highestBidder": "00000000-0000-0000-0009-01faab3ea276",
+      "seller": "c35e2fc6-cae6-4a65-8a00-e18af515ffac"
+    },
+    {
+      "endTime": "2026-02-09T14:49:55.751Z",
+      "finalPrice": 100001,
+      "highestBidder": "00000000-0000-0000-0009-01f892cf751b",
       "seller": "c35e2fc6-cae6-4a65-8a00-e18af515ffac"
     }
   ],
@@ -4377,6 +4443,12 @@
       "finalPrice": 5001,
       "highestBidder": "f63843ea-571b-4f8e-8a49-2b8c40a05fa4",
       "seller": "654182de-295a-4e93-9f30-07de6077ebc1"
+    },
+    {
+      "endTime": "2026-02-09T15:15:14.999Z",
+      "finalPrice": 630000,
+      "highestBidder": "f63843ea-571b-4f8e-8a49-2b8c40a05fa4",
+      "seller": "7f2e4bf9-f714-4b7f-ace8-16acd0925de5"
     }
   ],
   "Full Hacker.exe": [
@@ -4663,6 +4735,12 @@
       "finalPrice": 45999,
       "highestBidder": "9f48eb9d-0de7-482f-b514-b76c7fbd3035",
       "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
+    },
+    {
+      "endTime": "2026-02-09T14:58:52.414Z",
+      "finalPrice": 32000,
+      "highestBidder": "011814bf-2674-4f53-9d80-de22602c2fe9",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
   "NETHERITE_LEGGINGS": [
@@ -4676,6 +4754,12 @@
       "endTime": "2026-02-09T11:57:08.295Z",
       "finalPrice": 30001,
       "highestBidder": "c3027354-a099-4610-9aa5-090c0bfe1225",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
+    },
+    {
+      "endTime": "2026-02-09T14:58:42.166Z",
+      "finalPrice": 30500,
+      "highestBidder": "011814bf-2674-4f53-9d80-de22602c2fe9",
       "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
@@ -4702,6 +4786,12 @@
       "endTime": "2026-02-09T11:57:28.509Z",
       "finalPrice": 30001,
       "highestBidder": "c3027354-a099-4610-9aa5-090c0bfe1225",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
+    },
+    {
+      "endTime": "2026-02-09T14:58:24.167Z",
+      "finalPrice": 30500,
+      "highestBidder": "011814bf-2674-4f53-9d80-de22602c2fe9",
       "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
@@ -4962,6 +5052,12 @@
       "endTime": "2026-02-09T11:57:19.450Z",
       "finalPrice": 30001,
       "highestBidder": "c3027354-a099-4610-9aa5-090c0bfe1225",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
+    },
+    {
+      "endTime": "2026-02-09T14:58:33.166Z",
+      "finalPrice": 30500,
+      "highestBidder": "011814bf-2674-4f53-9d80-de22602c2fe9",
       "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
@@ -5377,6 +5473,12 @@
       "finalPrice": 100002,
       "highestBidder": "07d28718-07dc-48a6-beac-84682f900312",
       "seller": "94768123-0f7f-4300-ad8a-71601dab6f16"
+    },
+    {
+      "endTime": "2026-02-09T14:57:43.224Z",
+      "finalPrice": 52501.05,
+      "highestBidder": "8b6afab7-2bb2-4f0c-a4d7-4b1ed7cf91c6",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ],
   "Emmys Blume": [
@@ -5701,6 +5803,12 @@
       "finalPrice": 10501.06,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01f60f1fadad"
+    },
+    {
+      "endTime": "2026-02-09T14:50:26.311Z",
+      "finalPrice": 34728.75,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "f99b09e2-02b7-4d64-8140-73d6336cc50b"
     }
   ],
   "Premium": [
@@ -5983,6 +6091,12 @@
       "finalPrice": 550000,
       "highestBidder": "00000000-0000-0000-0009-01fab471334b",
       "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060"
+    },
+    {
+      "endTime": "2026-02-09T15:13:45.542Z",
+      "finalPrice": 1010000,
+      "highestBidder": "2aeb4630-42c4-4571-b7f0-5212489cc3d5",
+      "seller": "483d2528-350b-46d7-a2d7-78cb65b81585"
     }
   ],
   "Allay Axt": [
@@ -6187,6 +6301,12 @@
       "finalPrice": 500001,
       "highestBidder": "ecf96ee2-34c0-40ba-bab9-1fd6f174a329",
       "seller": "fe85b25a-8eab-4128-b7c8-40d84f13edd1"
+    },
+    {
+      "endTime": "2026-02-09T14:56:58.352Z",
+      "finalPrice": 132600,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "6973a780-0222-440f-a044-7e40e3593308"
     }
   ],
   "Builder Axt": [
@@ -6487,6 +6607,18 @@
       "finalPrice": 1102.5,
       "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
       "seller": "f3ea9918-6896-4490-bb00-0fa9224557d8"
+    },
+    {
+      "endTime": "2026-02-09T14:52:44.215Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "fada7b91-65ad-41c9-8e9c-4d22a3764d27"
+    },
+    {
+      "endTime": "2026-02-09T15:10:36.958Z",
+      "finalPrice": 901,
+      "highestBidder": "faf7a7be-950d-4db7-af26-3f51c99ed21e",
+      "seller": "6832fbf4-1f03-4f76-bb7c-f303e5813f06"
     }
   ],
   "WAXED_OXIDIZED_COPPER_BULB": [
@@ -6931,6 +7063,12 @@
       "finalPrice": 183601.02,
       "highestBidder": "befe1afb-b1eb-416b-9efa-a1218631c1be",
       "seller": "a5f3a4db-40a5-46d9-9976-d7f3a98d3dbd"
+    },
+    {
+      "endTime": "2026-02-09T15:35:59.539Z",
+      "finalPrice": 135255.06,
+      "highestBidder": "befe1afb-b1eb-416b-9efa-a1218631c1be",
+      "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
     }
   ],
   "Narrenmütze": [
@@ -7059,6 +7197,12 @@
       "finalPrice": 30000,
       "highestBidder": "00000000-0000-0000-0009-01fd205808a6",
       "seller": "e2aaadb7-ba0e-4590-8eec-8eb7f38eb2a8"
+    },
+    {
+      "endTime": "2026-02-09T15:26:09.987Z",
+      "finalPrice": 104200,
+      "highestBidder": "e87a09a4-6886-4f88-9238-da1a28902199",
+      "seller": "ceb7c8c1-579c-4cb7-8e7c-30c56298e312"
     }
   ],
   ".. Flinks Admin-Brustplatte ..": [
@@ -8255,6 +8399,12 @@
       "finalPrice": 357001,
       "highestBidder": "e1e0ce9b-3f3b-4280-8ed4-2ff71c5a88d3",
       "seller": "a45de020-c908-4670-8826-7d3479f12f8c"
+    },
+    {
+      "endTime": "2026-02-09T15:01:47.797Z",
+      "finalPrice": 156570,
+      "highestBidder": "42cd24f2-1151-4134-a9b0-8598dfeac928",
+      "seller": "6c1c9156-433a-4995-9b84-b2a67b0449b9"
     }
   ],
   "Drachenschaufel": [
@@ -8537,6 +8687,36 @@
       "finalPrice": 2000.45,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
+    }
+  ],
+  "CUT_COPPER": [
+    {
+      "endTime": "2026-02-09T15:12:32.567Z",
+      "finalPrice": 2,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "00000000-0000-0000-0009-01ff957231f2"
+    }
+  ],
+  "BLUE_SHULKER_BOX": [
+    {
+      "endTime": "2026-02-09T15:36:07.864Z",
+      "finalPrice": 170000,
+      "highestBidder": "42a1c536-80a5-40a6-9838-8d9fedc6fdde",
+      "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
+    },
+    {
+      "endTime": "2026-02-09T15:36:14.296Z",
+      "finalPrice": 130000,
+      "highestBidder": "befe1afb-b1eb-416b-9efa-a1218631c1be",
+      "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d"
+    }
+  ],
+  ".. FLINKS ADMINHACKE ..": [
+    {
+      "endTime": "2026-02-09T14:59:20.873Z",
+      "finalPrice": 30303010,
+      "highestBidder": "b9c89258-fe69-483b-9a5a-e47eae973c42",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
     }
   ]
 }
