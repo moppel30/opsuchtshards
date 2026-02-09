@@ -457,6 +457,18 @@
       "finalPrice": 408000,
       "highestBidder": "5e307ac5-53b5-4594-a004-a0185ef1827f",
       "seller": "00000000-0000-0000-0009-01f5bc9d911f"
+    },
+    {
+      "endTime": "2026-02-09T00:49:32.790Z",
+      "finalPrice": 400000,
+      "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
+      "seller": "00000000-0000-0000-0009-01f1aab0574e"
+    },
+    {
+      "endTime": "2026-02-09T00:49:57.863Z",
+      "finalPrice": 400000,
+      "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
+      "seller": "00000000-0000-0000-0009-01f1aab0574e"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -1883,6 +1895,12 @@
       "finalPrice": 1000,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "d61cac92-85e7-463d-8785-e67087680e75"
+    },
+    {
+      "endTime": "2026-02-09T00:54:08.646Z",
+      "finalPrice": 1000,
+      "highestBidder": "bccd74a1-aa80-49c4-8ec8-89e9cc6954c7",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Ballon der Liebe": [
@@ -3139,6 +3157,12 @@
       "finalPrice": 55000,
       "highestBidder": "00000000-0000-0000-0009-01fd5bb56a7f",
       "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
+    },
+    {
+      "endTime": "2026-02-09T00:49:26.331Z",
+      "finalPrice": 110000,
+      "highestBidder": "00000000-0000-0000-0009-01fd5bb56a7f",
+      "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
     }
   ],
   "Unendliche Rakete": [
@@ -3371,6 +3395,12 @@
       "finalPrice": 180000,
       "highestBidder": "0f4361fe-3e34-4493-bfce-21234f2c2c67",
       "seller": "00000000-0000-0000-0009-01f15935a7d0"
+    },
+    {
+      "endTime": "2026-02-09T01:01:03.778Z",
+      "finalPrice": 200001,
+      "highestBidder": "00000000-0000-0000-0009-01f69573c35f",
+      "seller": "2a830ca2-7f6c-4fa6-b6bc-a3d321c92b03"
     }
   ],
   "JonCarrs Jacke": [
@@ -4227,6 +4257,12 @@
       "finalPrice": 50001,
       "highestBidder": "702087a9-6d8e-4a8b-b4ec-7806fdc780cf",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-09T00:49:37.578Z",
+      "finalPrice": 50000,
+      "highestBidder": "cffb3187-1741-47f1-b3bc-4ae9b79e3731",
+      "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
     }
   ],
   "DROPPER": [
@@ -4419,6 +4455,12 @@
       "finalPrice": 60000,
       "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
       "seller": "05b85b2d-bbdd-4401-bcaf-1d54989e25fe"
+    },
+    {
+      "endTime": "2026-02-09T00:46:53.128Z",
+      "finalPrice": 70000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
     }
   ],
   "Flink040 Sammelkarte": [
@@ -6697,6 +6739,12 @@
       "finalPrice": 25000,
       "highestBidder": "369f97f4-cce7-408c-8aed-c349330b80ef",
       "seller": "00000000-0000-0000-0009-01f32840de1a"
+    },
+    {
+      "endTime": "2026-02-09T00:47:20.981Z",
+      "finalPrice": 5600,
+      "highestBidder": "7a80595c-f89a-4f3e-b7ee-d74719252720",
+      "seller": "c729dc69-783a-480d-b8ce-7dde06f2b97d"
     }
   ],
   "Taubrustplatte": [
@@ -7325,6 +7373,12 @@
       "finalPrice": 35000,
       "highestBidder": "00000000-0000-0000-0009-01f169e9530a",
       "seller": "00000000-0000-0000-0009-01f8e37e5056"
+    },
+    {
+      "endTime": "2026-02-09T00:57:41.135Z",
+      "finalPrice": 30001,
+      "highestBidder": "b1ff91dd-27c6-4354-8c3f-044cc4b0dad4",
+      "seller": "d9cb8f42-fdae-4edb-8d4d-d0768e0a9ed7"
     }
   ],
   "12 OPSUCHT Schuhe 12": [
@@ -7573,6 +7627,12 @@
       "finalPrice": 30000,
       "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
       "seller": "2054054e-b7a9-4a86-bd32-effd6982b880"
+    },
+    {
+      "endTime": "2026-02-09T00:55:22.773Z",
+      "finalPrice": 40000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "seller": "11edd1c1-8d89-459b-8d8e-4f7963113a6f"
     }
   ],
   "Phorx Noobhacke": [
