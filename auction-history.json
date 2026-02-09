@@ -499,6 +499,12 @@
       "finalPrice": 350001,
       "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
       "seller": "50be75cf-ea46-4a26-9c8d-457ecf791b98"
+    },
+    {
+      "endTime": "2026-02-09T13:04:54.337Z",
+      "finalPrice": 350000,
+      "highestBidder": "08c37d38-ae20-43ed-8002-817a13045d9e",
+      "seller": "c6a61b2a-29c8-4daa-8089-47569882dc56"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -1719,6 +1725,12 @@
       "finalPrice": 1000,
       "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
       "seller": "00000000-0000-0000-0009-01ffc982eaac"
+    },
+    {
+      "endTime": "2026-02-09T12:37:47.214Z",
+      "finalPrice": 1001,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "00000000-0000-0000-0009-01f6b7f615a8"
     }
   ],
   "Normale ★ Hose": [
@@ -2235,6 +2247,12 @@
       "finalPrice": 20200000,
       "highestBidder": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
       "seller": "00000000-0000-0000-0009-01f8035031f9"
+    },
+    {
+      "endTime": "2026-02-09T13:06:36.922Z",
+      "finalPrice": 19000000,
+      "highestBidder": "959b3c94-5fb4-435d-bee6-ae04c72180bd",
+      "seller": "52740838-6ebf-43e9-b6df-4558e17df182"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -2571,6 +2589,12 @@
       "finalPrice": 1250,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "6832fbf4-1f03-4f76-bb7c-f303e5813f06"
+    },
+    {
+      "endTime": "2026-02-09T12:16:21.765Z",
+      "finalPrice": 5001,
+      "highestBidder": "1ccd764f-5f7f-4a29-a29d-343aa6f3a104",
+      "seller": "00000000-0000-0000-0009-01f1551aa56e"
     }
   ],
   "Playbutton": [
@@ -2953,6 +2977,12 @@
       "finalPrice": 1000,
       "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
       "seller": "00000000-0000-0000-0009-01ff0f778527"
+    },
+    {
+      "endTime": "2026-02-09T12:36:51.939Z",
+      "finalPrice": 82687.5,
+      "highestBidder": "e357ce61-d6dd-4348-8f01-be3a1d0713c8",
+      "seller": "87504f27-e60d-4ccf-b9d5-ee75cb9bc7a3"
     }
   ],
   "Neujahrshut": [
@@ -3093,6 +3123,12 @@
       "finalPrice": 850000,
       "highestBidder": "53e110ad-a15d-4494-960f-9ac357c90f51",
       "seller": "20bb805f-e89c-4f7e-b7b0-c6e57cd3d476"
+    },
+    {
+      "endTime": "2026-02-09T12:34:25.928Z",
+      "finalPrice": 56000.54,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "83e92da7-6b72-4eb3-848a-bc78d87631bd"
     }
   ],
   "DIRT": [
@@ -4785,6 +4821,12 @@
       "finalPrice": 1000,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "ab1689d7-1868-4192-9795-21393cba523d"
+    },
+    {
+      "endTime": "2026-02-09T13:00:46.988Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "00000000-0000-0000-0009-01f5517d5bde"
     }
   ],
   "Amethystaxt": [
@@ -6409,6 +6451,12 @@
       "finalPrice": 8400,
       "highestBidder": "7dadb4e8-dfb5-4869-b741-d5c79fabde21",
       "seller": "e7154be3-677b-459d-9eb0-37e7cdf0ae88"
+    },
+    {
+      "endTime": "2026-02-09T13:04:13.984Z",
+      "finalPrice": 595.35,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "00000000-0000-0000-0009-01f6905ba093"
     }
   ],
   "Gletscherstiefel": [
@@ -8367,6 +8415,28 @@
       "finalPrice": 53576.25,
       "highestBidder": "b60c1dee-8452-4972-ad25-c280b99543bb",
       "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50"
+    },
+    {
+      "endTime": "2026-02-09T12:07:13.300Z",
+      "finalPrice": 97659,
+      "highestBidder": "9d3a919a-8700-402d-8355-7a1e6feecfde",
+      "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50"
+    }
+  ],
+  "Mechaflügel": [
+    {
+      "endTime": "2026-02-09T12:24:40.121Z",
+      "finalPrice": 2000001,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "seller": "87504f27-e60d-4ccf-b9d5-ee75cb9bc7a3"
+    }
+  ],
+  "Windschuhe": [
+    {
+      "endTime": "2026-02-09T13:03:58.278Z",
+      "finalPrice": 1000,
+      "highestBidder": "6973a780-0222-440f-a044-7e40e3593308",
+      "seller": "00000000-0000-0000-0009-01f6905ba093"
     }
   ]
 }
