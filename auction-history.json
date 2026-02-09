@@ -863,6 +863,12 @@
       "finalPrice": 11000,
       "highestBidder": "4a0690f7-6581-4c70-8073-ce1cdd391753",
       "seller": "00000000-0000-0000-0009-01fcb72d4d8d"
+    },
+    {
+      "endTime": "2026-02-09T03:22:33.403Z",
+      "finalPrice": 1050,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "seller": "8d9976ec-acb3-43d6-84be-d996c2d563ab"
     }
   ],
   "OP Sammelalbum": [
@@ -4205,6 +4211,12 @@
       "finalPrice": 10001,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "e1cc0788-02af-4659-8618-7b1be3625de0"
+    },
+    {
+      "endTime": "2026-02-09T03:25:42.277Z",
+      "finalPrice": 2205,
+      "highestBidder": "f3fe7650-1ada-4d69-acf2-d7f6a5e2b466",
+      "seller": "a2618be8-a9f2-47a7-92b7-1aab7c59b963"
     }
   ],
   "Unendlicher Wassereimer": [
@@ -5859,6 +5871,12 @@
       "finalPrice": 8000,
       "highestBidder": "2e66fe87-8f86-49fc-bc42-7157a7091658",
       "seller": "e4d4305f-ccd2-4714-a469-d88372879761"
+    },
+    {
+      "endTime": "2026-02-09T03:25:48.697Z",
+      "finalPrice": 552.4,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "a2618be8-a9f2-47a7-92b7-1aab7c59b963"
     }
   ],
   "Goldener Rollator": [
@@ -6127,6 +6145,18 @@
       "finalPrice": 1000,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "d61cac92-85e7-463d-8785-e67087680e75"
+    },
+    {
+      "endTime": "2026-02-09T03:21:56.330Z",
+      "finalPrice": 1050,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "seller": "8d9976ec-acb3-43d6-84be-d996c2d563ab"
+    },
+    {
+      "endTime": "2026-02-09T03:22:13.713Z",
+      "finalPrice": 1050,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "seller": "8d9976ec-acb3-43d6-84be-d996c2d563ab"
     }
   ],
   "EMERALD_BLOCK": [
