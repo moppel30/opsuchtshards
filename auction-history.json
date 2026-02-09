@@ -61,6 +61,37 @@
       },
       "startTime": "2026-02-09T07:21:17.516Z",
       "endTime": "2026-02-09T19:21:17.516Z"
+    },
+    {
+      "uid": "9bd46c5ebc3ea16ab2fe757bab0f1418",
+      "seller": "5d94dbc7-a46b-4c9c-a67a-2c675e6ab040",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Filmstudio",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (24/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-09T00:24:37.530Z",
+      "endTime": "2026-02-10T00:24:37.530Z"
     }
   ],
   "Auktionshaus": [
@@ -2358,6 +2389,38 @@
       },
       "startTime": "2026-02-09T19:45:36.729Z",
       "endTime": "2026-02-09T20:45:36.729Z"
+    },
+    {
+      "uid": "d98c4d3e5007894cf69d27d056394292",
+      "seller": "5d94dbc7-a46b-4c9c-a67a-2c675e6ab040",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1050,
+      "highestBidder": "985d5bd5-6311-43dd-ab7a-289fc52a9325",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "985d5bd5-6311-43dd-ab7a-289fc52a9325": 1050
+      },
+      "startTime": "2026-02-09T00:24:00.779Z",
+      "endTime": "2026-02-10T00:24:00.779Z"
     }
   ],
   "Christianoooo": [
@@ -4869,6 +4932,38 @@
       },
       "startTime": "2026-02-08T21:49:41.343Z",
       "endTime": "2026-02-09T21:49:41.343Z"
+    },
+    {
+      "uid": "1e34a2f90355fa19ec137b5ac216ba0f",
+      "seller": "5d94dbc7-a46b-4c9c-a67a-2c675e6ab040",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Luxury Island",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (17/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "ff70d135-e98e-45b9-94f6-604a63ada398": 2
+      },
+      "startTime": "2026-02-09T00:24:19.828Z",
+      "endTime": "2026-02-10T00:24:19.828Z"
     }
   ],
   "Erdspalter-Schaufel": [
@@ -9449,6 +9544,38 @@
       },
       "startTime": "2026-02-08T21:44:05.315Z",
       "endTime": "2026-02-09T21:44:05.314Z"
+    },
+    {
+      "uid": "8718c2a4285e4053e691a066fef19f80",
+      "seller": "9b4688dd-2fe4-48ae-9b45-c15cfcd6169d",
+      "item": {
+        "material": "FIREWORK_ROCKET",
+        "icon": "https://img.mc-api.io/firework_rocket.png",
+        "amount": 3,
+        "displayName": "Mini Rakete",
+        "lore": [
+          "",
+          "Diese Rakete boostet dich bis in die",
+          "Unendlichkeit und noch viel weiter!",
+          "",
+          "➥ Effekt: Unendliche Rakete (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 400000,
+      "currentBid": 400001,
+      "highestBidder": "bba3b45d-0660-472e-847d-3142d5e04638",
+      "bids": {
+        "bba3b45d-0660-472e-847d-3142d5e04638": 400001
+      },
+      "startTime": "2026-02-09T12:10:36.911Z",
+      "endTime": "2026-02-10T00:10:36.910Z"
     }
   ],
   "Marienkäfer": [
@@ -10373,6 +10500,201 @@
       },
       "startTime": "2026-02-09T17:43:15.232Z",
       "endTime": "2026-02-09T23:43:15.232Z"
+    }
+  ],
+  "DRAGON_HEAD": [
+    {
+      "uid": "f6429410a078253205017d664717de8a",
+      "seller": "13a184e5-2825-447e-b638-c8e85ba95b54",
+      "item": {
+        "material": "DRAGON_HEAD",
+        "icon": "https://img.mc-api.io/dragon_head.png",
+        "amount": 4,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1,
+      "currentBid": 1890,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "bids": {
+        "befe1afb-b1eb-416b-9efa-a1218631c1be": 110.25,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 115.77,
+        "8f509985-4e1e-4d17-b1a1-41218eb4d93b": 105,
+        "00000000-0000-0000-0009-01f4a7d05559": 1000,
+        "79049453-868d-4455-8af4-c7dcdf0c037e": 1680,
+        "e3a2721a-4a5e-4cc8-a65e-03d51e4342e0": 1800,
+        "1ce114fd-7a66-4076-8aa4-a89c027b5038": 67,
+        "343a47c4-9f69-4e00-b7e0-f855e4238e1a": 1890,
+        "00000000-0000-0000-0009-01f3fca9da7d": 100,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 1500
+      },
+      "startTime": "2026-02-09T00:08:03.198Z",
+      "endTime": "2026-02-10T00:08:03.198Z"
+    }
+  ],
+  "Owner | OPPhil": [
+    {
+      "uid": "7d91a775f09ccf92b7cdc0aafe853fce",
+      "seller": "00000000-0000-0000-0009-01f388805f4c",
+      "item": {
+        "material": "PLAYER_HEAD",
+        "icon": "https://img.mc-api.io/player_head.png",
+        "amount": 2,
+        "displayName": "Owner | OPPhil",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 25.07.2023",
+          "",
+          "➥ Effekt: +10 Herzen",
+          "➥ Effekt: +10 Rüstung",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:fire_protection": 8,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "op_items",
+      "startBid": 50000,
+      "currentBid": 102001,
+      "highestBidder": "688f3bd7-7eb2-404e-aa33-be0e0c9ed5d4",
+      "bids": {
+        "688f3bd7-7eb2-404e-aa33-be0e0c9ed5d4": 102001,
+        "678133c0-4c19-4458-89f3-4fac982fac17": 100000
+      },
+      "startTime": "2026-02-09T00:14:18.898Z",
+      "endTime": "2026-02-10T00:14:18.898Z"
+    }
+  ],
+  "Owner | SkyGuyTV": [
+    {
+      "uid": "264737d839a869fc0602b660edb085d2",
+      "seller": "00000000-0000-0000-0009-01f388805f4c",
+      "item": {
+        "material": "PLAYER_HEAD",
+        "icon": "https://img.mc-api.io/player_head.png",
+        "amount": 1,
+        "displayName": "Owner | SkyGuyTV",
+        "lore": [
+          "",
+          "Signiert von SkyGuyTV am 25.07.2023",
+          "",
+          "➥ Effekt: +10 Herzen",
+          "➥ Effekt: +10 Rüstung",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:fire_protection": 8,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "op_items",
+      "startBid": 30000,
+      "currentBid": 36471.75,
+      "highestBidder": "8bcb2f24-005f-4710-b87c-e34d4ba0f45a",
+      "bids": {
+        "c2c9ab12-e2e6-4a16-b518-664c0d1311b4": 33077.1,
+        "8bcb2f24-005f-4710-b87c-e34d4ba0f45a": 36471.75,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 34735
+      },
+      "startTime": "2026-02-09T00:14:37.450Z",
+      "endTime": "2026-02-10T00:14:37.450Z"
+    }
+  ],
+  "PARROT_SPAWN_EGG": [
+    {
+      "uid": "6c64dd1c8f0a16b20ab98b580f38c08a",
+      "seller": "00000000-0000-0000-0009-01f388805f4c",
+      "item": {
+        "material": "PARROT_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/parrot_spawn_egg.png",
+        "amount": 1,
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596",
+      "bids": {
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 50001
+      },
+      "startTime": "2026-02-09T00:15:15.892Z",
+      "endTime": "2026-02-10T00:15:15.892Z"
+    }
+  ],
+  "Schildkröten-Spawn-Ei": [
+    {
+      "uid": "132cc9bb517f7c0db8f8429424aac392",
+      "seller": "00000000-0000-0000-0009-01f388805f4c",
+      "item": {
+        "material": "TURTLE_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/turtle_spawn_egg.png",
+        "amount": 1,
+        "displayName": "Schildkröten-Spawn-Ei",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 50000,
+      "currentBid": 52505.25,
+      "highestBidder": "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596",
+      "bids": {
+        "b9c89258-fe69-483b-9a5a-e47eae973c42": 50005,
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 52505.25
+      },
+      "startTime": "2026-02-09T00:15:32.542Z",
+      "endTime": "2026-02-10T00:15:32.542Z"
+    }
+  ],
+  "Narrenjacke": [
+    {
+      "uid": "6231ae98698744a06502761e55708ec2",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75",
+      "item": {
+        "material": "IRON_CHESTPLATE",
+        "amount": 1,
+        "displayName": "Narrenjacke",
+        "lore": [
+          "",
+          "Diese Jacke wurde am Hof getragen und kennt",
+          "Spott, Geheimnisse und falschen Applaus gut.",
+          "",
+          "Signiert vom Narren am 01.02.2026",
+          "",
+          "Narrenkollektion (2/4)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 15751.06,
+      "highestBidder": "7f8b652c-3d6e-4d8a-adad-088b87ae939f",
+      "bids": {
+        "7f8b652c-3d6e-4d8a-adad-088b87ae939f": 15751.06,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 15001
+      },
+      "startTime": "2026-02-09T18:15:43.977Z",
+      "endTime": "2026-02-10T00:15:43.976Z"
     }
   ]
 }
