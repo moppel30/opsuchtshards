@@ -469,6 +469,12 @@
       "finalPrice": 400000,
       "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
       "seller": "00000000-0000-0000-0009-01f1aab0574e"
+    },
+    {
+      "endTime": "2026-02-09T06:01:31.394Z",
+      "finalPrice": 359162.4,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "seller": "be3e22e3-57fa-4fa4-bac2-21eeeb51f7fc"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -3169,6 +3175,12 @@
       "finalPrice": 110000,
       "highestBidder": "00000000-0000-0000-0009-01fd5bb56a7f",
       "seller": "9fe76aad-ef05-4ce9-9aff-862b471e811d"
+    },
+    {
+      "endTime": "2026-02-09T05:55:51.895Z",
+      "finalPrice": 500000,
+      "highestBidder": "00000000-0000-0000-0009-01f9af228134",
+      "seller": "00000000-0000-0000-0009-01fddea05acf"
     }
   ],
   "Unendliche Rakete": [
@@ -4545,6 +4557,12 @@
       "finalPrice": 10000,
       "highestBidder": "be468a28-9d22-4888-9d02-83c43bca3ba2",
       "seller": "a430b720-5747-4dcb-bc5b-f05abdc58497"
+    },
+    {
+      "endTime": "2026-02-09T06:05:08.778Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "ab1689d7-1868-4192-9795-21393cba523d"
     }
   ],
   "Amethystaxt": [
@@ -5053,6 +5071,12 @@
       "finalPrice": 1111111,
       "highestBidder": "00000000-0000-0000-0009-01f892cf751b",
       "seller": "b1196d2c-e2de-44a7-baeb-6d513238e7e4"
+    },
+    {
+      "endTime": "2026-02-09T06:14:06.564Z",
+      "finalPrice": 816001.02,
+      "highestBidder": "b82e3ac8-d7d1-475d-88f4-a68387d9f4d0",
+      "seller": "e5e31a6f-4da3-478d-ba42-dbb206e09133"
     }
   ],
   "Pokéball": [
@@ -7775,6 +7799,14 @@
       "finalPrice": 300000,
       "highestBidder": "00000000-0000-0000-0009-01f18caf7814",
       "seller": "6005f620-5d2e-46da-a497-88da82ab5080"
+    }
+  ],
+  "PORSCHE": [
+    {
+      "endTime": "2026-02-09T05:16:26.113Z",
+      "finalPrice": 45000001,
+      "highestBidder": "94a6c819-370c-4b97-ac02-fc239ee705f8",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91"
     }
   ]
 }
