@@ -1071,6 +1071,35 @@
       },
       "startTime": "2026-02-09T21:55:31.376Z",
       "endTime": "2026-02-09T22:10:31.376Z"
+    },
+    {
+      "uid": "58edda4e8d490c0d2d504f1180c28dcd",
+      "seller": "e94f10be-09ae-47a5-9eee-3cd6d6082a7d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 399999,
+      "currentBid": 400000,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "bids": {
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 400000
+      },
+      "startTime": "2026-02-09T22:48:28.765Z",
+      "endTime": "2026-02-09T23:03:28.765Z"
     }
   ],
   "ENCHANTED_BOOK": [
@@ -1681,6 +1710,76 @@
       },
       "startTime": "2026-02-08T17:53:03.736Z",
       "endTime": "2026-02-09T17:53:03.736Z"
+    },
+    {
+      "uid": "925d71bacdba3d8ce1db7a265188bc2c",
+      "seller": "e1023d63-3766-42c0-93e9-c50988da4d15",
+      "item": {
+        "material": "ENDER_PEARL",
+        "icon": "https://img.mc-api.io/ender_pearl.png",
+        "amount": 1,
+        "displayName": "Herobrines Enderperle",
+        "lore": [
+          "",
+          "Teleportiere dich",
+          "500 mal, ohne diese",
+          "Perle zu verbrauchen!",
+          "",
+          "Signiert von Herobrine am 01.04.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:infinity": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000,
+      "currentBid": 10501.06,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "bids": {
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 10501.06,
+        "8ab9b648-6134-4737-b544-06bbe6ec932d": 10001
+      },
+      "startTime": "2026-02-08T23:39:56.332Z",
+      "endTime": "2026-02-09T23:39:56.332Z"
+    },
+    {
+      "uid": "eab5e775e1bf3be798d14d77231afa56",
+      "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
+      "item": {
+        "material": "ENDER_PEARL",
+        "icon": "https://img.mc-api.io/ender_pearl.png",
+        "amount": 1,
+        "displayName": "Herobrines Enderperle",
+        "lore": [
+          "",
+          "Teleportiere dich",
+          "500 mal, ohne diese",
+          "Perle zu verbrauchen!",
+          "",
+          "Signiert von Herobrine am 01.04.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:infinity": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 1250,
+      "currentBid": 10500,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "bids": {
+        "b2f3e409-51ad-4c76-8b1f-1100cc358bbc": 1313.56,
+        "6dd12f13-a1e5-46a8-8c22-f24f64d0e58a": 10000,
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 10500,
+        "30d2839e-b99f-4080-83ae-58a4029f0849": 1251
+      },
+      "startTime": "2026-02-09T11:40:31.793Z",
+      "endTime": "2026-02-09T23:40:31.793Z"
     }
   ],
   "TRIDENT": [
@@ -7345,6 +7444,40 @@
       },
       "startTime": "2026-02-09T19:50:38.321Z",
       "endTime": "2026-02-09T22:50:38.320Z"
+    },
+    {
+      "uid": "0330d8ac5ac80b64627ea097df185b6d",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "Flammentalisman",
+        "lore": [
+          "",
+          "Entfessle die sengende",
+          "Hitze des Feuers!",
+          "",
+          "➥ Effekt: Setzt nahe Feinde in Brand (Off-Hand)",
+          "➥ Effekt: Feuerresistenz (Off-Hand)",
+          "➥ Effekt: Totem der Unsterblichkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 400000,
+      "highestBidder": "48af2fe9-acd6-4028-8f27-9d8597af80a2",
+      "bids": {
+        "d097a3e3-8d54-4e12-a6fd-0a24a2bf5566": 357000,
+        "48af2fe9-acd6-4028-8f27-9d8597af80a2": 400000,
+        "8bcb2f24-005f-4710-b87c-e34d4ba0f45a": 250001,
+        "1f44adc1-1b55-42a6-aec9-c6260d047662": 350000
+      },
+      "startTime": "2026-02-09T19:50:38.321Z",
+      "endTime": "2026-02-09T22:55:48.167Z"
     }
   ],
   "H4CKER.exe": [
@@ -7818,6 +7951,42 @@
       },
       "startTime": "2026-02-09T13:56:10.396Z",
       "endTime": "2026-02-09T19:56:10.396Z"
+    },
+    {
+      "uid": "8ce84c39f19b0042ecd8ba0f16cfa88e",
+      "seller": "c938291a-6e3b-4904-8b63-5be50c2d3df8",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Christians Schuhe",
+        "lore": [
+          "",
+          "Ein Symbol für Teamgeist",
+          "und Geschick.",
+          "",
+          "Signiert von Christianoooo am 01.09.2025",
+          "",
+          "Christians Kollektion (5/5)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 8,
+          "minecraft:protection": 10
+        }
+      },
+      "category": "custom_items",
+      "startBid": 80000,
+      "currentBid": 80002,
+      "highestBidder": "ecd707ef-ec13-42b0-adc7-fb613fd8012f",
+      "bids": {
+        "ecd707ef-ec13-42b0-adc7-fb613fd8012f": 80002
+      },
+      "startTime": "2026-02-08T23:14:48.431Z",
+      "endTime": "2026-02-09T23:14:48.431Z"
     }
   ],
   "Allay Helm": [
@@ -7984,6 +8153,36 @@
       },
       "startTime": "2026-02-08T21:36:10.258Z",
       "endTime": "2026-02-09T21:36:10.258Z"
+    },
+    {
+      "uid": "96e0de816283bc31bea719c1d8bc02f9",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "FIREWORK_ROCKET",
+        "icon": "https://img.mc-api.io/firework_rocket.png",
+        "amount": 1,
+        "displayName": "Unendliche Rakete",
+        "lore": [
+          "",
+          "Diese Rakete boostet dich bis in die",
+          "Unendlichkeit und noch viel weiter!",
+          "",
+          "➥ Effekt: Unendliche Rakete",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1500000,
+      "currentBid": 1500001,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 1500001
+      },
+      "startTime": "2026-02-09T20:16:12.288Z",
+      "endTime": "2026-02-09T23:16:12.288Z"
     }
   ],
   "Mini Pilzaxt": [
@@ -8092,6 +8291,42 @@
       },
       "startTime": "2026-02-09T14:28:27.970Z",
       "endTime": "2026-02-09T20:28:27.970Z"
+    },
+    {
+      "uid": "576bd0007f26aec2eb66f265954364e9",
+      "seller": "e1023d63-3766-42c0-93e9-c50988da4d15",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Mini Pilzaxt",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Baut Pilze mit einem Klick ab (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 102002,
+      "highestBidder": "d9cb8f42-fdae-4edb-8d4d-d0768e0a9ed7",
+      "bids": {
+        "d9cb8f42-fdae-4edb-8d4d-d0768e0a9ed7": 102002,
+        "00000000-0000-0000-0009-01f366ccdb68": 100001
+      },
+      "startTime": "2026-02-08T23:39:15.791Z",
+      "endTime": "2026-02-09T23:39:15.791Z"
     }
   ],
   "+20% Speed Upgrade Modul": [
@@ -9274,6 +9509,36 @@
       },
       "startTime": "2026-02-08T21:53:39.017Z",
       "endTime": "2026-02-09T21:53:39.017Z"
+    },
+    {
+      "uid": "2302ab27c4b7c6aaa4c0e5dfe0bfe280",
+      "seller": "acd10fbb-727b-430b-b959-6b2002df2272",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "displayName": "Normale ★ Hose",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1000,
+      "currentBid": 1653.75,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1653.75,
+        "7db13f2c-b580-4be0-bcb3-4803291e9464": 1575,
+        "00000000-0000-0000-0009-01fefecbd353": 1500
+      },
+      "startTime": "2026-02-09T17:17:42.080Z",
+      "endTime": "2026-02-09T23:17:42.080Z"
     }
   ],
   "Kleiner Beschützer Phil": [
@@ -9795,6 +10060,32 @@
       },
       "startTime": "2026-02-08T22:43:51.515Z",
       "endTime": "2026-02-09T22:43:51.515Z"
+    },
+    {
+      "uid": "6ea1d7dd7931a4ff76f51f7fa4af51de",
+      "seller": "00000000-0000-0000-0009-01fc747367af",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Weihnachtspyramide",
+        "lore": [
+          "",
+          "Genieße die zauberhafte",
+          "Weihnachtszeit!",
+          "",
+          "Signiert von OPSUCHT am 24.12.2024"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "2477280c-9223-436c-b8ee-204ca3cb44e1",
+      "bids": {
+        "2477280c-9223-436c-b8ee-204ca3cb44e1": 100001
+      },
+      "startTime": "2026-02-09T17:30:34.263Z",
+      "endTime": "2026-02-09T23:30:34.262Z"
     }
   ],
   "Gruseliger Baumstamm": [
@@ -9889,6 +10180,199 @@
       },
       "startTime": "2026-02-09T21:33:18.178Z",
       "endTime": "2026-02-09T22:33:18.178Z"
+    }
+  ],
+  "Plünderer-Spawn-Egg": [
+    {
+      "uid": "b252cfb695fd070b87bd72d8b7b3b34d",
+      "seller": "c938291a-6e3b-4904-8b63-5be50c2d3df8",
+      "item": {
+        "material": "PILLAGER_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/pillager_spawn_egg.png",
+        "amount": 1,
+        "displayName": "Plünderer-Spawn-Egg",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 40000,
+      "currentBid": 73500,
+      "highestBidder": "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596",
+      "bids": {
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 73500,
+        "c35e2fc6-cae6-4a65-8a00-e18af515ffac": 50000,
+        "3ec6ae96-3e58-4899-85f5-d91285d993b7": 70000,
+        "65ca2694-e76b-4532-b509-4385e282d537": 52500,
+        "00000000-0000-0000-0009-01fd5bb56a7f": 60000
+      },
+      "startTime": "2026-02-08T23:12:21.449Z",
+      "endTime": "2026-02-09T23:12:21.449Z"
+    }
+  ],
+  "Unendlicher Wassereimer": [
+    {
+      "uid": "e19df9db43a20c622e218cbf716d9883",
+      "seller": "c938291a-6e3b-4904-8b63-5be50c2d3df8",
+      "item": {
+        "material": "WATER_BUCKET",
+        "icon": "https://img.mc-api.io/water_bucket.png",
+        "amount": 1,
+        "displayName": "Unendlicher Wassereimer",
+        "lore": [
+          "",
+          "➥ Das Wasser wird niemals ausgehen",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 130000,
+      "currentBid": 204001,
+      "highestBidder": "e5fc2a85-f906-4f88-9048-9b45a7e24d58",
+      "bids": {
+        "e5fc2a85-f906-4f88-9048-9b45a7e24d58": 204001,
+        "3c94c1d1-9690-4359-b8fa-a9af01061378": 200000
+      },
+      "startTime": "2026-02-08T23:13:17.726Z",
+      "endTime": "2026-02-09T23:13:17.726Z"
+    }
+  ],
+  "Shard Magnet": [
+    {
+      "uid": "7c351815e212881512740edbd24f12e3",
+      "seller": "aabab78f-167a-4560-97e4-9fc495e6fe79",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Shard Magnet",
+        "lore": [
+          "",
+          "Zieht alle Rohstoffe an!",
+          "",
+          "➥ Effekt: Abgebautes wird automatisch aufgesammelt"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 12500000,
+      "currentBid": 12700001,
+      "highestBidder": "0f6a07fa-40db-4be7-bd6d-08b26e59f933",
+      "bids": {
+        "0f6a07fa-40db-4be7-bd6d-08b26e59f933": 12700001
+      },
+      "startTime": "2026-02-08T23:26:58.423Z",
+      "endTime": "2026-02-09T23:26:58.423Z"
+    }
+  ],
+  "Eile II Trank": [
+    {
+      "uid": "d5622f4fed75edf747de2d6d6152bd1e",
+      "seller": "0fb31f4a-ddb1-4e88-8a27-c6177ea7ebbf",
+      "item": {
+        "material": "POTION",
+        "icon": "https://img.mc-api.io/potion.png",
+        "amount": 1,
+        "displayName": "Eile II Trank",
+        "lore": [
+          "",
+          "➥ Effekt: Eile II",
+          "➥ Dauer: 1 Stunde"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 60000,
+      "currentBid": 60001,
+      "highestBidder": "c90a8fb3-36ab-4fa1-a0a2-c11daf740599",
+      "bids": {
+        "c90a8fb3-36ab-4fa1-a0a2-c11daf740599": 60001
+      },
+      "startTime": "2026-02-09T11:25:54.763Z",
+      "endTime": "2026-02-09T23:25:54.763Z"
+    }
+  ],
+  "Anti Stress Pillen": [
+    {
+      "uid": "746740fcd5f658a88231c1a6f845f69d",
+      "seller": "00000000-0000-0000-0009-01fc747367af",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "Anti Stress Pillen",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 250001,
+      "highestBidder": "74a7423b-fbd2-45b7-b507-7f4e23c495af",
+      "bids": {
+        "74a7423b-fbd2-45b7-b507-7f4e23c495af": 250001
+      },
+      "startTime": "2026-02-09T17:31:21.647Z",
+      "endTime": "2026-02-09T23:31:21.647Z"
+    }
+  ],
+  "Bambi": [
+    {
+      "uid": "e2477a9b937cb6d6b993235f8f738322",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Bambi",
+        "lore": [
+          "",
+          "Sanft im Herzen, doch wild",
+          "genug für jedes Abenteuer.",
+          "",
+          "➥ OP Pass Belohnung des 6. Chapter"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 5000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "bids": {
+        "00000000-0000-0000-0009-00000b5785fd": 5000
+      },
+      "startTime": "2026-02-09T17:43:03.414Z",
+      "endTime": "2026-02-09T23:43:03.414Z"
+    }
+  ],
+  "Zero der Geisterhund": [
+    {
+      "uid": "fbf47d0953f07af7fe829fc9cf445e1d",
+      "seller": "d61cac92-85e7-463d-8785-e67087680e75",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Zero der Geisterhund",
+        "lore": [
+          "",
+          "Ein leuchtendes Näschen im Nebelmeer,",
+          "immer vorne, immer treu dabei.",
+          "",
+          "➥ OP Pass Belohnung des 6. Chapter"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 10000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "bids": {
+        "00000000-0000-0000-0009-00000b5785fd": 10000
+      },
+      "startTime": "2026-02-09T17:43:15.232Z",
+      "endTime": "2026-02-09T23:43:15.232Z"
     }
   ]
 }
