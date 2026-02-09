@@ -917,6 +917,12 @@
       "finalPrice": 30000,
       "highestBidder": "abb2e3f4-9c3f-4494-a189-d88cfdd56ccc",
       "seller": "cb6169f4-531c-4e6e-838a-5d9c8261f940"
+    },
+    {
+      "endTime": "2026-02-09T14:36:44.845Z",
+      "finalPrice": 1050,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "f3ea9918-6896-4490-bb00-0fa9224557d8"
     }
   ],
   "OP Sammelalbum": [
@@ -1223,6 +1229,18 @@
       "finalPrice": 15000,
       "highestBidder": "fed09422-bbc3-4908-ac75-377d15ddea08",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-09T14:42:02.020Z",
+      "finalPrice": 10500,
+      "highestBidder": "e84d512f-ab8e-41d9-b7f8-a835791a4852",
+      "seller": "00000000-0000-0000-0009-01f5193bb528"
+    },
+    {
+      "endTime": "2026-02-09T13:53:09.177Z",
+      "finalPrice": 1,
+      "highestBidder": "735b4887-af8f-4883-88e5-d5d79a1a9526",
+      "seller": "00000000-0000-0000-0009-01f1e2fe88e4"
     }
   ],
   "Mod-Team": [
@@ -2253,6 +2271,12 @@
       "finalPrice": 19000000,
       "highestBidder": "959b3c94-5fb4-435d-bee6-ae04c72180bd",
       "seller": "52740838-6ebf-43e9-b6df-4558e17df182"
+    },
+    {
+      "endTime": "2026-02-09T14:01:33.173Z",
+      "finalPrice": 10501.06,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f60f1fadad"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -3517,6 +3541,12 @@
       "finalPrice": 50000,
       "highestBidder": "09bb0407-32ac-4bf1-9d73-ddd41ad2ac7b",
       "seller": "6f1b4167-fe6a-4e02-9816-9194be624d00"
+    },
+    {
+      "endTime": "2026-02-09T14:47:35.841Z",
+      "finalPrice": 10000,
+      "highestBidder": "c7754cef-cc0a-42eb-99d4-114c494518b8",
+      "seller": "36a462bb-5fb8-4794-a175-4acab374103e"
     }
   ],
   "NETHERITE_PICKAXE": [
@@ -3763,6 +3793,12 @@
       "finalPrice": 52.5,
       "highestBidder": "ed1ead15-209a-4162-9153-ada7d1b942cc",
       "seller": "027c03bf-9ec5-45df-a017-390d7589803f"
+    },
+    {
+      "endTime": "2026-02-09T14:06:13.575Z",
+      "finalPrice": 501,
+      "highestBidder": "369f97f4-cce7-408c-8aed-c349330b80ef",
+      "seller": "d8bb8019-7f0c-41c5-9562-31ffbe8a0063"
     }
   ],
   "OCHRE_FROGLIGHT": [
@@ -3993,6 +4029,12 @@
       "finalPrice": 1000,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "45de5515-d827-4430-9bc4-aa223b78f085"
+    },
+    {
+      "endTime": "2026-02-09T14:45:33.132Z",
+      "finalPrice": 12000,
+      "highestBidder": "00000000-0000-0000-0009-01f64a2a2df0",
+      "seller": "1ee6b3de-cf58-43fc-8efe-1208cc501beb"
     }
   ],
   "Farmwelt": [
@@ -4165,6 +4207,12 @@
       "finalPrice": 1000,
       "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
       "seller": "42155a75-ff4e-49b6-8aa2-5ad8ac5cd5fb"
+    },
+    {
+      "endTime": "2026-02-09T14:44:59.929Z",
+      "finalPrice": 15000,
+      "highestBidder": "de600282-6487-46fd-99ea-79ec6fca6603",
+      "seller": "1ee6b3de-cf58-43fc-8efe-1208cc501beb"
     }
   ],
   "Auktionshaus": [
@@ -4595,6 +4643,12 @@
       "finalPrice": 1500001,
       "highestBidder": "00000000-0000-0000-0009-01fd205808a6",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-09T13:56:33.962Z",
+      "finalPrice": 1595800,
+      "highestBidder": "2ad87e85-80e8-4e5b-bc80-666cef074f19",
+      "seller": "aebf9f5e-1bd7-4149-8bd9-4cae029abe05"
     }
   ],
   "NETHERITE_BOOTS": [
@@ -5635,6 +5689,18 @@
       "finalPrice": 1900002,
       "highestBidder": "8f530c14-9396-4d64-a551-41ae02b5634a",
       "seller": "f36d2e02-0c89-4848-afde-392465838dcf"
+    },
+    {
+      "endTime": "2026-02-09T14:02:17.474Z",
+      "finalPrice": 12733.99,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f60f1fadad"
+    },
+    {
+      "endTime": "2026-02-09T14:02:38.421Z",
+      "finalPrice": 10501.06,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01f60f1fadad"
     }
   ],
   "Premium": [
@@ -6415,6 +6481,12 @@
       "finalPrice": 2501,
       "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
       "seller": "00000000-0000-0000-0009-01fdd0aeb8a7"
+    },
+    {
+      "endTime": "2026-02-09T14:36:54.097Z",
+      "finalPrice": 1102.5,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "seller": "f3ea9918-6896-4490-bb00-0fa9224557d8"
     }
   ],
   "WAXED_OXIDIZED_COPPER_BULB": [
@@ -6761,6 +6833,12 @@
       "finalPrice": 1,
       "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
       "seller": "73b70b35-820e-4098-89b7-48643c2c906c"
+    },
+    {
+      "endTime": "2026-02-09T14:31:58.347Z",
+      "finalPrice": 105,
+      "highestBidder": "e12e1f4b-1240-49ea-a0ba-61d455d92b81",
+      "seller": "b646bdb1-3ce2-4ed7-a909-71afc30bb804"
     }
   ],
   "Rahmen (unsichtbar)": [
@@ -8437,6 +8515,28 @@
       "finalPrice": 1000,
       "highestBidder": "6973a780-0222-440f-a044-7e40e3593308",
       "seller": "00000000-0000-0000-0009-01f6905ba093"
+    }
+  ],
+  "Nilpferd Schild": [
+    {
+      "endTime": "2026-02-09T14:27:46.671Z",
+      "finalPrice": 8001,
+      "highestBidder": "c8f191a0-be06-4b8a-b724-d04b13059f10",
+      "seller": "8f509985-4e1e-4d17-b1a1-41218eb4d93b"
+    }
+  ],
+  "Sculkhose": [
+    {
+      "endTime": "2026-02-09T14:15:11.317Z",
+      "finalPrice": 1103.55,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
+    },
+    {
+      "endTime": "2026-02-09T14:15:24.624Z",
+      "finalPrice": 2000.45,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
     }
   ]
 }
