@@ -875,6 +875,12 @@
       "finalPrice": 1050,
       "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
       "seller": "8d9976ec-acb3-43d6-84be-d996c2d563ab"
+    },
+    {
+      "endTime": "2026-02-09T08:04:23.308Z",
+      "finalPrice": 30000,
+      "highestBidder": "abb2e3f4-9c3f-4494-a189-d88cfdd56ccc",
+      "seller": "cb6169f4-531c-4e6e-838a-5d9c8261f940"
     }
   ],
   "OP Sammelalbum": [
@@ -1373,6 +1379,18 @@
       "finalPrice": 80001,
       "highestBidder": "cf7b2850-71ac-4955-bf63-c75bb24a3904",
       "seller": "0ce7e456-7a68-4508-8d8c-9f65ac031976"
+    },
+    {
+      "endTime": "2026-02-09T08:10:21.591Z",
+      "finalPrice": 100501,
+      "highestBidder": "24c3e48f-fb71-483c-bd14-63605352a5e0",
+      "seller": "d2b3d89f-794a-409c-91f9-46fe3c5d5b98"
+    },
+    {
+      "endTime": "2026-02-09T08:10:34.689Z",
+      "finalPrice": 100001,
+      "highestBidder": "0ce7e456-7a68-4508-8d8c-9f65ac031976",
+      "seller": "d2b3d89f-794a-409c-91f9-46fe3c5d5b98"
     }
   ],
   "Odin's Schwingen": [
@@ -2191,6 +2209,18 @@
       "finalPrice": 44086,
       "highestBidder": "67e9ea0a-0c99-4fed-abff-12ebd4e3d4d2",
       "seller": "73b70b35-820e-4098-89b7-48643c2c906c"
+    },
+    {
+      "endTime": "2026-02-09T07:44:57.906Z",
+      "finalPrice": 31999,
+      "highestBidder": "24c3e48f-fb71-483c-bd14-63605352a5e0",
+      "seller": "6ba5910a-4e98-4037-ab4d-0bff8a0d3a7a"
+    },
+    {
+      "endTime": "2026-02-09T07:45:20.812Z",
+      "finalPrice": 31501.06,
+      "highestBidder": "3913bbe7-3f21-46e2-a6d0-1827e858c636",
+      "seller": "6ba5910a-4e98-4037-ab4d-0bff8a0d3a7a"
     }
   ],
   "Mini Pilzaxt": [
@@ -4445,6 +4475,12 @@
       "finalPrice": 312120,
       "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
       "seller": "c938291a-6e3b-4904-8b63-5be50c2d3df8"
+    },
+    {
+      "endTime": "2026-02-09T08:06:26.296Z",
+      "finalPrice": 300001,
+      "highestBidder": "70a5b55a-262b-49a7-8666-16d2775747d0",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
     }
   ],
   "GOLDEN BLACK Bogen": [
@@ -4989,6 +5025,12 @@
       "finalPrice": 7000,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "676a4493-036f-4aae-85a1-c3768faa4cbd"
+    },
+    {
+      "endTime": "2026-02-09T08:06:49.059Z",
+      "finalPrice": 1050,
+      "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
     }
   ],
   "Talisman ✦ Lebensbooster": [
@@ -5215,6 +5257,12 @@
       "finalPrice": 50000,
       "highestBidder": "1a165d50-bdee-436f-aa99-24df88776649",
       "seller": "91873160-d330-42a8-81b1-61e2cc1c804f"
+    },
+    {
+      "endTime": "2026-02-09T08:10:53.554Z",
+      "finalPrice": 5000,
+      "highestBidder": "fed09422-bbc3-4908-ac75-377d15ddea08",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
     }
   ],
   "SHULKER_SHELL": [
@@ -6479,6 +6527,12 @@
       "finalPrice": 55000,
       "highestBidder": "00000000-0000-0000-0009-01ff923fcc06",
       "seller": "285d7804-d25e-4c34-b959-8e1266ec9222"
+    },
+    {
+      "endTime": "2026-02-09T08:07:11.755Z",
+      "finalPrice": 5000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
     }
   ],
   "RED_SHULKER_BOX": [
@@ -7847,6 +7901,30 @@
       "finalPrice": 1.69,
       "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
       "seller": "73b70b35-820e-4098-89b7-48643c2c906c"
+    }
+  ],
+  "OPSUCHT Miner OP-Spitzhacke": [
+    {
+      "endTime": "2026-02-09T08:07:34.078Z",
+      "finalPrice": 1100000,
+      "highestBidder": "00000000-0000-0000-0009-01f1f1657436",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
+    }
+  ],
+  "Tiger Leuchtfeuer": [
+    {
+      "endTime": "2026-02-09T08:08:39.374Z",
+      "finalPrice": 30001,
+      "highestBidder": "d0452e34-a721-46aa-945c-4739fcc5be4c",
+      "seller": "cb6169f4-531c-4e6e-838a-5d9c8261f940"
+    }
+  ],
+  "Jeans OP-EI": [
+    {
+      "endTime": "2026-02-09T08:10:25.101Z",
+      "finalPrice": 100001,
+      "highestBidder": "1e609923-0915-46fb-8026-d435c25e07e0",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93"
     }
   ]
 }
