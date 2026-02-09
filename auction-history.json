@@ -11,6 +11,12 @@
       "finalPrice": 50001,
       "highestBidder": "ecf96ee2-34c0-40ba-bab9-1fd6f174a329",
       "seller": "61a47adc-c704-4579-a008-485d6438b245"
+    },
+    {
+      "endTime": "2026-02-09T09:40:17.081Z",
+      "finalPrice": 15751.06,
+      "highestBidder": "cffa7f12-a157-4b99-b385-4beaa4ab7b2c",
+      "seller": "00000000-0000-0000-0009-01fc07e966af"
     }
   ],
   "1. EDITION Boosterpack": [
@@ -475,6 +481,12 @@
       "finalPrice": 359162.4,
       "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
       "seller": "be3e22e3-57fa-4fa4-bac2-21eeeb51f7fc"
+    },
+    {
+      "endTime": "2026-02-09T09:54:25.552Z",
+      "finalPrice": 1000001,
+      "highestBidder": "5e307ac5-53b5-4594-a004-a0185ef1827f",
+      "seller": "81a35f6b-7723-42b0-bfa3-755be4c20591"
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -1101,6 +1113,18 @@
       "finalPrice": 20001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01f42f2af502"
+    },
+    {
+      "endTime": "2026-02-09T09:41:03.940Z",
+      "finalPrice": 6615,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "eae5a21c-661e-4ecf-8351-0e6ebc0bc6f5"
+    },
+    {
+      "endTime": "2026-02-09T10:05:59.299Z",
+      "finalPrice": 30001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818"
     }
   ],
   "Content-Team": [
@@ -1659,6 +1683,12 @@
       "finalPrice": 4000,
       "highestBidder": "00000000-0000-0000-0009-01f10a127101",
       "seller": "eefc3c87-1a08-4667-a8fb-d58cd1bbcf23"
+    },
+    {
+      "endTime": "2026-02-09T09:39:24.290Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "42155a75-ff4e-49b6-8aa2-5ad8ac5cd5fb"
     }
   ],
   "Normale ★ Hose": [
@@ -2101,6 +2131,12 @@
       "finalPrice": 32001.01,
       "highestBidder": "226d79f2-897d-41b3-a3b5-fb98a397ffef",
       "seller": "51372a35-d288-4efe-ad09-4b5930fa6737"
+    },
+    {
+      "endTime": "2026-02-09T09:56:29.934Z",
+      "finalPrice": 10500,
+      "highestBidder": "5ab91c7e-de61-47b1-890b-25a5b1c2be92",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "OPPhil": [
@@ -2151,6 +2187,12 @@
       "finalPrice": 31501.06,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01f337f42efa"
+    },
+    {
+      "endTime": "2026-02-09T10:26:48.129Z",
+      "finalPrice": 20200000,
+      "highestBidder": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
+      "seller": "00000000-0000-0000-0009-01f8035031f9"
     }
   ],
   "Plünderer-Spawn-Egg": [
@@ -2239,6 +2281,12 @@
       "finalPrice": 31501.06,
       "highestBidder": "3913bbe7-3f21-46e2-a6d0-1827e858c636",
       "seller": "6ba5910a-4e98-4037-ab4d-0bff8a0d3a7a"
+    },
+    {
+      "endTime": "2026-02-09T09:46:49.197Z",
+      "finalPrice": 10009,
+      "highestBidder": "032edd70-028a-475a-bd00-501d8e2d69f1",
+      "seller": "00000000-0000-0000-0009-01f6f4f89f34"
     }
   ],
   "Mini Pilzaxt": [
@@ -2801,6 +2849,12 @@
       "finalPrice": 57750,
       "highestBidder": "62587955-9b6c-4d35-9e19-fbe2fb408bf0",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-09T09:56:46.676Z",
+      "finalPrice": 1050,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Wasserwaage": [
@@ -2845,6 +2899,12 @@
       "finalPrice": 23100,
       "highestBidder": "00000000-0000-0000-0009-01f6646064d6",
       "seller": "a55a9e3a-f064-4ae2-a10c-5c2763049d21"
+    },
+    {
+      "endTime": "2026-02-09T09:57:36.034Z",
+      "finalPrice": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Neujahrshut": [
@@ -4009,6 +4069,12 @@
       "finalPrice": 5500,
       "highestBidder": "968afd67-8987-4483-9e21-759d4fa1004f",
       "seller": "00000000-0000-0000-0009-01f6f576ee01"
+    },
+    {
+      "endTime": "2026-02-09T09:39:37.435Z",
+      "finalPrice": 1000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "seller": "42155a75-ff4e-49b6-8aa2-5ad8ac5cd5fb"
     }
   ],
   "Auktionshaus": [
@@ -4995,6 +5061,12 @@
       "finalPrice": 52500,
       "highestBidder": "25010573-8b3f-46a7-95c1-4d108b24fca8",
       "seller": "00000000-0000-0000-0009-01f7231ed0e8"
+    },
+    {
+      "endTime": "2026-02-09T09:55:37.686Z",
+      "finalPrice": 1102.5,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "DRAGON_HEAD": [
@@ -5079,6 +5151,12 @@
       "finalPrice": 2501,
       "highestBidder": "c23eddf0-0605-40dc-b189-e3392f5435ed",
       "seller": "00000000-0000-0000-0009-01f1441dec3c"
+    },
+    {
+      "endTime": "2026-02-09T10:05:31.760Z",
+      "finalPrice": 10001,
+      "highestBidder": "c23eddf0-0605-40dc-b189-e3392f5435ed",
+      "seller": "b60c1dee-8452-4972-ad25-c280b99543bb"
     }
   ],
   "Talisman ✦ Lebensbooster": [
@@ -5407,6 +5485,12 @@
       "finalPrice": 1001,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "00000000-0000-0000-0009-01fcd33d32ad"
+    },
+    {
+      "endTime": "2026-02-09T10:06:45.549Z",
+      "finalPrice": 2000001,
+      "highestBidder": "00000000-0000-0000-0009-01f0a0914bef",
+      "seller": "e4cf3d89-1445-4b39-acda-3116c87073bc"
     }
   ],
   "Premium": [
@@ -5447,6 +5531,12 @@
       "finalPrice": 224400,
       "highestBidder": "62157d7d-6328-4f1e-9a81-f6e02bb153d4",
       "seller": "e17907b2-e3a1-493b-ae81-226d6228b196"
+    },
+    {
+      "endTime": "2026-02-09T09:54:29.546Z",
+      "finalPrice": 100000,
+      "highestBidder": "bd581cef-c402-44fb-95bf-37d4a12fcf76",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Holzbündel": [
@@ -5927,6 +6017,12 @@
       "finalPrice": 1000,
       "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
       "seller": "45de5515-d827-4430-9bc4-aa223b78f085"
+    },
+    {
+      "endTime": "2026-02-09T09:55:53.546Z",
+      "finalPrice": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ],
   "Hexenmütze": [
@@ -7571,6 +7667,12 @@
       "finalPrice": 30001,
       "highestBidder": "b1ff91dd-27c6-4354-8c3f-044cc4b0dad4",
       "seller": "d9cb8f42-fdae-4edb-8d4d-d0768e0a9ed7"
+    },
+    {
+      "endTime": "2026-02-09T10:37:44.804Z",
+      "finalPrice": 50002,
+      "highestBidder": "5d94dbc7-a46b-4c9c-a67a-2c675e6ab040",
+      "seller": "00000000-0000-0000-0009-01f90a61a23b"
     }
   ],
   "12 OPSUCHT Schuhe 12": [
@@ -8039,6 +8141,46 @@
       "finalPrice": 10000,
       "highestBidder": "17e335c9-a92f-4312-8fd6-261cd1754018",
       "seller": "c792cd12-91e7-4e03-8d31-11fff04523fa"
+    }
+  ],
+  "Jägerbeutel": [
+    {
+      "endTime": "2026-02-09T10:13:52.296Z",
+      "finalPrice": 1001,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "e17907b2-e3a1-493b-ae81-226d6228b196"
+    }
+  ],
+  "LODESTONE": [
+    {
+      "endTime": "2026-02-09T10:20:12.821Z",
+      "finalPrice": 5000,
+      "highestBidder": "22dfbbc7-96c2-4981-9f28-2bd810f5eaaf",
+      "seller": "0fa79eac-9e9e-4264-bbca-65e0787fa8ba"
+    }
+  ],
+  "X Will's Helm X": [
+    {
+      "endTime": "2026-02-09T09:54:50.231Z",
+      "finalPrice": 266000,
+      "highestBidder": "2b3d43c0-ea0c-4745-9554-531898d8cdf7",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
+    }
+  ],
+  "X Will's Stiefel X": [
+    {
+      "endTime": "2026-02-09T09:55:08.081Z",
+      "finalPrice": 156100,
+      "highestBidder": "2b3d43c0-ea0c-4745-9554-531898d8cdf7",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
+    }
+  ],
+  "X Will's Hose X": [
+    {
+      "endTime": "2026-02-09T09:55:22.285Z",
+      "finalPrice": 1100000,
+      "highestBidder": "00000000-0000-0000-0009-01fe61bbfb1c",
+      "seller": "00000000-0000-0000-0009-01ff0f778527"
     }
   ]
 }
