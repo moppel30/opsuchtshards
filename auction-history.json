@@ -1315,6 +1315,12 @@
       "finalPrice": 25000,
       "highestBidder": "852eea0a-a023-4976-87f0-2224d253f893",
       "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e"
+    },
+    {
+      "endTime": "2026-02-09T11:53:06.416Z",
+      "finalPrice": 151000,
+      "highestBidder": "00000000-0000-0000-0009-01fc21c6e5d3",
+      "seller": "b18de23e-09e9-4c6c-835a-0c3230123623"
     }
   ],
   "Builder-Team": [
@@ -3375,6 +3381,12 @@
       "finalPrice": 300000,
       "highestBidder": "f63843ea-571b-4f8e-8a49-2b8c40a05fa4",
       "seller": "e2aaadb7-ba0e-4590-8eec-8eb7f38eb2a8"
+    },
+    {
+      "endTime": "2026-02-09T12:24:28.022Z",
+      "finalPrice": 3000001,
+      "highestBidder": "b83f44d4-1d4f-4dac-b816-500de00183c1",
+      "seller": "87504f27-e60d-4ccf-b9d5-ee75cb9bc7a3"
     }
   ],
   "Elfenbein Helm": [
@@ -4569,6 +4581,12 @@
       "finalPrice": 30001,
       "highestBidder": "ba560bcb-7923-4e0e-b31e-c4def1b47833",
       "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
+    },
+    {
+      "endTime": "2026-02-09T11:57:08.295Z",
+      "finalPrice": 30001,
+      "highestBidder": "c3027354-a099-4610-9aa5-090c0bfe1225",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
   "NETHERITE_HELMET": [
@@ -4589,6 +4607,12 @@
       "finalPrice": 2002,
       "highestBidder": "1a2d303c-51ee-478a-b6ff-f325e872d4e1",
       "seller": "363c2c0b-9743-447c-be13-fb64b2f4b554"
+    },
+    {
+      "endTime": "2026-02-09T11:57:28.509Z",
+      "finalPrice": 30001,
+      "highestBidder": "c3027354-a099-4610-9aa5-090c0bfe1225",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
   "GOLDEN BLACK Harnisch": [
@@ -4836,6 +4860,12 @@
       "endTime": "2026-02-07T20:00:36.317Z",
       "finalPrice": 30001,
       "highestBidder": "d0452e34-a721-46aa-945c-4739fcc5be4c",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
+    },
+    {
+      "endTime": "2026-02-09T11:57:19.450Z",
+      "finalPrice": 30001,
+      "highestBidder": "c3027354-a099-4610-9aa5-090c0bfe1225",
       "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde"
     }
   ],
@@ -5557,6 +5587,12 @@
       "finalPrice": 9501,
       "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
       "seller": "5c5bbe60-d981-4ffc-a01a-5b5ca9d72f75"
+    },
+    {
+      "endTime": "2026-02-09T11:54:30.909Z",
+      "finalPrice": 1900002,
+      "highestBidder": "8f530c14-9396-4d64-a551-41ae02b5634a",
+      "seller": "f36d2e02-0c89-4848-afde-392465838dcf"
     }
   ],
   "Premium": [
@@ -6464,6 +6500,12 @@
       "endTime": "2026-02-08T09:40:27.383Z",
       "finalPrice": 37485,
       "highestBidder": "94768123-0f7f-4300-ad8a-71601dab6f16",
+      "seller": "6843bdd9-22e0-408c-881d-c0db23e72b32"
+    },
+    {
+      "endTime": "2026-02-09T12:26:48.059Z",
+      "finalPrice": 32000,
+      "highestBidder": "a7529824-9a88-4ca7-8b89-4ca0ae7db5e4",
       "seller": "6843bdd9-22e0-408c-881d-c0db23e72b32"
     }
   ],
@@ -8317,6 +8359,14 @@
       "finalPrice": 3565,
       "highestBidder": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
       "seller": "00000000-0000-0000-0009-01faf607ca6d"
+    }
+  ],
+  "Spawnegg | Pinguin": [
+    {
+      "endTime": "2026-02-09T12:06:42.747Z",
+      "finalPrice": 53576.25,
+      "highestBidder": "b60c1dee-8452-4972-ad25-c280b99543bb",
+      "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50"
     }
   ]
 }
