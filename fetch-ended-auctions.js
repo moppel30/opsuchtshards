@@ -59,12 +59,8 @@ async function trackEndedAuctions() {
 
         console.log(`Neue beendete Auktion gefunden: ${auctionId} für "${itemName}".`);
         
-        const saleData = {
-          endTime: auction.endTime,
-          finalPrice: auction.currentBid,
-          highestBidder: auction.highestBidder,
-          seller: auction.seller // HIER WIRD DER VERKÄUFER HINZUGEFÜGT
-        };
+        // ÄNDERUNG: Speichere das gesamte Auktions-Objekt
+        const saleData = auction; 
 
         if (!history[itemName]) {
           history[itemName] = [];
@@ -73,7 +69,7 @@ async function trackEndedAuctions() {
         
         history[itemName].push(saleData);
         changesMade = true;
-        console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} an ${saleData.highestBidder} zur Historie hinzugefügt.`);
+        console.log(`Verkauf von "${itemName}" für ${saleData.currentBid} an ${saleData.highestBidder} zur Historie hinzugefügt.`);
       }
     }
 
@@ -94,3 +90,4 @@ async function trackEndedAuctions() {
 }
 
 trackEndedAuctions();
+
