@@ -3765,6 +3765,12 @@
       "finalPrice": 5000,
       "highestBidder": "968afd67-8987-4483-9e21-759d4fa1004f",
       "seller": "d61cac92-85e7-463d-8785-e67087680e75"
+    },
+    {
+      "endTime": "2026-02-09T07:10:56.864Z",
+      "finalPrice": 26001,
+      "highestBidder": "00000000-0000-0000-0009-01f7669f05c3",
+      "seller": "b3dcc72d-9971-4ca8-8df0-68e05d5ad439"
     }
   ],
   "Farmwelt": [
@@ -5979,6 +5985,12 @@
       "finalPrice": 5001,
       "highestBidder": "8f509985-4e1e-4d17-b1a1-41218eb4d93b",
       "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91"
+    },
+    {
+      "endTime": "2026-02-09T06:46:31.817Z",
+      "finalPrice": 35000,
+      "highestBidder": "e357ce61-d6dd-4348-8f01-be3a1d0713c8",
+      "seller": "c729dc69-783a-480d-b8ce-7dde06f2b97d"
     }
   ],
   "ECHO_SHARD": [
@@ -6389,6 +6401,12 @@
       "finalPrice": 1,
       "highestBidder": "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e",
       "seller": "00000000-0000-0000-0009-01f1b28a5653"
+    },
+    {
+      "endTime": "2026-02-09T06:34:54.760Z",
+      "finalPrice": 1,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "73b70b35-820e-4098-89b7-48643c2c906c"
     }
   ],
   "Rahmen (unsichtbar)": [
@@ -7487,6 +7505,12 @@
       "finalPrice": 418200,
       "highestBidder": "7b9468c7-dbca-47f6-99cc-52968b41412a",
       "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210"
+    },
+    {
+      "endTime": "2026-02-09T07:13:11.257Z",
+      "finalPrice": 1000001.1,
+      "highestBidder": "25a8a339-14ef-466e-89fe-7ea01131e695",
+      "seller": "a05d2833-a429-42ca-b238-3c859ee4b0ea"
     }
   ],
   "● Devins Brustplatte ●": [
@@ -7807,6 +7831,22 @@
       "finalPrice": 45000001,
       "highestBidder": "94a6c819-370c-4b97-ac02-fc239ee705f8",
       "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91"
+    }
+  ],
+  "Sculkschwert": [
+    {
+      "endTime": "2026-02-09T07:12:02.472Z",
+      "finalPrice": 500001,
+      "highestBidder": "1e609923-0915-46fb-8026-d435c25e07e0",
+      "seller": "7275afba-9c3b-4ac4-b630-2ac16195f231"
+    }
+  ],
+  "TADPOLE_BUCKET": [
+    {
+      "endTime": "2026-02-09T06:33:45.333Z",
+      "finalPrice": 1.69,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "seller": "73b70b35-820e-4098-89b7-48643c2c906c"
     }
   ]
 }
