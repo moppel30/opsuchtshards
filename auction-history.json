@@ -3660,6 +3660,41 @@
       },
       "startTime": "2026-02-09T16:53:08.413Z",
       "endTime": "2026-02-09T17:53:08.413Z"
+    },
+    {
+      "uid": "0b2e7375de5ddb3f6b35cc44cd0fa8a6",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 100000,
+      "currentBid": 300000,
+      "highestBidder": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "bids": {
+        "53b61fb0-9590-4cba-b565-00de7b519207": 100001,
+        "c8d30fc5-33af-4307-b14a-c9e94f69c926": 300000,
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 200000
+      },
+      "startTime": "2026-02-09T17:36:20.386Z",
+      "endTime": "2026-02-10T05:36:20.386Z"
     }
   ],
   "Jonahchos Modpicke": [
@@ -4995,6 +5030,37 @@
       },
       "startTime": "2026-02-09T00:24:19.828Z",
       "endTime": "2026-02-10T00:24:19.828Z"
+    },
+    {
+      "uid": "e1c49330354f09ccfde02bcf5a86f05a",
+      "seller": "b31e25da-edca-4d39-99e2-337b170f7eeb",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Luxury Island",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (17/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-09T06:08:55.866Z",
+      "endTime": "2026-02-10T06:08:55.866Z"
     }
   ],
   "Erdspalter-Schaufel": [
@@ -5070,6 +5136,43 @@
       },
       "startTime": "2026-02-09T15:42:10.439Z",
       "endTime": "2026-02-09T18:42:10.439Z"
+    },
+    {
+      "uid": "81486c4b316ce92c1a65eb4c6f43d344",
+      "seller": "7b9468c7-dbca-47f6-99cc-52968b41412a",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "amount": 1,
+        "displayName": "Erdspalter-Schaufel",
+        "lore": [
+          "",
+          "Die Wucht dieser Schaufel bringt",
+          "sogar die Erdoberfläche zum Beben!",
+          "",
+          "➥ Effekt: +75% Job-XP beim Gräberjob",
+          "➥ Effekt: +15% Jobgeld beim Gräberjob",
+          "",
+          "Effekt wirkt nur auf Erdblöcke.",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1900000,
+      "highestBidder": "9f27ec8c-b59c-49db-b423-e846b2e80201",
+      "bids": {
+        "9f27ec8c-b59c-49db-b423-e846b2e80201": 1900000,
+        "2054054e-b7a9-4a86-bd32-effd6982b880": 1750000
+      },
+      "startTime": "2026-02-09T17:40:56.670Z",
+      "endTime": "2026-02-10T05:40:56.670Z"
     }
   ],
   "Phils Kristallkrone": [
@@ -8453,6 +8556,41 @@
       },
       "startTime": "2026-02-08T23:39:15.791Z",
       "endTime": "2026-02-09T23:39:15.791Z"
+    },
+    {
+      "uid": "b28a283e370893571973e48e33be178c",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Mini Pilzaxt",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Baut Pilze mit einem Klick ab (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 55000,
+      "highestBidder": "00000000-0000-0000-0009-01f7496fca1e",
+      "bids": {
+        "00000000-0000-0000-0009-01f7496fca1e": 55000
+      },
+      "startTime": "2026-02-09T17:35:55.983Z",
+      "endTime": "2026-02-10T05:35:55.983Z"
     }
   ],
   "+20% Speed Upgrade Modul": [
@@ -9697,6 +9835,34 @@
       },
       "startTime": "2026-02-09T17:17:42.080Z",
       "endTime": "2026-02-09T23:17:42.080Z"
+    },
+    {
+      "uid": "1737319b77de68f29c6c8ae0b508715c",
+      "seller": "0844633f-1c75-4023-a3c5-32f0f4f02499",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "displayName": "Normale ★ Hose",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 100,
+      "currentBid": 101,
+      "highestBidder": "7dadb4e8-dfb5-4869-b741-d5c79fabde21",
+      "bids": {
+        "7dadb4e8-dfb5-4869-b741-d5c79fabde21": 101
+      },
+      "startTime": "2026-02-09T17:56:18.666Z",
+      "endTime": "2026-02-10T05:56:18.666Z"
     }
   ],
   "Kleiner Beschützer Phil": [
@@ -10833,6 +10999,37 @@
       },
       "startTime": "2026-02-09T16:06:20.160Z",
       "endTime": "2026-02-10T04:06:20.160Z"
+    }
+  ],
+  "Tiger Leuchtfeuer": [
+    {
+      "uid": "6714e8d279df64367d4c5fc4e95c65e9",
+      "seller": "00000000-0000-0000-0009-01f107015ce2",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Tiger Leuchtfeuer",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 5800,
+      "highestBidder": "8d92162e-0074-4092-853e-4e17215bb8bc",
+      "bids": {
+        "8e42c22d-f332-4b76-93e7-d68f66047605": 500,
+        "8d92162e-0074-4092-853e-4e17215bb8bc": 5800,
+        "d0452e34-a721-46aa-945c-4739fcc5be4c": 525,
+        "41d1f529-5baa-4736-99d4-91841d833580": 4000,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 4200,
+        "aa43704e-d08a-4050-9cd7-c00d7d5ab52e": 100,
+        "b60c1dee-8452-4972-ad25-c280b99543bb": 5.25,
+        "75332750-844f-4308-92b5-bdd3f7691027": 2.1,
+        "22db07b1-7df5-4276-be30-fec08333a286": 5410,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 945
+      },
+      "startTime": "2026-02-09T06:17:46.683Z",
+      "endTime": "2026-02-10T06:17:46.683Z"
     }
   ]
 }
