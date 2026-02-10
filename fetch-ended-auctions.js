@@ -22,9 +22,13 @@ async function trackEndedAuctions() {
       process.exit(0);
     }
 
-    const nowInGermany = new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" }));
+    // KORREKTUR: 2 Minuten Toleranz von der aktuellen deutschen Zeit abziehen
+    const nowInGermanyRaw = new Date(new Date().toLocaleString("en-US", { timeZone: "Europe/Berlin" }));
+    const nowInGermany = new Date(nowInGermanyRaw.getTime() - (2 * 60 * 1000)); // 2 Minuten abziehen
+
     console.log(`================ ZEIT-CHECK ================`);
-    console.log(`Aktuelle deutsche Zeit (für Vergleich): ${nowInGermany.toLocaleString('de-DE')}`);
+    console.log(`Aktuelle deutsche Zeit (roh): ${nowInGermanyRaw.toLocaleString('de-DE')}`);
+    console.log(`Vergleichszeit (-2 Min): ${nowInGermany.toLocaleString('de-DE')}`);
     console.log(`============================================`);
 
     let changesMade = false;
@@ -59,8 +63,10 @@ async function trackEndedAuctions() {
 
         console.log(`Neue beendete Auktion gefunden: ${auctionId} für "${itemName}".`);
         
-        // ÄNDERUNG: Speichere das gesamte Auktions-Objekt
-        const saleData = auction; 
+        const saleData = {
+          ...auction,
+          finalPrice: auction.currentBid
+        };
 
         if (!history[itemName]) {
           history[itemName] = [];
@@ -69,7 +75,7 @@ async function trackEndedAuctions() {
         
         history[itemName].push(saleData);
         changesMade = true;
-        console.log(`Verkauf von "${itemName}" für ${saleData.currentBid} an ${saleData.highestBidder} zur Historie hinzugefügt.`);
+        console.log(`Verkauf von "${itemName}" für ${saleData.finalPrice} an ${saleData.highestBidder} zur Historie hinzugefügt.`);
       }
     }
 
