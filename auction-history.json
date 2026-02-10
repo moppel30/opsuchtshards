@@ -3506,6 +3506,36 @@
       },
       "startTime": "2026-02-09T10:09:39.909Z",
       "endTime": "2026-02-09T22:09:39.908Z"
+    },
+    {
+      "uid": "23a1d26ebcdf445a89d013b56388feec",
+      "seller": "a2618be8-a9f2-47a7-92b7-1aab7c59b963",
+      "item": {
+        "material": "NETHERITE_BOOTS",
+        "icon": "https://img.mc-api.io/netherite_boots.png",
+        "amount": 1,
+        "displayName": "Normale ★ Schuhe",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 10,
+      "currentBid": 100,
+      "highestBidder": "fed09422-bbc3-4908-ac75-377d15ddea08",
+      "bids": {
+        "fed09422-bbc3-4908-ac75-377d15ddea08": 100,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 11,
+        "a4e462a2-927e-4ddd-bd5f-567206af0b78": 11.55
+      },
+      "startTime": "2026-02-09T19:13:23.455Z",
+      "endTime": "2026-02-10T07:13:23.455Z"
     }
   ],
   "Blaues Axolotl": [
@@ -4733,6 +4763,38 @@
       },
       "startTime": "2026-02-08T20:14:32.265Z",
       "endTime": "2026-02-09T20:14:32.265Z"
+    },
+    {
+      "uid": "09c171b315ad75e6da0f762b2826c128",
+      "seller": "6935aa5a-b8df-4280-a088-d2457d833f01",
+      "item": {
+        "material": "SHEARS",
+        "amount": 1,
+        "displayName": "OP Teppichmesser",
+        "lore": [
+          "",
+          "➥ Effekt: Baut Teppiche im 5x5 Bereich ab",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 5000,
+      "currentBid": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01f02af6c028",
+      "bids": {
+        "00000000-0000-0000-0009-01f02af6c028": 50000,
+        "00000000-0000-0000-0009-01f4bd0dcd8b": 6000,
+        "00000000-0000-0000-0009-01fc112d7c75": 6300
+      },
+      "startTime": "2026-02-09T18:58:37.816Z",
+      "endTime": "2026-02-10T06:58:37.816Z"
     }
   ],
   "Mini One Hit Wonder": [
