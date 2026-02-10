@@ -9578,6 +9578,37 @@
       },
       "startTime": "2026-02-08T21:28:32.633Z",
       "endTime": "2026-02-09T21:28:32.633Z"
+    },
+    {
+      "uid": "4d644071d1907cafcceecb1acf211ab6",
+      "seller": "00000000-0000-0000-0009-01f99ab40c42",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Supporter-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (8/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 11000,
+      "highestBidder": "00000000-0000-0000-0009-01ff2f05f4e3",
+      "bids": {
+        "00000000-0000-0000-0009-01ff2f05f4e3": 11000
+      },
+      "startTime": "2026-02-09T23:09:55.861Z",
+      "endTime": "2026-02-10T11:09:55.861Z"
     }
   ],
   "Amors Göttliche Schuhe": [
@@ -10171,6 +10202,38 @@
       },
       "startTime": "2026-02-09T17:56:18.666Z",
       "endTime": "2026-02-10T05:56:18.666Z"
+    },
+    {
+      "uid": "ccd3f4c0c0e306f9b104c7b329664fff",
+      "seller": "15a6de3a-c3f2-4a03-ab5c-b20becf9f41a",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "displayName": "Normale ★ Hose",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 40,
+      "currentBid": 131.8,
+      "highestBidder": "a4e462a2-927e-4ddd-bd5f-567206af0b78",
+      "bids": {
+        "a2034563-0617-4d79-9967-0c262f0f0330": 110,
+        "32d33cf5-b2c8-449d-9a64-89f025c43ce2": 116,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 41,
+        "08a2d731-08e0-493b-a5d7-bb40378a3a40": 100,
+        "a4e462a2-927e-4ddd-bd5f-567206af0b78": 131.8
+      },
+      "startTime": "2026-02-09T11:21:04.731Z",
+      "endTime": "2026-02-10T11:21:04.731Z"
     }
   ],
   "Kleiner Beschützer Phil": [
@@ -11680,6 +11743,79 @@
       },
       "startTime": "2026-02-09T22:12:13.617Z",
       "endTime": "2026-02-10T10:12:13.617Z"
+    }
+  ],
+  "x Emmy´s Bauhacke x": [
+    {
+      "uid": "0cb978112e368d1b73e56ae6c2c359e9",
+      "seller": "5e902c5e-efa3-4748-9c8a-2bc4ad094b43",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "x Emmy´s Bauhacke x",
+        "lore": [
+          "",
+          "Diese Spitzhacke spiegelt",
+          "Emmy's individuelle Eleganz wieder!",
+          "",
+          "Signiert von EinfachEmmy am 01.03.2024",
+          "",
+          "Emmy's Kollektion (1/6)",
+          "",
+          "➥ Effekt: +3 Rüstung",
+          "➥ Effekt: Lavaschwamm",
+          "",
+          "Zustand: ✯✯✩",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 8,
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 10,
+          "minecraft:knockback": 5,
+          "minecraft:unbreaking": 9,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 65000000,
+      "currentBid": 65000001,
+      "highestBidder": "87e999f0-be94-4852-bb01-d608d5e76262",
+      "bids": {
+        "87e999f0-be94-4852-bb01-d608d5e76262": 65000001
+      },
+      "startTime": "2026-02-09T10:45:59.823Z",
+      "endTime": "2026-02-10T10:45:59.823Z"
+    }
+  ],
+  "NETHERITE_SWORD": [
+    {
+      "uid": "65076e9f0d7a64fcaba48df93b01a2d6",
+      "seller": "4bc34fb5-271e-4da2-95d1-fce81508a990",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "icon": "https://img.mc-api.io/netherite_sword.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:fire_aspect": 2
+        }
+      },
+      "category": "other",
+      "startBid": 10000,
+      "currentBid": 11550,
+      "highestBidder": "00000000-0000-0000-0009-01f2346bae4e",
+      "bids": {
+        "00000000-0000-0000-0009-00000994a06e": 10001,
+        "00000000-0000-0000-0009-01ff9a48b34a": 11000,
+        "00000000-0000-0000-0009-01f2346bae4e": 11550
+      },
+      "startTime": "2026-02-09T11:15:46.712Z",
+      "endTime": "2026-02-10T11:15:46.711Z"
     }
   ]
 }
