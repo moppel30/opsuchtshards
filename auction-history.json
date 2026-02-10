@@ -1162,6 +1162,37 @@
       },
       "startTime": "2026-02-09T16:11:14.030Z",
       "endTime": "2026-02-10T04:11:14.030Z"
+    },
+    {
+      "uid": "bb1bb714026a23363c4bf38e2b32e60f",
+      "seller": "ab1689d7-1868-4192-9795-21393cba523d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 109000,
+      "highestBidder": "9c26dfa9-b0b8-400e-8563-e3e0b7d78fb4",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 102001.02,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 100001,
+        "9c26dfa9-b0b8-400e-8563-e3e0b7d78fb4": 109000
+      },
+      "startTime": "2026-02-09T21:28:23.967Z",
+      "endTime": "2026-02-10T09:28:23.967Z"
     }
   ],
   "ENCHANTED_BOOK": [
@@ -3725,6 +3756,39 @@
       },
       "startTime": "2026-02-09T17:36:20.386Z",
       "endTime": "2026-02-10T05:36:20.386Z"
+    },
+    {
+      "uid": "a1f00e2bbd98c479c4d67f777e01706c",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 200000,
+      "currentBid": 220001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 220001
+      },
+      "startTime": "2026-02-09T21:31:58.707Z",
+      "endTime": "2026-02-10T09:31:58.707Z"
     }
   ],
   "Jonahchos Modpicke": [
@@ -9023,6 +9087,32 @@
       },
       "startTime": "2026-02-09T19:51:32.983Z",
       "endTime": "2026-02-09T20:51:32.983Z"
+    },
+    {
+      "uid": "bd2f51194c8a3b4c9e0802f2def27674",
+      "seller": "00000000-0000-0000-0009-01f969099187",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Großer Glücklicher Ghast",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.07.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 250001,
+      "highestBidder": "6935aa5a-b8df-4280-a088-d2457d833f01",
+      "bids": {
+        "6935aa5a-b8df-4280-a088-d2457d833f01": 250001
+      },
+      "startTime": "2026-02-09T09:26:54.462Z",
+      "endTime": "2026-02-10T09:26:54.462Z"
     }
   ],
   "Propellerhut": [
@@ -9143,6 +9233,39 @@
       },
       "startTime": "2026-02-08T21:07:21.899Z",
       "endTime": "2026-02-09T21:07:21.899Z"
+    },
+    {
+      "uid": "c5aabee2a86833e7962736fc6938e37b",
+      "seller": "95ff9560-b693-4237-98e0-7bd400a5204d",
+      "item": {
+        "material": "SHIELD",
+        "amount": 1,
+        "displayName": "✳ Sommerschild ✳",
+        "lore": [
+          "",
+          "Schütze dich mit diesem",
+          "Schild vor der Hitze!",
+          "",
+          "Sommerkollektion (10/12)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:knockback": 10,
+          "minecraft:unbreaking": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 210001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 210001
+      },
+      "startTime": "2026-02-09T21:17:17.911Z",
+      "endTime": "2026-02-10T09:17:17.911Z"
     }
   ],
   "Triceratops Hut": [
@@ -11229,6 +11352,101 @@
       },
       "startTime": "2026-02-09T08:12:12.543Z",
       "endTime": "2026-02-10T08:12:12.543Z"
+    }
+  ],
+  "Obsidianhelm": [
+    {
+      "uid": "e844bb5e12b1c76fe22afd5385b0567d",
+      "seller": "00000000-0000-0000-0009-01f969099187",
+      "item": {
+        "material": "LEATHER_HELMET",
+        "amount": 1,
+        "displayName": "Obsidianhelm",
+        "lore": [
+          "",
+          "Obsidiankollektion (6/11)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:thorns": 3,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 4,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 80000,
+      "currentBid": 80001,
+      "highestBidder": "1612656c-6494-4db4-8612-fa40e2296066",
+      "bids": {
+        "1612656c-6494-4db4-8612-fa40e2296066": 80001
+      },
+      "startTime": "2026-02-09T09:26:40.453Z",
+      "endTime": "2026-02-10T09:26:40.453Z"
+    }
+  ],
+  "MACE": [
+    {
+      "uid": "a47b98f5c062f7793527f38c7034ac33",
+      "seller": "5210d5d8-f374-4c49-be4d-b83ef8bff82e",
+      "item": {
+        "material": "MACE",
+        "icon": "https://img.mc-api.io/mace.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:density": 5
+        }
+      },
+      "category": "other",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "bids": {
+        "343a47c4-9f69-4e00-b7e0-f855e4238e1a": 50001
+      },
+      "startTime": "2026-02-09T20:54:33.469Z",
+      "endTime": "2026-02-10T08:54:33.469Z"
+    }
+  ],
+  "Gletscherhose": [
+    {
+      "uid": "86ac49a733091ea7a0dbcffe18e302e4",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Gletscherhose",
+        "lore": [
+          "",
+          "Sie trägt dich leicht über Schnee",
+          "und Eis und hält dich fest im Frost!",
+          "",
+          "Signiert vom Eiswanderer am 01.11.2025",
+          "",
+          "Gletscherkollektion (7/8)"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 6,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 150000,
+      "currentBid": 160001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 160001
+      },
+      "startTime": "2026-02-09T21:14:16.733Z",
+      "endTime": "2026-02-10T09:14:16.733Z"
     }
   ]
 }
