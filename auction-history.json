@@ -5714,6 +5714,31 @@
       },
       "startTime": "2026-02-08T19:09:44.013Z",
       "endTime": "2026-02-09T19:09:44.013Z"
+    },
+    {
+      "uid": "2fa478b524c30c8146ec96c14afdb60f",
+      "seller": "b34f1886-1dcb-457d-957c-99ecf83e1da7",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 10000,
+      "currentBid": 11000,
+      "highestBidder": "00000000-0000-0000-0009-01fb3f447725",
+      "bids": {
+        "00000000-0000-0000-0009-01fb3f447725": 11000
+      },
+      "startTime": "2026-02-09T19:59:05.964Z",
+      "endTime": "2026-02-10T07:59:05.964Z"
     }
   ],
   "NETHERITE_UPGRADE_SMITHING_TEMPLATE": [
@@ -8114,6 +8139,36 @@
       },
       "startTime": "2026-02-09T08:41:43.596Z",
       "endTime": "2026-02-09T20:41:43.596Z"
+    },
+    {
+      "uid": "2de4e8fd997e25f290634a058ffedb71",
+      "seller": "a2618be8-a9f2-47a7-92b7-1aab7c59b963",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "icon": "https://img.mc-api.io/netherite_shovel.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 0,
+      "currentBid": 2101,
+      "highestBidder": "00000000-0000-0000-0009-01f0f5231a15",
+      "bids": {
+        "32d33cf5-b2c8-449d-9a64-89f025c43ce2": 53,
+        "08a2d731-08e0-493b-a5d7-bb40378a3a40": 10,
+        "3e9f0e65-6688-4549-85bf-a4ba7777752c": 105,
+        "3834e80d-0870-4df7-bf76-42b97833c3b5": 100,
+        "ca79b3df-8c18-4e6d-967f-0eaad6e86800": 2000,
+        "00000000-0000-0000-0009-01f0f5231a15": 2101
+      },
+      "startTime": "2026-02-09T08:41:50.614Z",
+      "endTime": "2026-02-10T08:41:50.614Z"
     }
   ],
   "Playbutton": [
@@ -10241,6 +10296,48 @@
       },
       "startTime": "2026-02-08T22:31:38.057Z",
       "endTime": "2026-02-09T22:31:38.057Z"
+    },
+    {
+      "uid": "05d532a18e3b7291a8ada53bffa1322f",
+      "seller": "27c493cf-4d7f-48f7-93e3-e5aed734a123",
+      "item": {
+        "material": "ELYTRA",
+        "icon": "https://img.mc-api.io/elytra.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 40000,
+      "currentBid": 42001.05,
+      "highestBidder": "a09b486b-8601-49d7-a52f-f157d83c7dbf",
+      "bids": {
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 40001,
+        "a09b486b-8601-49d7-a52f-f157d83c7dbf": 42001.05
+      },
+      "startTime": "2026-02-09T20:32:42.524Z",
+      "endTime": "2026-02-10T08:32:42.523Z"
+    },
+    {
+      "uid": "3f09da43de3afea42784b91cb24e817c",
+      "seller": "27c493cf-4d7f-48f7-93e3-e5aed734a123",
+      "item": {
+        "material": "ELYTRA",
+        "icon": "https://img.mc-api.io/elytra.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 40000,
+      "currentBid": 50000,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "bids": {
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 40001,
+        "343a47c4-9f69-4e00-b7e0-f855e4238e1a": 50000
+      },
+      "startTime": "2026-02-09T20:33:10.957Z",
+      "endTime": "2026-02-10T08:33:10.957Z"
     }
   ],
   "Gletscheraxt": [
@@ -11092,6 +11189,46 @@
       },
       "startTime": "2026-02-09T06:17:46.683Z",
       "endTime": "2026-02-10T06:17:46.683Z"
+    }
+  ],
+  ".. FLINKS ADMINHACKE ..": [
+    {
+      "uid": "58485ce067772fb141baf7b137066ec3",
+      "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": ".. FLINKS ADMINHACKE ..",
+        "lore": [
+          "",
+          "Dein flinker Farmbegleiter.",
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "➥ Effekt: Lässt dich über Wasser/Lava laufen",
+          "➥ Effekt: Baut 1x2 Blöcke ab",
+          "",
+          "Effekte wirken nur in den Farmwelten.",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 10,
+          "minecraft:unbreaking": 10
+        }
+      },
+      "category": "tools",
+      "startBid": 80000000,
+      "currentBid": 80000001,
+      "highestBidder": "a9a5e64a-84f6-4c9d-a264-3e08971b3dc6",
+      "bids": {
+        "a9a5e64a-84f6-4c9d-a264-3e08971b3dc6": 80000001
+      },
+      "startTime": "2026-02-09T08:12:12.543Z",
+      "endTime": "2026-02-10T08:12:12.543Z"
     }
   ]
 }
