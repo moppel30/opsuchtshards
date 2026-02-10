@@ -415,6 +415,38 @@
       "startTime": "2026-02-09T19:15:10.287Z",
       "endTime": "2026-02-10T19:15:10.287Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "87e60f83b6a3fc8839fde519f9082da4",
+      "seller": "00000000-0000-0000-0009-01fd40c5be85",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Auktionshaus",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (20/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 15001,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 15001
+      },
+      "startTime": "2026-02-10T17:54:06.250Z",
+      "endTime": "2026-02-10T23:54:06.250Z",
+      "finalPrice": 15001
     }
   ],
   "Kristalle": [
@@ -4782,6 +4814,39 @@
       },
       "startTime": "2026-02-10T15:23:35.003Z",
       "endTime": "2026-02-10T18:23:35.003Z"
+    },
+    {
+      "uid": "7358d560525a52afd63733c098448b42",
+      "seller": "00000000-0000-0000-0009-01f9ef144f81",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200,
+      "currentBid": 525,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 500,
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 525
+      },
+      "startTime": "2026-02-10T18:07:52.581Z",
+      "endTime": "2026-02-11T00:07:52.581Z",
+      "finalPrice": 525
     }
   ],
   "Christianoooo": [
@@ -6520,6 +6585,36 @@
       "startTime": "2026-02-10T10:42:11.579Z",
       "endTime": "2026-02-10T22:42:11.579Z",
       "finalPrice": 6500
+    },
+    {
+      "uid": "24e6cae7157177c0e47cf3cd0feb8946",
+      "seller": "e94f10be-09ae-47a5-9eee-3cd6d6082a7d",
+      "item": {
+        "material": "NETHERITE_BOOTS",
+        "icon": "https://img.mc-api.io/netherite_boots.png",
+        "amount": 1,
+        "displayName": "Normale ★ Schuhe",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 5000,
+      "currentBid": 7000,
+      "highestBidder": "cae3c922-ff6d-495d-a600-fa28c6ad0ee8",
+      "bids": {
+        "cae3c922-ff6d-495d-a600-fa28c6ad0ee8": 7000,
+        "67454f98-c5b9-41bf-9cc8-fa46f31a7952": 6300
+      },
+      "startTime": "2026-02-10T00:07:21.465Z",
+      "endTime": "2026-02-11T00:07:21.465Z",
+      "finalPrice": 7000
     }
   ],
   "Blaues Axolotl": [
@@ -7841,6 +7936,38 @@
       "startTime": "2026-02-09T19:14:46.866Z",
       "endTime": "2026-02-10T19:14:46.866Z",
       "finalPrice": 10000
+    },
+    {
+      "uid": "71e7e9207b213387d30712afd8076b11",
+      "seller": "00000000-0000-0000-0009-01fd40c5be85",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Minion",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (15/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 15001,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 15001
+      },
+      "startTime": "2026-02-10T17:54:18.980Z",
+      "endTime": "2026-02-10T23:54:18.980Z",
+      "finalPrice": 15001
     }
   ],
   "OP Pass": [
@@ -8227,6 +8354,38 @@
       "startTime": "2026-02-09T21:45:45.200Z",
       "endTime": "2026-02-10T21:45:45.200Z",
       "finalPrice": 1051.05
+    },
+    {
+      "uid": "fc75885c156d681da441539c522150e4",
+      "seller": "00000000-0000-0000-0009-01fd40c5be85",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Pass",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (12/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 15001,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 15001
+      },
+      "startTime": "2026-02-10T17:53:52.654Z",
+      "endTime": "2026-02-10T23:53:52.654Z",
+      "finalPrice": 15001
     }
   ],
   "Herzglanzaxt": [
@@ -9543,6 +9702,39 @@
       "startTime": "2026-02-09T21:55:12.242Z",
       "endTime": "2026-02-10T21:55:12.242Z",
       "finalPrice": 2
+    },
+    {
+      "uid": "dfac536cdbca9bfd482e01b0db4a48fb",
+      "seller": "00000000-0000-0000-0009-01f9ef144f81",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Luxury Island",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (17/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100,
+      "currentBid": 1023,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 500,
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 1023
+      },
+      "startTime": "2026-02-10T18:06:49.302Z",
+      "endTime": "2026-02-11T00:06:49.302Z",
+      "finalPrice": 1023
     }
   ],
   "Erdspalter-Schaufel": [
@@ -17807,6 +17999,42 @@
       "startTime": "2026-02-10T07:19:04.005Z",
       "endTime": "2026-02-10T19:19:04.005Z",
       "finalPrice": 1052
+    },
+    {
+      "uid": "f5ea9d02a34f9884dee629967c568e57",
+      "seller": "00000000-0000-0000-0009-01f9ef144f81",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Bank",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (18/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200,
+      "currentBid": 551.25,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 525,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 500,
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 551.25,
+        "ee2db07d-f475-428c-8b9a-e7daa03fedf1": 212,
+        "491da2a0-8e58-4f8c-b27f-7a704e930a59": 201
+      },
+      "startTime": "2026-02-10T18:07:18.182Z",
+      "endTime": "2026-02-11T00:07:18.182Z",
+      "finalPrice": 551.25
     }
   ],
   "ELYTRA": [
@@ -18516,6 +18744,33 @@
       "startTime": "2026-02-10T17:08:08.402Z",
       "endTime": "2026-02-10T20:08:08.402Z",
       "finalPrice": 2101.05
+    },
+    {
+      "uid": "c236bda04332695c263ab90476651c60",
+      "seller": "00000000-0000-0000-0009-01ff53be6ba5",
+      "item": {
+        "material": "POTION",
+        "icon": "https://img.mc-api.io/potion.png",
+        "amount": 1,
+        "displayName": "Eile II Trank",
+        "lore": [
+          "",
+          "➥ Effekt: Eile II",
+          "➥ Dauer: 1 Stunde"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 30000,
+      "currentBid": 40000,
+      "highestBidder": "e89093e7-0054-4243-b04c-62511cfe3e2f",
+      "bids": {
+        "0dae71f9-1691-44b0-8946-15ba3b4d693f": 30001,
+        "e89093e7-0054-4243-b04c-62511cfe3e2f": 40000
+      },
+      "startTime": "2026-02-10T00:43:36.011Z",
+      "endTime": "2026-02-11T00:43:36.010Z",
+      "finalPrice": 40000
     }
   ],
   "Anti Stress Pillen": [
@@ -24809,6 +25064,42 @@
       "startTime": "2026-02-10T20:14:17.983Z",
       "endTime": "2026-02-10T23:14:17.982Z",
       "finalPrice": 100
+    }
+  ],
+  "Schattenrose": [
+    {
+      "uid": "dfae2d24a5f9875c2bc1468690b158b0",
+      "seller": "7f7e0627-960d-4692-869b-d73733ef71f7",
+      "item": {
+        "material": "WITHER_ROSE",
+        "icon": "https://img.mc-api.io/wither_rose.png",
+        "amount": 1,
+        "displayName": "Schattenrose",
+        "lore": [
+          "",
+          "In den düsteren, verbotenen Wäldern",
+          "erblüht eine geheimnisvolle Schattenrose",
+          "mit mächtiger, finsterer Ausstrahlung.",
+          "",
+          "➥ Effekt: +5 Angriffsschaden (Offhand)",
+          "",
+          "Signiert von OPSUCHT am 01.06.2024",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 150000,
+      "currentBid": 150001,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 150001
+      },
+      "startTime": "2026-02-10T21:49:31.750Z",
+      "endTime": "2026-02-11T00:49:31.750Z",
+      "finalPrice": 150001
     }
   ]
 }
