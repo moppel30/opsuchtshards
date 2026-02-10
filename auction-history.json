@@ -1131,6 +1131,37 @@
       },
       "startTime": "2026-02-09T22:48:28.765Z",
       "endTime": "2026-02-09T23:03:28.765Z"
+    },
+    {
+      "uid": "ba37b1e7b0c1822810456a6056e480a9",
+      "seller": "e3a2721a-4a5e-4cc8-a65e-03d51e4342e0",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 300600,
+      "highestBidder": "eaaaf3a9-fdaf-4ddb-864b-4ff9922612f4",
+      "bids": {
+        "0e14b4b0-2e0c-4f9f-995d-ce0ccb7300b6": 280000,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 250001,
+        "eaaaf3a9-fdaf-4ddb-864b-4ff9922612f4": 300600
+      },
+      "startTime": "2026-02-09T16:11:14.030Z",
+      "endTime": "2026-02-10T04:11:14.030Z"
     }
   ],
   "ENCHANTED_BOOK": [
@@ -10754,6 +10785,54 @@
       },
       "startTime": "2026-02-09T12:55:58.288Z",
       "endTime": "2026-02-10T00:55:58.288Z"
+    }
+  ],
+  "Lotterietotem": [
+    {
+      "uid": "9e922c9e20c2668f7e97b656752b463f",
+      "seller": "b4748459-5dfb-4f2a-b912-c8050e677191",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "icon": "https://img.mc-api.io/totem_of_undying.png",
+        "amount": 1,
+        "displayName": "Lotterietotem",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 15.10.2025"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "343a47c4-9f69-4e00-b7e0-f855e4238e1a",
+      "bids": {
+        "343a47c4-9f69-4e00-b7e0-f855e4238e1a": 100001
+      },
+      "startTime": "2026-02-09T15:39:11.290Z",
+      "endTime": "2026-02-10T03:39:11.290Z"
+    }
+  ],
+  "ANCIENT_DEBRIS": [
+    {
+      "uid": "75b428839d811370cb2800c0bac92171",
+      "seller": "43bb6e68-6522-425a-88fd-8c3a6897a3bf",
+      "item": {
+        "material": "ANCIENT_DEBRIS",
+        "icon": "https://img.mc-api.io/ancient_debris.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1500,
+      "currentBid": 1505,
+      "highestBidder": "a09b486b-8601-49d7-a52f-f157d83c7dbf",
+      "bids": {
+        "a09b486b-8601-49d7-a52f-f157d83c7dbf": 1505
+      },
+      "startTime": "2026-02-09T16:06:20.160Z",
+      "endTime": "2026-02-10T04:06:20.160Z"
     }
   ]
 }
