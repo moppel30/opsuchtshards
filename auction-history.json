@@ -2296,6 +2296,162 @@
       "startTime": "2026-02-10T19:15:31.307Z",
       "endTime": "2026-02-10T20:15:31.307Z",
       "finalPrice": 300001
+    },
+    {
+      "uid": "4734f350fb12a7436dc23a7fc17b28fb",
+      "seller": "c325ee79-f948-476c-817a-52ef6da71261",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 210000,
+      "highestBidder": "7f07d153-59b3-4130-9659-739158e19ce2",
+      "bids": {
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 200001,
+        "7f07d153-59b3-4130-9659-739158e19ce2": 210000,
+        "702087a9-6d8e-4a8b-b4ec-7806fdc780cf": 204001.02
+      },
+      "startTime": "2026-02-09T20:59:25.824Z",
+      "endTime": "2026-02-10T20:59:25.823Z",
+      "finalPrice": 210000
+    },
+    {
+      "uid": "6b4abc66cd2106fc3f6554dc5863988c",
+      "seller": "c325ee79-f948-476c-817a-52ef6da71261",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 256000,
+      "highestBidder": "7f07d153-59b3-4130-9659-739158e19ce2",
+      "bids": {
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 250001,
+        "7f07d153-59b3-4130-9659-739158e19ce2": 256000
+      },
+      "startTime": "2026-02-09T20:59:41.294Z",
+      "endTime": "2026-02-10T20:59:41.294Z",
+      "finalPrice": 256000
+    },
+    {
+      "uid": "184c208c28af4590a279b8255ceeaae7",
+      "seller": "934a5d89-ae8d-4c8d-8018-b8770f40484d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 153000,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "bids": {
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 153000,
+        "702087a9-6d8e-4a8b-b4ec-7806fdc780cf": 150000
+      },
+      "startTime": "2026-02-09T21:17:32.375Z",
+      "endTime": "2026-02-10T21:17:32.375Z",
+      "finalPrice": 153000
+    },
+    {
+      "uid": "b44966bd9fa182b54f0aa268a94cccd9",
+      "seller": "934a5d89-ae8d-4c8d-8018-b8770f40484d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 163200,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "bids": {
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 163200,
+        "702087a9-6d8e-4a8b-b4ec-7806fdc780cf": 160000
+      },
+      "startTime": "2026-02-09T21:18:40.783Z",
+      "endTime": "2026-02-10T21:18:40.783Z",
+      "finalPrice": 163200
+    },
+    {
+      "uid": "7765cee43e83db758280c377f51ffd0b",
+      "seller": "ab1689d7-1868-4192-9795-21393cba523d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 163200,
+      "highestBidder": "27a46e5a-3a50-488d-89ea-c38997a3c554",
+      "bids": {
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 163200,
+        "702087a9-6d8e-4a8b-b4ec-7806fdc780cf": 160000
+      },
+      "startTime": "2026-02-09T21:28:10.568Z",
+      "endTime": "2026-02-10T21:28:10.568Z",
+      "finalPrice": 163200
     }
   ],
   "ENCHANTED_BOOK": [
@@ -5740,6 +5896,38 @@
       },
       "startTime": "2026-02-09T19:13:23.455Z",
       "endTime": "2026-02-10T07:13:23.455Z"
+    },
+    {
+      "uid": "ebb9bfe9257a0cb7b8b63d881ff702f7",
+      "seller": "ffafca53-22f1-430a-b155-37100c3d7186",
+      "item": {
+        "material": "NETHERITE_BOOTS",
+        "icon": "https://img.mc-api.io/netherite_boots.png",
+        "amount": 1,
+        "displayName": "Normale ★ Schuhe",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 0,
+      "currentBid": 7000,
+      "highestBidder": "cae3c922-ff6d-495d-a600-fa28c6ad0ee8",
+      "bids": {
+        "00000000-0000-0000-0009-01f6f576ee01": 6500,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 1,
+        "00000000-0000-0000-0009-01f0137caa09": 1000,
+        "cae3c922-ff6d-495d-a600-fa28c6ad0ee8": 7000
+      },
+      "startTime": "2026-02-09T21:07:29.196Z",
+      "endTime": "2026-02-10T21:07:29.196Z",
+      "finalPrice": 7000
     }
   ],
   "Blaues Axolotl": [
@@ -8214,6 +8402,45 @@
       "startTime": "2026-02-10T19:05:44.896Z",
       "endTime": "2026-02-10T20:05:44.896Z",
       "finalPrice": 2362.5
+    },
+    {
+      "uid": "b73a46c340619046f247db7891b2f60d",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Mini One Hit Wonder",
+        "lore": [
+          "",
+          "Erledige alle Mobs",
+          "mit einem Schlag.",
+          "",
+          "Signiert von OPSUCHT am 01.04.2025",
+          "",
+          "➥ Effekt: Oneclickt alle Mobs",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:knockback": 2,
+          "minecraft:unbreaking": 4,
+          "minecraft:fire_aspect": 3,
+          "minecraft:sweeping_edge": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 408000,
+      "highestBidder": "7b9468c7-dbca-47f6-99cc-52968b41412a",
+      "bids": {
+        "ff73e958-1d47-486c-b783-857c6534d82b": 400000,
+        "7b9468c7-dbca-47f6-99cc-52968b41412a": 408000
+      },
+      "startTime": "2026-02-10T19:37:21.696Z",
+      "endTime": "2026-02-10T20:37:21.696Z",
+      "finalPrice": 408000
     }
   ],
   "OP-City": [
@@ -10634,6 +10861,40 @@
       "startTime": "2026-02-10T07:20:50.952Z",
       "endTime": "2026-02-10T19:20:50.951Z",
       "finalPrice": 63000
+    },
+    {
+      "uid": "7bb8b7027e86e543004ee6ea91307c10",
+      "seller": "00000000-0000-0000-0009-01f4426efa9d",
+      "item": {
+        "material": "BOW",
+        "amount": 1,
+        "displayName": "Osterhasen Bogen",
+        "lore": [
+          "",
+          "Signiert vom Osterhasen am 31.03.2024",
+          "",
+          "Osterhasen-Kollektion (11/14)",
+          " ",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:power": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:punch": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 500000,
+      "highestBidder": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "bids": {
+        "bb47777f-a1e3-4e2b-a130-847e4009926d": 500000
+      },
+      "startTime": "2026-02-10T18:25:51.105Z",
+      "endTime": "2026-02-10T21:25:51.105Z",
+      "finalPrice": 500000
     }
   ],
   "Infinity Hacke": [
@@ -11286,6 +11547,37 @@
       },
       "startTime": "2026-02-09T19:07:14.461Z",
       "endTime": "2026-02-09T20:07:14.461Z"
+    },
+    {
+      "uid": "c9a289e4c6ddbba4abca3a2e8eab5f65",
+      "seller": "79355017-d0dc-487e-8aae-37f3fe21f90d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Magnet",
+        "lore": [
+          "",
+          "Werde zum Herren über die Gesetze",
+          "der Anziehung und Abstoßung!",
+          "",
+          "➥ Effekt: Abgebautes wird automatisch aufgesammelt",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 8000000,
+      "currentBid": 9000000,
+      "highestBidder": "0b47727a-eb6c-4130-8c28-edea644b7582",
+      "bids": {
+        "6e0a471b-d034-4422-a63e-6749309962af": 8080001.01,
+        "0b47727a-eb6c-4130-8c28-edea644b7582": 9000000
+      },
+      "startTime": "2026-02-10T18:30:12.693Z",
+      "endTime": "2026-02-10T21:30:12.693Z",
+      "finalPrice": 9000000
     }
   ],
   "Businezz Modpicke": [
@@ -11995,6 +12287,34 @@
       },
       "startTime": "2026-02-08T20:26:55.265Z",
       "endTime": "2026-02-09T20:26:55.264Z"
+    },
+    {
+      "uid": "764548f7023fa46d4a6a93b5fbdafc74",
+      "seller": "4df435f0-4028-451b-9f7f-9357ca42f36e",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Elfenbeinspitzhacke",
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 30000,
+      "currentBid": 60000,
+      "highestBidder": "dda3ffee-2b78-476b-8886-d044f54d2d2b",
+      "bids": {
+        "b12173a9-637c-4816-82df-881220774b29": 40000,
+        "5403b557-ed01-4fef-9bee-f83e32324b49": 50000,
+        "dda3ffee-2b78-476b-8886-d044f54d2d2b": 60000
+      },
+      "startTime": "2026-02-10T18:21:04.994Z",
+      "endTime": "2026-02-10T21:21:04.994Z",
+      "finalPrice": 60000
     }
   ],
   "Elfenbeinschwert": [
@@ -12769,6 +13089,218 @@
       "startTime": "2026-02-10T15:50:14.182Z",
       "endTime": "2026-02-10T18:50:14.182Z",
       "finalPrice": 100000
+    },
+    {
+      "uid": "c78af8734f6f7eeae0f28c06274d56a7",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:feather_falling": 6,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 70000,
+      "highestBidder": "0d02d5aa-e6b2-4c22-949a-15b9cf6b569c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 100,
+        "00000000-0000-0000-0009-01f4236fdd20": 60000,
+        "8e3b42dc-0ec2-48a3-a348-a4a67ab85783": 16537.5,
+        "00000000-0000-0000-0009-01f92709af1c": 2000,
+        "d790e39e-acf5-4bb1-9c4c-9992cf7421b7": 10000,
+        "3c94c1d1-9690-4359-b8fa-a9af01061378": 15750,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 199,
+        "dc4e7a8b-0fe4-469c-9a8d-6e8cdc09193f": 40000,
+        "0d02d5aa-e6b2-4c22-949a-15b9cf6b569c": 70000,
+        "bcffa2da-e821-40bf-ab6a-70e6613d7265": 209,
+        "30d2839e-b99f-4080-83ae-58a4029f0849": 250,
+        "2604f799-4370-4d48-af5c-947d696bc4b0": 2100
+      },
+      "startTime": "2026-02-09T21:09:11.173Z",
+      "endTime": "2026-02-10T21:09:11.173Z",
+      "finalPrice": 70000
+    },
+    {
+      "uid": "ccabfea0c2b0767850604426fea03631",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 102000,
+      "highestBidder": "83654ed5-4b62-4315-832e-a26eb7a298ad",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 100,
+        "97ad5cb7-1694-4030-89b0-4bbc325789e6": 347.3,
+        "00000000-0000-0000-0009-01fc07e966af": 12000,
+        "8e3b42dc-0ec2-48a3-a348-a4a67ab85783": 15000,
+        "00000000-0000-0000-0009-01f9ef144f81": 16000,
+        "3c94c1d1-9690-4359-b8fa-a9af01061378": 16800,
+        "83654ed5-4b62-4315-832e-a26eb7a298ad": 102000,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 199,
+        "a4e462a2-927e-4ddd-bd5f-567206af0b78": 315,
+        "bcffa2da-e821-40bf-ab6a-70e6613d7265": 330.75,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 100000
+      },
+      "startTime": "2026-02-09T21:09:17.763Z",
+      "endTime": "2026-02-10T21:09:17.763Z",
+      "finalPrice": 102000
+    },
+    {
+      "uid": "9086b8133bd55ebd65b5bf17d32e6ad4",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "LEATHER_CHESTPLATE",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 160000,
+      "highestBidder": "00000000-0000-0000-0009-01f92709af1c",
+      "bids": {
+        "00000000-0000-0000-0009-01f9ef144f81": 300,
+        "00000000-0000-0000-0009-01f92709af1c": 160000,
+        "00000000-0000-0000-0009-01f90ae3f059": 15000,
+        "00000000-0000-0000-0009-01f0137caa09": 5000,
+        "0d02d5aa-e6b2-4c22-949a-15b9cf6b569c": 150000,
+        "00000000-0000-0000-0009-01f60f1fadad": 74000,
+        "00000000-0000-0000-0009-01f8bb54a6cb": 20000,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 100000,
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 100,
+        "00000000-0000-0000-0009-01f419fe51b4": 5300.11,
+        "00000000-0000-0000-0009-01fc2d8f1862": 500,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 199,
+        "8a159a67-e790-4cac-ab6c-e4a962f48a06": 132600,
+        "a4e462a2-927e-4ddd-bd5f-567206af0b78": 525
+      },
+      "startTime": "2026-02-09T21:09:23.066Z",
+      "endTime": "2026-02-10T21:09:23.065Z",
+      "finalPrice": 160000
+    },
+    {
+      "uid": "8ac38babe46f85bc74edee75b3a3adc0",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "LEATHER_HELMET",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 200000,
+      "highestBidder": "8a159a67-e790-4cac-ab6c-e4a962f48a06",
+      "bids": {
+        "00000000-0000-0000-0009-01f9ef144f81": 600,
+        "00000000-0000-0000-0009-01f92709af1c": 120000,
+        "00000000-0000-0000-0009-01f52cc7eebc": 1200,
+        "3c94c1d1-9690-4359-b8fa-a9af01061378": 63000,
+        "00000000-0000-0000-0009-01f60f1fadad": 20000,
+        "e4719d82-3496-4a05-8dac-1b30c5859bf7": 15750,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 100000,
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 500,
+        "c2c9ab12-e2e6-4a16-b518-664c0d1311b4": 10,
+        "00000000-0000-0000-0009-01fc2d8f1862": 1000,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 525,
+        "8a159a67-e790-4cac-ab6c-e4a962f48a06": 200000,
+        "a4e462a2-927e-4ddd-bd5f-567206af0b78": 1050
+      },
+      "startTime": "2026-02-09T21:09:31.865Z",
+      "endTime": "2026-02-10T21:09:31.865Z",
+      "finalPrice": 200000
+    },
+    {
+      "uid": "2bdfab2c043cd42ad873752d6482e1d7",
+      "seller": "68aec8f2-eee3-472c-8821-c9b6124a352a",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 10000,
+      "highestBidder": "00000000-0000-0000-0009-01fd556493f8",
+      "bids": {
+        "00000000-0000-0000-0009-01fd556493f8": 10000
+      },
+      "startTime": "2026-02-10T20:04:15.240Z",
+      "endTime": "2026-02-10T21:04:15.240Z",
+      "finalPrice": 10000
     }
   ],
   "NETHERITE_SHOVEL": [
@@ -13740,6 +14272,39 @@
       },
       "startTime": "2026-02-09T19:46:49.982Z",
       "endTime": "2026-02-09T20:46:49.982Z"
+    },
+    {
+      "uid": "0b7fc224401c2913ac237972548f5ad3",
+      "seller": "00000000-0000-0000-0009-01f547dc9680",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Sculkschwert",
+        "lore": [
+          "",
+          "Sculkkollektion (4/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 6,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:looting": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 350880,
+      "highestBidder": "5a206c44-8711-42eb-b46d-d78278388f3a",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 350880,
+        "65ca2694-e76b-4532-b509-4385e282d537": 344000
+      },
+      "startTime": "2026-02-10T08:58:13.128Z",
+      "endTime": "2026-02-10T20:58:13.128Z",
+      "finalPrice": 350880
     }
   ],
   "Ballon der Liebe": [
@@ -14880,6 +15445,38 @@
       "startTime": "2026-02-10T19:05:23.701Z",
       "endTime": "2026-02-10T20:05:23.701Z",
       "finalPrice": 1111000
+    },
+    {
+      "uid": "05f93cfda5c25092c5adf865ee4f91d0",
+      "seller": "00000000-0000-0000-0009-01f4a2ba363d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 2000000,
+      "currentBid": 2000001,
+      "highestBidder": "cf2ec793-89ee-4358-b0b5-4c9c8abf021e",
+      "bids": {
+        "cf2ec793-89ee-4358-b0b5-4c9c8abf021e": 2000001
+      },
+      "startTime": "2026-02-10T20:13:21.783Z",
+      "endTime": "2026-02-10T21:13:21.783Z",
+      "finalPrice": 2000001
     }
   ],
   "Normaler ★ Helm": [
@@ -14939,6 +15536,42 @@
       },
       "startTime": "2026-02-09T15:28:21.400Z",
       "endTime": "2026-02-10T15:28:21.400Z"
+    },
+    {
+      "uid": "386fc5e523b37ff6573876a7284ce061",
+      "seller": "ffafca53-22f1-430a-b155-37100c3d7186",
+      "item": {
+        "material": "NETHERITE_HELMET",
+        "icon": "https://img.mc-api.io/netherite_helmet.png",
+        "amount": 1,
+        "displayName": "Normaler ★ Helm",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1,
+      "currentBid": 7000,
+      "highestBidder": "00000000-0000-0000-0009-01fc9061b67a",
+      "bids": {
+        "00000000-0000-0000-0009-01f0de25eb0c": 6000,
+        "7db13f2c-b580-4be0-bcb3-4803291e9464": 2.1,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 2,
+        "00000000-0000-0000-0009-01f0137caa09": 3000,
+        "cae3c922-ff6d-495d-a600-fa28c6ad0ee8": 6500,
+        "00000000-0000-0000-0009-01fc9061b67a": 7000,
+        "a4e462a2-927e-4ddd-bd5f-567206af0b78": 3150
+      },
+      "startTime": "2026-02-09T21:07:15.817Z",
+      "endTime": "2026-02-10T21:07:15.817Z",
+      "finalPrice": 7000
     }
   ],
   "DIAMOND": [
@@ -15512,6 +16145,37 @@
       },
       "startTime": "2026-02-10T14:17:56.232Z",
       "endTime": "2026-02-10T17:17:56.232Z"
+    },
+    {
+      "uid": "2558d4232c6e92f637324542488d3414",
+      "seller": "ffafca53-22f1-430a-b155-37100c3d7186",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "displayName": "Normale ★ Hose",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 0,
+      "currentBid": 6500,
+      "highestBidder": "cae3c922-ff6d-495d-a600-fa28c6ad0ee8",
+      "bids": {
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 1,
+        "00000000-0000-0000-0009-01f0137caa09": 1000,
+        "cae3c922-ff6d-495d-a600-fa28c6ad0ee8": 6500
+      },
+      "startTime": "2026-02-09T21:07:49.998Z",
+      "endTime": "2026-02-10T21:07:49.998Z",
+      "finalPrice": 6500
     }
   ],
   "Kleiner Beschützer Phil": [
@@ -16407,6 +17071,38 @@
       },
       "startTime": "2026-02-10T14:27:13.243Z",
       "endTime": "2026-02-10T17:27:13.243Z"
+    },
+    {
+      "uid": "787a40c3c73d480ae7955bb548c241a7",
+      "seller": "b9c89258-fe69-483b-9a5a-e47eae973c42",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Sculkaxt",
+        "lore": [
+          "",
+          "Sculkkollektion (2/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 750000,
+      "currentBid": 800000,
+      "highestBidder": "dda3ffee-2b78-476b-8886-d044f54d2d2b",
+      "bids": {
+        "dda3ffee-2b78-476b-8886-d044f54d2d2b": 800000
+      },
+      "startTime": "2026-02-10T14:41:44.896Z",
+      "endTime": "2026-02-10T20:41:44.896Z",
+      "finalPrice": 800000
     }
   ],
   "Profi Angel v2": [
@@ -16529,6 +17225,34 @@
       },
       "startTime": "2026-02-10T17:11:38.612Z",
       "endTime": "2026-02-10T18:11:38.612Z"
+    },
+    {
+      "uid": "f7aa6aae50092aa410b9fb0f439355b8",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "WATER_BUCKET",
+        "icon": "https://img.mc-api.io/water_bucket.png",
+        "amount": 1,
+        "displayName": "Unendlicher Wassereimer",
+        "lore": [
+          "",
+          "➥ Das Wasser wird niemals ausgehen",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 300000,
+      "currentBid": 300001,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 300001
+      },
+      "startTime": "2026-02-10T19:38:42.235Z",
+      "endTime": "2026-02-10T20:38:42.235Z",
+      "finalPrice": 300001
     }
   ],
   "Shard Magnet": [
@@ -19339,6 +20063,43 @@
       },
       "startTime": "2026-02-09T17:00:33.983Z",
       "endTime": "2026-02-10T17:00:33.983Z"
+    },
+    {
+      "uid": "8bb9981d2a5f9847267918891501cc57",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": "Tauhelm",
+        "lore": [
+          "",
+          "Schützt den Kopf des Trägers mit",
+          "dem kühlen Glanz der Morgenluft!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (5/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "armor",
+      "startBid": 0,
+      "currentBid": 5000,
+      "highestBidder": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 5000,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 105
+      },
+      "startTime": "2026-02-09T21:09:44.682Z",
+      "endTime": "2026-02-10T21:09:44.682Z",
+      "finalPrice": 5000
     }
   ],
   "Poseidon's Talisman": [
@@ -21751,6 +22512,55 @@
       "startTime": "2026-02-09T20:12:43.936Z",
       "endTime": "2026-02-10T20:12:43.936Z",
       "finalPrice": 6000001
+    },
+    {
+      "uid": "95d7b3d3d8b1601fcbc430ef87865c9c",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Marcels Adminbeinschutz",
+        "lore": [
+          "",
+          "Ein Symbol für Marcels",
+          "technische Exzellenz!",
+          "",
+          "Signiert von ByteException_ am 01.01.2025",
+          "",
+          "Marcels Kollektion (4/5)",
+          "",
+          "➥ Effekt: +20% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 3,
+          "minecraft:mending": 2,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 8,
+          "minecraft:protection": 12
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 4500000,
+      "highestBidder": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 100,
+        "47a94059-646e-4824-a24a-7b75efa6ebc0": 3636000,
+        "1645e854-046a-4c63-a35a-1f35b2b8d819": 3045150,
+        "95ff9560-b693-4237-98e0-7bd400a5204d": 1100,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 4500000,
+        "1db9a9ef-7d2e-4f30-92b3-27430a36b417": 1000,
+        "bc2f65d3-b16a-4e8e-b69e-ed189a6d9f68": 1500000,
+        "00000000-0000-0000-0009-01fb2e916cef": 4000,
+        "00000000-0000-0000-0009-01f7496fca1e": 20000,
+        "eba2c7ae-1b98-4949-8c99-b5451ede9060": 3800000
+      },
+      "startTime": "2026-02-09T21:10:06.133Z",
+      "endTime": "2026-02-10T21:10:06.133Z",
+      "finalPrice": 4500000
     }
   ],
   "Flink040": [
@@ -22026,6 +22836,288 @@
       "startTime": "2026-02-10T19:44:24.674Z",
       "endTime": "2026-02-10T20:44:24.674Z",
       "finalPrice": 2
+    }
+  ],
+  "Lotterieschwingen": [
+    {
+      "uid": "e1758a85a9a27fe0f67fe24cdb7211d9",
+      "seller": "27e9e6a3-6e24-4481-b5d7-380061322c3e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Lotterieschwingen",
+        "lore": [
+          "",
+          "Diese Flügel tragen dich",
+          "höher als jedes Los.",
+          "",
+          "Signiert von OPSUCHT am 15.10.2025"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 120000,
+      "highestBidder": "00000000-0000-0000-0009-01f92709af1c",
+      "bids": {
+        "f7740fe2-aa49-4c0f-9bb0-dc97da41bc47": 112201,
+        "699984e1-bbb5-420e-a9f0-9690b49109b7": 10000,
+        "00000000-0000-0000-0009-01f92709af1c": 120000,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 94500,
+        "4e9b8fe7-c429-4c14-a993-d9bfcda28976": 102000,
+        "00000000-0000-0000-0009-01f7496fca1e": 20000
+      },
+      "startTime": "2026-02-09T21:02:21.350Z",
+      "endTime": "2026-02-10T21:02:21.350Z",
+      "finalPrice": 120000
+    }
+  ],
+  "Quarzhacke": [
+    {
+      "uid": "1ee4f20e934d52e20df1dbd68543668d",
+      "seller": "27e9e6a3-6e24-4481-b5d7-380061322c3e",
+      "item": {
+        "material": "NETHERITE_HOE",
+        "amount": 1,
+        "displayName": "Quarzhacke",
+        "lore": [
+          "",
+          "Quarzkollektion (4/13)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 15000,
+      "highestBidder": "430a7ff0-855b-4c83-92d9-b19f0bdcdc45",
+      "bids": {
+        "97ad5cb7-1694-4030-89b0-4bbc325789e6": 5000,
+        "00000000-0000-0000-0009-01fccbbba798": 10000,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 6300,
+        "430a7ff0-855b-4c83-92d9-b19f0bdcdc45": 15000
+      },
+      "startTime": "2026-02-09T21:03:43.019Z",
+      "endTime": "2026-02-10T21:03:43.019Z",
+      "finalPrice": 15000
+    }
+  ],
+  "Lotterieschwert": [
+    {
+      "uid": "5c1e3063f4e56b94048413f1b0bb89e1",
+      "seller": "27e9e6a3-6e24-4481-b5d7-380061322c3e",
+      "item": {
+        "material": "DIAMOND_SWORD",
+        "icon": "https://img.mc-api.io/diamond_sword.png",
+        "amount": 1,
+        "displayName": "Lotterieschwert",
+        "lore": [],
+        "enchantments": {
+          "minecraft:sharpness": 6,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:looting": 2
+        }
+      },
+      "category": "other",
+      "startBid": 1000,
+      "currentBid": 30000,
+      "highestBidder": "00000000-0000-0000-0009-00000e8bc956",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1051.05,
+        "8f509985-4e1e-4d17-b1a1-41218eb4d93b": 2100,
+        "00000000-0000-0000-0009-00000e8bc956": 30000,
+        "00000000-0000-0000-0009-01f15a556dc4": 20000,
+        "dc4e7a8b-0fe4-469c-9a8d-6e8cdc09193f": 2000,
+        "b87f948c-1de9-4325-b8e0-865fcd493ad2": 10000,
+        "80c3e5ba-bbdd-4f2d-8167-d871f111d771": 1001
+      },
+      "startTime": "2026-02-09T21:03:58.067Z",
+      "endTime": "2026-02-10T21:03:58.067Z",
+      "finalPrice": 30000
+    }
+  ],
+  "Frontman Jacke": [
+    {
+      "uid": "872b0ac67f32b5de8746292011e1c9c3",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "IRON_CHESTPLATE",
+        "amount": 1,
+        "displayName": "Frontman Jacke",
+        "lore": [
+          "",
+          "Das ist die Jacke vom Frontmann!",
+          "",
+          "Signiert vom Frontman am 01.05.2025",
+          "",
+          "Frontman Kollektion (2/4)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 60000,
+      "highestBidder": "00000000-0000-0000-0009-01f4236fdd20",
+      "bids": {
+        "00000000-0000-0000-0009-01f083788211": 5000,
+        "53b61fb0-9590-4cba-b565-00de7b519207": 33075,
+        "8452af63-e62c-4271-a641-1678ab963aa1": 5250,
+        "00000000-0000-0000-0009-01f4236fdd20": 60000,
+        "00000000-0000-0000-0009-01f2f4ac4a52": 31500,
+        "00000000-0000-0000-0009-01f110ee2991": 50000,
+        "c2c9ab12-e2e6-4a16-b518-664c0d1311b4": 1,
+        "a4dab1e0-45fa-47b6-bca5-bdb5564eabc2": 30000,
+        "00000000-0000-0000-0009-01f7496fca1e": 20000
+      },
+      "startTime": "2026-02-09T21:09:04.283Z",
+      "endTime": "2026-02-10T21:09:04.283Z",
+      "finalPrice": 60000
+    }
+  ],
+  "Engels Rüstung": [
+    {
+      "uid": "686a8628543c490d0a48739e1d304672",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "WHITE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/white_shulker_box.png",
+        "amount": 1,
+        "displayName": "Engels Rüstung",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 0,
+      "currentBid": 1300000,
+      "highestBidder": "fc56ea9b-2154-48c2-8060-2d49b408053a",
+      "bids": {
+        "00000000-0000-0000-0009-01f1d88f5317": 330000,
+        "fc56ea9b-2154-48c2-8060-2d49b408053a": 1300000,
+        "b2876f71-3e8b-42d6-8482-f5b2346952e3": 500000,
+        "c44b0b1f-cc9b-49be-9e30-c0b4c59022c6": 800000,
+        "00000000-0000-0000-0009-01fd3b412e1c": 410000,
+        "00000000-0000-0000-0009-01ffcfa0943d": 300000,
+        "a4ae25dd-772c-4b61-9b33-fda675f0a4b6": 320000,
+        "22020fea-3c82-481b-952b-e9df85eb64d0": 336600,
+        "00000000-0000-0000-0009-01f1958a6abc": 420000
+      },
+      "startTime": "2026-02-09T21:09:51.212Z",
+      "endTime": "2026-02-10T21:09:51.212Z",
+      "finalPrice": 1300000
+    }
+  ],
+  "HACKER Rüstung": [
+    {
+      "uid": "2eb27beec22d9bf1b678a5f1a4c147df",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "GREEN_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/green_shulker_box.png",
+        "amount": 1,
+        "displayName": "HACKER Rüstung",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 0,
+      "currentBid": 600000,
+      "highestBidder": "fc3ae520-46de-4c3f-ae48-6ace62987d02",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 4000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 4200,
+        "00000000-0000-0000-0009-01ff62ce917d": 1500,
+        "fc3ae520-46de-4c3f-ae48-6ace62987d02": 600000,
+        "00000000-0000-0000-0009-01fb85b050ac": 510000,
+        "00000000-0000-0000-0009-01f7496fca1e": 100000,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 500000
+      },
+      "startTime": "2026-02-09T21:09:57.382Z",
+      "endTime": "2026-02-10T21:09:57.382Z",
+      "finalPrice": 600000
+    }
+  ],
+  "Osterhasen Armbrust": [
+    {
+      "uid": "c759e6f483ba09fedced9341ce036440",
+      "seller": "00000000-0000-0000-0009-01f4426efa9d",
+      "item": {
+        "material": "CROSSBOW",
+        "amount": 1,
+        "displayName": "Osterhasen Armbrust",
+        "lore": [
+          "",
+          "Signiert vom Osterhasen am 31.03.2024",
+          "",
+          "Osterhasen-Kollektion (12/14)",
+          " ",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:quick_charge": 5,
+          "minecraft:piercing": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 500000,
+      "highestBidder": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "bids": {
+        "60d92996-22c4-4dee-9327-96a2d1e667a7": 250000,
+        "bb47777f-a1e3-4e2b-a130-847e4009926d": 500000
+      },
+      "startTime": "2026-02-10T18:26:20.360Z",
+      "endTime": "2026-02-10T21:26:20.360Z",
+      "finalPrice": 500000
+    }
+  ],
+  "Valentinstags Rose": [
+    {
+      "uid": "71788d0901b0cf3076e4db8b9bfadd8b",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "ROSE_BUSH",
+        "icon": "https://img.mc-api.io/rose_bush.png",
+        "amount": 1,
+        "displayName": "Valentinstags Rose",
+        "lore": [
+          "",
+          "Eine kleine Freude",
+          "zum Valentinstag",
+          "",
+          "➥ Effekt: +5 Herzen (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:efficiency": 5,
+          "minecraft:fortune": 5
+        }
+      },
+      "category": "op_items",
+      "startBid": 100000,
+      "currentBid": 102001.03,
+      "highestBidder": "df2ca9a3-0798-45bb-b2b4-8957f530c0da",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 100001,
+        "df2ca9a3-0798-45bb-b2b4-8957f530c0da": 102001.03
+      },
+      "startTime": "2026-02-10T19:41:46.074Z",
+      "endTime": "2026-02-10T20:41:46.074Z",
+      "finalPrice": 102001.03
     }
   ]
 }
