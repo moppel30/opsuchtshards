@@ -222,6 +222,38 @@
       },
       "startTime": "2026-02-09T07:22:16.094Z",
       "endTime": "2026-02-09T19:22:16.094Z"
+    },
+    {
+      "uid": "474a285c18e93df8be8f8893caf56498",
+      "seller": "0fa79eac-9e9e-4264-bbca-65e0787fa8ba",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Auktionshaus",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (20/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 500,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "faf7a7be-950d-4db7-af26-3f51c99ed21e": 10,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 500
+      },
+      "startTime": "2026-02-09T12:51:07.834Z",
+      "endTime": "2026-02-10T12:51:07.834Z"
     }
   ],
   "Kristalle": [
@@ -1943,6 +1975,40 @@
       },
       "startTime": "2026-02-09T11:40:31.793Z",
       "endTime": "2026-02-09T23:40:31.793Z"
+    },
+    {
+      "uid": "2b79434b59759f822085b64dd22ba8fc",
+      "seller": "34ab08af-f917-44b8-91e3-789faf3530af",
+      "item": {
+        "material": "ENDER_PEARL",
+        "icon": "https://img.mc-api.io/ender_pearl.png",
+        "amount": 3,
+        "displayName": "Herobrines Enderperle",
+        "lore": [
+          "",
+          "Teleportiere dich",
+          "500 mal, ohne diese",
+          "Perle zu verbrauchen!",
+          "",
+          "Signiert von Herobrine am 01.04.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:infinity": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 0,
+      "currentBid": 22992,
+      "highestBidder": "100645e4-59ac-4dba-ac9e-ddb6e71faf0b",
+      "bids": {
+        "bba3b45d-0660-472e-847d-3142d5e04638": 1,
+        "100645e4-59ac-4dba-ac9e-ddb6e71faf0b": 22992
+      },
+      "startTime": "2026-02-10T10:36:49.616Z",
+      "endTime": "2026-02-10T13:36:49.616Z"
     }
   ],
   "TRIDENT": [
@@ -3039,6 +3105,37 @@
       },
       "startTime": "2026-02-09T19:20:03.378Z",
       "endTime": "2026-02-09T22:20:03.378Z"
+    },
+    {
+      "uid": "d29dd5db248335e56892883db6f29cc1",
+      "seller": "fe3a7a23-e955-40db-b427-c176a42fbabc",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Builder-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (10/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 46009,
+      "highestBidder": "1ccd764f-5f7f-4a29-a29d-343aa6f3a104",
+      "bids": {
+        "1ccd764f-5f7f-4a29-a29d-343aa6f3a104": 46009
+      },
+      "startTime": "2026-02-10T01:07:55.289Z",
+      "endTime": "2026-02-10T13:07:55.289Z"
     }
   ],
   "OPSUCHT Miner OP-Spitzhacke": [
@@ -4897,6 +4994,56 @@
       },
       "startTime": "2026-02-09T14:52:42.686Z",
       "endTime": "2026-02-09T17:52:42.686Z"
+    },
+    {
+      "uid": "9ec234d518597a0dac46a0a966805cf9",
+      "seller": "8d80abf3-59a5-4c75-a29a-c8a74d27972c",
+      "item": {
+        "material": "FISHING_ROD",
+        "icon": "https://img.mc-api.io/fishing_rod.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:luck_of_the_sea": 3,
+          "minecraft:unbreaking": 3,
+          "minecraft:lure": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 5000,
+      "currentBid": 5001,
+      "highestBidder": "2604f799-4370-4d48-af5c-947d696bc4b0",
+      "bids": {
+        "2604f799-4370-4d48-af5c-947d696bc4b0": 5001
+      },
+      "startTime": "2026-02-10T09:51:34.706Z",
+      "endTime": "2026-02-10T12:51:34.706Z"
+    },
+    {
+      "uid": "b54fd81d71a6a35ad1545e1a31196d1b",
+      "seller": "8d80abf3-59a5-4c75-a29a-c8a74d27972c",
+      "item": {
+        "material": "FISHING_ROD",
+        "icon": "https://img.mc-api.io/fishing_rod.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:luck_of_the_sea": 3,
+          "minecraft:unbreaking": 3,
+          "minecraft:lure": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 5000,
+      "currentBid": 5001,
+      "highestBidder": "2604f799-4370-4d48-af5c-947d696bc4b0",
+      "bids": {
+        "2604f799-4370-4d48-af5c-947d696bc4b0": 5001
+      },
+      "startTime": "2026-02-10T09:51:58.247Z",
+      "endTime": "2026-02-10T12:51:58.247Z"
     }
   ],
   "Tauschuhe": [
@@ -5703,6 +5850,41 @@
       },
       "startTime": "2026-02-09T07:21:57.891Z",
       "endTime": "2026-02-09T19:21:57.891Z"
+    },
+    {
+      "uid": "6f8125c3b0b95d416342035d9e9b078f",
+      "seller": "0fa79eac-9e9e-4264-bbca-65e0787fa8ba",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Tresor",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (21/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1000,
+      "highestBidder": "00000000-0000-0000-0009-01ff2f05f4e3",
+      "bids": {
+        "00000000-0000-0000-0009-01ff2f05f4e3": 1000,
+        "00000000-0000-0000-0009-01f64a2a2df0": 500,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 800,
+        "00000000-0000-0000-0009-01f52cc7eebc": 900,
+        "00000000-0000-0000-0009-01f81a2e7b97": 750
+      },
+      "startTime": "2026-02-09T12:51:00.184Z",
+      "endTime": "2026-02-10T12:51:00.183Z"
     }
   ],
   "Tauklinge": [
@@ -6071,6 +6253,30 @@
       },
       "startTime": "2026-02-08T19:15:28.783Z",
       "endTime": "2026-02-09T19:15:28.783Z"
+    },
+    {
+      "uid": "e98e1833cc365ff2cae24b590dff2761",
+      "seller": "56ebcb54-e78b-4218-bbdc-57067ca05bee",
+      "item": {
+        "material": "NETHERITE_UPGRADE_SMITHING_TEMPLATE",
+        "icon": "https://img.mc-api.io/netherite_upgrade_smithing_template.png",
+        "amount": 1,
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 2000,
+      "currentBid": 3000,
+      "highestBidder": "8867ccef-e0a5-4aa2-8dce-9c48f20289da",
+      "bids": {
+        "8867ccef-e0a5-4aa2-8dce-9c48f20289da": 3000
+      },
+      "startTime": "2026-02-10T07:34:51.759Z",
+      "endTime": "2026-02-10T13:34:51.759Z"
     }
   ],
   "END_CRYSTAL": [
@@ -9067,6 +9273,41 @@
       },
       "startTime": "2026-02-09T17:35:55.983Z",
       "endTime": "2026-02-10T05:35:55.983Z"
+    },
+    {
+      "uid": "8b43c125c3d39ae9f2395bd4b2890767",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Mini Pilzaxt",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Baut Pilze mit einem Klick ab (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 263000,
+      "highestBidder": "00000000-0000-0000-0009-01f4bd0dcd8b",
+      "bids": {
+        "00000000-0000-0000-0009-01f4bd0dcd8b": 263000
+      },
+      "startTime": "2026-02-09T13:22:02.514Z",
+      "endTime": "2026-02-10T13:22:02.514Z"
     }
   ],
   "+20% Speed Upgrade Modul": [
@@ -9836,6 +10077,39 @@
       },
       "startTime": "2026-02-09T23:09:55.861Z",
       "endTime": "2026-02-10T11:09:55.861Z"
+    },
+    {
+      "uid": "31051f54a71f54d163eb74b212a8f2ff",
+      "seller": "90e1a0c8-d841-4f42-a825-a0c41f2b4dd4",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Supporter-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (8/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 12000,
+      "highestBidder": "6b73aae9-4f70-4c6d-80c5-8ce8c67c7be0",
+      "bids": {
+        "61e1f55a-7107-431e-84dc-1c197abf1b8d": 10002,
+        "69a37f71-c495-41e5-8c21-2bbb5bf88cd6": 10502.1,
+        "6b73aae9-4f70-4c6d-80c5-8ce8c67c7be0": 12000
+      },
+      "startTime": "2026-02-09T13:23:25.028Z",
+      "endTime": "2026-02-10T13:23:25.028Z"
     }
   ],
   "Amors Göttliche Schuhe": [
@@ -10311,6 +10585,39 @@
       },
       "startTime": "2026-02-09T12:10:36.911Z",
       "endTime": "2026-02-10T00:10:36.910Z"
+    },
+    {
+      "uid": "5c31c3fbaea545fb4c817e53fbea5300",
+      "seller": "d9cb8f42-fdae-4edb-8d4d-d0768e0a9ed7",
+      "item": {
+        "material": "FIREWORK_ROCKET",
+        "icon": "https://img.mc-api.io/firework_rocket.png",
+        "amount": 1,
+        "displayName": "Mini Rakete",
+        "lore": [
+          "",
+          "Diese Rakete boostet dich bis in die",
+          "Unendlichkeit und noch viel weiter!",
+          "",
+          "➥ Effekt: Unendliche Rakete (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 15000,
+      "currentBid": 60000,
+      "highestBidder": "00000000-0000-0000-0009-01f68e03ad86",
+      "bids": {
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 52500,
+        "00000000-0000-0000-0009-01f68e03ad86": 60000
+      },
+      "startTime": "2026-02-10T00:42:49.117Z",
+      "endTime": "2026-02-10T12:42:49.117Z"
     }
   ],
   "Marienkäfer": [
@@ -11077,6 +11384,31 @@
       },
       "startTime": "2026-02-08T22:58:40.568Z",
       "endTime": "2026-02-09T22:58:40.567Z"
+    },
+    {
+      "uid": "34c6c80fe3b9fd52a0766a5b8e56decf",
+      "seller": "8539df7a-5d27-45f8-96ea-781453270606",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Gruseliger Baumstamm",
+        "lore": [
+          "",
+          "Ein alter Stamm, der von Blitzen gezeichnet",
+          "und von dunklen Flüchen umhüllt ist!"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 20000,
+      "currentBid": 30000,
+      "highestBidder": "00000000-0000-0000-0009-00000b5785fd",
+      "bids": {
+        "00000000-0000-0000-0009-00000b5785fd": 30000,
+        "d1f6d2b1-04d9-447c-9f76-e92170db14a2": 26250
+      },
+      "startTime": "2026-02-09T13:12:23.116Z",
+      "endTime": "2026-02-10T13:12:23.116Z"
     }
   ],
   "Sculkaxt": [
@@ -11110,6 +11442,37 @@
       },
       "startTime": "2026-02-09T16:40:29.797Z",
       "endTime": "2026-02-09T22:40:29.797Z"
+    },
+    {
+      "uid": "e83d7848307b1c707d207db19f100e5b",
+      "seller": "00000000-0000-0000-0009-01f902661989",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Sculkaxt",
+        "lore": [
+          "",
+          "Sculkkollektion (2/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 200001,
+      "highestBidder": "a99a4377-1a4d-42e6-82bc-9c0a3c64b144",
+      "bids": {
+        "a99a4377-1a4d-42e6-82bc-9c0a3c64b144": 200001
+      },
+      "startTime": "2026-02-10T01:29:00.088Z",
+      "endTime": "2026-02-10T13:29:00.088Z"
     }
   ],
   "Profi Angel v2": [
@@ -12104,6 +12467,38 @@
       },
       "startTime": "2026-02-09T12:11:21.926Z",
       "endTime": "2026-02-10T12:11:21.926Z"
+    },
+    {
+      "uid": "8e70167a1f20c5acef907ad36c122f3b",
+      "seller": "fe3a7a23-e955-40db-b427-c176a42fbabc",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Content-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (9/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 17500,
+      "highestBidder": "00000000-0000-0000-0009-01ff2f05f4e3",
+      "bids": {
+        "00000000-0000-0000-0009-01ff2f05f4e3": 17500,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 15001
+      },
+      "startTime": "2026-02-10T01:08:44.993Z",
+      "endTime": "2026-02-10T13:08:44.993Z"
     }
   ],
   "Rudolphhelm": [
@@ -12453,6 +12848,223 @@
       },
       "startTime": "2026-02-09T23:59:11.913Z",
       "endTime": "2026-02-10T11:59:11.913Z"
+    }
+  ],
+  "Tau Kollektion": [
+    {
+      "uid": "595d402cb51e42a0c94db447b874eb74",
+      "seller": "8ecbd16e-9f87-4833-b6ea-1bfc54338b0a",
+      "item": {
+        "material": "ORANGE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/orange_shulker_box.png",
+        "amount": 1,
+        "displayName": "Tau Kollektion",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 300000,
+      "currentBid": 306001.02,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 306001.02,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 300001
+      },
+      "startTime": "2026-02-09T13:08:33.615Z",
+      "endTime": "2026-02-10T13:08:33.614Z"
+    }
+  ],
+  "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE": [
+    {
+      "uid": "12416556ecb81307021858a6fdfa849b",
+      "seller": "1544ce21-540e-4934-959e-507d596c9c4e",
+      "item": {
+        "material": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "icon": "https://img.mc-api.io/silence_armor_trim_smithing_template.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 40000,
+      "currentBid": 40001.01,
+      "highestBidder": "8ecbd16e-9f87-4833-b6ea-1bfc54338b0a",
+      "bids": {
+        "8ecbd16e-9f87-4833-b6ea-1bfc54338b0a": 40001.01
+      },
+      "startTime": "2026-02-09T13:09:53.643Z",
+      "endTime": "2026-02-10T13:09:53.643Z"
+    }
+  ],
+  "Emmys Videokamera": [
+    {
+      "uid": "805a701b5990544d139a5da5fd266598",
+      "seller": "445f8d00-31b2-431d-ab33-39cc733c6dcf",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Emmys Videokamera",
+        "lore": [
+          "",
+          "Hiermit dreht Emmy ihre",
+          "Videos für YouTube!",
+          "",
+          "Signiert von EinfachEmmy am 01.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Smaragderz (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 100000,
+      "highestBidder": "a01adf53-e656-4166-acc1-8add9ec3ae32",
+      "bids": {
+        "a01adf53-e656-4166-acc1-8add9ec3ae32": 100000,
+        "41d1f529-5baa-4736-99d4-91841d833580": 50001,
+        "00000000-0000-0000-0009-01f8e37e5056": 52555
+      },
+      "startTime": "2026-02-09T13:18:25.157Z",
+      "endTime": "2026-02-10T13:18:25.157Z"
+    }
+  ],
+  "Eulenflügel": [
+    {
+      "uid": "e6be7da492846786f29316e43ccc9dba",
+      "seller": "369f97f4-cce7-408c-8aed-c349330b80ef",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Eulenflügel",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "c8f191a0-be06-4b8a-b724-d04b13059f10",
+      "bids": {
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 50001
+      },
+      "startTime": "2026-02-09T13:26:08.157Z",
+      "endTime": "2026-02-10T13:26:08.157Z"
+    }
+  ],
+  "peanut butter Brustplatte": [
+    {
+      "uid": "a1cb211246a96480f7ec1fbc93f2f9ac",
+      "seller": "1544ce21-540e-4934-959e-507d596c9c4e",
+      "item": {
+        "material": "NETHERITE_CHESTPLATE",
+        "icon": "https://img.mc-api.io/netherite_chestplate.png",
+        "amount": 1,
+        "displayName": "peanut butter Brustplatte",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 30000,
+      "currentBid": 33600,
+      "highestBidder": "17e3d9e6-d34b-4001-9ad4-450e4379671f",
+      "bids": {
+        "4cb856ae-ebca-4ba3-945d-2480ac8a4f1a": 30001,
+        "17e3d9e6-d34b-4001-9ad4-450e4379671f": 33600,
+        "300cb506-5b4e-4916-a9e4-3a59995d6ef9": 32000
+      },
+      "startTime": "2026-02-09T13:27:39.816Z",
+      "endTime": "2026-02-10T13:27:39.816Z"
+    }
+  ],
+  "peanut butter Hose": [
+    {
+      "uid": "3431f7f28c6f2df55a88f701693c4d4f",
+      "seller": "1544ce21-540e-4934-959e-507d596c9c4e",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "displayName": "peanut butter Hose",
+        "lore": [],
+        "enchantments": {
+          "minecraft:swift_sneak": 3,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 31000,
+      "currentBid": 31001,
+      "highestBidder": "4cb856ae-ebca-4ba3-945d-2480ac8a4f1a",
+      "bids": {
+        "4cb856ae-ebca-4ba3-945d-2480ac8a4f1a": 31001
+      },
+      "startTime": "2026-02-09T13:28:10.043Z",
+      "endTime": "2026-02-10T13:28:10.043Z"
+    }
+  ],
+  "Königliche OPSUCHT Krone": [
+    {
+      "uid": "ebcf0e2a89f294352ea32b1a8ef84f8d",
+      "seller": "d9cb8f42-fdae-4edb-8d4d-d0768e0a9ed7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Königliche OPSUCHT Krone",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.06.2023",
+          "Signiert von SkyGuyTV am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 150000,
+      "highestBidder": "00000000-0000-0000-0009-01f5edc8c7f1",
+      "bids": {
+        "00000000-0000-0000-0009-01f5edc8c7f1": 150000,
+        "00000000-0000-0000-0009-01f169e9530a": 110000
+      },
+      "startTime": "2026-02-10T00:42:58.908Z",
+      "endTime": "2026-02-10T12:42:58.908Z"
+    }
+  ],
+  "NETHERITE_INGOT": [
+    {
+      "uid": "7ccd5fbafe199b2e4bfb74fbd0754f7d",
+      "seller": "56ebcb54-e78b-4218-bbdc-57067ca05bee",
+      "item": {
+        "material": "NETHERITE_INGOT",
+        "icon": "https://img.mc-api.io/netherite_ingot.png",
+        "amount": 3,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 2000,
+      "currentBid": 2102.1,
+      "highestBidder": "4e9b8fe7-c429-4c14-a993-d9bfcda28976",
+      "bids": {
+        "4e9b8fe7-c429-4c14-a993-d9bfcda28976": 2102.1,
+        "a5269499-73b9-4510-90f6-5278ad8297d0": 2002
+      },
+      "startTime": "2026-02-10T07:35:15.460Z",
+      "endTime": "2026-02-10T13:35:15.460Z"
     }
   ]
 }
