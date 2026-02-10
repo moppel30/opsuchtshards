@@ -4091,6 +4091,39 @@
       },
       "startTime": "2026-02-08T20:54:26.375Z",
       "endTime": "2026-02-09T20:54:26.375Z"
+    },
+    {
+      "uid": "f567d4a5cb02bf38b72c8a9a179201e1",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "DIAMOND_CHESTPLATE",
+        "icon": "https://img.mc-api.io/diamond_chestplate.png",
+        "amount": 1,
+        "displayName": "Taubrustplatte",
+        "lore": [
+          "",
+          "Bewahrt Wärme und Ruhe, wie die ersten",
+          "Sonnenstrahlen nach Frostnächten!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (6/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 30000,
+      "currentBid": 35001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 35001
+      },
+      "startTime": "2026-02-09T10:21:03.643Z",
+      "endTime": "2026-02-10T10:21:03.643Z"
     }
   ],
   "PLAYER_HEAD": [
@@ -4764,6 +4797,41 @@
       },
       "startTime": "2026-02-09T15:30:42.863Z",
       "endTime": "2026-02-09T18:30:42.863Z"
+    },
+    {
+      "uid": "3a7b01c2a9f22af8b2e3b82c47c68ea2",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": "Tauschuhe",
+        "lore": [
+          "",
+          "Tragen den Träger über feuchte",
+          "Wiesen und gefrorene Wege zugleich!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (8/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:feather_falling": 4,
+          "minecraft:frost_walker": 3,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 30000,
+      "currentBid": 31001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 31001
+      },
+      "startTime": "2026-02-09T10:20:37.347Z",
+      "endTime": "2026-02-10T10:20:37.347Z"
     }
   ],
   "OP Teppichmesser": [
@@ -11447,6 +11515,171 @@
       },
       "startTime": "2026-02-09T21:14:16.733Z",
       "endTime": "2026-02-10T09:14:16.733Z"
+    }
+  ],
+  "ENDER_PEARL": [
+    {
+      "uid": "cd13380164924728cc78a10d1eab44f0",
+      "seller": "6b56c224-588d-4353-bc39-ad08ae6f3998",
+      "item": {
+        "material": "ENDER_PEARL",
+        "icon": "https://img.mc-api.io/ender_pearl.png",
+        "amount": 16,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1,
+      "currentBid": 3,
+      "highestBidder": "f6dbd51b-5fba-4183-bf8a-0a9ace667390",
+      "bids": {
+        "8f509985-4e1e-4d17-b1a1-41218eb4d93b": 2,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 2.1,
+        "f6dbd51b-5fba-4183-bf8a-0a9ace667390": 3
+      },
+      "startTime": "2026-02-09T09:43:50.958Z",
+      "endTime": "2026-02-10T09:43:50.958Z"
+    }
+  ],
+  "OP Starter Hacke": [
+    {
+      "uid": "60d00453bc2c9b3abd3cc7b540ca2396",
+      "seller": "00000000-0000-0000-0009-01fd6394d71d",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "icon": "https://img.mc-api.io/netherite_pickaxe.png",
+        "amount": 1,
+        "displayName": "OP Starter Hacke",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "f3fe7650-1ada-4d69-acf2-d7f6a5e2b466",
+      "bids": {
+        "f3fe7650-1ada-4d69-acf2-d7f6a5e2b466": 10001
+      },
+      "startTime": "2026-02-09T10:06:52.536Z",
+      "endTime": "2026-02-10T10:06:52.535Z"
+    }
+  ],
+  "Windhose": [
+    {
+      "uid": "a52a976ddb2c610d77db9681cbf54cf6",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Windhose",
+        "lore": [
+          "",
+          "Mit jedem Schritt lässt",
+          "du nur Wind zurück.",
+          "",
+          "Windkollektion (7/9)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 3,
+          "minecraft:mending": 2,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 30000,
+      "currentBid": 35001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 35001
+      },
+      "startTime": "2026-02-09T10:20:48.686Z",
+      "endTime": "2026-02-10T10:20:48.686Z"
+    }
+  ],
+  "Windhelm": [
+    {
+      "uid": "ba2eae01cb2e745592a1afa19b6f2702",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": "Windhelm",
+        "lore": [
+          "",
+          "Der Wind flüstert dir",
+          "Warnungen ins Ohr.",
+          "",
+          "Windkollektion (5/9)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "armor",
+      "startBid": 30000,
+      "currentBid": 35001,
+      "highestBidder": "36527e98-e5e9-47a3-a09e-959f8007ef5a",
+      "bids": {
+        "36527e98-e5e9-47a3-a09e-959f8007ef5a": 35001
+      },
+      "startTime": "2026-02-09T10:21:33.547Z",
+      "endTime": "2026-02-10T10:21:33.546Z"
+    }
+  ],
+  "☄ Donnerfaust ☄": [
+    {
+      "uid": "d5b211a4743aabe38ccea96ab24338f9",
+      "seller": "e3a2721a-4a5e-4cc8-a65e-03d51e4342e0",
+      "item": {
+        "material": "MACE",
+        "icon": "https://img.mc-api.io/mace.png",
+        "amount": 1,
+        "displayName": "☄ Donnerfaust ☄",
+        "lore": [
+          "",
+          "Jeder Schlag ein Donnerhall,",
+          "jedes Opfer ein Echo.",
+          "",
+          "Signiert von OPSUCHT am 01.03.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:wind_burst": 4,
+          "minecraft:mending": 1,
+          "minecraft:breach": 3,
+          "minecraft:unbreaking": 3,
+          "minecraft:density": 4
+        }
+      },
+      "category": "other",
+      "startBid": 400000,
+      "currentBid": 400001,
+      "highestBidder": "ab3c32c5-2df0-437c-b401-15d80a54845a",
+      "bids": {
+        "ab3c32c5-2df0-437c-b401-15d80a54845a": 400001
+      },
+      "startTime": "2026-02-09T22:12:13.617Z",
+      "endTime": "2026-02-10T10:12:13.617Z"
     }
   ]
 }
