@@ -10696,5 +10696,64 @@
       "startTime": "2026-02-09T18:15:43.977Z",
       "endTime": "2026-02-10T00:15:43.976Z"
     }
+  ],
+  "Weihnachtsmann": [
+    {
+      "uid": "b0a3f607ee3318aa5f7ba7b66533664b",
+      "seller": "00000000-0000-0000-0009-01f388805f4c",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Weihnachtsmann",
+        "lore": [
+          "",
+          "Signiert von Santa am 01.12.2023",
+          "",
+          "➥ Effekt: +4 Herzen",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "61b3e4eb-d9fb-4210-8eba-7d3dcaedac09",
+      "bids": {
+        "61b3e4eb-d9fb-4210-8eba-7d3dcaedac09": 100001
+      },
+      "startTime": "2026-02-09T00:41:22.988Z",
+      "endTime": "2026-02-10T00:41:22.988Z"
+    }
+  ],
+  "Unendlicher Milcheimer": [
+    {
+      "uid": "7d51c7c37488b12e805ee46b0b25ba74",
+      "seller": "22db07b1-7df5-4276-be30-fec08333a286",
+      "item": {
+        "material": "MILK_BUCKET",
+        "icon": "https://img.mc-api.io/milk_bucket.png",
+        "amount": 1,
+        "displayName": "Unendlicher Milcheimer",
+        "lore": [
+          "",
+          "➥ Effekt: Unendlich Milch",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 90000,
+      "currentBid": 90001,
+      "highestBidder": "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac",
+      "bids": {
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 90001
+      },
+      "startTime": "2026-02-09T12:55:58.288Z",
+      "endTime": "2026-02-10T00:55:58.288Z"
+    }
   ]
 }
