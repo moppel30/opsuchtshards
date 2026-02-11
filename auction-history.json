@@ -2742,6 +2742,36 @@
       "startTime": "2026-02-10T21:57:26.597Z",
       "endTime": "2026-02-10T22:12:26.597Z",
       "finalPrice": 300001
+    },
+    {
+      "uid": "2fe6af49b4dc182aa09b3fcee1496afb",
+      "seller": "37d9df59-a366-468c-8844-f1ea4f874fb8",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 400000,
+      "currentBid": 400001,
+      "highestBidder": "622180b5-f8e5-44e5-9e40-1ac2d45a3022",
+      "bids": {
+        "622180b5-f8e5-44e5-9e40-1ac2d45a3022": 400001
+      },
+      "startTime": "2026-02-10T20:03:02.366Z",
+      "endTime": "2026-02-11T02:03:02.366Z",
+      "finalPrice": 400001
     }
   ],
   "ENCHANTED_BOOK": [
@@ -3470,6 +3500,37 @@
       },
       "startTime": "2026-02-08T21:52:49.194Z",
       "endTime": "2026-02-09T21:52:49.194Z"
+    },
+    {
+      "uid": "5c0c6fd62e3ec7072c5754b433e99256",
+      "seller": "6c1c9156-433a-4995-9b84-b2a67b0449b9",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Kartenkrone",
+        "lore": [
+          "",
+          "Eine prachtvolle Krone, geformt aus den Siegen",
+          "vergangener Meister und voller epischer Macht.",
+          "",
+          "➥ Effekt: +5 Rüstung (Kopf)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 30000,
+      "currentBid": 35000,
+      "highestBidder": "7c65546d-e73d-4e17-ad37-b43a966137f6",
+      "bids": {
+        "00000000-0000-0000-0009-01f69573c35f": 30001,
+        "31a2f37c-3848-4ae8-aa87-2485b1da0825": 31601.05,
+        "7c65546d-e73d-4e17-ad37-b43a966137f6": 35000
+      },
+      "startTime": "2026-02-10T14:20:46.329Z",
+      "endTime": "2026-02-11T02:20:46.329Z",
+      "finalPrice": 35000
     }
   ],
   "Kristall der Ewigkeit": [
@@ -14523,6 +14584,41 @@
       "startTime": "2026-02-10T17:16:55.309Z",
       "endTime": "2026-02-10T23:16:55.309Z",
       "finalPrice": 102001.02
+    },
+    {
+      "uid": "29725525b6685ddc8cd96e7c49e91beb",
+      "seller": "6c1c9156-433a-4995-9b84-b2a67b0449b9",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 75000,
+      "currentBid": 160000,
+      "highestBidder": "00000000-0000-0000-0009-01f92709af1c",
+      "bids": {
+        "00000000-0000-0000-0009-01fdbe9effda": 150000,
+        "00000000-0000-0000-0009-01f92709af1c": 160000,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 100000
+      },
+      "startTime": "2026-02-10T14:20:22.272Z",
+      "endTime": "2026-02-11T02:20:22.272Z",
+      "finalPrice": 160000
     }
   ],
   "NETHERITE_SHOVEL": [
@@ -15665,6 +15761,33 @@
       },
       "startTime": "2026-02-08T20:54:08.023Z",
       "endTime": "2026-02-09T20:54:08.023Z"
+    },
+    {
+      "uid": "c4ee49cbcee5a1241d13e4bc0af53752",
+      "seller": "b6e68a4e-8824-40fd-9c34-4a9893b4b293",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Ballon der Liebe",
+        "lore": [
+          "",
+          "So leicht wie Gefühle, ",
+          "so flüchtig wie ein Kuss.",
+          "",
+          "➥ Effekt: +2 Herzen (Off-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 15001,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 15001
+      },
+      "startTime": "2026-02-10T20:09:21.547Z",
+      "endTime": "2026-02-11T02:09:21.547Z",
+      "finalPrice": 15001
     }
   ],
   "Philips Anzugschuhe": [
@@ -25100,6 +25223,59 @@
       "startTime": "2026-02-10T21:49:31.750Z",
       "endTime": "2026-02-11T00:49:31.750Z",
       "finalPrice": 150001
+    }
+  ],
+  "BAMBOO": [
+    {
+      "uid": "87ee3c46493d405acb43ec9daddebc00",
+      "seller": "a78e172f-a4e7-4110-a776-166e8b140e7a",
+      "item": {
+        "material": "BAMBOO",
+        "icon": "https://img.mc-api.io/bamboo.png",
+        "amount": 64,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 10,
+      "currentBid": 11,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 11
+      },
+      "startTime": "2026-02-10T13:49:44.507Z",
+      "endTime": "2026-02-11T01:49:44.507Z",
+      "finalPrice": 11
+    }
+  ],
+  "Lotterieflügel": [
+    {
+      "uid": "076759912078638f3e6d79285fab302a",
+      "seller": "0fb31f4a-ddb1-4e88-8a27-c6177ea7ebbf",
+      "item": {
+        "material": "ELYTRA",
+        "icon": "https://img.mc-api.io/elytra.png",
+        "amount": 1,
+        "displayName": "Lotterieflügel",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 15.10.2025"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 3
+        }
+      },
+      "category": "op_items",
+      "startBid": 76000,
+      "currentBid": 76001,
+      "highestBidder": "eaaaf3a9-fdaf-4ddb-864b-4ff9922612f4",
+      "bids": {
+        "eaaaf3a9-fdaf-4ddb-864b-4ff9922612f4": 76001
+      },
+      "startTime": "2026-02-10T20:14:21.406Z",
+      "endTime": "2026-02-11T02:14:21.405Z",
+      "finalPrice": 76001
     }
   ]
 }
