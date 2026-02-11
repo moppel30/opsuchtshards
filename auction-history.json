@@ -1683,6 +1683,37 @@
       "startTime": "2026-02-10T20:12:20.338Z",
       "endTime": "2026-02-11T20:15:19.784Z",
       "finalPrice": 318364
+    },
+    {
+      "uid": "1cb4744c7ab5b86c5e217b3e50b69e0f",
+      "seller": "ab1689d7-1868-4192-9795-21393cba523d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 102001.02,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 102001.02,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 100001
+      },
+      "startTime": "2026-02-10T21:34:31.897Z",
+      "endTime": "2026-02-11T21:34:31.897Z",
+      "finalPrice": 102001.02
     }
   ],
   "POTION": [
@@ -8968,6 +8999,43 @@
       },
       "startTime": "2026-02-11T17:12:26.131Z",
       "endTime": "2026-02-11T20:12:26.131Z",
+      "finalPrice": 1500001
+    },
+    {
+      "uid": "280e5c4fc9d8e6a8f50b089907f072af",
+      "seller": "96edd6ea-6716-40ed-9215-2817c4f1d895",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "amount": 1,
+        "displayName": "Erdspalter-Schaufel",
+        "lore": [
+          "",
+          "Die Wucht dieser Schaufel bringt",
+          "sogar die Erdoberfläche zum Beben!",
+          "",
+          "➥ Effekt: +75% Job-XP beim Gräberjob",
+          "➥ Effekt: +15% Jobgeld beim Gräberjob",
+          "",
+          "Effekt wirkt nur auf Erdblöcke.",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1500001,
+      "highestBidder": "e5ab3f0a-ddfb-45db-9cc1-5c7ef7c396f7",
+      "bids": {
+        "e5ab3f0a-ddfb-45db-9cc1-5c7ef7c396f7": 1500001
+      },
+      "startTime": "2026-02-10T21:33:55.294Z",
+      "endTime": "2026-02-11T21:33:55.294Z",
       "finalPrice": 1500001
     }
   ],
