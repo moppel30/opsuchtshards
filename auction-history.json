@@ -8411,6 +8411,43 @@
       "startTime": "2026-02-11T19:44:46.313Z",
       "endTime": "2026-02-11T22:49:39.574Z",
       "finalPrice": 122400
+    },
+    {
+      "uid": "a2c2cfc209388e787fdb1fb7e1f4b559",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Helm ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 10,
+          "minecraft:aqua_affinity": 6,
+          "minecraft:respiration": 8
+        }
+      },
+      "category": "armor",
+      "startBid": 10000,
+      "currentBid": 175000,
+      "highestBidder": "00000000-0000-0000-0009-01f4f84e45af",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 36750,
+        "00000000-0000-0000-0009-01f746a56532": 15000,
+        "18d25a5c-5169-4dc5-8c00-d04876a4ec34": 153000,
+        "00000000-0000-0000-0009-01f4f84e45af": 175000,
+        "00000000-0000-0000-0009-01f4426efa9d": 20202.02
+      },
+      "startTime": "2026-02-11T19:44:46.313Z",
+      "endTime": "2026-02-11T22:50:49.632Z",
+      "finalPrice": 175000
     }
   ],
   "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE": [
@@ -11800,6 +11837,41 @@
       "startTime": "2026-02-11T19:44:07.067Z",
       "endTime": "2026-02-11T22:49:25.525Z",
       "finalPrice": 122400
+    },
+    {
+      "uid": "37feec04cca6a30e1b61484bd7c8620b",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "LEATHER_HELMET",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 150000,
+      "highestBidder": "fb0a3ea1-a3c7-4123-8203-df683e8043e9",
+      "bids": {
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 122400,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 10001,
+        "fb0a3ea1-a3c7-4123-8203-df683e8043e9": 150000
+      },
+      "startTime": "2026-02-11T19:44:07.067Z",
+      "endTime": "2026-02-11T22:50:03.914Z",
+      "finalPrice": 150000
     }
   ],
   "Tunnelgräber Schaufel": [
@@ -16683,6 +16755,51 @@
       "startTime": "2026-02-11T19:42:26.839Z",
       "endTime": "2026-02-11T22:49:01.274Z",
       "finalPrice": 149000
+    },
+    {
+      "uid": "e8f3c514ee3261a21a3a1507d9e9fff1",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Mitarbeitermaske",
+        "lore": [
+          "",
+          "1. Immer die Maske tragen.",
+          "2. Nicht unerlaubt reden.",
+          "3. Nicht unerlaubt bewegen.",
+          "",
+          "Signiert vom Frontman am 01.02.2025",
+          "",
+          "SQUID GAME KOLLEKTION (3/6)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:projectile_protection": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 5,
+          "minecraft:aqua_affinity": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 156000,
+      "highestBidder": "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2",
+      "bids": {
+        "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2": 156000,
+        "77fe7ef6-1f6f-4ae7-8b3d-131190e79283": 15000,
+        "eb4fbdf6-9ffd-45cc-9b02-2552a72f0bed": 10001,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 151980,
+        "6ab51817-9b69-4054-8edd-8065f01897b3": 29768.56,
+        "00000000-0000-0000-0009-01f60f1fadad": 27000,
+        "00000000-0000-0000-0009-01f7496fca1e": 25000
+      },
+      "startTime": "2026-02-11T19:42:26.839Z",
+      "endTime": "2026-02-11T22:50:47.130Z",
+      "finalPrice": 156000
     }
   ],
   "Mitarbeiterstiefel": [
@@ -17734,6 +17851,45 @@
       "startTime": "2026-02-11T19:43:43.121Z",
       "endTime": "2026-02-11T22:49:49.923Z",
       "finalPrice": 103425
+    },
+    {
+      "uid": "e6757453ff5159049e59e2a96757b041",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Hexenhose",
+        "lore": [
+          "",
+          "Eine uralte Rüstung voller dunkler ",
+          "Magie die schützt aber langsam verändert.",
+          "",
+          "Hexenkollektion (3/4)",
+          "",
+          "➥ Effekt: -0.01 Gravity (Hose)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:thorns": 4,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 5000,
+      "currentBid": 107603.37,
+      "highestBidder": "ad2296ea-4487-454f-aa28-ae2433429f55",
+      "bids": {
+        "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2": 82426,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 15000,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 105493.5,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 107603.37,
+        "00000000-0000-0000-0009-01f60f1fadad": 17000,
+        "24f8e0cc-c031-4f23-995b-35140dffd60b": 10501
+      },
+      "startTime": "2026-02-11T19:43:43.121Z",
+      "endTime": "2026-02-11T22:50:41.541Z",
+      "finalPrice": 107603.37
     }
   ],
   "Zwergenpilz": [
@@ -17770,6 +17926,41 @@
       "startTime": "2026-02-11T19:50:34.786Z",
       "endTime": "2026-02-11T22:50:34.785Z",
       "finalPrice": 25001
+    },
+    {
+      "uid": "b32b0f6af9f3128bc55ec5fceda66c16",
+      "seller": "51372a35-d288-4efe-ad09-4b5930fa6737",
+      "item": {
+        "material": "APPLE",
+        "amount": 25,
+        "displayName": "Zwergenpilz",
+        "lore": [
+          "",
+          "Dieser Pilz schrumpft",
+          "den Esser auf Mausgröße!",
+          "",
+          "Signiert von OPSUCHT am 01.03.2025",
+          "Signiert von Mario am 01.03.2025",
+          "",
+          "➥ Effekt: Verkleinert dich beim Verzehr",
+          "➥ Dauer: 5 Minuten",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 25000,
+      "currentBid": 69000,
+      "highestBidder": "1cf8a086-5329-4c19-b40b-a2b0ff9ae29e",
+      "bids": {
+        "1cf8a086-5329-4c19-b40b-a2b0ff9ae29e": 69000,
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 25001
+      },
+      "startTime": "2026-02-11T19:50:34.786Z",
+      "endTime": "2026-02-11T22:50:50.674Z",
+      "finalPrice": 69000
     }
   ],
   "Polips Modpicke": [
