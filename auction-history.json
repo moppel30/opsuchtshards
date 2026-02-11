@@ -3047,5 +3047,71 @@
       "endTime": "2026-02-11T20:14:15.026Z",
       "finalPrice": 7000
     }
+  ],
+  "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE": [
+    {
+      "uid": "7a98d0c3b713b9f405ed4cc546fa02b8",
+      "seller": "6f1b4167-fe6a-4e02-9816-9194be624d00",
+      "item": {
+        "material": "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE",
+        "icon": "https://img.mc-api.io/tide_armor_trim_smithing_template.png",
+        "amount": 11,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1,
+      "currentBid": 7259,
+      "highestBidder": "00000000-0000-0000-0009-01f7949e4c78",
+      "bids": {
+        "369f97f4-cce7-408c-8aed-c349330b80ef": 6102.6,
+        "d28a9e97-edb2-49cc-9a34-ab54334d184c": 2.2,
+        "00000000-0000-0000-0009-01f7c7150dc8": 30,
+        "0f217166-9806-4c6b-a3da-584adcc580fb": 35,
+        "17d593bb-410b-425e-bcd8-2dc375afa9ca": 4000,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 2,
+        "00000000-0000-0000-0009-01f7949e4c78": 7259,
+        "f04761bd-6de4-4216-b5e2-5393f5fa46da": 4410,
+        "00000000-0000-0000-0009-01f4628c047a": 1000,
+        "f3fe7650-1ada-4d69-acf2-d7f6a5e2b466": 4200
+      },
+      "startTime": "2026-02-10T20:16:51.185Z",
+      "endTime": "2026-02-11T20:16:51.185Z",
+      "finalPrice": 7259
+    }
+  ],
+  "Playbutton": [
+    {
+      "uid": "fc399000f3191249dd9e194673c5169b",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Playbutton",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (23/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 700,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-11T16:49:27.325Z",
+      "endTime": "2026-02-11T19:49:27.325Z",
+      "finalPrice": 1000
+    }
   ]
 }
