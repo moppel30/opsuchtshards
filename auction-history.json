@@ -8116,6 +8116,44 @@
       "startTime": "2026-02-10T20:28:39.261Z",
       "endTime": "2026-02-11T20:33:55.021Z",
       "finalPrice": 208080
+    },
+    {
+      "uid": "6f4b643650380ab698ba88a526a4cbb5",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "SPONGE",
+        "icon": "https://img.mc-api.io/sponge.png",
+        "amount": 1,
+        "displayName": "OP Schwamm",
+        "lore": [
+          "",
+          "➥ Effekt: Entfernt Lava im 4x4 Bereich",
+          "➥ Effekt: Dieser Schwamm wird niemals nass sein",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 1,
+      "currentBid": 250000,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "0377a96f-0644-4c99-a42e-b2c51b75db5b": 55125,
+        "51472d55-8185-4c6d-8e7a-f487d7340132": 52500,
+        "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3": 60775.32,
+        "00000000-0000-0000-0009-01f34aff6147": 50000,
+        "e987a8ea-a996-437a-a106-4a98449578fc": 215000,
+        "00000000-0000-0000-0009-01fc2d8f1862": 500,
+        "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9": 125000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 250000
+      },
+      "startTime": "2026-02-10T20:28:39.261Z",
+      "endTime": "2026-02-11T20:34:46.916Z",
+      "finalPrice": 250000
     }
   ],
   "Phils Kristallkrone": [
@@ -9907,6 +9945,47 @@
       "startTime": "2026-02-11T20:09:18.964Z",
       "endTime": "2026-02-11T20:33:47.050Z",
       "finalPrice": 2750000
+    },
+    {
+      "uid": "def68d874359e324c5f6aa74ec741b21",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Builder Axt",
+        "lore": [
+          "",
+          "Signiert vom Builder-Team am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 3000000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 60000,
+        "f24e166c-3166-4ba2-9c3a-a63faaff1b3f": 306000,
+        "3f237c18-1a92-4fc0-b873-bb23e68a1450": 400000,
+        "68aec8f2-eee3-472c-8821-c9b6124a352a": 334000,
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 2750000,
+        "00000000-0000-0000-0009-01fa8fe88e0d": 1,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 500000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 387600,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 3000000
+      },
+      "startTime": "2026-02-11T20:09:18.964Z",
+      "endTime": "2026-02-11T20:34:53.069Z",
+      "finalPrice": 3000000
     }
   ],
   "Businezz Modpicke": [
@@ -10908,6 +10987,33 @@
       "startTime": "2026-02-11T20:31:04.753Z",
       "endTime": "2026-02-11T20:46:04.752Z",
       "finalPrice": 20000
+    }
+  ],
+  "DRAGON_HEAD": [
+    {
+      "uid": "057b5be02694929c67b446efc6a79909",
+      "seller": "4829b672-3bb2-4f47-9b4b-7c078ba15509",
+      "item": {
+        "material": "DRAGON_HEAD",
+        "icon": "https://img.mc-api.io/dragon_head.png",
+        "amount": 4,
+        "lore": [
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1,
+      "currentBid": 3,
+      "highestBidder": "22dfbbc7-96c2-4981-9f28-2bd810f5eaaf",
+      "bids": {
+        "22dfbbc7-96c2-4981-9f28-2bd810f5eaaf": 3,
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 2
+      },
+      "startTime": "2026-02-11T20:30:52.124Z",
+      "endTime": "2026-02-11T20:45:52.124Z",
+      "finalPrice": 3
     }
   ]
 }
