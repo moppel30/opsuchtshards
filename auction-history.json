@@ -8299,5 +8299,33 @@
       "endTime": "2026-02-11T20:55:37.078Z",
       "finalPrice": 1200000
     }
+  ],
+  "Eile II Trank": [
+    {
+      "uid": "e69e4c421abc7f1c4c190ebe11b0d3b2",
+      "seller": "6005f620-5d2e-46da-a497-88da82ab5080",
+      "item": {
+        "material": "POTION",
+        "icon": "https://img.mc-api.io/potion.png",
+        "amount": 1,
+        "displayName": "Eile II Trank",
+        "lore": [
+          "",
+          "➥ Effekt: Eile II",
+          "➥ Dauer: 1 Stunde"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "d28a9e97-edb2-49cc-9a34-ab54334d184c",
+      "bids": {
+        "d28a9e97-edb2-49cc-9a34-ab54334d184c": 50001
+      },
+      "startTime": "2026-02-10T20:07:29.296Z",
+      "endTime": "2026-02-11T20:07:29.296Z",
+      "finalPrice": 50001
+    }
   ]
 }
