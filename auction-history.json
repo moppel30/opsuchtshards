@@ -12900,6 +12900,39 @@
       "startTime": "2026-02-11T19:55:00.685Z",
       "endTime": "2026-02-11T20:55:00.685Z",
       "finalPrice": 250001
+    },
+    {
+      "uid": "23faae99099c88cd93c765400b939658",
+      "seller": "eaaaf3a9-fdaf-4ddb-864b-4ff9922612f4",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Superball",
+        "lore": [
+          "",
+          "Fangt Tiere in der Farmwelt",
+          "und bringt sie in die Plotwelt.",
+          "",
+          "Von Kühen bis Elefanten,",
+          "die Möglichkeiten sind endlos!",
+          "",
+          "Achtung: Insgesamt 25 Benutzungen!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 300001,
+      "highestBidder": "09e69af6-0ce4-44c3-a097-cfe17e44e5bc",
+      "bids": {
+        "09e69af6-0ce4-44c3-a097-cfe17e44e5bc": 300001
+      },
+      "startTime": "2026-02-11T16:41:13.920Z",
+      "endTime": "2026-02-11T22:41:13.920Z",
+      "finalPrice": 300001
     }
   ],
   "Schmelzpicke v3": [
