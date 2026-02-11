@@ -15973,6 +15973,51 @@
       "startTime": "2026-02-11T19:42:26.839Z",
       "endTime": "2026-02-11T22:42:48.828Z",
       "finalPrice": 107000
+    },
+    {
+      "uid": "e8f3c514ee3261a21a3a1507d9e9fff1",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Mitarbeitermaske",
+        "lore": [
+          "",
+          "1. Immer die Maske tragen.",
+          "2. Nicht unerlaubt reden.",
+          "3. Nicht unerlaubt bewegen.",
+          "",
+          "Signiert vom Frontman am 01.02.2025",
+          "",
+          "SQUID GAME KOLLEKTION (3/6)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:projectile_protection": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 5,
+          "minecraft:aqua_affinity": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 114445.02,
+      "highestBidder": "ad2296ea-4487-454f-aa28-ae2433429f55",
+      "bids": {
+        "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2": 112201,
+        "77fe7ef6-1f6f-4ae7-8b3d-131190e79283": 15000,
+        "eb4fbdf6-9ffd-45cc-9b02-2552a72f0bed": 10001,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 114445.02,
+        "6ab51817-9b69-4054-8edd-8065f01897b3": 29768.56,
+        "00000000-0000-0000-0009-01f60f1fadad": 27000,
+        "00000000-0000-0000-0009-01f7496fca1e": 25000
+      },
+      "startTime": "2026-02-11T19:42:26.839Z",
+      "endTime": "2026-02-11T22:43:45.734Z",
+      "finalPrice": 114445.02
     }
   ],
   "Mitarbeiterstiefel": [
@@ -16053,6 +16098,47 @@
       "startTime": "2026-02-11T19:42:41.565Z",
       "endTime": "2026-02-11T22:42:51.380Z",
       "finalPrice": 80000
+    },
+    {
+      "uid": "b54d17168c3ce5789f1c6a8153706e7d",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Mitarbeiterstiefel",
+        "lore": [
+          "",
+          "1. Immer die Maske tragen.",
+          "2. Nicht unerlaubt reden.",
+          "3. Nicht unerlaubt bewegen.",
+          "",
+          "Signiert vom Frontman am 01.02.2025",
+          "",
+          "SQUID GAME KOLLEKTION (6/6)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:projectile_protection": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 100000,
+      "highestBidder": "6ab51817-9b69-4054-8edd-8065f01897b3",
+      "bids": {
+        "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2": 66160,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 84000,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 80000,
+        "6ab51817-9b69-4054-8edd-8065f01897b3": 100000
+      },
+      "startTime": "2026-02-11T19:42:41.565Z",
+      "endTime": "2026-02-11T22:43:30.637Z",
+      "finalPrice": 100000
     }
   ],
   "Christians Helm": [
@@ -16092,6 +16178,47 @@
       "startTime": "2026-02-11T19:43:04.113Z",
       "endTime": "2026-02-11T22:43:04.113Z",
       "finalPrice": 30000
+    },
+    {
+      "uid": "2ef29483fbac0ad529f9a0d278203f9b",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Christians Helm",
+        "lore": [
+          "",
+          "Ein Symbol für Teamgeist",
+          "und Geschick.",
+          "",
+          "Signiert von Christianoooo am 01.09.2025",
+          "",
+          "Christians Kollektion (2/5)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 8,
+          "minecraft:protection": 10
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 100000,
+      "highestBidder": "ad2296ea-4487-454f-aa28-ae2433429f55",
+      "bids": {
+        "5c59c5ab-cfb7-4742-881e-ea8aeb34a714": 31500,
+        "00000000-0000-0000-0009-01f92709af1c": 30000,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 84000,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 100000,
+        "6ab51817-9b69-4054-8edd-8065f01897b3": 80000
+      },
+      "startTime": "2026-02-11T19:43:04.113Z",
+      "endTime": "2026-02-11T22:43:32.515Z",
+      "finalPrice": 100000
     }
   ],
   "Christians Schuhe": [
@@ -16299,6 +16426,35 @@
       "startTime": "2026-02-11T20:17:19.445Z",
       "endTime": "2026-02-11T23:17:19.445Z",
       "finalPrice": 10001
+    }
+  ],
+  "Lotterieschwingen": [
+    {
+      "uid": "6da5c794a04db377eb1cb4e9a8d9528f",
+      "seller": "0e7713f3-4334-4b24-8e9a-692a34146ddf",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Lotterieschwingen",
+        "lore": [
+          "",
+          "Diese Flügel tragen dich",
+          "höher als jedes Los.",
+          "",
+          "Signiert von OPSUCHT am 15.10.2025"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 300100,
+      "highestBidder": "00000000-0000-0000-0009-01f407485fb5",
+      "bids": {
+        "00000000-0000-0000-0009-01f407485fb5": 300100
+      },
+      "startTime": "2026-02-11T17:21:35.817Z",
+      "endTime": "2026-02-11T23:21:35.816Z",
+      "finalPrice": 300100
     }
   ]
 }
