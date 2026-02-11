@@ -6931,6 +6931,39 @@
       "startTime": "2026-02-11T16:45:12.747Z",
       "endTime": "2026-02-11T19:45:12.747Z",
       "finalPrice": 1800001
+    },
+    {
+      "uid": "1d321f7838eb2670c01662c70178be8b",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210",
+      "item": {
+        "material": "FIREWORK_ROCKET",
+        "icon": "https://img.mc-api.io/firework_rocket.png",
+        "amount": 1,
+        "displayName": "Unendliche Rakete",
+        "lore": [
+          "",
+          "Diese Rakete boostet dich bis in die",
+          "Unendlichkeit und noch viel weiter!",
+          "",
+          "➥ Effekt: Unendliche Rakete",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1800000,
+      "currentBid": 2029999,
+      "highestBidder": "d5585b3a-f565-4fd1-a0ab-1d661ba0862d",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 2009900,
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 2029999,
+        "7f07d153-59b3-4130-9659-739158e19ce2": 1990000
+      },
+      "startTime": "2026-02-11T16:45:12.747Z",
+      "endTime": "2026-02-11T19:45:34.625Z",
+      "finalPrice": 2029999
     }
   ],
   "Blaues Axolotl": [
