@@ -7984,5 +7984,63 @@
       "endTime": "2026-02-11T20:51:16.583Z",
       "finalPrice": 10001
     }
+  ],
+  "DRAGON_EGG": [
+    {
+      "uid": "3b05cc1214985f18d9f3a49e69318dec",
+      "seller": "00000000-0000-0000-0009-01f547d93d6a",
+      "item": {
+        "material": "DRAGON_EGG",
+        "icon": "https://img.mc-api.io/dragon_egg.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "cb7c5c50-ab8c-483a-b9a5-21f8e6f0c07c",
+      "bids": {
+        "cb7c5c50-ab8c-483a-b9a5-21f8e6f0c07c": 100001
+      },
+      "startTime": "2026-02-11T17:56:24.726Z",
+      "endTime": "2026-02-11T20:56:24.726Z",
+      "finalPrice": 100001
+    }
+  ],
+  "H4CKER.exe": [
+    {
+      "uid": "5450914211d0adfc28d195c3507c9218",
+      "seller": "00000000-0000-0000-0009-01f8482619ba",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 101000,
+      "highestBidder": "75a1b1c5-00a8-448f-8884-26072706642e",
+      "bids": {
+        "75a1b1c5-00a8-448f-8884-26072706642e": 101000
+      },
+      "startTime": "2026-02-11T19:40:18.123Z",
+      "endTime": "2026-02-11T20:40:18.123Z",
+      "finalPrice": 101000
+    }
   ]
 }
