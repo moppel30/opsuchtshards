@@ -1011,6 +1011,43 @@
       "startTime": "2026-02-10T19:26:25.960Z",
       "endTime": "2026-02-11T19:26:25.960Z",
       "finalPrice": 510001.02
+    },
+    {
+      "uid": "203af1478cab8457639166089fe8c1ff",
+      "seller": "16f43287-9d68-44ce-bfd6-baaa3c551c23",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Christianoooo",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (5/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 1030000,
+      "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
+      "bids": {
+        "beafb66e-9802-4662-8292-19de3157b428": 1030000,
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 1000000,
+        "f715201b-fd4f-461b-837a-c122b2872c4f": 500001,
+        "18d25a5c-5169-4dc5-8c00-d04876a4ec34": 663000,
+        "46f4a694-b3ea-408c-bce1-14d59a40556e": 510001.02,
+        "b749ea9a-aa8e-4c59-8a33-7711f8fcb657": 565000
+      },
+      "startTime": "2026-02-10T19:26:25.960Z",
+      "endTime": "2026-02-11T19:27:44.947Z",
+      "finalPrice": 1030000
     }
   ],
   "Geburtstags Buch V7": [
