@@ -10816,6 +10816,38 @@
       },
       "startTime": "2026-02-09T12:51:00.184Z",
       "endTime": "2026-02-10T12:51:00.183Z"
+    },
+    {
+      "uid": "de48bbb53953e189e64fe3f7ae8d03a9",
+      "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Tresor",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (21/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1001
+      },
+      "startTime": "2026-02-10T20:09:56.791Z",
+      "endTime": "2026-02-11T08:09:56.790Z",
+      "finalPrice": 1001
     }
   ],
   "Tauklinge": [
@@ -13419,6 +13451,39 @@
       },
       "startTime": "2026-02-09T15:54:58.960Z",
       "endTime": "2026-02-09T18:54:58.960Z"
+    },
+    {
+      "uid": "b4050085a54906b82dcd26a56613a02a",
+      "seller": "c8f191a0-be06-4b8a-b724-d04b13059f10",
+      "item": {
+        "material": "DIAMOND_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Engelsglanzschaufel",
+        "lore": [
+          "",
+          "Geschmiedet im Glanz gefallener Engel",
+          "bewahrt sie ihre himmlische Macht.",
+          "",
+          "Engelsglanzkollektion (3/6)",
+          "",
+          "➥ Kombinierbar in der OP-Werkstatt",
+          "",
+          "ACHTUNG: Nur einmal verwendbar!",
+          "",
+          "➥ OP Pass Belohnung des 6. Chapter"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "925d4176-9cbc-4b76-88ef-520f59f9d5aa",
+      "bids": {
+        "925d4176-9cbc-4b76-88ef-520f59f9d5aa": 10001
+      },
+      "startTime": "2026-02-10T20:02:14.771Z",
+      "endTime": "2026-02-11T08:02:14.771Z",
+      "finalPrice": 10001
     }
   ],
   "Gletscherhelm": [
@@ -15482,6 +15547,38 @@
       "startTime": "2026-02-10T06:57:53.933Z",
       "endTime": "2026-02-11T06:57:53.933Z",
       "finalPrice": 6000
+    },
+    {
+      "uid": "b0fc15abb2be156a1c466ec2d32bc0ae",
+      "seller": "7c2cb9c1-ad86-406c-b868-e8401d004818",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Playbutton",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (23/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1001
+      },
+      "startTime": "2026-02-10T20:09:42.132Z",
+      "endTime": "2026-02-11T08:09:42.132Z",
+      "finalPrice": 1001
     }
   ],
   "Emmys Lieblingstorte": [
@@ -21841,6 +21938,30 @@
       },
       "startTime": "2026-02-10T13:56:01.877Z",
       "endTime": "2026-02-10T14:56:01.877Z"
+    },
+    {
+      "uid": "84c4f1983e20d146b9e94f045fff487c",
+      "seller": "c8f191a0-be06-4b8a-b724-d04b13059f10",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Wumpus Jetpack",
+        "lore": [
+          "",
+          "Willkommen auf unserem Discord"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 20000,
+      "currentBid": 20001,
+      "highestBidder": "1cf8a086-5329-4c19-b40b-a2b0ff9ae29e",
+      "bids": {
+        "1cf8a086-5329-4c19-b40b-a2b0ff9ae29e": 20001
+      },
+      "startTime": "2026-02-10T20:00:59.263Z",
+      "endTime": "2026-02-11T08:00:59.262Z",
+      "finalPrice": 20001
     }
   ],
   "DEKO | Popcorn": [
