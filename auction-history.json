@@ -16021,5 +16021,39 @@
       "endTime": "2026-02-11T23:01:29.574Z",
       "finalPrice": 7501
     }
+  ],
+  "Kristalle": [
+    {
+      "uid": "6fd69d146d5ee4681e824a6089e589f7",
+      "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Kristalle",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (13/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "76aeec43-d43f-4c54-9512-4ea1cbd9181b",
+      "bids": {
+        "76aeec43-d43f-4c54-9512-4ea1cbd9181b": 10001
+      },
+      "startTime": "2026-02-11T20:17:19.445Z",
+      "endTime": "2026-02-11T23:17:19.445Z",
+      "finalPrice": 10001
+    }
   ]
 }
