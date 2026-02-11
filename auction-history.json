@@ -6040,6 +6040,38 @@
       },
       "startTime": "2026-02-10T01:07:55.289Z",
       "endTime": "2026-02-10T13:07:55.289Z"
+    },
+    {
+      "uid": "61c0dffdae0f3924b44aa3c496a03cda",
+      "seller": "72dace17-d6df-4903-841f-79c1686dea90",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Builder-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (10/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 11111,
+      "currentBid": 11112,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 11112
+      },
+      "startTime": "2026-02-10T22:06:18.541Z",
+      "endTime": "2026-02-11T10:06:18.541Z",
+      "finalPrice": 11112
     }
   ],
   "OPSUCHT Miner OP-Spitzhacke": [
@@ -8928,6 +8960,38 @@
       "startTime": "2026-02-10T19:42:37.189Z",
       "endTime": "2026-02-11T07:42:37.189Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "4cf4d623f9e2742c7a9d7f50908cea87",
+      "seller": "f50a7775-16ad-4ebc-a2e1-5c6a1b8605b7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Pass",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (12/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1
+      },
+      "startTime": "2026-02-10T22:04:45.386Z",
+      "endTime": "2026-02-11T10:04:45.386Z",
+      "finalPrice": 1
     }
   ],
   "Herzglanzaxt": [
@@ -10671,6 +10735,43 @@
       "startTime": "2026-02-09T18:58:36.402Z",
       "endTime": "2026-02-10T18:58:36.401Z",
       "finalPrice": 1250001
+    },
+    {
+      "uid": "0086e2b5c458c1cf6ddd641e840019d6",
+      "seller": "00000000-0000-0000-0009-01f969099187",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "amount": 1,
+        "displayName": "Erdspalter-Schaufel",
+        "lore": [
+          "",
+          "Die Wucht dieser Schaufel bringt",
+          "sogar die Erdoberfläche zum Beben!",
+          "",
+          "➥ Effekt: +75% Job-XP beim Gräberjob",
+          "➥ Effekt: +15% Jobgeld beim Gräberjob",
+          "",
+          "Effekt wirkt nur auf Erdblöcke.",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1400000,
+      "currentBid": 1650000,
+      "highestBidder": "2054054e-b7a9-4a86-bd32-effd6982b880",
+      "bids": {
+        "2054054e-b7a9-4a86-bd32-effd6982b880": 1650000
+      },
+      "startTime": "2026-02-10T10:11:30.219Z",
+      "endTime": "2026-02-11T10:11:30.218Z",
+      "finalPrice": 1650000
     }
   ],
   "Phils Kristallkrone": [
@@ -11220,6 +11321,38 @@
       },
       "startTime": "2026-02-08T19:04:38.699Z",
       "endTime": "2026-02-09T19:04:38.699Z"
+    },
+    {
+      "uid": "c1c9570b72c370b648a2e1ec77930dfc",
+      "seller": "00000000-0000-0000-0009-01f969099187",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "Engelshose",
+        "lore": [
+          "",
+          "Signiert vom Engel am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:protection": 5,
+          "minecraft:fortune": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 150000,
+      "currentBid": 150500,
+      "highestBidder": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 150500
+      },
+      "startTime": "2026-02-10T10:12:30.530Z",
+      "endTime": "2026-02-11T10:12:30.530Z",
+      "finalPrice": 150500
     }
   ],
   "DIAMOND_PICKAXE": [
@@ -12058,6 +12191,39 @@
       "startTime": "2026-02-09T21:54:56.599Z",
       "endTime": "2026-02-10T21:54:56.599Z",
       "finalPrice": 2206
+    },
+    {
+      "uid": "3be2efb6a5aca0a318d84fbde681093d",
+      "seller": "f50a7775-16ad-4ebc-a2e1-5c6a1b8605b7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Farmwelt",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (16/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 500,
+      "highestBidder": "00000000-0000-0000-0009-000007c2ba22",
+      "bids": {
+        "00000000-0000-0000-0009-01fc2d8f1862": 50,
+        "00000000-0000-0000-0009-000007c2ba22": 500
+      },
+      "startTime": "2026-02-10T22:04:04.175Z",
+      "endTime": "2026-02-11T10:04:04.174Z",
+      "finalPrice": 500
     }
   ],
   "Knochenaxt": [
@@ -14308,6 +14474,32 @@
       "startTime": "2026-02-10T18:21:04.994Z",
       "endTime": "2026-02-10T21:21:04.994Z",
       "finalPrice": 60000
+    },
+    {
+      "uid": "95b8af33886b0b58292d83b447369bb1",
+      "seller": "72dace17-d6df-4903-841f-79c1686dea90",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Elfenbeinspitzhacke",
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 150000,
+      "highestBidder": "00000000-0000-0000-0009-01f923ae25d5",
+      "bids": {
+        "00000000-0000-0000-0009-01f923ae25d5": 150000
+      },
+      "startTime": "2026-02-10T22:04:23.608Z",
+      "endTime": "2026-02-11T10:04:23.608Z",
+      "finalPrice": 150000
     }
   ],
   "Elfenbeinschwert": [
@@ -19392,6 +19584,38 @@
       },
       "startTime": "2026-02-08T22:41:54.757Z",
       "endTime": "2026-02-09T22:41:54.757Z"
+    },
+    {
+      "uid": "a8237943a6d2bd2b82fe01b7444fa9ab",
+      "seller": "00000000-0000-0000-0009-01f969099187",
+      "item": {
+        "material": "LEATHER_CHESTPLATE",
+        "amount": 1,
+        "displayName": "Engelshemd",
+        "lore": [
+          "",
+          "Signiert vom Engel am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:protection": 5,
+          "minecraft:fortune": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 150000,
+      "currentBid": 151000,
+      "highestBidder": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 151000
+      },
+      "startTime": "2026-02-10T10:12:07.417Z",
+      "endTime": "2026-02-11T10:12:07.417Z",
+      "finalPrice": 151000
     }
   ],
   "Fröhlicher Weihnachtsghast": [
