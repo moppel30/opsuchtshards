@@ -7929,6 +7929,44 @@
       "startTime": "2026-02-10T20:28:39.261Z",
       "endTime": "2026-02-11T20:29:57.373Z",
       "finalPrice": 180000
+    },
+    {
+      "uid": "6f4b643650380ab698ba88a526a4cbb5",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "SPONGE",
+        "icon": "https://img.mc-api.io/sponge.png",
+        "amount": 1,
+        "displayName": "OP Schwamm",
+        "lore": [
+          "",
+          "➥ Effekt: Entfernt Lava im 4x4 Bereich",
+          "➥ Effekt: Dieser Schwamm wird niemals nass sein",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 1,
+      "currentBid": 183600,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "0377a96f-0644-4c99-a42e-b2c51b75db5b": 55125,
+        "51472d55-8185-4c6d-8e7a-f487d7340132": 52500,
+        "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3": 60775.32,
+        "00000000-0000-0000-0009-01f34aff6147": 50000,
+        "e987a8ea-a996-437a-a106-4a98449578fc": 180000,
+        "00000000-0000-0000-0009-01fc2d8f1862": 500,
+        "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9": 125000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 183600
+      },
+      "startTime": "2026-02-10T20:28:39.261Z",
+      "endTime": "2026-02-11T20:30:38.376Z",
+      "finalPrice": 183600
     }
   ],
   "Phils Kristallkrone": [
@@ -9477,6 +9515,47 @@
       "startTime": "2026-02-11T20:09:18.964Z",
       "endTime": "2026-02-11T20:28:27.185Z",
       "finalPrice": 2250000
+    },
+    {
+      "uid": "def68d874359e324c5f6aa74ec741b21",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Builder Axt",
+        "lore": [
+          "",
+          "Signiert vom Builder-Team am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2300000,
+      "highestBidder": "467a270e-e00f-41c8-873e-4b57ee3d5a03",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 60000,
+        "f24e166c-3166-4ba2-9c3a-a63faaff1b3f": 306000,
+        "3f237c18-1a92-4fc0-b873-bb23e68a1450": 400000,
+        "68aec8f2-eee3-472c-8821-c9b6124a352a": 334000,
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 2300000,
+        "00000000-0000-0000-0009-01fa8fe88e0d": 1,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 500000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 387600,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 2272500
+      },
+      "startTime": "2026-02-11T20:09:18.964Z",
+      "endTime": "2026-02-11T20:30:27.839Z",
+      "finalPrice": 2300000
     }
   ],
   "Businezz Modpicke": [
