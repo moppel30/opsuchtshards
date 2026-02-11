@@ -12392,6 +12392,32 @@
       "startTime": "2026-02-10T21:17:33.680Z",
       "endTime": "2026-02-11T21:18:48.033Z",
       "finalPrice": 240000
+    },
+    {
+      "uid": "4c35bdfead3046f4aae52daeaa7d8a0a",
+      "seller": "8d183bb4-d2a5-4bc7-b675-f29bd4865c60",
+      "item": {
+        "material": "ORANGE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/orange_shulker_box.png",
+        "amount": 1,
+        "displayName": "Herbstpaket",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 150000,
+      "currentBid": 270000,
+      "highestBidder": "8cae1a1d-48d1-4131-8184-3b501acdb959",
+      "bids": {
+        "e5fc2a85-f906-4f88-9048-9b45a7e24d58": 150001,
+        "00000000-0000-0000-0009-01fe800c1748": 154000,
+        "8cae1a1d-48d1-4131-8184-3b501acdb959": 270000,
+        "00000000-0000-0000-0009-01f736647be9": 255000,
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 204000
+      },
+      "startTime": "2026-02-10T21:17:33.680Z",
+      "endTime": "2026-02-11T21:19:38.715Z",
+      "finalPrice": 270000
     }
   ],
   "Filmstudio": [
