@@ -6117,6 +6117,39 @@
       "startTime": "2026-02-11T20:53:32.756Z",
       "endTime": "2026-02-11T21:53:32.756Z",
       "finalPrice": 200
+    },
+    {
+      "uid": "19885d3052fc31fb2c95797996dee0d9",
+      "seller": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 210,
+      "highestBidder": "5ab91c7e-de61-47b1-890b-25a5b1c2be92",
+      "bids": {
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 210,
+        "cbe116cd-a828-4873-8880-3c82c14c2b36": 200
+      },
+      "startTime": "2026-02-11T20:53:32.756Z",
+      "endTime": "2026-02-11T21:54:31.931Z",
+      "finalPrice": 210
     }
   ],
   "OP-City": [
@@ -6216,6 +6249,41 @@
       "startTime": "2026-02-11T20:53:07.218Z",
       "endTime": "2026-02-11T21:53:07.218Z",
       "finalPrice": 2
+    },
+    {
+      "uid": "c61477b3cf716188b3789f145f292f8a",
+      "seller": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-City",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (14/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 220.5,
+      "highestBidder": "5ab91c7e-de61-47b1-890b-25a5b1c2be92",
+      "bids": {
+        "e15f3420-188b-4bda-b352-07054a4f4292": 210,
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 220.5,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 2,
+        "cbe116cd-a828-4873-8880-3c82c14c2b36": 200
+      },
+      "startTime": "2026-02-11T20:53:07.218Z",
+      "endTime": "2026-02-11T21:54:43.529Z",
+      "finalPrice": 220.5
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -8767,6 +8835,40 @@
       "startTime": "2026-02-11T20:53:19.611Z",
       "endTime": "2026-02-11T21:53:19.611Z",
       "finalPrice": 2
+    },
+    {
+      "uid": "60ab861295c6fc56d565063b4cc151a0",
+      "seller": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Luxury Island",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (17/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 210,
+      "highestBidder": "5ab91c7e-de61-47b1-890b-25a5b1c2be92",
+      "bids": {
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 210,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 2,
+        "cbe116cd-a828-4873-8880-3c82c14c2b36": 200
+      },
+      "startTime": "2026-02-11T20:53:19.611Z",
+      "endTime": "2026-02-11T21:54:37.322Z",
+      "finalPrice": 210
     }
   ],
   "OP Pass": [
