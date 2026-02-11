@@ -1688,6 +1688,38 @@
       "startTime": "2026-02-10T19:49:18.445Z",
       "endTime": "2026-02-11T19:49:18.445Z",
       "finalPrice": 1051.05
+    },
+    {
+      "uid": "3e01445f5d74a365980f16f3eba9804d",
+      "seller": "bbebbdb1-2942-4cb3-a27e-2d4464c702c9",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Auktionshaus",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (20/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1001
+      },
+      "startTime": "2026-02-10T20:20:17.243Z",
+      "endTime": "2026-02-11T20:20:17.243Z",
+      "finalPrice": 1001
     }
   ],
   "Eulenflügel": [
@@ -3145,6 +3177,43 @@
       "startTime": "2026-02-11T18:33:31.021Z",
       "endTime": "2026-02-11T19:33:31.021Z",
       "finalPrice": 6000
+    }
+  ],
+  "Content-Team": [
+    {
+      "uid": "ee7080b276516736a618fd8b9fb55516",
+      "seller": "bbebbdb1-2942-4cb3-a27e-2d4464c702c9",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Content-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (9/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 35000,
+      "highestBidder": "f63843ea-571b-4f8e-8a49-2b8c40a05fa4",
+      "bids": {
+        "a481444b-0cf2-492f-b07c-38d23e4718df": 1105,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1001,
+        "4a0690f7-6581-4c70-8073-ce1cdd391753": 26250,
+        "f63843ea-571b-4f8e-8a49-2b8c40a05fa4": 35000
+      },
+      "startTime": "2026-02-10T20:20:34.050Z",
+      "endTime": "2026-02-11T20:20:34.050Z",
+      "finalPrice": 35000
     }
   ]
 }
