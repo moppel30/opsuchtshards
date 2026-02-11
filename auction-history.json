@@ -5624,6 +5624,41 @@
       "startTime": "2026-02-11T19:40:30.065Z",
       "endTime": "2026-02-11T20:40:30.065Z",
       "finalPrice": 100001
+    },
+    {
+      "uid": "deedafec4da7a685b80c88198e6915aa",
+      "seller": "00000000-0000-0000-0009-01f8482619ba",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 100000,
+      "currentBid": 102010,
+      "highestBidder": "89031ab2-24fe-44ef-94ab-5f360255c987",
+      "bids": {
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 100001,
+        "89031ab2-24fe-44ef-94ab-5f360255c987": 102010
+      },
+      "startTime": "2026-02-11T19:40:30.065Z",
+      "endTime": "2026-02-11T20:41:27.666Z",
+      "finalPrice": 102010
     }
   ],
   ".. Flinks Admin-Brustplatte ..": [
@@ -11215,6 +11250,55 @@
       "startTime": "2026-02-11T20:30:52.124Z",
       "endTime": "2026-02-11T20:45:52.124Z",
       "finalPrice": 3
+    }
+  ],
+  "HACKER Rüstung": [
+    {
+      "uid": "db6aabb30afef658d7786f7bf1bbfae5",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "GREEN_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/green_shulker_box.png",
+        "amount": 1,
+        "displayName": "HACKER Rüstung",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1250000,
+      "currentBid": 1250001,
+      "highestBidder": "00000000-0000-0000-0009-01fe6090ee8a",
+      "bids": {
+        "00000000-0000-0000-0009-01fe6090ee8a": 1250001
+      },
+      "startTime": "2026-02-10T21:39:30.130Z",
+      "endTime": "2026-02-11T21:39:30.130Z",
+      "finalPrice": 1250001
+    }
+  ],
+  "Engels Rüstung": [
+    {
+      "uid": "8f25fdd6abb575cb60251b8535e45e35",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "WHITE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/white_shulker_box.png",
+        "amount": 1,
+        "displayName": "Engels Rüstung",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1850000,
+      "currentBid": 1890000,
+      "highestBidder": "00000000-0000-0000-0009-01f7d3f492cd",
+      "bids": {
+        "00000000-0000-0000-0009-01f892cf751b": 1850001,
+        "00000000-0000-0000-0009-01f7d3f492cd": 1890000
+      },
+      "startTime": "2026-02-10T21:39:41.921Z",
+      "endTime": "2026-02-11T21:39:41.921Z",
+      "finalPrice": 1890000
     }
   ]
 }
