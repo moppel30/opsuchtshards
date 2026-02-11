@@ -7652,6 +7652,41 @@
       "startTime": "2026-02-10T22:04:17.702Z",
       "endTime": "2026-02-11T22:04:17.702Z",
       "finalPrice": 500000
+    },
+    {
+      "uid": "a2c2cfc209388e787fdb1fb7e1f4b559",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Helm ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 10,
+          "minecraft:aqua_affinity": 6,
+          "minecraft:respiration": 8
+        }
+      },
+      "category": "armor",
+      "startBid": 10000,
+      "currentBid": 15750,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 15750,
+        "00000000-0000-0000-0009-01f746a56532": 15000,
+        "00000000-0000-0000-0009-01f4f84e45af": 11000
+      },
+      "startTime": "2026-02-11T19:44:46.313Z",
+      "endTime": "2026-02-11T22:44:46.313Z",
+      "finalPrice": 15750
     }
   ],
   "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE": [
@@ -9068,6 +9103,33 @@
       "startTime": "2026-02-10T20:28:08.742Z",
       "endTime": "2026-02-11T20:28:08.742Z",
       "finalPrice": 14000
+    },
+    {
+      "uid": "9849dee72cb4a776ec906e17d7c100a8",
+      "seller": "00000000-0000-0000-0009-01fa260159f7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Ballon der Liebe",
+        "lore": [
+          "",
+          "So leicht wie Gefühle, ",
+          "so flüchtig wie ein Kuss.",
+          "",
+          "➥ Effekt: +2 Herzen (Off-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 3000,
+      "currentBid": 3001,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 3001
+      },
+      "startTime": "2026-02-11T19:45:41.861Z",
+      "endTime": "2026-02-11T22:45:41.861Z",
+      "finalPrice": 3001
     }
   ],
   "Träumerhacke": [
@@ -14433,6 +14495,33 @@
       "startTime": "2026-02-11T19:10:14.208Z",
       "endTime": "2026-02-11T22:10:14.208Z",
       "finalPrice": 22000
+    },
+    {
+      "uid": "982f36ca325886cad04a71608139e706",
+      "seller": "00000000-0000-0000-0009-01fa260159f7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 3000,
+      "currentBid": 3001,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 3001
+      },
+      "startTime": "2026-02-11T19:45:28.232Z",
+      "endTime": "2026-02-11T22:45:28.232Z",
+      "finalPrice": 3001
     }
   ],
   "Pilz Paket": [
