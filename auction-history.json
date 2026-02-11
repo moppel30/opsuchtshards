@@ -7189,6 +7189,49 @@
       "startTime": "2026-02-11T15:48:35.390Z",
       "endTime": "2026-02-11T21:50:50.916Z",
       "finalPrice": 2452116.38
+    },
+    {
+      "uid": "dbefe800c99fa9aa77279232a69d2d1a",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 2525000,
+      "highestBidder": "f19a7a8b-5beb-4822-8b09-4674a56e93ee",
+      "bids": {
+        "0f6725c3-424d-4787-99ad-36ddfbe5040b": 2380000,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 207996.87,
+        "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec": 1515000,
+        "cf2ec793-89ee-4358-b0b5-4c9c8abf021e": 830000,
+        "00000000-0000-0000-0009-01fff8fa4278": 5000,
+        "f19a7a8b-5beb-4822-8b09-4674a56e93ee": 2525000,
+        "4deb64ed-6295-44f9-9366-c11238c97952": 2193215,
+        "d790e39e-acf5-4bb1-9c4c-9992cf7421b7": 196000,
+        "884a3ff0-f414-4a95-9ffb-f033bf2a1a60": 400000,
+        "1f1910d5-c97d-46a8-987f-dadacaa15f47": 1545451.6,
+        "00000000-0000-0000-0009-01f0d360fc04": 3000,
+        "9f5e4fa6-e98d-4898-a3ec-b4ad93d28d21": 2500000
+      },
+      "startTime": "2026-02-11T15:48:35.390Z",
+      "endTime": "2026-02-11T21:51:24.568Z",
+      "finalPrice": 2525000
     }
   ],
   "Odin's Schwingen": [
@@ -14249,6 +14292,44 @@
       "startTime": "2026-02-11T15:49:20.107Z",
       "endTime": "2026-02-11T21:50:09.229Z",
       "finalPrice": 176868
+    },
+    {
+      "uid": "cc17b9efbe08f39b05be8f7fe335827a",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "IRON_CHESTPLATE",
+        "amount": 1,
+        "displayName": "Sculkbrustplatte",
+        "lore": [
+          "",
+          "Sculkkollektion (6/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 180405.99,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 11576.25,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 13000,
+        "00000000-0000-0000-0009-01fff8fa4278": 7000,
+        "4deb64ed-6295-44f9-9366-c11238c97952": 176868,
+        "00000000-0000-0000-0009-01f746a56532": 160000,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 180405.99,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 173400,
+        "00000000-0000-0000-0009-01f547d93d6a": 170000
+      },
+      "startTime": "2026-02-11T15:49:20.107Z",
+      "endTime": "2026-02-11T21:51:44.524Z",
+      "finalPrice": 180405.99
     }
   ],
   "ELYTRA": [
