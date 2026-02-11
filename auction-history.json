@@ -8743,6 +8743,44 @@
       "startTime": "2026-02-11T20:08:51.055Z",
       "endTime": "2026-02-11T20:24:37.089Z",
       "finalPrice": 11000000
+    },
+    {
+      "uid": "fdb8b428320e9cc3a7aa073f3951a40b",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "icon": "https://img.mc-api.io/totem_of_undying.png",
+        "amount": 1,
+        "displayName": "Unendliches Totem",
+        "lore": [
+          "",
+          "Dieses Artefakt wird",
+          "dich stets vor dem",
+          "sicheren Tod bewahren!",
+          "",
+          "Signiert von OPSUCHT am 01.12.2024",
+          "",
+          "➥ Effekt: Wird beim Tod nicht verbraucht (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 0,
+      "currentBid": 12500000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 25000,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 8080000,
+        "1f93b8a5-8c7a-4d33-ae5b-3977e3e16571": 1,
+        "f24e166c-3166-4ba2-9c3a-a63faaff1b3f": 12110000,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 12500000
+      },
+      "startTime": "2026-02-11T20:08:51.055Z",
+      "endTime": "2026-02-11T20:25:59.980Z",
+      "finalPrice": 12500000
     }
   ],
   "Geburtstags Party Hut #7": [
@@ -8817,6 +8855,45 @@
       "startTime": "2026-02-11T20:08:56.667Z",
       "endTime": "2026-02-11T20:24:44.738Z",
       "finalPrice": 6060001
+    },
+    {
+      "uid": "940a3c67025fe6bfcf62f0580f7e1eaa",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Geburtstags Party Hut #7",
+        "lore": [
+          "",
+          "Feiere den 7. Geburtstag",
+          "von OPSUCHT.net gemeinsam mit",
+          "der gesamten Community!",
+          "",
+          "Signiert von OPSUCHT am 23.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Diamanterz (Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 6500000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "8f530c14-9396-4d64-a551-41ae02b5634a": 1500000,
+        "cfe0570b-de53-4032-bb4e-409d3ed67fd9": 1300000,
+        "4829b672-3bb2-4f47-9b4b-7c078ba15509": 6060001,
+        "00000000-0000-0000-0009-01f2b664f582": 1000,
+        "546502b5-e460-4b2b-b2c3-319c646a4773": 50000,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 6500000,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 20000
+      },
+      "startTime": "2026-02-11T20:08:56.667Z",
+      "endTime": "2026-02-11T20:25:13.323Z",
+      "finalPrice": 6500000
     }
   ],
   "Glück Spitzhacke": [
@@ -8851,6 +8928,47 @@
       "startTime": "2026-02-11T20:09:04.006Z",
       "endTime": "2026-02-11T20:24:04.006Z",
       "finalPrice": 1
+    },
+    {
+      "uid": "5aa24185757f90d031281f913b7ff6e3",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Glück Spitzhacke",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 800000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "244eeff5-1d2d-496e-846f-5c8681592b29": 500000,
+        "814148ac-f696-4c9f-8dac-7dcea847f690": 562000,
+        "f24e166c-3166-4ba2-9c3a-a63faaff1b3f": 150000,
+        "3f237c18-1a92-4fc0-b873-bb23e68a1450": 600000,
+        "cfe0570b-de53-4032-bb4e-409d3ed67fd9": 200000,
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 239700,
+        "00000000-0000-0000-0009-01fe144e4343": 235000,
+        "6973a780-0222-440f-a044-7e40e3593308": 1,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 153000,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 800000
+      },
+      "startTime": "2026-02-11T20:09:04.006Z",
+      "endTime": "2026-02-11T20:25:38.080Z",
+      "finalPrice": 800000
     }
   ],
   "Kartenflügel": [
@@ -8997,6 +9115,49 @@
       "startTime": "2026-02-11T20:09:24.362Z",
       "endTime": "2026-02-11T20:24:24.362Z",
       "finalPrice": 102000
+    },
+    {
+      "uid": "fa3b1d729346df5c3e77ed8b20172ffd",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Businezz Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Businezz am 01.01.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 0,
+      "currentBid": 1717000,
+      "highestBidder": "b59873e5-f1aa-4aaa-be32-3dce63234ddc",
+      "bids": {
+        "814148ac-f696-4c9f-8dac-7dcea847f690": 1515001,
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 1661908,
+        "5211b8c1-75f6-481c-9553-3c514870e9a2": 1645452.52,
+        "e465ea9e-eb19-4dfa-ba84-d8d450779954": 300000,
+        "00000000-0000-0000-0009-01fb4758cc86": 100000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 110000,
+        "b59873e5-f1aa-4aaa-be32-3dce63234ddc": 1717000,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 106120.8,
+        "00000000-0000-0000-0009-01fa973cf260": 1700000
+      },
+      "startTime": "2026-02-11T20:09:24.362Z",
+      "endTime": "2026-02-11T20:25:37.084Z",
+      "finalPrice": 1717000
     }
   ],
   "Träumerschwert": [
@@ -9658,6 +9819,54 @@
       },
       "startTime": "2026-02-10T20:27:33.429Z",
       "endTime": "2026-02-11T20:27:33.429Z",
+      "finalPrice": 2500000
+    }
+  ],
+  "OP Sachen 7": [
+    {
+      "uid": "782b8944031ed6b6f8e9240b25f828e9",
+      "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060",
+      "item": {
+        "material": "LIGHT_BLUE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/light_blue_shulker_box.png",
+        "amount": 1,
+        "displayName": "OP Sachen 7",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 3199000,
+      "currentBid": 3200000,
+      "highestBidder": "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc",
+      "bids": {
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 3200000
+      },
+      "startTime": "2026-02-10T20:27:16.528Z",
+      "endTime": "2026-02-11T20:27:16.528Z",
+      "finalPrice": 3200000
+    }
+  ],
+  "OP Sachen 4": [
+    {
+      "uid": "14db7b1079fbd8437ee1b81a63b1888d",
+      "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060",
+      "item": {
+        "material": "BLUE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/blue_shulker_box.png",
+        "amount": 1,
+        "displayName": "OP Sachen 4",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 2499000,
+      "currentBid": 2500000,
+      "highestBidder": "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc",
+      "bids": {
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 2500000
+      },
+      "startTime": "2026-02-10T20:27:47.542Z",
+      "endTime": "2026-02-11T20:27:47.542Z",
       "finalPrice": 2500000
     }
   ]
