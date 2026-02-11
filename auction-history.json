@@ -9344,6 +9344,33 @@
       "startTime": "2026-02-11T19:45:41.861Z",
       "endTime": "2026-02-11T22:45:41.861Z",
       "finalPrice": 3001
+    },
+    {
+      "uid": "4a33e69547ba60631366296be0c6cbe2",
+      "seller": "51372a35-d288-4efe-ad09-4b5930fa6737",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Ballon der Liebe",
+        "lore": [
+          "",
+          "So leicht wie Gefühle, ",
+          "so flüchtig wie ein Kuss.",
+          "",
+          "➥ Effekt: +2 Herzen (Off-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 25000,
+      "currentBid": 25001,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 25001
+      },
+      "startTime": "2026-02-11T19:51:01.334Z",
+      "endTime": "2026-02-11T22:51:01.334Z",
+      "finalPrice": 25001
     }
   ],
   "Träumerhacke": [
