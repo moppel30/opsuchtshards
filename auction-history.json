@@ -5989,6 +5989,38 @@
       "startTime": "2026-02-10T20:28:20.086Z",
       "endTime": "2026-02-11T20:28:20.086Z",
       "finalPrice": 1103
+    },
+    {
+      "uid": "19885d3052fc31fb2c95797996dee0d9",
+      "seller": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 200,
+      "highestBidder": "cbe116cd-a828-4873-8880-3c82c14c2b36",
+      "bids": {
+        "cbe116cd-a828-4873-8880-3c82c14c2b36": 200
+      },
+      "startTime": "2026-02-11T20:53:32.756Z",
+      "endTime": "2026-02-11T21:53:32.756Z",
+      "finalPrice": 200
     }
   ],
   "OP-City": [
@@ -11349,6 +11381,39 @@
       "startTime": "2026-02-11T20:31:22.814Z",
       "endTime": "2026-02-11T21:31:22.814Z",
       "finalPrice": 800001
+    },
+    {
+      "uid": "5faf0d14c86bbd57315973046870a04c",
+      "seller": "3f237c18-1a92-4fc0-b873-bb23e68a1450",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Glück Spitzhacke",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 800000,
+      "currentBid": 816001.02,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "edeb76f6-f212-4002-8bc4-892c9b2606d0": 800001,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 816001.02
+      },
+      "startTime": "2026-02-11T20:31:22.814Z",
+      "endTime": "2026-02-11T21:32:44.814Z",
+      "finalPrice": 816001.02
     }
   ],
   "Kartenflügel": [
