@@ -18422,6 +18422,45 @@
       "startTime": "2026-02-11T19:43:43.121Z",
       "endTime": "2026-02-11T22:54:11.367Z",
       "finalPrice": 135252
+    },
+    {
+      "uid": "e6757453ff5159049e59e2a96757b041",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Hexenhose",
+        "lore": [
+          "",
+          "Eine uralte Rüstung voller dunkler ",
+          "Magie die schützt aber langsam verändert.",
+          "",
+          "Hexenkollektion (3/4)",
+          "",
+          "➥ Effekt: -0.01 Gravity (Hose)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:thorns": 4,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 5000,
+      "currentBid": 145000,
+      "highestBidder": "ad2296ea-4487-454f-aa28-ae2433429f55",
+      "bids": {
+        "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2": 82426,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 15000,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 137957.04,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 145000,
+        "00000000-0000-0000-0009-01f60f1fadad": 17000,
+        "24f8e0cc-c031-4f23-995b-35140dffd60b": 10501
+      },
+      "startTime": "2026-02-11T19:43:43.121Z",
+      "endTime": "2026-02-11T22:55:55.391Z",
+      "finalPrice": 145000
     }
   ],
   "Zwergenpilz": [
