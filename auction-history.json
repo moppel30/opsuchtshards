@@ -1249,6 +1249,68 @@
       "startTime": "2026-02-11T07:33:32.902Z",
       "endTime": "2026-02-11T19:36:52.121Z",
       "finalPrice": 324733.32
+    },
+    {
+      "uid": "73ad4b28ea7a7cf24f2c76ce930f3a0e",
+      "seller": "934a5d89-ae8d-4c8d-8018-b8770f40484d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 331228,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 331228,
+        "aa43704e-d08a-4050-9cd7-c00d7d5ab52e": 300001,
+        "b59873e5-f1aa-4aaa-be32-3dce63234ddc": 324733.32
+      },
+      "startTime": "2026-02-11T07:33:32.902Z",
+      "endTime": "2026-02-11T19:37:31.953Z",
+      "finalPrice": 331228
+    },
+    {
+      "uid": "210667f3b4d8ce390a6f56cdcd251fa0",
+      "seller": "42219c91-4674-4924-82a6-3271561ab0b0",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 399999,
+      "currentBid": 400000,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 400000
+      },
+      "startTime": "2026-02-11T18:35:54.524Z",
+      "endTime": "2026-02-11T19:37:14.602Z",
+      "finalPrice": 400000
     }
   ],
   "POTION": [
@@ -2467,6 +2529,128 @@
       "startTime": "2026-02-10T19:30:25.918Z",
       "endTime": "2026-02-11T19:36:39.559Z",
       "finalPrice": 375000
+    },
+    {
+      "uid": "c8fddde157c2dba01d446f575b0b985e",
+      "seller": "98fb8b3b-fe4b-4629-9a8f-9edf8eaec843",
+      "item": {
+        "material": "ENCHANTED_BOOK",
+        "icon": "https://img.mc-api.io/enchanted_book.png",
+        "amount": 1,
+        "displayName": "Geburtstags Buch V7",
+        "lore": [
+          "Signiert von OPSUCHT am 23.10.2025",
+          "Signiert von OPPhilam 23.10.2025",
+          "Signiert von SkyGuyTV am 23.10.2025",
+          "Signiert von ByteException_ am 23.10.2025",
+          "Signiert von EinfachEmmy am 23.10.2025",
+          "Signiert von Christianoooo am 23.10.2025",
+          "Signiert von JonCarr am 23.10.2025",
+          "Signiert von thalie am 23.10.2025",
+          "Signiert von Lvkas_ am 23.10.2025",
+          "Signiert von DasDarki am 23.10.2025",
+          "Signiert von Outfluencer am 23.10.2025",
+          "Signiert von EnZaXD am 23.10.2025",
+          "Signiert von Cericx_ am 23.10.2025",
+          "Signiert von DieWahre am 23.10.2025",
+          "Signiert von Mio20 am 23.10.2025",
+          "Signiert von Timbo175 am 23.10.2025",
+          "Signiert von Flink040 am 23.10.2025",
+          "Signiert von MrLostGamer am 23.10.2025",
+          "Signiert von Hoxpelliarmus am 23.10.2025",
+          "Signiert von Bima2202 am 23.10.2025",
+          "Signiert von Jonahcho am 23.10.2025",
+          "Signiert von _strikex_ am 23.10.2025",
+          "Signiert von Polip361 am 23.10.2025",
+          "Signiert von Fake_Black am 23.10.2025",
+          "Signiert von Phil39 am 23.10.2025",
+          "Signiert von bricks4u am 23.10.2025",
+          "Signiert von XD4ARKX am 23.10.2025",
+          "Signiert von Businezz am 23.10.2025",
+          "Signiert von DaymanV1 am 23.10.2025",
+          "Signiert von __vel am 23.10.2025",
+          "Signiert von PumaxYT990 am 23.10.2025",
+          "Signiert von abgxhobxn am 23.10.2025",
+          "Signiert von Simulationluce am 23.10.2025",
+          "Signiert von Philithebest am 23.10.2025",
+          "Signiert von ShadowDream08 am 23.10.2025",
+          "Signiert von LeoYammi am 23.10.2025",
+          "Signiert von LordGroenland am 23.10.2025",
+          "Signiert von Silasmann333 am 23.10.2025",
+          "Signiert von Caleric am 23.10.2025",
+          "Signiert von Rabauke_Spielt am 23.10.2025",
+          "Signiert von Basti270120 am 23.10.2025",
+          "Signiert von ChronoKora am 23.10.2025",
+          "Signiert von Faultier654 am 23.10.2025",
+          "Signiert von Marvinkick am 23.10.2025",
+          "Signiert von Anton2211 am 23.10.2025",
+          "Signiert von NeXaR84 am 23.10.2025",
+          "Signiert von Soul_Prince am 23.10.2025",
+          "Signiert von SlinkDuchess149 am 23.10.2025",
+          "Signiert von Lxcky_EU_ am 23.10.2025",
+          "Signiert von Kr3pp1 am 23.10.2025",
+          "Signiert von Jxlian0502 am 23.10.2025",
+          "Signiert von Brazze_SwX am 23.10.2025",
+          "Signiert von .LadyDine1244 am 23.10.2025",
+          "Signiert von LeonOne9314 am 23.10.2025",
+          "Signiert von qpNicoqp am 23.10.2025",
+          "Signiert von Luckyy10 am 23.10.2025",
+          "Signiert von Bellaria_ am 23.10.2025",
+          "Signiert von Derking19y am 23.10.2025",
+          "Signiert von SiBrockes am 23.10.2025",
+          "Signiert von timowen1a am 23.10.2025",
+          "Signiert von Voldigoad_ am 23.10.2025",
+          "Signiert von Kampfengel91 am 23.10.2025",
+          "Signiert von elasino am 23.10.2025",
+          "Signiert von mteii am 23.10.2025",
+          "Signiert von BeneChef am 23.10.2025",
+          "Signiert von Issi_08 am 23.10.2025",
+          "Signiert von Kwxmii am 23.10.2025",
+          "Signiert von FennaDrift am 23.10.2025",
+          "Signiert von Kreyso_ am 23.10.2025",
+          "Signiert von Bremsenreiniger_ am 23.10.2025",
+          "Signiert von mxnu39 am 23.10.2025",
+          "Signiert von RonjaGalaxy2007 am 23.10.2025",
+          "Signiert von 0_Jay3 am 23.10.2025",
+          "Signiert von Mr_Da am 23.10.2025",
+          "Signiert von LeoFanel am 23.10.2025",
+          "Signiert von Mrs_Da am 23.10.2025",
+          "Signiert von XxGamemaster100 am 23.10.2025",
+          "Signiert von .Hypefabi1000 am 23.10.2025",
+          "Signiert von Dr_Risiko am 23.10.2025",
+          "Signiert von Connor_1912 am 23.10.2025",
+          "Signiert von Lewin9024 am 23.10.2025",
+          "Signiert von Maxi__07 am 23.10.2025",
+          "Signiert von EinFabix am 23.10.2025",
+          "Signiert von SymtexFanel am 23.10.2025",
+          "Signiert von EinfachNurMelon am 23.10.2025",
+          "Signiert von Nitixin am 23.10.2025",
+          "Signiert von RandomAuto am 23.10.2025",
+          "Signiert von xXLuckyGamer04Xx am 23.10.2025",
+          "Signiert von nobody956241 am 23.10.2025",
+          "Signiert von zocksuchti_3000 am 23.10.2025",
+          "Signiert von Cosmxc1 am 23.10.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 0,
+      "currentBid": 425000,
+      "highestBidder": "8d183bb4-d2a5-4bc7-b675-f29bd4865c60",
+      "bids": {
+        "244eeff5-1d2d-496e-846f-5c8681592b29": 1,
+        "8867ccef-e0a5-4aa2-8dce-9c48f20289da": 1.06,
+        "00000000-0000-0000-0009-01f08e99be02": 390000,
+        "8d183bb4-d2a5-4bc7-b675-f29bd4865c60": 425000,
+        "1a359349-6df3-4058-a899-3941f6736790": 78751,
+        "0c9975a3-5be6-429b-9b9c-5b0d1d65f50e": 102000
+      },
+      "startTime": "2026-02-10T19:30:25.918Z",
+      "endTime": "2026-02-11T19:37:29.482Z",
+      "finalPrice": 425000
     }
   ],
   "Phils geheime Freundin": [
@@ -5762,6 +5946,42 @@
       "startTime": "2026-02-11T18:33:31.021Z",
       "endTime": "2026-02-11T19:36:03.493Z",
       "finalPrice": 50000
+    },
+    {
+      "uid": "9d7d81bc8062e1d34410c3fb26baf6b9",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "SHEARS",
+        "amount": 1,
+        "displayName": "OP Teppichmesser",
+        "lore": [
+          "",
+          "➥ Effekt: Baut Teppiche im 5x5 Bereich ab",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 5000,
+      "currentBid": 55000,
+      "highestBidder": "0e8341e0-c4c8-4d11-b03a-00b62e702c92",
+      "bids": {
+        "e93f8f76-ba04-4373-9efe-146e8ab1e4be": 21000,
+        "0e8341e0-c4c8-4d11-b03a-00b62e702c92": 55000,
+        "79049453-868d-4455-8af4-c7dcdf0c037e": 6300,
+        "e987a8ea-a996-437a-a106-4a98449578fc": 10500,
+        "75a1b1c5-00a8-448f-8884-26072706642e": 50000,
+        "a4ae25dd-772c-4b61-9b33-fda675f0a4b6": 10000
+      },
+      "startTime": "2026-02-11T18:33:31.021Z",
+      "endTime": "2026-02-11T19:37:27.647Z",
+      "finalPrice": 55000
     }
   ],
   "Content-Team": [
@@ -6092,6 +6312,48 @@
       "startTime": "2026-02-10T19:48:43.150Z",
       "endTime": "2026-02-11T19:48:43.150Z",
       "finalPrice": 100002
+    }
+  ],
+  "Gletscheraxt": [
+    {
+      "uid": "4ea8bcd43747dc419d2cc9f63fe0809a",
+      "seller": "00000000-0000-0000-0009-01f2c6b2de98",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Gletscheraxt",
+        "lore": [
+          "",
+          "Geschmiedet aus gefrorenem",
+          "Stahl und durch die Kälte verhärtet!",
+          "",
+          "Signiert vom Eiswanderer am 01.11.2025",
+          "",
+          "Gletscherkollektion (2/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 30000,
+      "currentBid": 162000,
+      "highestBidder": "392cfe99-ad51-48ea-b23f-10f1b93dbc29",
+      "bids": {
+        "00000000-0000-0000-0009-01fc80074b82": 50000,
+        "00000000-0000-0000-0009-01f08e99be02": 30500,
+        "67e9ea0a-0c99-4fed-abff-12ebd4e3d4d2": 100000,
+        "392cfe99-ad51-48ea-b23f-10f1b93dbc29": 162000,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 34126.5,
+        "9ea7400f-cba6-49c1-9d8e-0252a9b40b6b": 32501,
+        "00000000-0000-0000-0009-01f7496fca1e": 60000
+      },
+      "startTime": "2026-02-10T20:34:21.232Z",
+      "endTime": "2026-02-11T20:34:21.232Z",
+      "finalPrice": 162000
     }
   ]
 }
