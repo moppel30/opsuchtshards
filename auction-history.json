@@ -7010,5 +7010,86 @@
       "endTime": "2026-02-11T20:40:32.907Z",
       "finalPrice": 64000
     }
+  ],
+  "Mini Pilzaxt": [
+    {
+      "uid": "ef35f5fee0b84c97432fd2b967b4c5c0",
+      "seller": "00000000-0000-0000-0009-01f1ac56e21b",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Mini Pilzaxt",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Baut Pilze mit einem Klick ab (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 10000,
+      "highestBidder": "00000000-0000-0000-0009-01f7496fca1e",
+      "bids": {
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 200,
+        "00000000-0000-0000-0009-01f46fbab29b": 1,
+        "00000000-0000-0000-0009-01f7496fca1e": 10000
+      },
+      "startTime": "2026-02-10T20:40:51.097Z",
+      "endTime": "2026-02-11T20:40:51.097Z",
+      "finalPrice": 10000
+    }
+  ],
+  "Drachenbogen": [
+    {
+      "uid": "f93d29ed659b240443ea33398e95ac4e",
+      "seller": "00000000-0000-0000-0009-01f1ac56e21b",
+      "item": {
+        "material": "BOW",
+        "amount": 1,
+        "displayName": "Drachenbogen",
+        "lore": [
+          "",
+          "Geschaffen vom ersten Drachenmeister.",
+          "",
+          "Signiert vom Drachenmeister am 23.10.2023",
+          "",
+          "Drachenkollektion (10/12)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:power": 4,
+          "minecraft:unbreaking": 4,
+          "minecraft:flame": 2,
+          "minecraft:infinity": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 600000,
+      "highestBidder": "00000000-0000-0000-0009-01f8035031f9",
+      "bids": {
+        "8452af63-e62c-4271-a641-1678ab963aa1": 50000,
+        "00000000-0000-0000-0009-01f8035031f9": 600000,
+        "2d69ea76-8c34-4392-b28d-380b56919aa1": 520500
+      },
+      "startTime": "2026-02-10T20:41:02.387Z",
+      "endTime": "2026-02-11T20:41:02.387Z",
+      "finalPrice": 600000
+    }
   ]
 }
