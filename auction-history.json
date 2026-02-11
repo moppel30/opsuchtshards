@@ -5527,6 +5527,40 @@
       "startTime": "2026-02-10T20:06:04.027Z",
       "endTime": "2026-02-11T20:06:04.027Z",
       "finalPrice": 1001
+    },
+    {
+      "uid": "7cd988036b2ef364ad1e615a09b0bfe8",
+      "seller": "51372a35-d288-4efe-ad09-4b5930fa6737",
+      "item": {
+        "material": "APPLE",
+        "amount": 10,
+        "displayName": "Riesenpilz",
+        "lore": [
+          "",
+          "Dieser Pilz verleiht",
+          "dem Esser gigantische Größe!",
+          "",
+          "Signiert von OPSUCHT am 01.03.2025",
+          "Signiert von Mario am 01.03.2025",
+          "",
+          "➥ Effekt: Vergrößert dich beim Verzehr",
+          "➥ Dauer: 5 Minuten",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "5ab91c7e-de61-47b1-890b-25a5b1c2be92",
+      "bids": {
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 10001
+      },
+      "startTime": "2026-02-11T19:51:17.479Z",
+      "endTime": "2026-02-11T22:51:17.479Z",
+      "finalPrice": 10001
     }
   ],
   "Kamel-Spawn-Egg": [
@@ -6150,6 +6184,39 @@
       "startTime": "2026-02-11T20:53:32.756Z",
       "endTime": "2026-02-11T21:54:31.931Z",
       "finalPrice": 210
+    },
+    {
+      "uid": "19885d3052fc31fb2c95797996dee0d9",
+      "seller": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 520.5,
+      "highestBidder": "cbe116cd-a828-4873-8880-3c82c14c2b36",
+      "bids": {
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 210,
+        "cbe116cd-a828-4873-8880-3c82c14c2b36": 520.5
+      },
+      "startTime": "2026-02-11T20:53:32.756Z",
+      "endTime": "2026-02-11T21:55:20.661Z",
+      "finalPrice": 520.5
     }
   ],
   "OP-City": [
@@ -14940,6 +15007,35 @@
       "startTime": "2026-02-11T19:45:28.232Z",
       "endTime": "2026-02-11T22:45:28.232Z",
       "finalPrice": 3001
+    },
+    {
+      "uid": "4fc2ce826949cba88cccd9528ffcb1cb",
+      "seller": "2054054e-b7a9-4a86-bd32-effd6982b880",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 12601,
+      "highestBidder": "4093f25f-28b2-4ea0-b42e-ca8524830b37",
+      "bids": {
+        "4093f25f-28b2-4ea0-b42e-ca8524830b37": 12601,
+        "732af855-caf8-48c8-aa99-855714e33e17": 12000,
+        "a5f47dd0-7cc2-4965-a92e-58839af01368": 10002
+      },
+      "startTime": "2026-02-10T22:53:27.321Z",
+      "endTime": "2026-02-11T22:53:27.321Z",
+      "finalPrice": 12601
     }
   ],
   "Pilz Paket": [
