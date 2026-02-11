@@ -460,6 +460,38 @@
       "startTime": "2026-02-11T18:45:45.232Z",
       "endTime": "2026-02-11T19:45:45.232Z",
       "finalPrice": 300001
+    },
+    {
+      "uid": "5cd54a0fcc7525f2a3ebba7292b5203c",
+      "seller": "e1023d63-3766-42c0-93e9-c50988da4d15",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 350000,
+      "highestBidder": "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 306002,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 300001,
+        "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6": 350000
+      },
+      "startTime": "2026-02-10T19:08:41.657Z",
+      "endTime": "2026-02-11T19:10:37.673Z",
+      "finalPrice": 350000
     }
   ],
   "POTION": [
@@ -2303,6 +2335,34 @@
       "startTime": "2026-02-11T18:59:11.800Z",
       "endTime": "2026-02-11T19:59:11.800Z",
       "finalPrice": 2
+    }
+  ],
+  "Kamel-Spawn-Egg": [
+    {
+      "uid": "0c23493679843603796aa463e917a885",
+      "seller": "6005f620-5d2e-46da-a497-88da82ab5080",
+      "item": {
+        "material": "CAMEL_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/camel_spawn_egg.png",
+        "amount": 1,
+        "displayName": "Kamel-Spawn-Egg",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 250000,
+      "currentBid": 385000,
+      "highestBidder": "2c730e62-f56b-43b8-9369-bfd72d5c27db",
+      "bids": {
+        "2c730e62-f56b-43b8-9369-bfd72d5c27db": 385000
+      },
+      "startTime": "2026-02-10T20:06:44.986Z",
+      "endTime": "2026-02-11T20:06:44.986Z",
+      "finalPrice": 385000
     }
   ]
 }
