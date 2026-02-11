@@ -7560,6 +7560,38 @@
       "startTime": "2026-02-10T19:48:43.150Z",
       "endTime": "2026-02-11T19:48:43.150Z",
       "finalPrice": 100002
+    },
+    {
+      "uid": "fa52e18eda1a75db56a310d9b4606a01",
+      "seller": "641bac70-b9ac-444a-a2fe-2cd2a0402816",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Builder-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (10/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 59999,
+      "highestBidder": "4a0690f7-6581-4c70-8073-ce1cdd391753",
+      "bids": {
+        "4a0690f7-6581-4c70-8073-ce1cdd391753": 59999
+      },
+      "startTime": "2026-02-10T20:53:13.294Z",
+      "endTime": "2026-02-11T20:53:13.294Z",
+      "finalPrice": 59999
     }
   ],
   "Gletscheraxt": [
