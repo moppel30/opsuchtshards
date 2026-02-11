@@ -9103,6 +9103,45 @@
       "startTime": "2026-02-10T20:46:20.343Z",
       "endTime": "2026-02-11T20:47:41.675Z",
       "finalPrice": 19687930
+    },
+    {
+      "uid": "087d24d1516d8a0dd3ff0034b959247c",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Phils Jeans",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.11.2025",
+          "",
+          "➥ Effekt: +40% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000000,
+      "currentBid": 19884809.3,
+      "highestBidder": "e6f90a44-355c-44e4-8f64-57475335f7a8",
+      "bids": {
+        "23e1ecc1-2cf9-474a-ae54-e868fd53a49f": 19060568.5,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 14000000,
+        "b0f5c807-3491-4657-aa07-325badd5f94b": 19687930,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 15911550,
+        "e6f90a44-355c-44e4-8f64-57475335f7a8": 19884809.3
+      },
+      "startTime": "2026-02-10T20:46:20.343Z",
+      "endTime": "2026-02-11T20:48:09.402Z",
+      "finalPrice": 19884809.3
     }
   ],
   "Elfenbeinschild": [
@@ -11439,6 +11478,37 @@
       "startTime": "2026-02-11T19:42:20.322Z",
       "endTime": "2026-02-11T20:47:52.117Z",
       "finalPrice": 816000
+    },
+    {
+      "uid": "d866e3757542d0a0b4637eb08caedd2e",
+      "seller": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Shard Blockzerstörer",
+        "lore": [
+          "",
+          "Dieses mächtige Werkzeug erlaubt,",
+          "ein gesamtes Grundstück auszuhöhlen!",
+          "",
+          "➥ Effekt: 15 Blöcke zerstören (Rechtsklick)",
+          "",
+          "ACHTUNG: Genug Haltbarkeit, um ein 1x1 Plot auszuhöhlen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 867000,
+      "highestBidder": "c4f26ab7-520d-4416-8666-50f5b60d2875",
+      "bids": {
+        "3577abd6-dfc1-47e6-8fee-c1e533ba4e16": 850000,
+        "244eeff5-1d2d-496e-846f-5c8681592b29": 510001.02,
+        "c4f26ab7-520d-4416-8666-50f5b60d2875": 867000
+      },
+      "startTime": "2026-02-11T19:42:20.322Z",
+      "endTime": "2026-02-11T20:48:33.489Z",
+      "finalPrice": 867000
     }
   ],
   "OP Aktenkoffer": [
