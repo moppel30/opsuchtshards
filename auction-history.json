@@ -5383,6 +5383,92 @@
       "startTime": "2026-02-11T16:48:32.112Z",
       "endTime": "2026-02-11T19:48:42.559Z",
       "finalPrice": 2000000
+    },
+    {
+      "uid": "0e249512f37e0c53d8799762712e2b2e",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 3040200,
+      "highestBidder": "c0a16479-eaa8-4bb7-935a-9443a779e38e",
+      "bids": {
+        "0f6725c3-424d-4787-99ad-36ddfbe5040b": 800000,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 2100,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 2020000,
+        "c0a16479-eaa8-4bb7-935a-9443a779e38e": 3040200,
+        "ac866283-cc13-46df-be58-5d1f8b9303f6": 1010000,
+        "00000000-0000-0000-0009-01fda9534acb": 2000,
+        "0fa79eac-9e9e-4264-bbca-65e0787fa8ba": 200000
+      },
+      "startTime": "2026-02-11T16:48:19.858Z",
+      "endTime": "2026-02-11T19:49:56.886Z",
+      "finalPrice": 3040200
+    },
+    {
+      "uid": "50f2f6cc730bec8b30040c21de8d7d02",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2500000,
+      "highestBidder": "cf2ec793-89ee-4358-b0b5-4c9c8abf021e",
+      "bids": {
+        "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec": 1500000,
+        "cf2ec793-89ee-4358-b0b5-4c9c8abf021e": 2500000,
+        "c0a16479-eaa8-4bb7-935a-9443a779e38e": 2100000,
+        "ac866283-cc13-46df-be58-5d1f8b9303f6": 714000,
+        "d89dfbaf-b158-42b8-afd7-b323b2300d9a": 2,
+        "00000000-0000-0000-0009-01fb2e916cef": 20000,
+        "ca816dfb-5b11-47a1-9f36-1c686e95914d": 1028866,
+        "00000000-0000-0000-0009-01f5b83ba789": 50000,
+        "0f6725c3-424d-4787-99ad-36ddfbe5040b": 795000,
+        "00000000-0000-0000-0009-01fe7ee4f4a1": 10000,
+        "beafb66e-9802-4662-8292-19de3157b428": 1102364.5,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 52500,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 1515000,
+        "00000000-0000-0000-0009-01fcdcedf44f": 830000,
+        "b66aec83-1fff-4087-bef6-0ba8d0fc0968": 1214389,
+        "a4285678-d135-4e9d-a2f0-3afcb117537e": 2220000,
+        "e72980d3-4ac9-470f-bfeb-1df3b02718fc": 1
+      },
+      "startTime": "2026-02-11T16:48:32.112Z",
+      "endTime": "2026-02-11T19:49:55.826Z",
+      "finalPrice": 2500000
     }
   ],
   "Odin's Schwingen": [
@@ -5425,6 +5511,53 @@
       "startTime": "2026-02-11T16:48:26.158Z",
       "endTime": "2026-02-11T19:48:26.158Z",
       "finalPrice": 300000
+    },
+    {
+      "uid": "0698810ae5b70d73d863f455d5b9775d",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Odin's Schwingen",
+        "lore": [
+          "",
+          "Gewoben aus den Federn der Raben Odins,",
+          "tragen dich diese Schwingen durch die neun Reiche.",
+          "",
+          "Signiert von Odin am 23.01.2024",
+          "",
+          "➥ Effekt: +60% Geschwindigkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1100000,
+      "highestBidder": "467a270e-e00f-41c8-873e-4b57ee3d5a03",
+      "bids": {
+        "fb0a61a1-79ee-4b47-bb9f-266361799807": 726442.4,
+        "53b61fb0-9590-4cba-b565-00de7b519207": 52500,
+        "7fa85081-7039-4f72-9235-aa9fa0c15e0b": 1060500,
+        "00000000-0000-0000-0009-00000b5785fd": 250000,
+        "47085d03-a0fc-4327-aaa2-2fc9fdb1bf69": 516120,
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 1100000,
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 939733.14,
+        "9197ae6a-4e2d-4b88-8b7f-8cc262eb41c5": 2,
+        "5cb43d84-bf0a-4343-a0ab-f5b7ec9fa1d7": 30000,
+        "00000000-0000-0000-0009-01f5b83ba789": 40000,
+        "00000000-0000-0000-0009-01f804586f9b": 200000,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 55125,
+        "285d7804-d25e-4c34-b959-8e1266ec9222": 89155,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 1050000,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 526442.4,
+        "b66aec83-1fff-4087-bef6-0ba8d0fc0968": 958528
+      },
+      "startTime": "2026-02-11T16:48:26.158Z",
+      "endTime": "2026-02-11T19:49:55.854Z",
+      "finalPrice": 1100000
     }
   ],
   "Mini One Hit Wonder": [
@@ -5466,6 +5599,47 @@
       "startTime": "2026-02-11T16:48:38.711Z",
       "endTime": "2026-02-11T19:48:38.711Z",
       "finalPrice": 111111.11
+    },
+    {
+      "uid": "69b23fc05418d4725277e3e94be04470",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Mini One Hit Wonder",
+        "lore": [
+          "",
+          "Erledige alle Mobs",
+          "mit einem Schlag.",
+          "",
+          "Signiert von OPSUCHT am 01.04.2025",
+          "",
+          "➥ Effekt: Oneclickt alle Mobs",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:knockback": 2,
+          "minecraft:unbreaking": 4,
+          "minecraft:fire_aspect": 3,
+          "minecraft:sweeping_edge": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 117301,
+      "highestBidder": "1cef78fc-a7a8-4878-b1da-bef221750d94",
+      "bids": {
+        "bba3b45d-0660-472e-847d-3142d5e04638": 1,
+        "00000000-0000-0000-0009-01fb8d54c4b1": 111111.11,
+        "1cef78fc-a7a8-4878-b1da-bef221750d94": 117301,
+        "3b571d14-598f-45b2-8f5d-34f67f1d27b4": 115000
+      },
+      "startTime": "2026-02-11T16:48:38.711Z",
+      "endTime": "2026-02-11T19:49:54.576Z",
+      "finalPrice": 117301
     }
   ],
   "Infinity Axt": [
@@ -7240,6 +7414,45 @@
       "startTime": "2026-02-10T19:45:36.730Z",
       "endTime": "2026-02-11T19:46:52.741Z",
       "finalPrice": 2500001
+    }
+  ],
+  "Phils Jeans": [
+    {
+      "uid": "087d24d1516d8a0dd3ff0034b959247c",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Phils Jeans",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.11.2025",
+          "",
+          "➥ Effekt: +40% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000000,
+      "currentBid": 14281400,
+      "highestBidder": "b0f5c807-3491-4657-aa07-325badd5f94b",
+      "bids": {
+        "23e1ecc1-2cf9-474a-ae54-e868fd53a49f": 14140000,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 14000000,
+        "b0f5c807-3491-4657-aa07-325badd5f94b": 14281400
+      },
+      "startTime": "2026-02-10T20:46:20.343Z",
+      "endTime": "2026-02-11T20:46:20.343Z",
+      "finalPrice": 14281400
     }
   ]
 }
