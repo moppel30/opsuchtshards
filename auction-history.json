@@ -7891,6 +7891,44 @@
       "startTime": "2026-02-11T20:03:48.161Z",
       "endTime": "2026-02-11T21:03:48.161Z",
       "finalPrice": 50001
+    },
+    {
+      "uid": "6f4b643650380ab698ba88a526a4cbb5",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "SPONGE",
+        "icon": "https://img.mc-api.io/sponge.png",
+        "amount": 1,
+        "displayName": "OP Schwamm",
+        "lore": [
+          "",
+          "➥ Effekt: Entfernt Lava im 4x4 Bereich",
+          "➥ Effekt: Dieser Schwamm wird niemals nass sein",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 1,
+      "currentBid": 180000,
+      "highestBidder": "e987a8ea-a996-437a-a106-4a98449578fc",
+      "bids": {
+        "0377a96f-0644-4c99-a42e-b2c51b75db5b": 55125,
+        "51472d55-8185-4c6d-8e7a-f487d7340132": 52500,
+        "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3": 60775.32,
+        "00000000-0000-0000-0009-01f34aff6147": 50000,
+        "e987a8ea-a996-437a-a106-4a98449578fc": 180000,
+        "00000000-0000-0000-0009-01fc2d8f1862": 500,
+        "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9": 125000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 173400
+      },
+      "startTime": "2026-02-10T20:28:39.261Z",
+      "endTime": "2026-02-11T20:29:57.373Z",
+      "finalPrice": 180000
     }
   ],
   "Phils Kristallkrone": [
@@ -9052,6 +9090,46 @@
       "startTime": "2026-02-11T20:08:56.667Z",
       "endTime": "2026-02-11T20:28:45.036Z",
       "finalPrice": 7140700
+    },
+    {
+      "uid": "940a3c67025fe6bfcf62f0580f7e1eaa",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Geburtstags Party Hut #7",
+        "lore": [
+          "",
+          "Feiere den 7. Geburtstag",
+          "von OPSUCHT.net gemeinsam mit",
+          "der gesamten Community!",
+          "",
+          "Signiert von OPSUCHT am 23.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Diamanterz (Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 7284228.07,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "8f530c14-9396-4d64-a551-41ae02b5634a": 1500000,
+        "cfe0570b-de53-4032-bb4e-409d3ed67fd9": 1300000,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 7212107,
+        "4829b672-3bb2-4f47-9b4b-7c078ba15509": 6060001,
+        "00000000-0000-0000-0009-01f2b664f582": 1000,
+        "546502b5-e460-4b2b-b2c3-319c646a4773": 50000,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 7284228.07,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 20000
+      },
+      "startTime": "2026-02-11T20:08:56.667Z",
+      "endTime": "2026-02-11T20:29:30.568Z",
+      "finalPrice": 7284228.07
     }
   ],
   "Glück Spitzhacke": [
