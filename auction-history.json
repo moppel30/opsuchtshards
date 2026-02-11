@@ -8029,6 +8029,38 @@
       "startTime": "2026-02-10T17:54:18.980Z",
       "endTime": "2026-02-10T23:54:18.980Z",
       "finalPrice": 15001
+    },
+    {
+      "uid": "dbb8ab5d104d5adcdd2b629262bfe2a5",
+      "seller": "00000000-0000-0000-0009-01f92709af1c",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Minion",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (15/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "00000000-0000-0000-0009-01f926ab5f5c",
+      "bids": {
+        "00000000-0000-0000-0009-01f926ab5f5c": 10001
+      },
+      "startTime": "2026-02-10T06:40:34.731Z",
+      "endTime": "2026-02-11T06:40:34.730Z",
+      "finalPrice": 10001
     }
   ],
   "OP Pass": [
@@ -20398,6 +20430,37 @@
       },
       "startTime": "2026-02-09T23:57:59.686Z",
       "endTime": "2026-02-10T11:57:59.686Z"
+    },
+    {
+      "uid": "dd1b3ddb5b2d6a6ac8488f21b58945b4",
+      "seller": "00000000-0000-0000-0009-01f2745c2332",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Phils geheime Freundin",
+        "lore": [
+          "",
+          "Nur Phil kann einen Creeper",
+          "in eine echte Lady verwandeln.",
+          "",
+          "Signiert von OPPhil am 01.10.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100,
+      "currentBid": 100000,
+      "highestBidder": "00000000-0000-0000-0009-01f02af6c028",
+      "bids": {
+        "00000000-0000-0000-0009-00000b5785fd": 80000,
+        "00000000-0000-0000-0009-01f02af6c028": 100000
+      },
+      "startTime": "2026-02-10T06:37:04.040Z",
+      "endTime": "2026-02-11T06:37:04.040Z",
+      "finalPrice": 100000
     }
   ],
   "XP Talisman": [
@@ -25276,6 +25339,32 @@
       "startTime": "2026-02-10T20:14:21.406Z",
       "endTime": "2026-02-11T02:14:21.405Z",
       "finalPrice": 76001
+    }
+  ],
+  "Diamant Paket": [
+    {
+      "uid": "815731a2731339028d3966360c6ccc9f",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "LIGHT_BLUE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/light_blue_shulker_box.png",
+        "amount": 1,
+        "displayName": "Diamant Paket",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 200000,
+      "currentBid": 208085,
+      "highestBidder": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "bids": {
+        "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20": 208085,
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 204001.02,
+        "8eada6fb-eba2-4c3c-9054-2b3234ddbf7d": 200001
+      },
+      "startTime": "2026-02-10T18:00:46.614Z",
+      "endTime": "2026-02-11T06:00:46.614Z",
+      "finalPrice": 208085
     }
   ]
 }
