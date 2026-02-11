@@ -4153,6 +4153,44 @@
       "startTime": "2026-02-10T19:41:53.554Z",
       "endTime": "2026-02-11T19:41:53.554Z",
       "finalPrice": 1157.63
+    },
+    {
+      "uid": "e2ac4342ea98b79c7e635bef2dc0a16b",
+      "seller": "cce50f49-a696-4359-8a01-3155c7b1d299",
+      "item": {
+        "material": "DIAMOND_SHOVEL",
+        "icon": "https://img.mc-api.io/diamond_shovel.png",
+        "amount": 1,
+        "displayName": "Tauschaufel",
+        "lore": [
+          "",
+          "Sie öffnet die Erde vorsichtig, damit",
+          "das Leben langsam zurückkehrt!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (3/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 1,
+      "currentBid": 1300,
+      "highestBidder": "6399047b-47fb-483c-b034-e7acfe2785f3",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1157.63,
+        "00000000-0000-0000-0009-01fc2d8f1862": 50,
+        "6399047b-47fb-483c-b034-e7acfe2785f3": 1300,
+        "61017b33-2878-4f6e-8657-b89596a88d11": 1102.5
+      },
+      "startTime": "2026-02-10T19:41:53.554Z",
+      "endTime": "2026-02-11T19:43:12.874Z",
+      "finalPrice": 1300
     }
   ],
   "Blattschirm": [
@@ -6893,6 +6931,84 @@
       "startTime": "2026-02-11T16:45:12.747Z",
       "endTime": "2026-02-11T19:45:12.747Z",
       "finalPrice": 1800001
+    }
+  ],
+  "Blaues Axolotl": [
+    {
+      "uid": "577166069be524de068607e738b2e11f",
+      "seller": "0fa79eac-9e9e-4264-bbca-65e0787fa8ba",
+      "item": {
+        "material": "AXOLOTL_BUCKET",
+        "icon": "https://img.mc-api.io/axolotl_bucket.png",
+        "amount": 1,
+        "displayName": "Blaues Axolotl",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 0,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "00000000-0000-0000-0009-01f7c7150dc8": 20,
+        "f814fc0e-9b23-4591-90a0-60f3eed810eb": 100,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-10T20:40:23.502Z",
+      "endTime": "2026-02-11T20:40:23.502Z",
+      "finalPrice": 1000
+    }
+  ],
+  "Emmys Herzstab": [
+    {
+      "uid": "e2793516fdd8017f2cdc6a7106de8dcc",
+      "seller": "00000000-0000-0000-0009-01f1ac56e21b",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Emmys Herzstab",
+        "lore": [
+          "",
+          "Ein kleines Herz leuchtet sanft pink und",
+          "schenkt Wärme, Hoffnung und Freude.",
+          "",
+          "Signiert von EinfachEmmy am 01.01.2026",
+          "",
+          "➥ Effekt: +3 Herzen (Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 6,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:looting": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 64000,
+      "highestBidder": "abd9b2fd-6213-4dae-a10f-36bd8bec6a2b",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 20000,
+        "00000000-0000-0000-0009-01f407485fb5": 60000,
+        "00000000-0000-0000-0009-01f02af6c028": 100,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 10500,
+        "00000000-0000-0000-0009-01f15a556dc4": 50000,
+        "37d9251c-58e7-4be2-a777-1b68ef58c33e": 52500,
+        "abd9b2fd-6213-4dae-a10f-36bd8bec6a2b": 64000,
+        "430a7ff0-855b-4c83-92d9-b19f0bdcdc45": 1000,
+        "00000000-0000-0000-0009-01f60f1fadad": 23000,
+        "00000000-0000-0000-0009-01f7496fca1e": 40000
+      },
+      "startTime": "2026-02-10T20:40:32.907Z",
+      "endTime": "2026-02-11T20:40:32.907Z",
+      "finalPrice": 64000
     }
   ]
 }
