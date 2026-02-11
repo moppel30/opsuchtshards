@@ -8366,5 +8366,111 @@
       "endTime": "2026-02-11T20:12:26.131Z",
       "finalPrice": 1500001
     }
+  ],
+  "Unendliches Totem": [
+    {
+      "uid": "fdb8b428320e9cc3a7aa073f3951a40b",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "icon": "https://img.mc-api.io/totem_of_undying.png",
+        "amount": 1,
+        "displayName": "Unendliches Totem",
+        "lore": [
+          "",
+          "Dieses Artefakt wird",
+          "dich stets vor dem",
+          "sicheren Tod bewahren!",
+          "",
+          "Signiert von OPSUCHT am 01.12.2024",
+          "",
+          "➥ Effekt: Wird beim Tod nicht verbraucht (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 0,
+      "currentBid": 25000,
+      "highestBidder": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 25000,
+        "1f93b8a5-8c7a-4d33-ae5b-3977e3e16571": 1
+      },
+      "startTime": "2026-02-11T20:08:51.055Z",
+      "endTime": "2026-02-11T20:23:51.055Z",
+      "finalPrice": 25000
+    }
+  ],
+  "Geburtstags Party Hut #7": [
+    {
+      "uid": "940a3c67025fe6bfcf62f0580f7e1eaa",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Geburtstags Party Hut #7",
+        "lore": [
+          "",
+          "Feiere den 7. Geburtstag",
+          "von OPSUCHT.net gemeinsam mit",
+          "der gesamten Community!",
+          "",
+          "Signiert von OPSUCHT am 23.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Diamanterz (Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1000,
+      "highestBidder": "00000000-0000-0000-0009-01f2b664f582",
+      "bids": {
+        "00000000-0000-0000-0009-01f2b664f582": 1000
+      },
+      "startTime": "2026-02-11T20:08:56.667Z",
+      "endTime": "2026-02-11T20:23:56.667Z",
+      "finalPrice": 1000
+    }
+  ],
+  "Glück Spitzhacke": [
+    {
+      "uid": "5aa24185757f90d031281f913b7ff6e3",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Glück Spitzhacke",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1,
+      "highestBidder": "6973a780-0222-440f-a044-7e40e3593308",
+      "bids": {
+        "6973a780-0222-440f-a044-7e40e3593308": 1
+      },
+      "startTime": "2026-02-11T20:09:04.006Z",
+      "endTime": "2026-02-11T20:24:04.006Z",
+      "finalPrice": 1
+    }
   ]
 }
