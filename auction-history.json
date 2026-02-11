@@ -832,6 +832,47 @@
       "startTime": "2026-02-10T19:30:05.571Z",
       "endTime": "2026-02-11T19:30:05.571Z",
       "finalPrice": 400001
+    },
+    {
+      "uid": "e7d058de409da7cfc0df0dc516ec4106",
+      "seller": "5211b8c1-75f6-481c-9553-3c514870e9a2",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300,
+      "currentBid": 465000,
+      "highestBidder": "6845c469-cb24-4b8e-aca3-fc73f1824268",
+      "bids": {
+        "c884a360-456d-4827-bf57-a064e3fd40f0": 326.05,
+        "00000000-0000-0000-0009-01ff2f05f4e3": 420,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 428400,
+        "beafb66e-9802-4662-8292-19de3157b428": 420000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 306000,
+        "7dd8a04f-32fa-467f-bf81-dbb36c78035d": 10500,
+        "6a3b7379-9f45-445e-97b2-bd0035e0101c": 301,
+        "d790e39e-acf5-4bb1-9c4c-9992cf7421b7": 10000,
+        "b60c1dee-8452-4972-ad25-c280b99543bb": 400,
+        "669fec97-6f2a-4d8e-94d8-64e146fb3234": 11025,
+        "dc4e7a8b-0fe4-469c-9a8d-6e8cdc09193f": 159000,
+        "6845c469-cb24-4b8e-aca3-fc73f1824268": 465000
+      },
+      "startTime": "2026-02-11T13:28:07.668Z",
+      "endTime": "2026-02-11T19:28:36.792Z",
+      "finalPrice": 465000
     }
   ],
   "POTION": [
@@ -1048,6 +1089,43 @@
       "startTime": "2026-02-10T19:26:25.960Z",
       "endTime": "2026-02-11T19:27:44.947Z",
       "finalPrice": 1030000
+    },
+    {
+      "uid": "203af1478cab8457639166089fe8c1ff",
+      "seller": "16f43287-9d68-44ce-bfd6-baaa3c551c23",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Christianoooo",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (5/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 1040300,
+      "highestBidder": "5ab91c7e-de61-47b1-890b-25a5b1c2be92",
+      "bids": {
+        "beafb66e-9802-4662-8292-19de3157b428": 1030000,
+        "5ab91c7e-de61-47b1-890b-25a5b1c2be92": 1040300,
+        "f715201b-fd4f-461b-837a-c122b2872c4f": 500001,
+        "18d25a5c-5169-4dc5-8c00-d04876a4ec34": 663000,
+        "46f4a694-b3ea-408c-bce1-14d59a40556e": 510001.02,
+        "b749ea9a-aa8e-4c59-8a33-7711f8fcb657": 565000
+      },
+      "startTime": "2026-02-10T19:26:25.960Z",
+      "endTime": "2026-02-11T19:28:00.282Z",
+      "finalPrice": 1040300
     }
   ],
   "Geburtstags Buch V7": [
@@ -3345,6 +3423,30 @@
       "startTime": "2026-02-10T20:22:25.756Z",
       "endTime": "2026-02-11T20:22:25.756Z",
       "finalPrice": 1001
+    }
+  ],
+  "Besonderes Kopf Paket": [
+    {
+      "uid": "d1e178804f0bad007e9fd1d34086c54b",
+      "seller": "eba2c7ae-1b98-4949-8c99-b5451ede9060",
+      "item": {
+        "material": "YELLOW_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/yellow_shulker_box.png",
+        "amount": 1,
+        "displayName": "Besonderes Kopf Paket",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 250000,
+      "currentBid": 250001,
+      "highestBidder": "00000000-0000-0000-0009-01fb8d54c4b1",
+      "bids": {
+        "00000000-0000-0000-0009-01fb8d54c4b1": 250001
+      },
+      "startTime": "2026-02-10T20:25:14.787Z",
+      "endTime": "2026-02-11T20:25:14.787Z",
+      "finalPrice": 250001
     }
   ]
 }
