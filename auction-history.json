@@ -9165,6 +9165,27 @@
       "startTime": "2026-02-10T20:52:34.327Z",
       "endTime": "2026-02-11T20:52:34.327Z",
       "finalPrice": 333001
+    },
+    {
+      "uid": "7ef7ee327e90d232aff5e7fb2086f476",
+      "seller": "2e0748f7-c6b3-40ac-82ac-a2b026ea1d53",
+      "item": {
+        "material": "NETHERITE_INGOT",
+        "icon": "https://img.mc-api.io/netherite_ingot.png",
+        "amount": 10,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 90000,
+      "currentBid": 90001,
+      "highestBidder": "7b0c4029-176a-4de1-85bd-ef6d1a69fa8f",
+      "bids": {
+        "7b0c4029-176a-4de1-85bd-ef6d1a69fa8f": 90001
+      },
+      "startTime": "2026-02-11T20:48:27.465Z",
+      "endTime": "2026-02-11T21:04:55.339Z",
+      "finalPrice": 90001
     }
   ],
   "Builder-Team": [
