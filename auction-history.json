@@ -12772,6 +12772,41 @@
       "startTime": "2026-02-11T20:09:24.362Z",
       "endTime": "2026-02-11T20:28:21.887Z",
       "finalPrice": 2000000
+    },
+    {
+      "uid": "182df00307ee2ee6f6b3d464a9b04e72",
+      "seller": "befe1afb-b1eb-416b-9efa-a1218631c1be",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Businezz Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Businezz am 01.01.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 1900000,
+      "currentBid": 1900001,
+      "highestBidder": "4df435f0-4028-451b-9f7f-9357ca42f36e",
+      "bids": {
+        "4df435f0-4028-451b-9f7f-9357ca42f36e": 1900001
+      },
+      "startTime": "2026-02-10T23:01:16.297Z",
+      "endTime": "2026-02-11T23:01:16.297Z",
+      "finalPrice": 1900001
     }
   ],
   "Träumerschwert": [
@@ -15617,6 +15652,66 @@
       "startTime": "2026-02-11T19:50:34.786Z",
       "endTime": "2026-02-11T22:50:34.785Z",
       "finalPrice": 25001
+    }
+  ],
+  "Polips Modpicke": [
+    {
+      "uid": "d8eba1394e1e50d6a619ccad9adab973",
+      "seller": "befe1afb-b1eb-416b-9efa-a1218631c1be",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Polips Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Polip361 am 01.12.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 1900000,
+      "currentBid": 1900500,
+      "highestBidder": "2ee3b848-27d2-402b-bf13-200b3c6e0f8a",
+      "bids": {
+        "2ee3b848-27d2-402b-bf13-200b3c6e0f8a": 1900500
+      },
+      "startTime": "2026-02-10T23:01:00.244Z",
+      "endTime": "2026-02-11T23:01:00.244Z",
+      "finalPrice": 1900500
+    }
+  ],
+  "Tigerpelz": [
+    {
+      "uid": "9b7bc6f86ac0f46a9d9c29e37fa06467",
+      "seller": "f24e166c-3166-4ba2-9c3a-a63faaff1b3f",
+      "item": {
+        "material": "PAPER",
+        "amount": 3,
+        "displayName": "Tigerpelz",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 7500,
+      "currentBid": 7501,
+      "highestBidder": "c8f191a0-be06-4b8a-b724-d04b13059f10",
+      "bids": {
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 7501
+      },
+      "startTime": "2026-02-10T23:01:29.575Z",
+      "endTime": "2026-02-11T23:01:29.574Z",
+      "finalPrice": 7501
     }
   ]
 }
