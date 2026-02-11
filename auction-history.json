@@ -2368,6 +2368,36 @@
       "startTime": "2026-02-10T21:34:44.850Z",
       "endTime": "2026-02-11T21:36:37.688Z",
       "finalPrice": 408000
+    },
+    {
+      "uid": "844c8ef28053dd598c0af88feb60cf93",
+      "seller": "e94f10be-09ae-47a5-9eee-3cd6d6082a7d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 399999,
+      "currentBid": 400000,
+      "highestBidder": "f19a7a8b-5beb-4822-8b09-4674a56e93ee",
+      "bids": {
+        "f19a7a8b-5beb-4822-8b09-4674a56e93ee": 400000
+      },
+      "startTime": "2026-02-11T21:31:34.164Z",
+      "endTime": "2026-02-11T21:46:34.164Z",
+      "finalPrice": 400000
     }
   ],
   "POTION": [
@@ -2512,6 +2542,38 @@
       "startTime": "2026-02-10T19:22:17.145Z",
       "endTime": "2026-02-11T19:22:17.145Z",
       "finalPrice": 408000
+    },
+    {
+      "uid": "19a0c6299a507cc33a597e7a665590f4",
+      "seller": "00000000-0000-0000-0009-01f3570beb25",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "Flammentalisman",
+        "lore": [
+          "",
+          "Entfessle die sengende",
+          "Hitze des Feuers!",
+          "",
+          "➥ Effekt: Setzt nahe Feinde in Brand (Off-Hand)",
+          "➥ Effekt: Feuerresistenz (Off-Hand)",
+          "➥ Effekt: Totem der Unsterblichkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 200001,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 200001
+      },
+      "startTime": "2026-02-11T10:43:23.789Z",
+      "endTime": "2026-02-11T22:43:23.788Z",
+      "finalPrice": 200001
     }
   ],
   "Christianoooo": [
@@ -12669,6 +12731,76 @@
       "startTime": "2026-02-11T17:21:34.536Z",
       "endTime": "2026-02-11T20:21:34.536Z",
       "finalPrice": 1001
+    },
+    {
+      "uid": "a0437fdd9851b2eed4f2f6b3a645e95b",
+      "seller": "00000000-0000-0000-0009-01f3dc7e83e0",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Filmstudio",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (24/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 22000,
+      "highestBidder": "00000000-0000-0000-0009-01f8bb1ceead",
+      "bids": {
+        "00000000-0000-0000-0009-01f8bb1ceead": 22000,
+        "2054054e-b7a9-4a86-bd32-effd6982b880": 10000,
+        "00000000-0000-0000-0009-01f2749956ef": 20000
+      },
+      "startTime": "2026-02-10T22:43:14.068Z",
+      "endTime": "2026-02-11T22:43:14.067Z",
+      "finalPrice": 22000
+    },
+    {
+      "uid": "6437b192f95e8c23c5735873fd9a5e02",
+      "seller": "00000000-0000-0000-0009-01f3dc7e83e0",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Filmstudio",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (24/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2000,
+      "highestBidder": "00000000-0000-0000-0009-01f8bb1ceead",
+      "bids": {
+        "00000000-0000-0000-0009-01f8bb1ceead": 2000,
+        "00000000-0000-0000-0009-01f8fd7e8a5b": 53,
+        "00000000-0000-0000-0009-01fc2d8f1862": 50,
+        "00000000-0000-0000-0009-01f708725006": 60,
+        "00000000-0000-0000-0009-00000a6d41ea": 1000
+      },
+      "startTime": "2026-02-10T22:43:26.739Z",
+      "endTime": "2026-02-11T22:43:26.739Z",
+      "finalPrice": 2000
     }
   ],
   "Farmwelt": [
@@ -14565,6 +14697,122 @@
       "startTime": "2026-02-11T19:42:41.565Z",
       "endTime": "2026-02-11T22:42:41.565Z",
       "finalPrice": 10001
+    }
+  ],
+  "Christians Helm": [
+    {
+      "uid": "2ef29483fbac0ad529f9a0d278203f9b",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Christians Helm",
+        "lore": [
+          "",
+          "Ein Symbol für Teamgeist",
+          "und Geschick.",
+          "",
+          "Signiert von Christianoooo am 01.09.2025",
+          "",
+          "Christians Kollektion (2/5)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 8,
+          "minecraft:protection": 10
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 30000,
+      "highestBidder": "00000000-0000-0000-0009-01f92709af1c",
+      "bids": {
+        "00000000-0000-0000-0009-01f92709af1c": 30000
+      },
+      "startTime": "2026-02-11T19:43:04.113Z",
+      "endTime": "2026-02-11T22:43:04.113Z",
+      "finalPrice": 30000
+    }
+  ],
+  "Christians Schuhe": [
+    {
+      "uid": "c42999bdae060a2978ef4631cada4f47",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Christians Schuhe",
+        "lore": [
+          "",
+          "Ein Symbol für Teamgeist",
+          "und Geschick.",
+          "",
+          "Signiert von Christianoooo am 01.09.2025",
+          "",
+          "Christians Kollektion (5/5)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 8,
+          "minecraft:protection": 10
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 22000,
+      "highestBidder": "613f3345-eb7c-496d-9756-e515a1a3b870",
+      "bids": {
+        "613f3345-eb7c-496d-9756-e515a1a3b870": 22000
+      },
+      "startTime": "2026-02-11T19:43:19.669Z",
+      "endTime": "2026-02-11T22:43:19.669Z",
+      "finalPrice": 22000
+    }
+  ],
+  "Hexenhose": [
+    {
+      "uid": "e6757453ff5159049e59e2a96757b041",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Hexenhose",
+        "lore": [
+          "",
+          "Eine uralte Rüstung voller dunkler ",
+          "Magie die schützt aber langsam verändert.",
+          "",
+          "Hexenkollektion (3/4)",
+          "",
+          "➥ Effekt: -0.01 Gravity (Hose)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:thorns": 4,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 5000,
+      "currentBid": 17000,
+      "highestBidder": "00000000-0000-0000-0009-01f60f1fadad",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 15000,
+        "00000000-0000-0000-0009-01f60f1fadad": 17000,
+        "24f8e0cc-c031-4f23-995b-35140dffd60b": 10501
+      },
+      "startTime": "2026-02-11T19:43:43.121Z",
+      "endTime": "2026-02-11T22:43:43.121Z",
+      "finalPrice": 17000
     }
   ]
 }
