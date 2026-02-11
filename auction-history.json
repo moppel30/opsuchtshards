@@ -6579,6 +6579,43 @@
       "startTime": "2026-02-11T19:54:29.014Z",
       "endTime": "2026-02-11T20:55:16.567Z",
       "finalPrice": 500002
+    },
+    {
+      "uid": "d6f7d250d6e2d0b42dc5ce9550daf19a",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 10000,
+      "currentBid": 70000,
+      "highestBidder": "00000000-0000-0000-0009-01f746a56532",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 16000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 51450,
+        "00000000-0000-0000-0009-01f746a56532": 70000,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 57750
+      },
+      "startTime": "2026-02-11T19:44:31.569Z",
+      "endTime": "2026-02-11T22:44:31.569Z",
+      "finalPrice": 70000
     }
   ],
   ".. Flinks Admin-Brustplatte ..": [
@@ -8515,6 +8552,39 @@
       "startTime": "2026-02-11T17:13:50.217Z",
       "endTime": "2026-02-11T20:13:50.217Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "de29eeb3a3efe56559514f3ddbe10d71",
+      "seller": "00000000-0000-0000-0009-01f3dc7e83e0",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Pass",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (12/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 5000,
+      "highestBidder": "47160f92-0f6b-459d-8a3c-5ba8c06e0ae2",
+      "bids": {
+        "0df7982f-5214-4075-a5e4-2f21408c01b8": 1.05,
+        "47160f92-0f6b-459d-8a3c-5ba8c06e0ae2": 5000
+      },
+      "startTime": "2026-02-10T22:43:44.178Z",
+      "endTime": "2026-02-11T22:43:44.178Z",
+      "finalPrice": 5000
     }
   ],
   "NETHERITE_HELMET": [
@@ -10605,6 +10675,39 @@
       "startTime": "2026-02-10T21:31:34.360Z",
       "endTime": "2026-02-11T21:31:34.360Z",
       "finalPrice": 250500
+    },
+    {
+      "uid": "37feec04cca6a30e1b61484bd7c8620b",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "LEATHER_HELMET",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 10001
+      },
+      "startTime": "2026-02-11T19:44:07.067Z",
+      "endTime": "2026-02-11T22:44:07.067Z",
+      "finalPrice": 10001
     }
   ],
   "Tunnelgräber Schaufel": [
