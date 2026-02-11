@@ -585,6 +585,110 @@
       "startTime": "2026-02-10T20:12:35.104Z",
       "endTime": "2026-02-11T20:12:35.103Z",
       "finalPrice": 306002
+    },
+    {
+      "uid": "5cd54a0fcc7525f2a3ebba7292b5203c",
+      "seller": "e1023d63-3766-42c0-93e9-c50988da4d15",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 428400,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 428400,
+        "beafb66e-9802-4662-8292-19de3157b428": 420000,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 300001,
+        "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6": 350000
+      },
+      "startTime": "2026-02-10T19:08:41.657Z",
+      "endTime": "2026-02-11T19:16:29.378Z",
+      "finalPrice": 428400
+    },
+    {
+      "uid": "ce1794ddaf063985f07d01fefd209722",
+      "seller": "89bda460-a6de-4f66-ad48-36bd18688ddf",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100,
+      "currentBid": 450000,
+      "highestBidder": "6845c469-cb24-4b8e-aca3-fc73f1824268",
+      "bids": {
+        "79791a41-211e-4300-a9e9-f8445d736d38": 57750,
+        "00000000-0000-0000-0009-01f2c6b2de98": 55000,
+        "00000000-0000-0000-0009-01f08e99be02": 11600,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 387600,
+        "beafb66e-9802-4662-8292-19de3157b428": 400000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 153000,
+        "6b73aae9-4f70-4c6d-80c5-8ce8c67c7be0": 125,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 11025,
+        "dc4e7a8b-0fe4-469c-9a8d-6e8cdc09193f": 120000,
+        "00000000-0000-0000-0009-01f10a127101": 70000,
+        "6845c469-cb24-4b8e-aca3-fc73f1824268": 450000
+      },
+      "startTime": "2026-02-10T19:12:34.299Z",
+      "endTime": "2026-02-11T19:16:47.696Z",
+      "finalPrice": 450000
+    },
+    {
+      "uid": "8e69722ff884750ac1c166d4ea2f6ccf",
+      "seller": "b6e68a4e-8824-40fd-9c34-4a9893b4b293",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 400000,
+      "currentBid": 408001.02,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "beafb66e-9802-4662-8292-19de3157b428": 400001,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 408001.02
+      },
+      "startTime": "2026-02-11T19:12:48.381Z",
+      "endTime": "2026-02-11T19:27:48.381Z",
+      "finalPrice": 408001.02
     }
   ],
   "POTION": [
@@ -2601,6 +2705,76 @@
       "startTime": "2026-02-11T18:48:17.240Z",
       "endTime": "2026-02-11T19:48:17.240Z",
       "finalPrice": 1001
+    }
+  ],
+  "Engelsflügel": [
+    {
+      "uid": "c7a4e3138d2f85dfbd5069add20164a4",
+      "seller": "f6fc2731-22e7-4383-bcb5-981adfff4a75",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Engelsflügel",
+        "lore": [
+          "",
+          "Als der Engel seine Flügel verloren hat,",
+          "schenkte ihm OPSUCHT diese Engelsflügel.",
+          "",
+          "Signiert von OPSUCHT am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:flame": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 350000,
+      "currentBid": 350003,
+      "highestBidder": "87946d56-36d2-499a-80eb-db42de3bc4e1",
+      "bids": {
+        "87946d56-36d2-499a-80eb-db42de3bc4e1": 350003
+      },
+      "startTime": "2026-02-11T16:30:30.910Z",
+      "endTime": "2026-02-11T19:30:30.910Z",
+      "finalPrice": 350003
+    }
+  ],
+  "Luxury Island": [
+    {
+      "uid": "76007f1165ba00627d36b3d9a2e60d45",
+      "seller": "00000000-0000-0000-0009-01f9ef144f81",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Luxury Island",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (17/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-11T17:13:26.720Z",
+      "endTime": "2026-02-11T20:13:26.719Z",
+      "finalPrice": 1000
     }
   ]
 }
