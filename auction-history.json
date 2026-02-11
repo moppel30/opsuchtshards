@@ -1476,6 +1476,40 @@
       "startTime": "2026-02-11T07:33:32.902Z",
       "endTime": "2026-02-11T19:41:12.066Z",
       "finalPrice": 417180
+    },
+    {
+      "uid": "73ad4b28ea7a7cf24f2c76ce930f3a0e",
+      "seller": "934a5d89-ae8d-4c8d-8018-b8770f40484d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 430523.6,
+      "highestBidder": "beafb66e-9802-4662-8292-19de3157b428",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 417180,
+        "8e91e8c0-6b22-486a-be0e-45b31986a0b0": 409000,
+        "beafb66e-9802-4662-8292-19de3157b428": 430523.6,
+        "aa43704e-d08a-4050-9cd7-c00d7d5ab52e": 300001,
+        "b59873e5-f1aa-4aaa-be32-3dce63234ddc": 337852.56
+      },
+      "startTime": "2026-02-11T07:33:32.902Z",
+      "endTime": "2026-02-11T19:42:05.840Z",
+      "finalPrice": 430523.6
     }
   ],
   "POTION": [
