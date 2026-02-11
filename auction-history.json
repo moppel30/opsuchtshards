@@ -9419,6 +9419,45 @@
       "startTime": "2026-02-10T20:46:20.343Z",
       "endTime": "2026-02-11T20:53:31.773Z",
       "finalPrice": 21500000
+    },
+    {
+      "uid": "087d24d1516d8a0dd3ff0034b959247c",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Phils Jeans",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.11.2025",
+          "",
+          "➥ Effekt: +40% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000000,
+      "currentBid": 21932150,
+      "highestBidder": "b0f5c807-3491-4657-aa07-325badd5f94b",
+      "bids": {
+        "23e1ecc1-2cf9-474a-ae54-e868fd53a49f": 21715000,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 14000000,
+        "b0f5c807-3491-4657-aa07-325badd5f94b": 21932150,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 15911550,
+        "e6f90a44-355c-44e4-8f64-57475335f7a8": 20705000
+      },
+      "startTime": "2026-02-10T20:46:20.343Z",
+      "endTime": "2026-02-11T20:54:26.627Z",
+      "finalPrice": 21932150
     }
   ],
   "Elfenbeinschild": [
