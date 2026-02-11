@@ -15071,6 +15071,33 @@
       "startTime": "2026-02-10T22:53:27.321Z",
       "endTime": "2026-02-11T22:53:27.321Z",
       "finalPrice": 12601
+    },
+    {
+      "uid": "13dc74cd62bc368a9c5270c043634c2d",
+      "seller": "00000000-0000-0000-0009-00000ba4f50d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 30000,
+      "currentBid": 30001,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "732af855-caf8-48c8-aa99-855714e33e17": 30001
+      },
+      "startTime": "2026-02-10T22:59:29.669Z",
+      "endTime": "2026-02-11T22:59:29.669Z",
+      "finalPrice": 30001
     }
   ],
   "Pilz Paket": [
