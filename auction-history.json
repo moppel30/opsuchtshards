@@ -9249,5 +9249,140 @@
       "endTime": "2026-02-11T21:10:51.598Z",
       "finalPrice": 5001
     }
+  ],
+  "OPSUCHT Kaffeetasse": [
+    {
+      "uid": "6bd56453c1287102c77cc86d48f5a967",
+      "seller": "27e9e6a3-6e24-4481-b5d7-380061322c3e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OPSUCHT Kaffeetasse",
+        "lore": [
+          "",
+          "Kaffee am Morgen vertreibt",
+          "Kummer und Sorgen!",
+          "",
+          "Signiert von OPSUCHT am 15.10.2025",
+          "",
+          "➥ Effekt: Eile 2 beim Verzehr",
+          "➥ Effekt: Kein Hunger beim Verzehr",
+          "➥ Dauer: 15 Minuten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 400,
+      "currentBid": 4444.44,
+      "highestBidder": "00000000-0000-0000-0009-01faab3ea276",
+      "bids": {
+        "00000000-0000-0000-0009-01faab3ea276": 4444.44
+      },
+      "startTime": "2026-02-10T21:17:59.283Z",
+      "endTime": "2026-02-11T21:17:59.283Z",
+      "finalPrice": 4444.44
+    }
+  ],
+  "Lebkuchen Marcel": [
+    {
+      "uid": "70a8bc21c203d76d623b17ddc812fcc5",
+      "seller": "8d183bb4-d2a5-4bc7-b675-f29bd4865c60",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "Lebkuchen Marcel",
+        "lore": [
+          "",
+          "Mit jedem Bissen entfacht Marcel süße",
+          "Weihnachtsfreude und warmes Lachen.",
+          "",
+          "➥ Effekt: Totem (Off-Hand, Main-Hand)",
+          "",
+          "Alles Gute zum Geburtstag ❤",
+          "",
+          "Adventskalender Item vom 02.12.2025"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 270000,
+      "highestBidder": "00000000-0000-0000-0009-01fc96448ee4",
+      "bids": {
+        "00000000-0000-0000-0009-01fc96448ee4": 270000
+      },
+      "startTime": "2026-02-10T21:18:04.635Z",
+      "endTime": "2026-02-11T21:18:04.635Z",
+      "finalPrice": 270000
+    }
+  ],
+  "Lotterieschwert": [
+    {
+      "uid": "795adb2a80d05af2418d29864d73ac67",
+      "seller": "27e9e6a3-6e24-4481-b5d7-380061322c3e",
+      "item": {
+        "material": "DIAMOND_SWORD",
+        "icon": "https://img.mc-api.io/diamond_sword.png",
+        "amount": 1,
+        "displayName": "Lotterieschwert",
+        "lore": [],
+        "enchantments": {
+          "minecraft:sharpness": 6,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:looting": 2
+        }
+      },
+      "category": "other",
+      "startBid": 1008,
+      "currentBid": 7293.04,
+      "highestBidder": "1cef78fc-a7a8-4878-b1da-bef221750d94",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 5000,
+        "634903f7-a143-48d5-af1c-6812922412d0": 6615,
+        "ffbde4dd-db5e-4627-821d-02333582b12d": 2400,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 6945.75,
+        "1cef78fc-a7a8-4878-b1da-bef221750d94": 7293.04,
+        "00000000-0000-0000-0009-01f2346bae4e": 6000
+      },
+      "startTime": "2026-02-10T21:18:20.032Z",
+      "endTime": "2026-02-11T21:18:20.032Z",
+      "finalPrice": 7293.04
+    }
+  ],
+  "Superball": [
+    {
+      "uid": "7e3d4aca4d3f8b648a67529851be268f",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Superball",
+        "lore": [
+          "",
+          "Fangt Tiere in der Farmwelt",
+          "und bringt sie in die Plotwelt.",
+          "",
+          "Von Kühen bis Elefanten,",
+          "die Möglichkeiten sind endlos!",
+          "",
+          "Achtung: Insgesamt 25 Benutzungen!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 250001,
+      "highestBidder": "c3413bd3-693f-453a-9782-739081d10b6c",
+      "bids": {
+        "c3413bd3-693f-453a-9782-739081d10b6c": 250001
+      },
+      "startTime": "2026-02-11T19:55:00.685Z",
+      "endTime": "2026-02-11T20:55:00.685Z",
+      "finalPrice": 250001
+    }
   ]
 }
