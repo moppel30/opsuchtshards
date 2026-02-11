@@ -5549,6 +5549,38 @@
       "startTime": "2026-02-10T06:57:13.383Z",
       "endTime": "2026-02-11T06:57:13.383Z",
       "finalPrice": 3000
+    },
+    {
+      "uid": "28150082e7b57e67bcb145fccaf3f85d",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Immobilienmarkt",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (22/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500,
+      "currentBid": 501,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 501
+      },
+      "startTime": "2026-02-11T05:42:24.604Z",
+      "endTime": "2026-02-11T11:42:24.604Z",
+      "finalPrice": 501
     }
   ],
   "Marktplatz": [
@@ -8321,6 +8353,41 @@
       },
       "startTime": "2026-02-09T23:56:33.553Z",
       "endTime": "2026-02-10T11:56:33.553Z"
+    },
+    {
+      "uid": "b000d50ad4fd079f48762bd9316b7045",
+      "seller": "00000000-0000-0000-0009-01f5517d5bde",
+      "item": {
+        "material": "DIAMOND_SHOVEL",
+        "icon": "https://img.mc-api.io/diamond_shovel.png",
+        "amount": 1,
+        "displayName": "Tauschaufel",
+        "lore": [
+          "",
+          "Sie öffnet die Erde vorsichtig, damit",
+          "das Leben langsam zurückkehrt!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (3/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 30000,
+      "currentBid": 40000,
+      "highestBidder": "5403b557-ed01-4fef-9bee-f83e32324b49",
+      "bids": {
+        "5403b557-ed01-4fef-9bee-f83e32324b49": 40000
+      },
+      "startTime": "2026-02-10T11:40:44.173Z",
+      "endTime": "2026-02-11T11:40:44.173Z",
+      "finalPrice": 40000
     }
   ],
   "OP Minion": [
@@ -8649,6 +8716,38 @@
       "startTime": "2026-02-10T06:58:19.952Z",
       "endTime": "2026-02-11T06:58:19.952Z",
       "finalPrice": 6000
+    },
+    {
+      "uid": "a359621f1d6299abe5a8c21b46ed9429",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Minion",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (15/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500,
+      "currentBid": 501,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 501
+      },
+      "startTime": "2026-02-11T05:41:40.645Z",
+      "endTime": "2026-02-11T11:41:40.645Z",
+      "finalPrice": 501
     }
   ],
   "OP Pass": [
@@ -10330,6 +10429,38 @@
       "startTime": "2026-02-10T06:57:45.154Z",
       "endTime": "2026-02-11T06:57:45.154Z",
       "finalPrice": 3000
+    },
+    {
+      "uid": "fcc44dc620b43ea147b7a9c1e9c215b1",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-City",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (14/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500,
+      "currentBid": 501,
+      "highestBidder": "f4b28b09-f203-4a86-b1e4-f0708e650349",
+      "bids": {
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 501
+      },
+      "startTime": "2026-02-11T05:43:06.541Z",
+      "endTime": "2026-02-11T11:43:06.541Z",
+      "finalPrice": 501
     }
   ],
   "Luxury Island": [
@@ -19121,6 +19252,38 @@
       },
       "startTime": "2026-02-09T10:04:19.907Z",
       "endTime": "2026-02-09T22:04:19.907Z"
+    },
+    {
+      "uid": "176272bc873a50b89983d60780cecb9d",
+      "seller": "c938291a-6e3b-4904-8b63-5be50c2d3df8",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "Kleiner Beschützer Phil",
+        "lore": [
+          "",
+          "Dein Schutzengel.",
+          "",
+          "Signiert von OPPhil am 01.09.2025",
+          "",
+          "➥ Effekt: Totem (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 60000,
+      "currentBid": 102000,
+      "highestBidder": "55785186-ace6-47ea-8523-9149423edd7f",
+      "bids": {
+        "00000000-0000-0000-0009-01f4544a84e3": 100000,
+        "55785186-ace6-47ea-8523-9149423edd7f": 102000
+      },
+      "startTime": "2026-02-10T12:19:36.985Z",
+      "endTime": "2026-02-11T12:19:36.985Z",
+      "finalPrice": 102000
     }
   ],
   "Lotterieschaufel": [
