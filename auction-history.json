@@ -13846,6 +13846,47 @@
       "startTime": "2026-02-11T21:07:22.529Z",
       "endTime": "2026-02-11T21:22:22.529Z",
       "finalPrice": 8000
+    },
+    {
+      "uid": "025f3c9496b58b4bd3c4ae422f5cc82d",
+      "seller": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": "12 OPSUCHT Schuhe 12",
+        "lore": [
+          "",
+          "Diese Schuhe entstanden bei",
+          "der Gründung von OPSUCHT",
+          "",
+          "OPSUCHT Kollektion (4/9)",
+          "",
+          "Signiert von OPSUCHT am 31.05.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 4,
+          "minecraft:thorns": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:feather_falling": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 5000,
+      "currentBid": 9000,
+      "highestBidder": "00000000-0000-0000-0009-01f0d360fc04",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 8400,
+        "00000000-0000-0000-0009-01f0d360fc04": 9000
+      },
+      "startTime": "2026-02-11T21:07:22.529Z",
+      "endTime": "2026-02-11T21:23:56.245Z",
+      "finalPrice": 9000
     }
   ],
   "Rosenstrauß": [
@@ -13926,6 +13967,37 @@
       "startTime": "2026-02-11T15:28:43.820Z",
       "endTime": "2026-02-11T21:28:43.820Z",
       "finalPrice": 325001
+    }
+  ],
+  "Königliche OPSUCHT Krone": [
+    {
+      "uid": "131349fc1768fb0fab41521be717f4c4",
+      "seller": "7f7e0627-960d-4692-869b-d73733ef71f7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Königliche OPSUCHT Krone",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.06.2023",
+          "Signiert von SkyGuyTV am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 150000,
+      "highestBidder": "28d9de27-f3c8-4eb4-93ab-c107549b9421",
+      "bids": {
+        "28d9de27-f3c8-4eb4-93ab-c107549b9421": 150000,
+        "75332750-844f-4308-92b5-bdd3f7691027": 100001
+      },
+      "startTime": "2026-02-10T22:21:20.088Z",
+      "endTime": "2026-02-11T22:21:20.088Z",
+      "finalPrice": 150000
     }
   ]
 }
