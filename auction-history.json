@@ -11251,6 +11251,38 @@
       "startTime": "2026-02-11T20:09:04.006Z",
       "endTime": "2026-02-11T20:26:45.967Z",
       "finalPrice": 860000
+    },
+    {
+      "uid": "5faf0d14c86bbd57315973046870a04c",
+      "seller": "3f237c18-1a92-4fc0-b873-bb23e68a1450",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Glück Spitzhacke",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 800000,
+      "currentBid": 800001,
+      "highestBidder": "edeb76f6-f212-4002-8bc4-892c9b2606d0",
+      "bids": {
+        "edeb76f6-f212-4002-8bc4-892c9b2606d0": 800001
+      },
+      "startTime": "2026-02-11T20:31:22.814Z",
+      "endTime": "2026-02-11T21:31:22.814Z",
+      "finalPrice": 800001
     }
   ],
   "Kartenflügel": [
@@ -12334,6 +12366,32 @@
       "startTime": "2026-02-10T21:17:33.680Z",
       "endTime": "2026-02-11T21:17:34.361Z",
       "finalPrice": 173400
+    },
+    {
+      "uid": "4c35bdfead3046f4aae52daeaa7d8a0a",
+      "seller": "8d183bb4-d2a5-4bc7-b675-f29bd4865c60",
+      "item": {
+        "material": "ORANGE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/orange_shulker_box.png",
+        "amount": 1,
+        "displayName": "Herbstpaket",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 150000,
+      "currentBid": 240000,
+      "highestBidder": "00000000-0000-0000-0009-01f736647be9",
+      "bids": {
+        "e5fc2a85-f906-4f88-9048-9b45a7e24d58": 150001,
+        "00000000-0000-0000-0009-01fe800c1748": 154000,
+        "8cae1a1d-48d1-4131-8184-3b501acdb959": 220000,
+        "00000000-0000-0000-0009-01f736647be9": 240000,
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 204000
+      },
+      "startTime": "2026-02-10T21:17:33.680Z",
+      "endTime": "2026-02-11T21:18:48.033Z",
+      "finalPrice": 240000
     }
   ],
   "Filmstudio": [
