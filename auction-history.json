@@ -1651,6 +1651,38 @@
       "startTime": "2026-02-10T20:12:20.338Z",
       "endTime": "2026-02-11T20:14:19.204Z",
       "finalPrice": 312121.05
+    },
+    {
+      "uid": "ea93dd82a15d0fd454c2180108d7bf31",
+      "seller": "e1023d63-3766-42c0-93e9-c50988da4d15",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 318364,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 318364,
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 312121.05,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 300001
+      },
+      "startTime": "2026-02-10T20:12:20.338Z",
+      "endTime": "2026-02-11T20:15:19.784Z",
+      "finalPrice": 318364
     }
   ],
   "POTION": [
@@ -8741,6 +8773,74 @@
       "startTime": "2026-02-11T20:09:40.012Z",
       "endTime": "2026-02-11T20:24:40.012Z",
       "finalPrice": 25000
+    }
+  ],
+  "Sculkschuhe": [
+    {
+      "uid": "4c52747b7140cceb2171cef0a640e500",
+      "seller": "e6f90a44-355c-44e4-8f64-57475335f7a8",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Sculkschuhe",
+        "lore": [
+          "",
+          "Sculkkollektion (8/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 4,
+          "minecraft:protection": 6,
+          "minecraft:depth_strider": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 100000,
+      "highestBidder": "6973a780-0222-440f-a044-7e40e3593308",
+      "bids": {
+        "6973a780-0222-440f-a044-7e40e3593308": 100000
+      },
+      "startTime": "2026-02-11T20:11:56.878Z",
+      "endTime": "2026-02-11T21:11:56.878Z",
+      "finalPrice": 100000
+    }
+  ],
+  "❅ Phils Flockenschild ❅": [
+    {
+      "uid": "377159c48c70c1f08c658fc2836ba663",
+      "seller": "e6f90a44-355c-44e4-8f64-57475335f7a8",
+      "item": {
+        "material": "SHIELD",
+        "amount": 1,
+        "displayName": "❅ Phils Flockenschild ❅",
+        "lore": [
+          "",
+          "➥ Effekt: +5 Herzen (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:unbreaking": 5,
+          "minecraft:frost_walker": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 200,
+      "highestBidder": "00000000-0000-0000-0009-01f2b664f582",
+      "bids": {
+        "00000000-0000-0000-0009-01f2b664f582": 200
+      },
+      "startTime": "2026-02-11T20:12:07.407Z",
+      "endTime": "2026-02-11T21:12:07.407Z",
+      "finalPrice": 200
     }
   ]
 }
