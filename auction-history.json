@@ -13961,6 +13961,47 @@
       "startTime": "2026-02-11T21:07:22.529Z",
       "endTime": "2026-02-11T21:25:49.075Z",
       "finalPrice": 9450
+    },
+    {
+      "uid": "025f3c9496b58b4bd3c4ae422f5cc82d",
+      "seller": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": "12 OPSUCHT Schuhe 12",
+        "lore": [
+          "",
+          "Diese Schuhe entstanden bei",
+          "der Gründung von OPSUCHT",
+          "",
+          "OPSUCHT Kollektion (4/9)",
+          "",
+          "Signiert von OPSUCHT am 31.05.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 4,
+          "minecraft:thorns": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:feather_falling": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 5000,
+      "currentBid": 10500,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 10500,
+        "00000000-0000-0000-0009-01f0d360fc04": 10000
+      },
+      "startTime": "2026-02-11T21:07:22.529Z",
+      "endTime": "2026-02-11T21:26:54.390Z",
+      "finalPrice": 10500
     }
   ],
   "Rosenstrauß": [
@@ -14140,6 +14181,39 @@
       "startTime": "2026-02-11T21:09:14.223Z",
       "endTime": "2026-02-11T21:25:34.358Z",
       "finalPrice": 1500
+    },
+    {
+      "uid": "3c1235df4f40bfa9ef39fd9ce21c82e6",
+      "seller": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Supporter-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (8/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2752,
+      "highestBidder": "42714712-a94d-4e8b-aade-ab078f796c87",
+      "bids": {
+        "42714712-a94d-4e8b-aade-ab078f796c87": 2752,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1500
+      },
+      "startTime": "2026-02-11T21:09:14.223Z",
+      "endTime": "2026-02-11T21:26:00.413Z",
+      "finalPrice": 2752
     }
   ],
   "Sammelkarten GÜNSTIG": [
