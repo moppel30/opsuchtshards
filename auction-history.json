@@ -15093,6 +15093,46 @@
       "startTime": "2026-02-10T22:07:26.169Z",
       "endTime": "2026-02-11T22:13:07.429Z",
       "finalPrice": 59314428.57
+    },
+    {
+      "uid": "c48da5c6d72bf91c47422a546702fe7e",
+      "seller": "a2b1d9e9-c6e1-40f2-af8f-dd03192dab42",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Automatischer Komprimierer",
+        "lore": [
+          "",
+          "Einmal aktiviert, komprimiert er",
+          "die Items aus /kompressor",
+          "effizient und unaufhaltsam.",
+          "",
+          "➥ Effekt: Komprimiert ausgewählte Items automatisch (Off-Hand)",
+          "",
+          "Rezeptauswahl mit Rechtsklick",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 25000000,
+      "currentBid": 60000000,
+      "highestBidder": "8d92162e-0074-4092-853e-4e17215bb8bc",
+      "bids": {
+        "00000000-0000-0000-0009-01f7669f05c3": 53000000,
+        "8d92162e-0074-4092-853e-4e17215bb8bc": 60000000,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 59314428.57,
+        "00000000-0000-0000-0009-01ff0f778527": 26000000,
+        "ac7e12a4-7454-4413-a5e9-37c348799df9": 38461441.37,
+        "00000000-0000-0000-0009-01f8035031f9": 39000000,
+        "228b1f9d-7767-480d-a7ee-c80c871dcfbe": 25000001,
+        "91873160-d330-42a8-81b1-61e2cc1c804f": 45390000
+      },
+      "startTime": "2026-02-10T22:07:26.169Z",
+      "endTime": "2026-02-11T22:14:39.187Z",
+      "finalPrice": 60000000
     }
   ],
   "Speed Apfel": [
