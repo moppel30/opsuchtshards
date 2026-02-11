@@ -3113,5 +3113,38 @@
       "endTime": "2026-02-11T19:49:27.325Z",
       "finalPrice": 1000
     }
+  ],
+  "OP Teppichmesser": [
+    {
+      "uid": "9d7d81bc8062e1d34410c3fb26baf6b9",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "SHEARS",
+        "amount": 1,
+        "displayName": "OP Teppichmesser",
+        "lore": [
+          "",
+          "➥ Effekt: Baut Teppiche im 5x5 Bereich ab",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 5000,
+      "currentBid": 6000,
+      "highestBidder": "a4ae25dd-772c-4b61-9b33-fda675f0a4b6",
+      "bids": {
+        "a4ae25dd-772c-4b61-9b33-fda675f0a4b6": 6000
+      },
+      "startTime": "2026-02-11T18:33:31.021Z",
+      "endTime": "2026-02-11T19:33:31.021Z",
+      "finalPrice": 6000
+    }
   ]
 }
