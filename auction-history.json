@@ -6885,6 +6885,32 @@
       "startTime": "2026-02-11T18:59:11.800Z",
       "endTime": "2026-02-11T19:59:11.800Z",
       "finalPrice": 2.1
+    },
+    {
+      "uid": "00bcd051f45456a8e329006b5f6c1156",
+      "seller": "47c1ca96-f531-4cc7-bda7-9d091161ccde",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:swift_sneak": 3,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 5000,
+      "currentBid": 5001,
+      "highestBidder": "bf6d783d-03d8-4206-981c-46a2f5a2345e",
+      "bids": {
+        "bf6d783d-03d8-4206-981c-46a2f5a2345e": 5001
+      },
+      "startTime": "2026-02-11T18:10:38.635Z",
+      "endTime": "2026-02-11T21:10:38.635Z",
+      "finalPrice": 5001
     }
   ],
   "ByteException_": [
@@ -7614,6 +7640,37 @@
       "startTime": "2026-02-10T20:28:39.261Z",
       "endTime": "2026-02-11T20:28:39.261Z",
       "finalPrice": 57881.25
+    },
+    {
+      "uid": "30a2095ddb7991a60a9533ce3f100077",
+      "seller": "33cc3e67-28eb-441c-9f12-c0a16eac2fe1",
+      "item": {
+        "material": "SPONGE",
+        "icon": "https://img.mc-api.io/sponge.png",
+        "amount": 1,
+        "displayName": "OP Schwamm",
+        "lore": [
+          "",
+          "➥ Effekt: Entfernt Lava im 4x4 Bereich",
+          "➥ Effekt: Dieser Schwamm wird niemals nass sein",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 50001
+      },
+      "startTime": "2026-02-11T20:03:48.161Z",
+      "endTime": "2026-02-11T21:03:48.161Z",
+      "finalPrice": 50001
     }
   ],
   "Phils Kristallkrone": [
@@ -8471,6 +8528,187 @@
       "startTime": "2026-02-11T20:09:04.006Z",
       "endTime": "2026-02-11T20:24:04.006Z",
       "finalPrice": 1
+    }
+  ],
+  "Kartenflügel": [
+    {
+      "uid": "555ef0d07650377fce84a9f3b5829d3d",
+      "seller": "00000000-0000-0000-0009-01fd40c5be85",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Kartenflügel",
+        "lore": [
+          "",
+          "Leuchtende Flügel, die den Geist vergangener",
+          "Meister tragen und dem Träger Freiheit schenken.",
+          "",
+          "➥ Effekt: +20% Geschwindigkeit (Off-Hand)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "9ea7400f-cba6-49c1-9d8e-0252a9b40b6b",
+      "bids": {
+        "9ea7400f-cba6-49c1-9d8e-0252a9b40b6b": 100001
+      },
+      "startTime": "2026-02-11T14:57:37.511Z",
+      "endTime": "2026-02-11T20:57:37.511Z",
+      "finalPrice": 100001
+    }
+  ],
+  "Builder Axt": [
+    {
+      "uid": "def68d874359e324c5f6aa74ec741b21",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Builder Axt",
+        "lore": [
+          "",
+          "Signiert vom Builder-Team am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 60000,
+      "highestBidder": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 60000,
+        "00000000-0000-0000-0009-01fa8fe88e0d": 1
+      },
+      "startTime": "2026-02-11T20:09:18.964Z",
+      "endTime": "2026-02-11T20:24:18.964Z",
+      "finalPrice": 60000
+    }
+  ],
+  "Businezz Modpicke": [
+    {
+      "uid": "fa3b1d729346df5c3e77ed8b20172ffd",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Businezz Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Businezz am 01.01.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 0,
+      "currentBid": 102000,
+      "highestBidder": "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6",
+      "bids": {
+        "00000000-0000-0000-0009-01fb4758cc86": 100000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 102000
+      },
+      "startTime": "2026-02-11T20:09:24.362Z",
+      "endTime": "2026-02-11T20:24:24.362Z",
+      "finalPrice": 102000
+    }
+  ],
+  "Träumerschwert": [
+    {
+      "uid": "08356a065cda52758b36ab0d69e5b192",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Träumerschwert",
+        "lore": [
+          "",
+          "Es schneidet so klar wie ein Strahl",
+          "des Vollmondes und hüllt dich in Stärke!",
+          "",
+          "Signiert vom Träumenden am 01.11.2025",
+          "",
+          "Träumerkollektion (5/9)",
+          "",
+          "➥ Effekt: Velangsamt Mobs um 15% (Hand)",
+          "",
+          "➥ OP Pass Belohnung des 6. Chapter"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 7,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:looting": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 200000,
+      "highestBidder": "e357ce61-d6dd-4348-8f01-be3a1d0713c8",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 25000,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 200000
+      },
+      "startTime": "2026-02-11T20:09:31.356Z",
+      "endTime": "2026-02-11T20:24:31.356Z",
+      "finalPrice": 200000
+    }
+  ],
+  "Grillgabel": [
+    {
+      "uid": "19c6b99baea4926cccb132634259d714",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "DIAMOND_SWORD",
+        "icon": "https://img.mc-api.io/diamond_sword.png",
+        "amount": 1,
+        "displayName": "Grillgabel",
+        "lore": [
+          "",
+          "Werde der einzig wahre ",
+          "Grillmeister von OPSUCHT.",
+          "",
+          "➥ OP Pass Belohnung des 5. Chapters"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 6,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:fire_aspect": 5
+        }
+      },
+      "category": "other",
+      "startBid": 0,
+      "currentBid": 25000,
+      "highestBidder": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 25000
+      },
+      "startTime": "2026-02-11T20:09:40.012Z",
+      "endTime": "2026-02-11T20:24:40.012Z",
+      "finalPrice": 25000
     }
   ]
 }
