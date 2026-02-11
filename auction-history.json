@@ -1408,6 +1408,40 @@
       "startTime": "2026-02-11T14:36:28.135Z",
       "endTime": "2026-02-11T20:36:28.135Z",
       "finalPrice": 320000
+    },
+    {
+      "uid": "73ad4b28ea7a7cf24f2c76ce930f3a0e",
+      "seller": "934a5d89-ae8d-4c8d-8018-b8770f40484d",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 409000,
+      "highestBidder": "8e91e8c0-6b22-486a-be0e-45b31986a0b0",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 344610,
+        "8e91e8c0-6b22-486a-be0e-45b31986a0b0": 409000,
+        "beafb66e-9802-4662-8292-19de3157b428": 400000,
+        "aa43704e-d08a-4050-9cd7-c00d7d5ab52e": 300001,
+        "b59873e5-f1aa-4aaa-be32-3dce63234ddc": 337852.56
+      },
+      "startTime": "2026-02-11T07:33:32.902Z",
+      "endTime": "2026-02-11T19:40:35.121Z",
+      "finalPrice": 409000
     }
   ],
   "POTION": [
@@ -6758,6 +6792,39 @@
       "startTime": "2026-02-11T17:14:24.946Z",
       "endTime": "2026-02-11T20:14:24.946Z",
       "finalPrice": 5001
+    }
+  ],
+  "Unendliche Rakete": [
+    {
+      "uid": "1d321f7838eb2670c01662c70178be8b",
+      "seller": "8b3cf73e-9a11-48b2-8d9d-c82727f2b210",
+      "item": {
+        "material": "FIREWORK_ROCKET",
+        "icon": "https://img.mc-api.io/firework_rocket.png",
+        "amount": 1,
+        "displayName": "Unendliche Rakete",
+        "lore": [
+          "",
+          "Diese Rakete boostet dich bis in die",
+          "Unendlichkeit und noch viel weiter!",
+          "",
+          "➥ Effekt: Unendliche Rakete",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1800000,
+      "currentBid": 1800001,
+      "highestBidder": "7f07d153-59b3-4130-9659-739158e19ce2",
+      "bids": {
+        "7f07d153-59b3-4130-9659-739158e19ce2": 1800001
+      },
+      "startTime": "2026-02-11T16:45:12.747Z",
+      "endTime": "2026-02-11T19:45:12.747Z",
+      "finalPrice": 1800001
     }
   ]
 }
