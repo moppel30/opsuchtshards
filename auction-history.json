@@ -13483,5 +13483,47 @@
       "endTime": "2026-02-11T21:11:46.422Z",
       "finalPrice": 1
     }
+  ],
+  "12 OPSUCHT Schuhe 12": [
+    {
+      "uid": "025f3c9496b58b4bd3c4ae422f5cc82d",
+      "seller": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": "12 OPSUCHT Schuhe 12",
+        "lore": [
+          "",
+          "Diese Schuhe entstanden bei",
+          "der Gründung von OPSUCHT",
+          "",
+          "OPSUCHT Kollektion (4/9)",
+          "",
+          "Signiert von OPSUCHT am 31.05.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 4,
+          "minecraft:thorns": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:feather_falling": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 5000,
+      "currentBid": 8000,
+      "highestBidder": "00000000-0000-0000-0009-01f0d360fc04",
+      "bids": {
+        "00000000-0000-0000-0009-01f0d360fc04": 8000
+      },
+      "startTime": "2026-02-11T21:07:22.529Z",
+      "endTime": "2026-02-11T21:22:22.529Z",
+      "finalPrice": 8000
+    }
   ]
 }
