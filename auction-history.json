@@ -5941,6 +5941,53 @@
       "startTime": "2026-02-11T16:48:26.158Z",
       "endTime": "2026-02-11T19:53:32.712Z",
       "finalPrice": 1767500
+    },
+    {
+      "uid": "0698810ae5b70d73d863f455d5b9775d",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Odin's Schwingen",
+        "lore": [
+          "",
+          "Gewoben aus den Federn der Raben Odins,",
+          "tragen dich diese Schwingen durch die neun Reiche.",
+          "",
+          "Signiert von Odin am 23.01.2024",
+          "",
+          "➥ Effekt: +60% Geschwindigkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2000000,
+      "highestBidder": "467a270e-e00f-41c8-873e-4b57ee3d5a03",
+      "bids": {
+        "fb0a61a1-79ee-4b47-bb9f-266361799807": 726442.4,
+        "53b61fb0-9590-4cba-b565-00de7b519207": 52500,
+        "7fa85081-7039-4f72-9235-aa9fa0c15e0b": 1060500,
+        "00000000-0000-0000-0009-00000b5785fd": 250000,
+        "47085d03-a0fc-4327-aaa2-2fc9fdb1bf69": 516120,
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 2000000,
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 939733.14,
+        "9197ae6a-4e2d-4b88-8b7f-8cc262eb41c5": 2,
+        "5cb43d84-bf0a-4343-a0ab-f5b7ec9fa1d7": 30000,
+        "00000000-0000-0000-0009-01f5b83ba789": 40000,
+        "00000000-0000-0000-0009-01f804586f9b": 200000,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 55125,
+        "285d7804-d25e-4c34-b959-8e1266ec9222": 89155,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 1767500,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 526442.4,
+        "b66aec83-1fff-4087-bef6-0ba8d0fc0968": 958528
+      },
+      "startTime": "2026-02-11T16:48:26.158Z",
+      "endTime": "2026-02-11T19:54:19.893Z",
+      "finalPrice": 2000000
     }
   ],
   "Mini One Hit Wonder": [
@@ -7878,6 +7925,32 @@
       "startTime": "2026-02-10T20:46:20.343Z",
       "endTime": "2026-02-11T20:46:20.343Z",
       "finalPrice": 14281400
+    }
+  ],
+  "Elfenbeinschild": [
+    {
+      "uid": "b1cf9cd24ebdf23829c88a8207fb1ada",
+      "seller": "8452af63-e62c-4271-a641-1678ab963aa1",
+      "item": {
+        "material": "SHIELD",
+        "amount": 1,
+        "displayName": "Elfenbeinschild",
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "41d1f529-5baa-4736-99d4-91841d833580",
+      "bids": {
+        "41d1f529-5baa-4736-99d4-91841d833580": 10001
+      },
+      "startTime": "2026-02-10T20:51:16.583Z",
+      "endTime": "2026-02-11T20:51:16.583Z",
+      "finalPrice": 10001
     }
   ]
 }
