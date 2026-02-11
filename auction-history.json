@@ -5764,6 +5764,40 @@
       "startTime": "2026-02-11T19:40:30.065Z",
       "endTime": "2026-02-11T20:44:41.746Z",
       "finalPrice": 153009
+    },
+    {
+      "uid": "d142f0eefd7ed0ad82f6ed219b4275d2",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 500000,
+      "currentBid": 500002,
+      "highestBidder": "00000000-0000-0000-0009-01fa990a099e",
+      "bids": {
+        "00000000-0000-0000-0009-01fa990a099e": 500002
+      },
+      "startTime": "2026-02-11T19:54:29.014Z",
+      "endTime": "2026-02-11T20:55:16.567Z",
+      "finalPrice": 500002
     }
   ],
   ".. Flinks Admin-Brustplatte ..": [
