@@ -10411,6 +10411,39 @@
       "startTime": "2026-02-11T19:40:18.123Z",
       "endTime": "2026-02-11T20:42:12.225Z",
       "finalPrice": 103020
+    },
+    {
+      "uid": "a4ab0f0d12d9b9ef46158ab4d5143c20",
+      "seller": "00000000-0000-0000-0009-01f491a40751",
+      "item": {
+        "material": "LEATHER_CHESTPLATE",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 250500,
+      "highestBidder": "fb0a3ea1-a3c7-4123-8203-df683e8043e9",
+      "bids": {
+        "fb0a3ea1-a3c7-4123-8203-df683e8043e9": 250500
+      },
+      "startTime": "2026-02-10T21:31:34.360Z",
+      "endTime": "2026-02-11T21:31:34.360Z",
+      "finalPrice": 250500
     }
   ],
   "Tunnelgräber Schaufel": [
@@ -13870,6 +13903,29 @@
       "startTime": "2026-02-10T22:12:02.073Z",
       "endTime": "2026-02-11T22:12:02.073Z",
       "finalPrice": 1000000
+    }
+  ],
+  "Pizza Vitrine": [
+    {
+      "uid": "80d329e1c322075b31095c2f53830223",
+      "seller": "90a741dc-dc58-4046-a88a-2a5568b039d2",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Pizza Vitrine",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 325000,
+      "currentBid": 325001,
+      "highestBidder": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "bids": {
+        "d72075d7-12d3-4fc5-8f58-a1678b0ec333": 325001
+      },
+      "startTime": "2026-02-11T15:28:43.820Z",
+      "endTime": "2026-02-11T21:28:43.820Z",
+      "finalPrice": 325001
     }
   ]
 }
