@@ -6625,6 +6625,41 @@
       "startTime": "2026-02-11T18:26:11.340Z",
       "endTime": "2026-02-11T19:26:11.340Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "6de5df33efa8ac7b147510edf0ee793c",
+      "seller": "4829b672-3bb2-4f47-9b4b-7c078ba15509",
+      "item": {
+        "material": "DIAMOND_SWORD",
+        "icon": "https://img.mc-api.io/diamond_sword.png",
+        "amount": 1,
+        "displayName": "Tauklinge",
+        "lore": [
+          "",
+          "Eine scharfe Schneide, die Licht",
+          "und Eis in Einklang bringt!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (4/8)"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:looting": 3
+        }
+      },
+      "category": "other",
+      "startBid": 1,
+      "currentBid": 2,
+      "highestBidder": "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc",
+      "bids": {
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 2
+      },
+      "startTime": "2026-02-11T20:30:43.509Z",
+      "endTime": "2026-02-11T20:45:43.509Z",
+      "finalPrice": 2
     }
   ],
   "Windhose": [
@@ -8043,6 +8078,44 @@
       "startTime": "2026-02-10T20:28:39.261Z",
       "endTime": "2026-02-11T20:32:34.859Z",
       "finalPrice": 200000
+    },
+    {
+      "uid": "6f4b643650380ab698ba88a526a4cbb5",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "SPONGE",
+        "icon": "https://img.mc-api.io/sponge.png",
+        "amount": 1,
+        "displayName": "OP Schwamm",
+        "lore": [
+          "",
+          "➥ Effekt: Entfernt Lava im 4x4 Bereich",
+          "➥ Effekt: Dieser Schwamm wird niemals nass sein",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1
+        }
+      },
+      "category": "op_items",
+      "startBid": 1,
+      "currentBid": 208080,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "0377a96f-0644-4c99-a42e-b2c51b75db5b": 55125,
+        "51472d55-8185-4c6d-8e7a-f487d7340132": 52500,
+        "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3": 60775.32,
+        "00000000-0000-0000-0009-01f34aff6147": 50000,
+        "e987a8ea-a996-437a-a106-4a98449578fc": 204000,
+        "00000000-0000-0000-0009-01fc2d8f1862": 500,
+        "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9": 125000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 208080
+      },
+      "startTime": "2026-02-10T20:28:39.261Z",
+      "endTime": "2026-02-11T20:33:55.021Z",
+      "finalPrice": 208080
     }
   ],
   "Phils Kristallkrone": [
@@ -9324,6 +9397,46 @@
       "startTime": "2026-02-11T20:08:56.667Z",
       "endTime": "2026-02-11T20:32:56.836Z",
       "finalPrice": 8080000
+    },
+    {
+      "uid": "940a3c67025fe6bfcf62f0580f7e1eaa",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Geburtstags Party Hut #7",
+        "lore": [
+          "",
+          "Feiere den 7. Geburtstag",
+          "von OPSUCHT.net gemeinsam mit",
+          "der gesamten Community!",
+          "",
+          "Signiert von OPSUCHT am 23.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Diamanterz (Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 9000000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "8f530c14-9396-4d64-a551-41ae02b5634a": 1500000,
+        "cfe0570b-de53-4032-bb4e-409d3ed67fd9": 1300000,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 8080000,
+        "4829b672-3bb2-4f47-9b4b-7c078ba15509": 6060001,
+        "00000000-0000-0000-0009-01f2b664f582": 1000,
+        "546502b5-e460-4b2b-b2c3-319c646a4773": 50000,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 9000000,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 20000
+      },
+      "startTime": "2026-02-11T20:08:56.667Z",
+      "endTime": "2026-02-11T20:33:45.865Z",
+      "finalPrice": 9000000
     }
   ],
   "Glück Spitzhacke": [
@@ -9753,6 +9866,47 @@
       "startTime": "2026-02-11T20:09:18.964Z",
       "endTime": "2026-02-11T20:31:58.797Z",
       "finalPrice": 2500000
+    },
+    {
+      "uid": "def68d874359e324c5f6aa74ec741b21",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Builder Axt",
+        "lore": [
+          "",
+          "Signiert vom Builder-Team am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2750000,
+      "highestBidder": "467a270e-e00f-41c8-873e-4b57ee3d5a03",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 60000,
+        "f24e166c-3166-4ba2-9c3a-a63faaff1b3f": 306000,
+        "3f237c18-1a92-4fc0-b873-bb23e68a1450": 400000,
+        "68aec8f2-eee3-472c-8821-c9b6124a352a": 334000,
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 2750000,
+        "00000000-0000-0000-0009-01fa8fe88e0d": 1,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 500000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 387600,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 2600000
+      },
+      "startTime": "2026-02-11T20:09:18.964Z",
+      "endTime": "2026-02-11T20:33:47.050Z",
+      "finalPrice": 2750000
     }
   ],
   "Businezz Modpicke": [
@@ -10679,6 +10833,81 @@
       "startTime": "2026-02-10T20:27:47.542Z",
       "endTime": "2026-02-11T20:27:47.542Z",
       "finalPrice": 2500000
+    }
+  ],
+  "Jonahchos Modpicke": [
+    {
+      "uid": "9d3647dc2987b425b894df05238ad523",
+      "seller": "00000000-0000-0000-0009-01f568036dc4",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Jonahchos Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Jonahcho am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 2200000,
+      "currentBid": 2200001,
+      "highestBidder": "ab3c32c5-2df0-437c-b401-15d80a54845a",
+      "bids": {
+        "ab3c32c5-2df0-437c-b401-15d80a54845a": 2200001
+      },
+      "startTime": "2026-02-11T19:32:19.559Z",
+      "endTime": "2026-02-11T20:33:49.095Z",
+      "finalPrice": 2200001
+    }
+  ],
+  "Wasserwaage": [
+    {
+      "uid": "722972d8b67b98a74420f254b9759671",
+      "seller": "4829b672-3bb2-4f47-9b4b-7c078ba15509",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Wasserwaage",
+        "lore": [
+          "",
+          "Zum Nachprüfen, ob die Playbuttons",
+          "tatsächlich gerade an der Wand hängen.",
+          "",
+          "Signiert von OPPhil am 01.06.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:knockback": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:looting": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 20000,
+      "highestBidder": "00000000-0000-0000-0009-01f1ac56e21b",
+      "bids": {
+        "00000000-0000-0000-0009-01f1ac56e21b": 20000
+      },
+      "startTime": "2026-02-11T20:31:04.753Z",
+      "endTime": "2026-02-11T20:46:04.752Z",
+      "finalPrice": 20000
     }
   ]
 }
