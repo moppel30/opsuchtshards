@@ -1510,6 +1510,79 @@
       "startTime": "2026-02-11T07:33:32.902Z",
       "endTime": "2026-02-11T19:42:05.840Z",
       "finalPrice": 430523.6
+    },
+    {
+      "uid": "02d2904ee7a1c51ccc68f93d52918157",
+      "seller": "be3e22e3-57fa-4fa4-bac2-21eeeb51f7fc",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 76125,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "79791a41-211e-4300-a9e9-f8445d736d38": 52500,
+        "4e729723-a075-4bb3-86ad-cfc51fe2e9fd": 69000,
+        "00000000-0000-0000-0009-01f2c6b2de98": 50000,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 76125,
+        "5626b97d-f391-4f82-9235-b6f24b071afd": 65123,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 1,
+        "2054054e-b7a9-4a86-bd32-effd6982b880": 10000,
+        "00000000-0000-0000-0009-01f8bb54a6cb": 72500
+      },
+      "startTime": "2026-02-10T20:58:37.708Z",
+      "endTime": "2026-02-11T20:58:37.707Z",
+      "finalPrice": 76125
+    },
+    {
+      "uid": "c6092ba4918b1354cc6003a944a02b86",
+      "seller": "be3e22e3-57fa-4fa4-bac2-21eeeb51f7fc",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 300000,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "79791a41-211e-4300-a9e9-f8445d736d38": 57750,
+        "00000000-0000-0000-0009-01f2c6b2de98": 55000,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 300000,
+        "00000000-0000-0000-0009-01f92709af1c": 1000,
+        "00000000-0000-0000-0009-01ff4c5858b7": 65000,
+        "dc4e7a8b-0fe4-469c-9a8d-6e8cdc09193f": 120000,
+        "6845c469-cb24-4b8e-aca3-fc73f1824268": 195000
+      },
+      "startTime": "2026-02-10T20:58:44.399Z",
+      "endTime": "2026-02-11T20:58:44.399Z",
+      "finalPrice": 300000
     }
   ],
   "POTION": [
@@ -6112,6 +6185,44 @@
       "startTime": "2026-02-11T16:48:38.711Z",
       "endTime": "2026-02-11T19:50:54.793Z",
       "finalPrice": 250000
+    },
+    {
+      "uid": "d3d4c0a1322e1375eb185b2d666469f5",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Mini One Hit Wonder",
+        "lore": [
+          "",
+          "Erledige alle Mobs",
+          "mit einem Schlag.",
+          "",
+          "Signiert von OPSUCHT am 01.04.2025",
+          "",
+          "➥ Effekt: Oneclickt alle Mobs",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:knockback": 2,
+          "minecraft:unbreaking": 4,
+          "minecraft:fire_aspect": 3,
+          "minecraft:sweeping_edge": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 250002,
+      "highestBidder": "719b20f5-7611-4ae6-afa4-54c8ed389780",
+      "bids": {
+        "719b20f5-7611-4ae6-afa4-54c8ed389780": 250002
+      },
+      "startTime": "2026-02-11T19:55:14.661Z",
+      "endTime": "2026-02-11T20:55:14.661Z",
+      "finalPrice": 250002
     }
   ],
   "Infinity Axt": [
@@ -7634,6 +7745,40 @@
       "startTime": "2026-02-10T20:34:21.232Z",
       "endTime": "2026-02-11T20:34:21.232Z",
       "finalPrice": 162000
+    },
+    {
+      "uid": "d69f1176b3f507eb9f228285ca4c43b5",
+      "seller": "00000000-0000-0000-0009-01fd40c5be85",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Gletscheraxt",
+        "lore": [
+          "",
+          "Geschmiedet aus gefrorenem",
+          "Stahl und durch die Kälte verhärtet!",
+          "",
+          "Signiert vom Eiswanderer am 01.11.2025",
+          "",
+          "Gletscherkollektion (2/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 353001.02,
+      "highestBidder": "392cfe99-ad51-48ea-b23f-10f1b93dbc29",
+      "bids": {
+        "392cfe99-ad51-48ea-b23f-10f1b93dbc29": 353001.02
+      },
+      "startTime": "2026-02-11T14:58:03.561Z",
+      "endTime": "2026-02-11T20:58:03.561Z",
+      "finalPrice": 353001.02
     }
   ],
   "NETHERITE_CHESTPLATE": [
@@ -8041,6 +8186,82 @@
       "startTime": "2026-02-11T19:40:18.123Z",
       "endTime": "2026-02-11T20:40:18.123Z",
       "finalPrice": 101000
+    }
+  ],
+  "Tunnelgräber Schaufel": [
+    {
+      "uid": "3043944397039033f7decd14092d2809",
+      "seller": "228b1f9d-7767-480d-a7ee-c80c871dcfbe",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "amount": 1,
+        "displayName": "Tunnelgräber Schaufel",
+        "lore": [
+          "Knall I",
+          "",
+          "Baue mit dieser Schaufel",
+          "einen 3x3 Bereich",
+          "in der Farmwelt ab.",
+          "",
+          "Signiert von OPSUCHT am 01.07.2024",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 80000000,
+      "currentBid": 100500000,
+      "highestBidder": "90a741dc-dc58-4046-a88a-2a5568b039d2",
+      "bids": {
+        "0dfe441b-7b60-49d4-8971-28e1ab410ff0": 90000000,
+        "13473974-e29e-489c-888d-ef66c9252628": 80000001,
+        "90a741dc-dc58-4046-a88a-2a5568b039d2": 100500000,
+        "8754352f-672d-4439-b013-a6a99f810658": 100000000
+      },
+      "startTime": "2026-02-11T17:58:19.074Z",
+      "endTime": "2026-02-11T20:58:19.073Z",
+      "finalPrice": 100500000
+    }
+  ],
+  "OPSUCHT Teamler Box": [
+    {
+      "uid": "8b02a05aa429e7140394eb0c440a666b",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "LIGHT_BLUE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/light_blue_shulker_box.png",
+        "amount": 1,
+        "displayName": "OPSUCHT Teamler Box",
+        "lore": [
+          "",
+          "Plüsch Philip x1",
+          "Plüsch Wilko x1",
+          "Plüsch Marcel x1",
+          "Plüsch Emmy x1",
+          "",
+          "und x4 Weitere Plüschis",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1000000,
+      "currentBid": 1200000,
+      "highestBidder": "467a270e-e00f-41c8-873e-4b57ee3d5a03",
+      "bids": {
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 1200000
+      },
+      "startTime": "2026-02-11T19:55:37.078Z",
+      "endTime": "2026-02-11T20:55:37.078Z",
+      "finalPrice": 1200000
     }
   ]
 }
