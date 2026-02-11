@@ -13330,5 +13330,28 @@
       "endTime": "2026-02-11T21:54:14.491Z",
       "finalPrice": 100000
     }
+  ],
+  "Holztisch": [
+    {
+      "uid": "ceabc129251d70fc4402508cdf5cac64",
+      "seller": "cc6d7659-1a71-4340-b79b-0b5da80549a2",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Holztisch",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 25000,
+      "currentBid": 25010,
+      "highestBidder": "8d92162e-0074-4092-853e-4e17215bb8bc",
+      "bids": {
+        "8d92162e-0074-4092-853e-4e17215bb8bc": 25010
+      },
+      "startTime": "2026-02-11T20:41:30.757Z",
+      "endTime": "2026-02-11T21:41:30.757Z",
+      "finalPrice": 25010
+    }
   ]
 }
