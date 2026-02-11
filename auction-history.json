@@ -13619,5 +13619,32 @@
       "endTime": "2026-02-11T22:10:14.208Z",
       "finalPrice": 22000
     }
+  ],
+  "Pilz Paket": [
+    {
+      "uid": "95760dd8a71ede780ca994df5636ceb7",
+      "seller": "2eb6a501-d4aa-4f5c-8311-1ebfe21af59d",
+      "item": {
+        "material": "RED_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/red_shulker_box.png",
+        "amount": 1,
+        "displayName": "Pilz Paket",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 555555,
+      "currentBid": 1000000,
+      "highestBidder": "00000000-0000-0000-0009-01f2b664f582",
+      "bids": {
+        "4effe3e3-6aa6-4c49-9cdf-10eb09b37064": 555556,
+        "f63843ea-571b-4f8e-8a49-2b8c40a05fa4": 863533.02,
+        "1c17da9d-c771-4a96-adcc-0bff0b2a5948": 846601,
+        "00000000-0000-0000-0009-01f2b664f582": 1000000
+      },
+      "startTime": "2026-02-10T22:12:02.073Z",
+      "endTime": "2026-02-11T22:12:02.073Z",
+      "finalPrice": 1000000
+    }
   ]
 }
