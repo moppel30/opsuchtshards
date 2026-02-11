@@ -589,6 +589,139 @@
       "startTime": "2026-02-11T18:04:54.094Z",
       "endTime": "2026-02-11T19:07:49.525Z",
       "finalPrice": 387600
+    },
+    {
+      "uid": "15b8adfe00fb68fbe5c3d13e6818a200",
+      "seller": "d28a9e97-edb2-49cc-9a34-ab54334d184c",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 400000,
+      "highestBidder": "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 387600,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 300001,
+        "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6": 400000
+      },
+      "startTime": "2026-02-10T19:04:20.338Z",
+      "endTime": "2026-02-11T19:08:42.444Z",
+      "finalPrice": 400000
+    },
+    {
+      "uid": "f28641325f28302122b03f1973d82d1d",
+      "seller": "d28a9e97-edb2-49cc-9a34-ab54334d184c",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 400000,
+      "highestBidder": "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 387600,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 300001,
+        "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6": 400000
+      },
+      "startTime": "2026-02-10T19:04:35.911Z",
+      "endTime": "2026-02-11T19:08:28.635Z",
+      "finalPrice": 400000
+    },
+    {
+      "uid": "f606b4110cdbad7e3658e065c5100212",
+      "seller": "a6581089-ed2a-43cc-b60b-65a932eb2146",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 2000,
+      "currentBid": 450000,
+      "highestBidder": "6845c469-cb24-4b8e-aca3-fc73f1824268",
+      "bids": {
+        "4e729723-a075-4bb3-86ad-cfc51fe2e9fd": 55125,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 350000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 153000,
+        "55785186-ace6-47ea-8523-9149423edd7f": 80000,
+        "dc4e7a8b-0fe4-469c-9a8d-6e8cdc09193f": 50000,
+        "6845c469-cb24-4b8e-aca3-fc73f1824268": 450000,
+        "00000000-0000-0000-0009-00000a6d41ea": 5000
+      },
+      "startTime": "2026-02-11T16:08:06.919Z",
+      "endTime": "2026-02-11T19:08:17.895Z",
+      "finalPrice": 450000
+    },
+    {
+      "uid": "81feecbfe90a12668c2a53b3c9ec2ba5",
+      "seller": "a6581089-ed2a-43cc-b60b-65a932eb2146",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 15000,
+      "currentBid": 400000,
+      "highestBidder": "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6",
+      "bids": {
+        "a53e95a6-b674-4568-bb09-452c78bae489": 387600,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 306000,
+        "3b69ee70-f2b2-49ae-b8a9-09dda18eb8a6": 400000,
+        "aae0873a-4fd9-43c2-9851-ce4d3a7b672c": 200001
+      },
+      "startTime": "2026-02-11T18:04:54.094Z",
+      "endTime": "2026-02-11T19:08:02.988Z",
+      "finalPrice": 400000
     }
   ],
   "Soldatenmaske": [
