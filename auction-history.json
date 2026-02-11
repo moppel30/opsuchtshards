@@ -1784,6 +1784,86 @@
       "startTime": "2026-02-10T20:58:44.399Z",
       "endTime": "2026-02-11T20:58:49.746Z",
       "finalPrice": 331224.6
+    },
+    {
+      "uid": "02d2904ee7a1c51ccc68f93d52918157",
+      "seller": "be3e22e3-57fa-4fa4-bac2-21eeeb51f7fc",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 276021,
+      "highestBidder": "a53e95a6-b674-4568-bb09-452c78bae489",
+      "bids": {
+        "79791a41-211e-4300-a9e9-f8445d736d38": 52500,
+        "4e729723-a075-4bb3-86ad-cfc51fe2e9fd": 69000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 265302,
+        "f4b28b09-f203-4a86-b1e4-f0708e650349": 204000,
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 270608.04,
+        "00000000-0000-0000-0009-01f8bb54a6cb": 80000,
+        "702087a9-6d8e-4a8b-b4ec-7806fdc780cf": 229738.68,
+        "00000000-0000-0000-0009-01f2c6b2de98": 50000,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 276021,
+        "5626b97d-f391-4f82-9235-b6f24b071afd": 65123,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 1,
+        "2054054e-b7a9-4a86-bd32-effd6982b880": 10000,
+        "55785186-ace6-47ea-8523-9149423edd7f": 84000
+      },
+      "startTime": "2026-02-10T20:58:37.708Z",
+      "endTime": "2026-02-11T20:59:39.885Z",
+      "finalPrice": 276021
+    },
+    {
+      "uid": "18097b1f6591b427481b363c717c98cd",
+      "seller": "be3e22e3-57fa-4fa4-bac2-21eeeb51f7fc",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 270608.04,
+      "highestBidder": "36127163-6f36-4e75-b41e-0dbdd7307366",
+      "bids": {
+        "79791a41-211e-4300-a9e9-f8445d736d38": 52500,
+        "00000000-0000-0000-0009-01f2c6b2de98": 50000,
+        "a53e95a6-b674-4568-bb09-452c78bae489": 265302,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 255000,
+        "5626b97d-f391-4f82-9235-b6f24b071afd": 65123,
+        "27a46e5a-3a50-488d-89ea-c38997a3c554": 1,
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 270608.04,
+        "2054054e-b7a9-4a86-bd32-effd6982b880": 10000,
+        "55785186-ace6-47ea-8523-9149423edd7f": 156000
+      },
+      "startTime": "2026-02-10T20:58:51.603Z",
+      "endTime": "2026-02-11T20:59:57.120Z",
+      "finalPrice": 270608.04
     }
   ],
   "POTION": [
@@ -11391,6 +11471,40 @@
       "startTime": "2026-02-11T19:57:14.573Z",
       "endTime": "2026-02-11T20:58:39.876Z",
       "finalPrice": 1632160
+    },
+    {
+      "uid": "f887b79c0523d74f7f1107f817202f35",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Flink040",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (6/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1648481.6,
+      "highestBidder": "c792cd12-91e7-4e03-8d31-11fff04523fa",
+      "bids": {
+        "71a9b557-576e-4577-a824-fb58ec7a7422": 1600000,
+        "c792cd12-91e7-4e03-8d31-11fff04523fa": 1648481.6,
+        "5e307ac5-53b5-4594-a004-a0185ef1827f": 1632160
+      },
+      "startTime": "2026-02-11T19:57:14.573Z",
+      "endTime": "2026-02-11T20:59:16.288Z",
+      "finalPrice": 1648481.6
     }
   ],
   "Engelshose": [
@@ -12461,6 +12575,40 @@
       "startTime": "2026-02-11T19:57:06.810Z",
       "endTime": "2026-02-11T20:58:20.334Z",
       "finalPrice": 1515001.01
+    },
+    {
+      "uid": "3a56ff82c1e310bedf0dfcb2764945c1",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "EinfachEmmy",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (4/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1530151.05,
+      "highestBidder": "f715201b-fd4f-461b-837a-c122b2872c4f",
+      "bids": {
+        "c792cd12-91e7-4e03-8d31-11fff04523fa": 1500001,
+        "5e307ac5-53b5-4594-a004-a0185ef1827f": 1515001.01,
+        "f715201b-fd4f-461b-837a-c122b2872c4f": 1530151.05
+      },
+      "startTime": "2026-02-11T19:57:06.810Z",
+      "endTime": "2026-02-11T20:59:51.012Z",
+      "finalPrice": 1530151.05
     }
   ],
   "Sculkbrustplatte": [
