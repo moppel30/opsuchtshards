@@ -3249,5 +3249,35 @@
       "endTime": "2026-02-11T20:20:50.385Z",
       "finalPrice": 1001
     }
+  ],
+  "Wichtelhose": [
+    {
+      "uid": "e2af1e90b1d8382209327aa0b4a98e93",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "icon": "https://img.mc-api.io/leather_leggings.png",
+        "amount": 1,
+        "displayName": "Wichtelhose",
+        "lore": [
+          "Adventskalender Item vom 13.12.2025"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1001
+      },
+      "startTime": "2026-02-10T20:22:25.756Z",
+      "endTime": "2026-02-11T20:22:25.756Z",
+      "finalPrice": 1001
+    }
   ]
 }
