@@ -5495,6 +5495,40 @@
       "startTime": "2026-02-11T16:48:52.259Z",
       "endTime": "2026-02-11T19:52:36.730Z",
       "finalPrice": 300000
+    },
+    {
+      "uid": "deedafec4da7a685b80c88198e6915aa",
+      "seller": "00000000-0000-0000-0009-01f8482619ba",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "d5585b3a-f565-4fd1-a0ab-1d661ba0862d",
+      "bids": {
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 100001
+      },
+      "startTime": "2026-02-11T19:40:30.065Z",
+      "endTime": "2026-02-11T20:40:30.065Z",
+      "finalPrice": 100001
     }
   ],
   ".. Flinks Admin-Brustplatte ..": [
@@ -8905,6 +8939,40 @@
       "startTime": "2026-02-11T20:12:07.407Z",
       "endTime": "2026-02-11T21:12:07.407Z",
       "finalPrice": 200
+    }
+  ],
+  "Flink040": [
+    {
+      "uid": "f887b79c0523d74f7f1107f817202f35",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Flink040",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (6/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1500001,
+      "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
+      "bids": {
+        "71a9b557-576e-4577-a824-fb58ec7a7422": 1500001
+      },
+      "startTime": "2026-02-11T19:57:14.573Z",
+      "endTime": "2026-02-11T20:57:14.573Z",
+      "finalPrice": 1500001
     }
   ]
 }
