@@ -7888,6 +7888,29 @@
       },
       "startTime": "2026-02-09T17:03:48.132Z",
       "endTime": "2026-02-09T18:03:48.132Z"
+    },
+    {
+      "uid": "942c8f3deb9b9c3b970fe9ffab19ca1f",
+      "seller": "f2af45fa-76e0-4ccb-a179-d8b23ef6a9bf",
+      "item": {
+        "material": "OCELOT_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/ocelot_spawn_egg.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 20000,
+      "currentBid": 24255,
+      "highestBidder": "6f47f379-4a45-4bb3-a12c-b08c636cec47",
+      "bids": {
+        "6f47f379-4a45-4bb3-a12c-b08c636cec47": 24255,
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 23100,
+        "00000000-0000-0000-0009-01fb06040f00": 22000
+      },
+      "startTime": "2026-02-10T09:14:48.917Z",
+      "endTime": "2026-02-11T09:14:48.917Z",
+      "finalPrice": 24255
     }
   ],
   "Taubrustplatte": [
@@ -9563,6 +9586,69 @@
       "startTime": "2026-02-10T19:05:18.757Z",
       "endTime": "2026-02-10T20:05:18.757Z",
       "finalPrice": 5512.5
+    },
+    {
+      "uid": "af401521f604d19639c0491f0a2caac3",
+      "seller": "58cbeeaa-db89-45ed-8817-6b09911071d9",
+      "item": {
+        "material": "SHEARS",
+        "amount": 1,
+        "displayName": "OP Teppichmesser",
+        "lore": [
+          "",
+          "➥ Effekt: Baut Teppiche im 5x5 Bereich ab",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 20000,
+      "currentBid": 60000,
+      "highestBidder": "e4282935-5e98-4d4b-9bed-670ce1e9fca4",
+      "bids": {
+        "e4282935-5e98-4d4b-9bed-670ce1e9fca4": 60000,
+        "da5424e1-edd0-419b-b79d-a11339106ae5": 20002
+      },
+      "startTime": "2026-02-10T21:09:33.844Z",
+      "endTime": "2026-02-11T09:09:33.844Z",
+      "finalPrice": 60000
+    },
+    {
+      "uid": "921d03a4115dfb5841eafef07b351418",
+      "seller": "58cbeeaa-db89-45ed-8817-6b09911071d9",
+      "item": {
+        "material": "SHEARS",
+        "amount": 1,
+        "displayName": "OP Teppichmesser",
+        "lore": [
+          "",
+          "➥ Effekt: Baut Teppiche im 5x5 Bereich ab",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 20000,
+      "currentBid": 20001,
+      "highestBidder": "00000000-0000-0000-0009-01f46fbab29b",
+      "bids": {
+        "00000000-0000-0000-0009-01f46fbab29b": 20001
+      },
+      "startTime": "2026-02-10T21:09:50Z",
+      "endTime": "2026-02-11T09:09:50Z",
+      "finalPrice": 20001
     }
   ],
   "Mini One Hit Wonder": [
@@ -12390,6 +12476,38 @@
       "startTime": "2026-02-10T19:43:58.395Z",
       "endTime": "2026-02-10T20:43:58.395Z",
       "finalPrice": 4
+    },
+    {
+      "uid": "5b41d4480ea048b3ee6918bdaba3a6bb",
+      "seller": "7b9468c7-dbca-47f6-99cc-52968b41412a",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "amount": 1,
+        "displayName": "Sculkschaufel",
+        "lore": [
+          "",
+          "Sculkkollektion (3/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 100001,
+      "highestBidder": "7d46edfe-1ce5-4857-9200-22c47b7ca5ff",
+      "bids": {
+        "7d46edfe-1ce5-4857-9200-22c47b7ca5ff": 100001
+      },
+      "startTime": "2026-02-10T21:01:17.136Z",
+      "endTime": "2026-02-11T09:01:17.136Z",
+      "finalPrice": 100001
     }
   ],
   "Glasschneider": [
@@ -20061,6 +20179,27 @@
       },
       "startTime": "2026-02-09T17:47:45.870Z",
       "endTime": "2026-02-10T17:47:45.870Z"
+    },
+    {
+      "uid": "4f86ae300f436478d4ae2737f80e41d3",
+      "seller": "f2af45fa-76e0-4ccb-a179-d8b23ef6a9bf",
+      "item": {
+        "material": "PARROT_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/parrot_spawn_egg.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596",
+      "bids": {
+        "4e8abbb9-ab2d-4d13-86f6-6f664d9e9596": 50001
+      },
+      "startTime": "2026-02-10T09:14:35.466Z",
+      "endTime": "2026-02-11T09:14:35.466Z",
+      "finalPrice": 50001
     }
   ],
   "Schildkröten-Spawn-Ei": [
@@ -20301,6 +20440,34 @@
       "startTime": "2026-02-10T11:07:46.074Z",
       "endTime": "2026-02-10T23:07:46.074Z",
       "finalPrice": 52501.05
+    },
+    {
+      "uid": "c95426d4450b1ec288992d527306f809",
+      "seller": "00000000-0000-0000-0009-01f923ae25d5",
+      "item": {
+        "material": "MILK_BUCKET",
+        "icon": "https://img.mc-api.io/milk_bucket.png",
+        "amount": 1,
+        "displayName": "Unendlicher Milcheimer",
+        "lore": [
+          "",
+          "➥ Effekt: Unendlich Milch",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 60000,
+      "currentBid": 60001,
+      "highestBidder": "c5e7583e-51ac-4533-92b6-d78405c54372",
+      "bids": {
+        "c5e7583e-51ac-4533-92b6-d78405c54372": 60001
+      },
+      "startTime": "2026-02-10T20:46:17.125Z",
+      "endTime": "2026-02-11T08:46:17.125Z",
+      "finalPrice": 60001
     }
   ],
   "Lotterietotem": [
@@ -22680,6 +22847,39 @@
       "startTime": "2026-02-10T19:05:01.957Z",
       "endTime": "2026-02-10T20:05:01.957Z",
       "finalPrice": 170000
+    },
+    {
+      "uid": "956289b82b4e63dfe02ec0af2f56114c",
+      "seller": "00000000-0000-0000-0009-01fdbe9effda",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Helm ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 10,
+          "minecraft:aqua_affinity": 6,
+          "minecraft:respiration": 8
+        }
+      },
+      "category": "armor",
+      "startBid": 300000,
+      "currentBid": 375000,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 375000
+      },
+      "startTime": "2026-02-10T21:25:29.371Z",
+      "endTime": "2026-02-11T09:25:29.371Z",
+      "finalPrice": 375000
     }
   ],
   "Tauhelm": [
