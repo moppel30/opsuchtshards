@@ -8946,6 +8946,40 @@
       "startTime": "2026-02-11T19:40:18.123Z",
       "endTime": "2026-02-11T20:40:18.123Z",
       "finalPrice": 101000
+    },
+    {
+      "uid": "5450914211d0adfc28d195c3507c9218",
+      "seller": "00000000-0000-0000-0009-01f8482619ba",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 103020,
+      "highestBidder": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "bids": {
+        "d72075d7-12d3-4fc5-8f58-a1678b0ec333": 103020,
+        "75a1b1c5-00a8-448f-8884-26072706642e": 101000
+      },
+      "startTime": "2026-02-11T19:40:18.123Z",
+      "endTime": "2026-02-11T20:42:12.225Z",
+      "finalPrice": 103020
     }
   ],
   "Tunnelgräber Schaufel": [
@@ -11299,6 +11333,41 @@
       "startTime": "2026-02-10T21:39:41.921Z",
       "endTime": "2026-02-11T21:39:41.921Z",
       "finalPrice": 1890000
+    }
+  ],
+  "Jetpack": [
+    {
+      "uid": "cc6bad5ea1c942b8088c5358809725be",
+      "seller": "a2b1d9e9-c6e1-40f2-af8f-dd03192dab42",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Jetpack",
+        "lore": [
+          "",
+          "Fliege mit diesem",
+          "Jetpack zu den",
+          "Sternen!",
+          "",
+          "Signiert von OPSUCHT am 01.09.2024",
+          "",
+          "➥ Effekt: Fliegen (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 105000000,
+      "currentBid": 105000001,
+      "highestBidder": "f517dfc5-e05d-4769-b328-7a93ab0916f2",
+      "bids": {
+        "f517dfc5-e05d-4769-b328-7a93ab0916f2": 105000001
+      },
+      "startTime": "2026-02-11T17:41:42.102Z",
+      "endTime": "2026-02-11T20:42:27.686Z",
+      "finalPrice": 105000001
     }
   ]
 }
