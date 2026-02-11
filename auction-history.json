@@ -5695,6 +5695,43 @@
       "startTime": "2026-02-11T19:40:30.065Z",
       "endTime": "2026-02-11T20:43:33.129Z",
       "finalPrice": 106139
+    },
+    {
+      "uid": "deedafec4da7a685b80c88198e6915aa",
+      "seller": "00000000-0000-0000-0009-01f8482619ba",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Stiefel ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 8,
+          "minecraft:protection": 10,
+          "minecraft:depth_strider": 5,
+          "minecraft:soul_speed": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 100000,
+      "currentBid": 153009,
+      "highestBidder": "89031ab2-24fe-44ef-94ab-5f360255c987",
+      "bids": {
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 100001,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 150000,
+        "c67da735-e2b6-4444-9122-feabca3084b9": 104050.3,
+        "89031ab2-24fe-44ef-94ab-5f360255c987": 153009
+      },
+      "startTime": "2026-02-11T19:40:30.065Z",
+      "endTime": "2026-02-11T20:44:41.746Z",
+      "finalPrice": 153009
     }
   ],
   ".. Flinks Admin-Brustplatte ..": [
@@ -11141,6 +11178,37 @@
       "startTime": "2026-02-11T19:42:20.322Z",
       "endTime": "2026-02-11T20:43:38.468Z",
       "finalPrice": 612000
+    },
+    {
+      "uid": "d866e3757542d0a0b4637eb08caedd2e",
+      "seller": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Shard Blockzerstörer",
+        "lore": [
+          "",
+          "Dieses mächtige Werkzeug erlaubt,",
+          "ein gesamtes Grundstück auszuhöhlen!",
+          "",
+          "➥ Effekt: 15 Blöcke zerstören (Rechtsklick)",
+          "",
+          "ACHTUNG: Genug Haltbarkeit, um ein 1x1 Plot auszuhöhlen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 750000,
+      "highestBidder": "3577abd6-dfc1-47e6-8fee-c1e533ba4e16",
+      "bids": {
+        "3577abd6-dfc1-47e6-8fee-c1e533ba4e16": 750000,
+        "244eeff5-1d2d-496e-846f-5c8681592b29": 510001.02,
+        "c4f26ab7-520d-4416-8666-50f5b60d2875": 612000
+      },
+      "startTime": "2026-02-11T19:42:20.322Z",
+      "endTime": "2026-02-11T20:44:59.024Z",
+      "finalPrice": 750000
     }
   ],
   "OP Aktenkoffer": [
