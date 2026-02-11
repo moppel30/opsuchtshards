@@ -5298,6 +5298,91 @@
       "startTime": "2026-02-11T16:48:32.112Z",
       "endTime": "2026-02-11T19:48:32.112Z",
       "finalPrice": 830000
+    },
+    {
+      "uid": "0e249512f37e0c53d8799762712e2b2e",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2020000,
+      "highestBidder": "9d3a919a-8700-402d-8355-7a1e6feecfde",
+      "bids": {
+        "0f6725c3-424d-4787-99ad-36ddfbe5040b": 800000,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 2100,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 2020000,
+        "c0a16479-eaa8-4bb7-935a-9443a779e38e": 2000000,
+        "ac866283-cc13-46df-be58-5d1f8b9303f6": 1010000,
+        "00000000-0000-0000-0009-01fda9534acb": 2000,
+        "0fa79eac-9e9e-4264-bbca-65e0787fa8ba": 200000
+      },
+      "startTime": "2026-02-11T16:48:19.858Z",
+      "endTime": "2026-02-11T19:48:47.896Z",
+      "finalPrice": 2020000
+    },
+    {
+      "uid": "50f2f6cc730bec8b30040c21de8d7d02",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2000000,
+      "highestBidder": "cf2ec793-89ee-4358-b0b5-4c9c8abf021e",
+      "bids": {
+        "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec": 1500000,
+        "cf2ec793-89ee-4358-b0b5-4c9c8abf021e": 2000000,
+        "ac866283-cc13-46df-be58-5d1f8b9303f6": 714000,
+        "d89dfbaf-b158-42b8-afd7-b323b2300d9a": 2,
+        "00000000-0000-0000-0009-01fb2e916cef": 20000,
+        "ca816dfb-5b11-47a1-9f36-1c686e95914d": 1028866,
+        "00000000-0000-0000-0009-01f5b83ba789": 50000,
+        "0f6725c3-424d-4787-99ad-36ddfbe5040b": 795000,
+        "00000000-0000-0000-0009-01fe7ee4f4a1": 10000,
+        "beafb66e-9802-4662-8292-19de3157b428": 1102364.5,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 52500,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 1515000,
+        "00000000-0000-0000-0009-01fcdcedf44f": 830000,
+        "b66aec83-1fff-4087-bef6-0ba8d0fc0968": 1214389,
+        "a4285678-d135-4e9d-a2f0-3afcb117537e": 1202364.5,
+        "e72980d3-4ac9-470f-bfeb-1df3b02718fc": 1
+      },
+      "startTime": "2026-02-11T16:48:32.112Z",
+      "endTime": "2026-02-11T19:48:42.559Z",
+      "finalPrice": 2000000
     }
   ],
   "Odin's Schwingen": [
