@@ -7124,5 +7124,37 @@
       "endTime": "2026-02-11T20:41:02.387Z",
       "finalPrice": 600000
     }
+  ],
+  "Streak Spitzhacke": [
+    {
+      "uid": "ff4563fefeff428d58c4662e128f7c01",
+      "seller": "2a3e255c-0a15-4f23-992e-c6cc44aea414",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Streak Spitzhacke",
+        "lore": [
+          "",
+          "Geformt aus der Macht von 150",
+          "Tagen unerschütterlicher Präsenz!"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "tools",
+      "startBid": 2500000,
+      "currentBid": 2500001,
+      "highestBidder": "3577abd6-dfc1-47e6-8fee-c1e533ba4e16",
+      "bids": {
+        "3577abd6-dfc1-47e6-8fee-c1e533ba4e16": 2500001
+      },
+      "startTime": "2026-02-10T19:45:36.730Z",
+      "endTime": "2026-02-11T19:46:52.741Z",
+      "finalPrice": 2500001
+    }
   ]
 }
