@@ -5856,6 +5856,39 @@
       "startTime": "2026-02-11T20:08:49.561Z",
       "endTime": "2026-02-11T20:23:49.561Z",
       "finalPrice": 2501
+    },
+    {
+      "uid": "5b609552014b39b7c13ffd95d199c4b1",
+      "seller": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Minion",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (15/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1000,
+      "highestBidder": "42714712-a94d-4e8b-aade-ab078f796c87",
+      "bids": {
+        "42714712-a94d-4e8b-aade-ab078f796c87": 1000,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1
+      },
+      "startTime": "2026-02-11T21:10:03.855Z",
+      "endTime": "2026-02-11T21:25:43.286Z",
+      "finalPrice": 1000
     }
   ],
   "OP-Kiste": [
@@ -13887,6 +13920,47 @@
       "startTime": "2026-02-11T21:07:22.529Z",
       "endTime": "2026-02-11T21:23:56.245Z",
       "finalPrice": 9000
+    },
+    {
+      "uid": "025f3c9496b58b4bd3c4ae422f5cc82d",
+      "seller": "00000000-0000-0000-0009-01fc7bc9fa6c",
+      "item": {
+        "material": "DIAMOND_BOOTS",
+        "icon": "https://img.mc-api.io/diamond_boots.png",
+        "amount": 1,
+        "displayName": "12 OPSUCHT Schuhe 12",
+        "lore": [
+          "",
+          "Diese Schuhe entstanden bei",
+          "der Gründung von OPSUCHT",
+          "",
+          "OPSUCHT Kollektion (4/9)",
+          "",
+          "Signiert von OPSUCHT am 31.05.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 4,
+          "minecraft:thorns": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:feather_falling": 4,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "armor",
+      "startBid": 5000,
+      "currentBid": 9450,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 9450,
+        "00000000-0000-0000-0009-01f0d360fc04": 9000
+      },
+      "startTime": "2026-02-11T21:07:22.529Z",
+      "endTime": "2026-02-11T21:25:49.075Z",
+      "finalPrice": 9450
     }
   ],
   "Rosenstrauß": [
@@ -14033,6 +14107,111 @@
       "startTime": "2026-02-11T21:09:14.223Z",
       "endTime": "2026-02-11T21:24:59.525Z",
       "finalPrice": 250
+    },
+    {
+      "uid": "3c1235df4f40bfa9ef39fd9ce21c82e6",
+      "seller": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Supporter-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (8/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1500,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "42714712-a94d-4e8b-aade-ab078f796c87": 262.5,
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1500
+      },
+      "startTime": "2026-02-11T21:09:14.223Z",
+      "endTime": "2026-02-11T21:25:34.358Z",
+      "finalPrice": 1500
+    }
+  ],
+  "Sammelkarten GÜNSTIG": [
+    {
+      "uid": "4cff1439c84d43183bb3802e428d7896",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "WHITE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/white_shulker_box.png",
+        "amount": 1,
+        "displayName": "Sammelkarten GÜNSTIG",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1100000,
+      "currentBid": 1100001,
+      "highestBidder": "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc",
+      "bids": {
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 1100001
+      },
+      "startTime": "2026-02-10T21:37:17.475Z",
+      "endTime": "2026-02-11T21:37:17.475Z",
+      "finalPrice": 1100001
+    }
+  ],
+  "OP Sachen": [
+    {
+      "uid": "5ca4a2687fa07aa74fca26cc590cb35b",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "SHULKER_BOX",
+        "icon": "https://img.mc-api.io/shulker_box.png",
+        "amount": 1,
+        "displayName": "OP Sachen",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 3000001,
+      "currentBid": 3000002,
+      "highestBidder": "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc",
+      "bids": {
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 3000002
+      },
+      "startTime": "2026-02-10T21:38:24.534Z",
+      "endTime": "2026-02-11T21:38:24.534Z",
+      "finalPrice": 3000002
+    }
+  ],
+  "OP Sachen 2": [
+    {
+      "uid": "f97976f7d1fac0503f98b6fe02ecec98",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "BROWN_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/brown_shulker_box.png",
+        "amount": 1,
+        "displayName": "OP Sachen 2",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 2000003,
+      "currentBid": 2000004,
+      "highestBidder": "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc",
+      "bids": {
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 2000004
+      },
+      "startTime": "2026-02-10T21:39:04.236Z",
+      "endTime": "2026-02-11T21:39:04.236Z",
+      "finalPrice": 2000004
     }
   ]
 }
