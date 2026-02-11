@@ -2142,6 +2142,38 @@
       "startTime": "2026-02-11T17:22:50.568Z",
       "endTime": "2026-02-11T20:22:50.568Z",
       "finalPrice": 3000001
+    },
+    {
+      "uid": "883df805494f916ddaf36681fd3b74d6",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Christianoooo",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (5/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1500001,
+      "highestBidder": "c792cd12-91e7-4e03-8d31-11fff04523fa",
+      "bids": {
+        "c792cd12-91e7-4e03-8d31-11fff04523fa": 1500001
+      },
+      "startTime": "2026-02-11T19:57:00.417Z",
+      "endTime": "2026-02-11T20:57:00.417Z",
+      "finalPrice": 1500001
     }
   ],
   "Geburtstags Buch V7": [
@@ -6831,6 +6863,43 @@
       "startTime": "2026-02-11T20:30:43.509Z",
       "endTime": "2026-02-11T20:45:43.509Z",
       "finalPrice": 2
+    },
+    {
+      "uid": "6de5df33efa8ac7b147510edf0ee793c",
+      "seller": "4829b672-3bb2-4f47-9b4b-7c078ba15509",
+      "item": {
+        "material": "DIAMOND_SWORD",
+        "icon": "https://img.mc-api.io/diamond_sword.png",
+        "amount": 1,
+        "displayName": "Tauklinge",
+        "lore": [
+          "",
+          "Eine scharfe Schneide, die Licht",
+          "und Eis in Einklang bringt!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (4/8)"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:looting": 3
+        }
+      },
+      "category": "other",
+      "startBid": 1,
+      "currentBid": 3.16,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 3.16,
+        "00000000-0000-0000-0009-01fa8fe88e0d": 3,
+        "bdadb2e4-81b9-4609-bf76-3fb23eaf03fc": 2
+      },
+      "startTime": "2026-02-11T20:30:43.509Z",
+      "endTime": "2026-02-11T20:46:56.728Z",
+      "finalPrice": 3.16
     }
   ],
   "Windhose": [
@@ -8935,6 +9004,45 @@
       "startTime": "2026-02-10T20:46:20.343Z",
       "endTime": "2026-02-11T20:46:20.343Z",
       "finalPrice": 14281400
+    },
+    {
+      "uid": "087d24d1516d8a0dd3ff0034b959247c",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Phils Jeans",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.11.2025",
+          "",
+          "➥ Effekt: +40% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000000,
+      "currentBid": 19300000,
+      "highestBidder": "b0f5c807-3491-4657-aa07-325badd5f94b",
+      "bids": {
+        "23e1ecc1-2cf9-474a-ae54-e868fd53a49f": 19060568.5,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 14000000,
+        "b0f5c807-3491-4657-aa07-325badd5f94b": 19300000,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 15911550,
+        "e6f90a44-355c-44e4-8f64-57475335f7a8": 18685000
+      },
+      "startTime": "2026-02-10T20:46:20.343Z",
+      "endTime": "2026-02-11T20:46:54.784Z",
+      "finalPrice": 19300000
     }
   ],
   "Elfenbeinschild": [
@@ -11209,6 +11317,37 @@
       "startTime": "2026-02-11T19:42:20.322Z",
       "endTime": "2026-02-11T20:44:59.024Z",
       "finalPrice": 750000
+    },
+    {
+      "uid": "d866e3757542d0a0b4637eb08caedd2e",
+      "seller": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Shard Blockzerstörer",
+        "lore": [
+          "",
+          "Dieses mächtige Werkzeug erlaubt,",
+          "ein gesamtes Grundstück auszuhöhlen!",
+          "",
+          "➥ Effekt: 15 Blöcke zerstören (Rechtsklick)",
+          "",
+          "ACHTUNG: Genug Haltbarkeit, um ein 1x1 Plot auszuhöhlen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 800000,
+      "highestBidder": "3577abd6-dfc1-47e6-8fee-c1e533ba4e16",
+      "bids": {
+        "3577abd6-dfc1-47e6-8fee-c1e533ba4e16": 800000,
+        "244eeff5-1d2d-496e-846f-5c8681592b29": 510001.02,
+        "c4f26ab7-520d-4416-8666-50f5b60d2875": 765000
+      },
+      "startTime": "2026-02-11T19:42:20.322Z",
+      "endTime": "2026-02-11T20:46:43.386Z",
+      "finalPrice": 800000
     }
   ],
   "OP Aktenkoffer": [
@@ -11503,6 +11642,77 @@
       "startTime": "2026-02-11T17:41:42.102Z",
       "endTime": "2026-02-11T20:42:27.686Z",
       "finalPrice": 105000001
+    }
+  ],
+  "Mini Obsihacke": [
+    {
+      "uid": "e2d9b76cb9887e618605fe50f76442f9",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Mini Obsihacke",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Zerstört Obsidian mit einem Klick (bis zu 2.500)",
+          "",
+          "Nach 2.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 210000,
+      "highestBidder": "00000000-0000-0000-0009-01f7496fca1e",
+      "bids": {
+        "00000000-0000-0000-0009-01f7496fca1e": 210000
+      },
+      "startTime": "2026-02-11T19:54:41.921Z",
+      "endTime": "2026-02-11T20:54:41.921Z",
+      "finalPrice": 210000
+    }
+  ],
+  "EinfachEmmy": [
+    {
+      "uid": "3a56ff82c1e310bedf0dfcb2764945c1",
+      "seller": "d7a77a32-2d5a-4cc7-a93f-03687948e7c6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "EinfachEmmy",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (4/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1500001,
+      "highestBidder": "c792cd12-91e7-4e03-8d31-11fff04523fa",
+      "bids": {
+        "c792cd12-91e7-4e03-8d31-11fff04523fa": 1500001
+      },
+      "startTime": "2026-02-11T19:57:06.810Z",
+      "endTime": "2026-02-11T20:57:06.810Z",
+      "finalPrice": 1500001
     }
   ]
 }
