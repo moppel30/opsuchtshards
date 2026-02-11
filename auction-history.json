@@ -8972,6 +8972,46 @@
       "startTime": "2026-02-11T20:08:56.667Z",
       "endTime": "2026-02-11T20:26:10.374Z",
       "finalPrice": 6565000
+    },
+    {
+      "uid": "940a3c67025fe6bfcf62f0580f7e1eaa",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Geburtstags Party Hut #7",
+        "lore": [
+          "",
+          "Feiere den 7. Geburtstag",
+          "von OPSUCHT.net gemeinsam mit",
+          "der gesamten Community!",
+          "",
+          "Signiert von OPSUCHT am 23.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Diamanterz (Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 7000000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "8f530c14-9396-4d64-a551-41ae02b5634a": 1500000,
+        "cfe0570b-de53-4032-bb4e-409d3ed67fd9": 1300000,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 6565000,
+        "4829b672-3bb2-4f47-9b4b-7c078ba15509": 6060001,
+        "00000000-0000-0000-0009-01f2b664f582": 1000,
+        "546502b5-e460-4b2b-b2c3-319c646a4773": 50000,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 7000000,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 20000
+      },
+      "startTime": "2026-02-11T20:08:56.667Z",
+      "endTime": "2026-02-11T20:27:11.878Z",
+      "finalPrice": 7000000
     }
   ],
   "Glück Spitzhacke": [
@@ -9237,6 +9277,47 @@
       "startTime": "2026-02-11T20:09:18.964Z",
       "endTime": "2026-02-11T20:26:50.156Z",
       "finalPrice": 2000000
+    },
+    {
+      "uid": "def68d874359e324c5f6aa74ec741b21",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Builder Axt",
+        "lore": [
+          "",
+          "Signiert vom Builder-Team am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 2020000,
+      "highestBidder": "e84d74cd-303f-456b-9132-a14a349deaaf",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 60000,
+        "f24e166c-3166-4ba2-9c3a-a63faaff1b3f": 306000,
+        "3f237c18-1a92-4fc0-b873-bb23e68a1450": 400000,
+        "68aec8f2-eee3-472c-8821-c9b6124a352a": 334000,
+        "467a270e-e00f-41c8-873e-4b57ee3d5a03": 2000000,
+        "00000000-0000-0000-0009-01fa8fe88e0d": 1,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 500000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 387600,
+        "e84d74cd-303f-456b-9132-a14a349deaaf": 2020000
+      },
+      "startTime": "2026-02-11T20:09:18.964Z",
+      "endTime": "2026-02-11T20:27:37.385Z",
+      "finalPrice": 2020000
     }
   ],
   "Businezz Modpicke": [
@@ -9362,6 +9443,51 @@
       "startTime": "2026-02-11T20:09:24.362Z",
       "endTime": "2026-02-11T20:26:57.119Z",
       "finalPrice": 1800000
+    },
+    {
+      "uid": "fa3b1d729346df5c3e77ed8b20172ffd",
+      "seller": "c8d30fc5-33af-4307-b14a-c9e94f69c926",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Businezz Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Businezz am 01.01.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 0,
+      "currentBid": 1818001,
+      "highestBidder": "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9",
+      "bids": {
+        "814148ac-f696-4c9f-8dac-7dcea847f690": 1515001,
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 1661908,
+        "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9": 1818001,
+        "5211b8c1-75f6-481c-9553-3c514870e9a2": 1645452.52,
+        "4829b672-3bb2-4f47-9b4b-7c078ba15509": 1800000,
+        "e465ea9e-eb19-4dfa-ba84-d8d450779954": 300000,
+        "00000000-0000-0000-0009-01fb4758cc86": 100000,
+        "f13bd0df-0eaf-469c-b599-b11e1b5b6ac6": 110000,
+        "b59873e5-f1aa-4aaa-be32-3dce63234ddc": 1751512.71,
+        "9247b93a-fd70-4eac-87dd-9633e58c76cc": 106120.8,
+        "00000000-0000-0000-0009-01fa973cf260": 1700000
+      },
+      "startTime": "2026-02-11T20:09:24.362Z",
+      "endTime": "2026-02-11T20:27:49.264Z",
+      "finalPrice": 1818001
     }
   ],
   "Träumerschwert": [
