@@ -1621,6 +1621,38 @@
       "startTime": "2026-02-11T17:14:23.306Z",
       "endTime": "2026-02-11T20:14:23.306Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "8c114bc1e87f1157f57e07ba5a18659e",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Immobilienmarkt",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (22/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 700,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-11T16:49:06.574Z",
+      "endTime": "2026-02-11T19:49:06.574Z",
+      "finalPrice": 1000
     }
   ],
   "Auktionshaus": [
@@ -1982,6 +2014,38 @@
       "startTime": "2026-02-11T16:34:05.605Z",
       "endTime": "2026-02-11T19:34:05.605Z",
       "finalPrice": 12500
+    },
+    {
+      "uid": "c8868988d395dec95598a92e46973524",
+      "seller": "00000000-0000-0000-0009-01ffc982eaac",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 700,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-11T16:48:40.533Z",
+      "endTime": "2026-02-11T19:48:40.533Z",
+      "finalPrice": 1000
     }
   ],
   "OP-City": [
