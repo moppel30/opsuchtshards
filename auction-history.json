@@ -7846,6 +7846,28 @@
       "startTime": "2026-02-10T20:25:14.787Z",
       "endTime": "2026-02-11T20:25:14.787Z",
       "finalPrice": 250001
+    },
+    {
+      "uid": "0e3ef7faab55211bfb45f2887109d0e4",
+      "seller": "bfaa2f3d-3a7b-496b-8c7a-6eed7fd3fa20",
+      "item": {
+        "material": "YELLOW_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/yellow_shulker_box.png",
+        "amount": 1,
+        "displayName": "Besonderes Kopf Paket",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 250000,
+      "currentBid": 260000,
+      "highestBidder": "00000000-0000-0000-0009-01f649ad8b32",
+      "bids": {
+        "00000000-0000-0000-0009-01f649ad8b32": 260000
+      },
+      "startTime": "2026-02-10T21:37:52.315Z",
+      "endTime": "2026-02-11T21:37:52.315Z",
+      "finalPrice": 260000
     }
   ],
   "Ballon der Liebe": [
