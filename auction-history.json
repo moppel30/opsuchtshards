@@ -5993,6 +5993,38 @@
       "startTime": "2026-02-11T16:34:22.144Z",
       "endTime": "2026-02-11T19:34:54.671Z",
       "finalPrice": 1313.5
+    },
+    {
+      "uid": "c61477b3cf716188b3789f145f292f8a",
+      "seller": "00000000-0000-0000-0009-01fedfcb4b6e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-City",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (14/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 2,
+      "highestBidder": "497ad345-1ba4-462e-bc3a-b882e65ee5bf",
+      "bids": {
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 2
+      },
+      "startTime": "2026-02-11T20:53:07.218Z",
+      "endTime": "2026-02-11T21:53:07.218Z",
+      "finalPrice": 2
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
@@ -13420,6 +13452,36 @@
       "startTime": "2026-02-10T22:07:26.169Z",
       "endTime": "2026-02-11T22:07:26.169Z",
       "finalPrice": 25300000
+    }
+  ],
+  "Speed Apfel": [
+    {
+      "uid": "da1ab04d5600c7e5cdd054d6f0b2c3b6",
+      "seller": "e6f90a44-355c-44e4-8f64-57475335f7a8",
+      "item": {
+        "material": "ENCHANTED_GOLDEN_APPLE",
+        "icon": "https://img.mc-api.io/enchanted_golden_apple.png",
+        "amount": 1,
+        "displayName": "Speed Apfel",
+        "lore": [
+          "",
+          "➥ Effekt: +20% Geschwindigkeit (Off-hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 0,
+      "currentBid": 1,
+      "highestBidder": "f19a7a8b-5beb-4822-8b09-4674a56e93ee",
+      "bids": {
+        "f19a7a8b-5beb-4822-8b09-4674a56e93ee": 1
+      },
+      "startTime": "2026-02-11T20:11:46.422Z",
+      "endTime": "2026-02-11T21:11:46.422Z",
+      "finalPrice": 1
     }
   ]
 }
