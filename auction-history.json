@@ -13249,6 +13249,40 @@
       "startTime": "2026-02-11T20:11:37.567Z",
       "endTime": "2026-02-11T21:11:37.567Z",
       "finalPrice": 50001
+    },
+    {
+      "uid": "62182b6de71f2ad315d1a71694171b80",
+      "seller": "16a344bb-d867-43b7-8a31-51195fdb21f6",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "OP Aktenkoffer",
+        "lore": [
+          "",
+          "Ein Must-Have für jeden",
+          "wahren Spieler auf OPSUCHT!",
+          "",
+          "Signiert von OPSUCHT am 01.01.2026",
+          "",
+          "➥ Effekt: Totem (Off-Hand)",
+          "",
+          "Achtung: Insgesamt 3 Benutzungen!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 200001,
+      "highestBidder": "33d09390-47a9-4df0-bae6-9aab4164b770",
+      "bids": {
+        "33d09390-47a9-4df0-bae6-9aab4164b770": 200001
+      },
+      "startTime": "2026-02-11T20:42:22.846Z",
+      "endTime": "2026-02-11T21:42:25.968Z",
+      "finalPrice": 200001
     }
   ],
   "OP Sachen 5": [
