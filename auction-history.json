@@ -9492,6 +9492,45 @@
       "startTime": "2026-02-10T20:46:20.343Z",
       "endTime": "2026-02-11T20:54:26.627Z",
       "finalPrice": 21932150
+    },
+    {
+      "uid": "087d24d1516d8a0dd3ff0034b959247c",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Phils Jeans",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.11.2025",
+          "",
+          "➥ Effekt: +40% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000000,
+      "currentBid": 22151472,
+      "highestBidder": "23e1ecc1-2cf9-474a-ae54-e868fd53a49f",
+      "bids": {
+        "23e1ecc1-2cf9-474a-ae54-e868fd53a49f": 22151472,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 14000000,
+        "b0f5c807-3491-4657-aa07-325badd5f94b": 21932150,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 15911550,
+        "e6f90a44-355c-44e4-8f64-57475335f7a8": 20705000
+      },
+      "startTime": "2026-02-10T20:46:20.343Z",
+      "endTime": "2026-02-11T20:56:13.475Z",
+      "finalPrice": 22151472
     }
   ],
   "Elfenbeinschild": [
@@ -12485,6 +12524,40 @@
       "startTime": "2026-02-11T20:50:32.058Z",
       "endTime": "2026-02-11T21:05:32.058Z",
       "finalPrice": 100
+    }
+  ],
+  "Mod-Team": [
+    {
+      "uid": "203d0a291596f918174e39c8e038547b",
+      "seller": "65ca2694-e76b-4532-b509-4385e282d537",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Mod-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (7/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 100000,
+      "highestBidder": "4a0690f7-6581-4c70-8073-ce1cdd391753",
+      "bids": {
+        "4a0690f7-6581-4c70-8073-ce1cdd391753": 100000
+      },
+      "startTime": "2026-02-11T15:54:14.491Z",
+      "endTime": "2026-02-11T21:54:14.491Z",
+      "finalPrice": 100000
     }
   ]
 }
