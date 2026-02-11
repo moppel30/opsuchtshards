@@ -2047,6 +2047,38 @@
       "startTime": "2026-02-10T19:26:25.960Z",
       "endTime": "2026-02-11T19:31:00.650Z",
       "finalPrice": 1200000
+    },
+    {
+      "uid": "86cc4095afaed8791999dc0af5dd3de8",
+      "seller": "2ee3b848-27d2-402b-bf13-200b3c6e0f8a",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Christianoooo",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (5/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 3000000,
+      "currentBid": 3000001,
+      "highestBidder": "71a9b557-576e-4577-a824-fb58ec7a7422",
+      "bids": {
+        "71a9b557-576e-4577-a824-fb58ec7a7422": 3000001
+      },
+      "startTime": "2026-02-11T17:22:50.568Z",
+      "endTime": "2026-02-11T20:22:50.568Z",
+      "finalPrice": 3000001
     }
   ],
   "Geburtstags Buch V7": [
@@ -3627,6 +3659,38 @@
       "startTime": "2026-02-10T19:30:51.038Z",
       "endTime": "2026-02-11T19:30:55.835Z",
       "finalPrice": 68250
+    },
+    {
+      "uid": "10176d196e5c10000c3f29980b991b51",
+      "seller": "35bcaf3d-7ad2-4493-b5c6-c0caf81e20f7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Emmys Videokamera",
+        "lore": [
+          "",
+          "Hiermit dreht Emmy ihre",
+          "Videos für YouTube!",
+          "",
+          "Signiert von EinfachEmmy am 01.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Smaragderz (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 205000,
+      "highestBidder": "f8696e58-c974-4419-bb36-fa81feb8bab8",
+      "bids": {
+        "f8696e58-c974-4419-bb36-fa81feb8bab8": 205000
+      },
+      "startTime": "2026-02-10T21:15:40.927Z",
+      "endTime": "2026-02-11T21:15:40.927Z",
+      "finalPrice": 205000
     }
   ],
   "Infinity Hacke": [
