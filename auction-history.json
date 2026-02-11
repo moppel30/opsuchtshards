@@ -9259,6 +9259,45 @@
       "startTime": "2026-02-10T20:46:20.343Z",
       "endTime": "2026-02-11T20:50:39.376Z",
       "finalPrice": 20705000
+    },
+    {
+      "uid": "087d24d1516d8a0dd3ff0034b959247c",
+      "seller": "a558a8b1-7896-4ccf-a371-94b9862b622c",
+      "item": {
+        "material": "DIAMOND_LEGGINGS",
+        "icon": "https://img.mc-api.io/diamond_leggings.png",
+        "amount": 1,
+        "displayName": "Phils Jeans",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.11.2025",
+          "",
+          "➥ Effekt: +40% Geschwindigkeit (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:swift_sneak": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 10000000,
+      "currentBid": 21121170.5,
+      "highestBidder": "23e1ecc1-2cf9-474a-ae54-e868fd53a49f",
+      "bids": {
+        "23e1ecc1-2cf9-474a-ae54-e868fd53a49f": 21121170.5,
+        "36b8763a-bf3b-45f7-872a-7f43d2994adb": 14000000,
+        "b0f5c807-3491-4657-aa07-325badd5f94b": 20912050,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 15911550,
+        "e6f90a44-355c-44e4-8f64-57475335f7a8": 20705000
+      },
+      "startTime": "2026-02-10T20:46:20.343Z",
+      "endTime": "2026-02-11T20:51:37.763Z",
+      "finalPrice": 21121170.5
     }
   ],
   "Elfenbeinschild": [
@@ -11688,6 +11727,37 @@
       "startTime": "2026-02-11T19:42:20.322Z",
       "endTime": "2026-02-11T20:50:34.222Z",
       "finalPrice": 950000
+    },
+    {
+      "uid": "d866e3757542d0a0b4637eb08caedd2e",
+      "seller": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Shard Blockzerstörer",
+        "lore": [
+          "",
+          "Dieses mächtige Werkzeug erlaubt,",
+          "ein gesamtes Grundstück auszuhöhlen!",
+          "",
+          "➥ Effekt: 15 Blöcke zerstören (Rechtsklick)",
+          "",
+          "ACHTUNG: Genug Haltbarkeit, um ein 1x1 Plot auszuhöhlen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 1000000,
+      "highestBidder": "c4f26ab7-520d-4416-8666-50f5b60d2875",
+      "bids": {
+        "3577abd6-dfc1-47e6-8fee-c1e533ba4e16": 950000,
+        "244eeff5-1d2d-496e-846f-5c8681592b29": 510001.02,
+        "c4f26ab7-520d-4416-8666-50f5b60d2875": 1000000
+      },
+      "startTime": "2026-02-11T19:42:20.322Z",
+      "endTime": "2026-02-11T20:51:23.364Z",
+      "finalPrice": 1000000
     }
   ],
   "OP Aktenkoffer": [
@@ -12053,6 +12123,81 @@
       "startTime": "2026-02-11T19:57:06.810Z",
       "endTime": "2026-02-11T20:57:06.810Z",
       "finalPrice": 1500001
+    }
+  ],
+  "Sculkbrustplatte": [
+    {
+      "uid": "7ecc1f4ab1ab1ebc8b95c2ced0014538",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "IRON_CHESTPLATE",
+        "amount": 1,
+        "displayName": "Sculkbrustplatte",
+        "lore": [
+          "",
+          "Sculkkollektion (6/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 110000,
+      "highestBidder": "00000000-0000-0000-0009-01f746a56532",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 32025,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 2,
+        "00000000-0000-0000-0009-01fff8fa4278": 7000,
+        "d790e39e-acf5-4bb1-9c4c-9992cf7421b7": 10000,
+        "884a3ff0-f414-4a95-9ffb-f033bf2a1a60": 43626.25,
+        "00000000-0000-0000-0009-01f746a56532": 110000,
+        "7598c49d-ca22-4a30-8c80-03854396d0d8": 50000,
+        "c5079fe8-27ed-49c4-b142-c58b24910a42": 100000
+      },
+      "startTime": "2026-02-11T15:48:58.897Z",
+      "endTime": "2026-02-11T21:48:58.896Z",
+      "finalPrice": 110000
+    },
+    {
+      "uid": "cc17b9efbe08f39b05be8f7fe335827a",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "IRON_CHESTPLATE",
+        "amount": 1,
+        "displayName": "Sculkbrustplatte",
+        "lore": [
+          "",
+          "Sculkkollektion (6/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 120000,
+      "highestBidder": "00000000-0000-0000-0009-01f547d93d6a",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 11576.25,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 13000,
+        "00000000-0000-0000-0009-01fff8fa4278": 7000,
+        "00000000-0000-0000-0009-01f746a56532": 90000,
+        "00000000-0000-0000-0009-01f547d93d6a": 120000
+      },
+      "startTime": "2026-02-11T15:49:20.107Z",
+      "endTime": "2026-02-11T21:49:20.107Z",
+      "finalPrice": 120000
     }
   ]
 }
