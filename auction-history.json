@@ -8952,6 +8952,88 @@
       "startTime": "2026-02-10T20:40:51.097Z",
       "endTime": "2026-02-11T20:40:51.097Z",
       "finalPrice": 10000
+    },
+    {
+      "uid": "51514a933b3ed6a35ea2a17b64db4480",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Mini Pilzaxt",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Baut Pilze mit einem Klick ab (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 20000,
+      "highestBidder": "55785186-ace6-47ea-8523-9149423edd7f",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 10500,
+        "55785186-ace6-47ea-8523-9149423edd7f": 20000,
+        "9197ae6a-4e2d-4b88-8b7f-8cc262eb41c5": 5998,
+        "b87f948c-1de9-4325-b8e0-865fcd493ad2": 10000,
+        "00000000-0000-0000-0009-01f7496fca1e": 5000
+      },
+      "startTime": "2026-02-11T15:50:08.303Z",
+      "endTime": "2026-02-11T21:50:08.303Z",
+      "finalPrice": 20000
+    },
+    {
+      "uid": "3ddcc042c73a409c045b245ee3f44021",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Mini Pilzaxt",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Baut Pilze mit einem Klick ab (bis zu 1.500)",
+          "",
+          "Nach 1.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 9450,
+      "highestBidder": "d4eaa347-4b5c-4516-8b9a-b99c8bacde55",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 6945.75,
+        "00000000-0000-0000-0009-01fe800c1748": 5000,
+        "b085752a-3df0-4aba-9ddb-fc8bffe41ab4": 9000,
+        "d4eaa347-4b5c-4516-8b9a-b99c8bacde55": 9450,
+        "bc2f65d3-b16a-4e8e-b69e-ed189a6d9f68": 3,
+        "0d02d5aa-e6b2-4c22-949a-15b9cf6b569c": 7500,
+        "9f4b3e6b-6f16-47e2-8539-9102577c49ae": 6615
+      },
+      "startTime": "2026-02-11T15:50:33.541Z",
+      "endTime": "2026-02-11T21:50:33.541Z",
+      "finalPrice": 9450
     }
   ],
   "Drachenbogen": [
@@ -12198,6 +12280,71 @@
       "startTime": "2026-02-11T15:49:20.107Z",
       "endTime": "2026-02-11T21:49:20.107Z",
       "finalPrice": 120000
+    }
+  ],
+  "ELYTRA": [
+    {
+      "uid": "23f01b24cb836a035b61829b2f462b65",
+      "seller": "77e5bfe9-df68-414d-b5c2-ab9f3be6a6be",
+      "item": {
+        "material": "ELYTRA",
+        "icon": "https://img.mc-api.io/elytra.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "other",
+      "startBid": 60000,
+      "currentBid": 63001.06,
+      "highestBidder": "1cef78fc-a7a8-4878-b1da-bef221750d94",
+      "bids": {
+        "eaaaf3a9-fdaf-4ddb-864b-4ff9922612f4": 60001,
+        "1cef78fc-a7a8-4878-b1da-bef221750d94": 63001.06
+      },
+      "startTime": "2026-02-10T21:50:37.191Z",
+      "endTime": "2026-02-11T21:50:37.191Z",
+      "finalPrice": 63001.06
+    }
+  ],
+  "Sculkaxt": [
+    {
+      "uid": "406ac5aa0a685008265a1e86de8216d8",
+      "seller": "cf2007ff-fd55-4542-b983-d40aa355bf93",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Sculkaxt",
+        "lore": [
+          "",
+          "Sculkkollektion (2/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 180000,
+      "highestBidder": "00000000-0000-0000-0009-01f547d93d6a",
+      "bids": {
+        "00000000-0000-0000-0009-01fcee26e961": 2.1,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 163200,
+        "7dd8a04f-32fa-467f-bf81-dbb36c78035d": 131.25,
+        "00000000-0000-0000-0009-01f7496fca1e": 100000,
+        "00000000-0000-0000-0009-01f547d93d6a": 180000
+      },
+      "startTime": "2026-02-11T15:49:45.180Z",
+      "endTime": "2026-02-11T21:49:45.180Z",
+      "finalPrice": 180000
     }
   ]
 }
