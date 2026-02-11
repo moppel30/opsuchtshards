@@ -9417,5 +9417,106 @@
       "endTime": "2026-02-11T20:55:00.685Z",
       "finalPrice": 250001
     }
+  ],
+  "Schmelzpicke v3": [
+    {
+      "uid": "2193cc584d60916260f6f8bcbfa019b5",
+      "seller": "e89093e7-0054-4243-b04c-62511cfe3e2f",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Schmelzpicke v3",
+        "lore": [
+          "Schmelzofen II",
+          "",
+          "Der perfekte Ofen für Unterwegs.",
+          " ",
+          "Seltenheit » Legendär",
+          "OPSUCHT LuckyBlock"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 9000000,
+      "currentBid": 12000000,
+      "highestBidder": "00000000-0000-0000-0009-01f32840de1a",
+      "bids": {
+        "00000000-0000-0000-0009-01f32840de1a": 12000000
+      },
+      "startTime": "2026-02-10T21:20:06.099Z",
+      "endTime": "2026-02-11T21:20:06.099Z",
+      "finalPrice": 12000000
+    }
+  ],
+  "Shard Blockzerstörer": [
+    {
+      "uid": "d866e3757542d0a0b4637eb08caedd2e",
+      "seller": "bb47777f-a1e3-4e2b-a130-847e4009926d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Shard Blockzerstörer",
+        "lore": [
+          "",
+          "Dieses mächtige Werkzeug erlaubt,",
+          "ein gesamtes Grundstück auszuhöhlen!",
+          "",
+          "➥ Effekt: 15 Blöcke zerstören (Rechtsklick)",
+          "",
+          "ACHTUNG: Genug Haltbarkeit, um ein 1x1 Plot auszuhöhlen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500000,
+      "currentBid": 500001,
+      "highestBidder": "3577abd6-dfc1-47e6-8fee-c1e533ba4e16",
+      "bids": {
+        "3577abd6-dfc1-47e6-8fee-c1e533ba4e16": 500001
+      },
+      "startTime": "2026-02-11T19:42:20.322Z",
+      "endTime": "2026-02-11T20:42:20.322Z",
+      "finalPrice": 500001
+    }
+  ],
+  "OP Aktenkoffer": [
+    {
+      "uid": "2669e9d1b98bbfa710e8a679b8cbb14d",
+      "seller": "e6f90a44-355c-44e4-8f64-57475335f7a8",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "OP Aktenkoffer",
+        "lore": [
+          "",
+          "Ein Must-Have für jeden",
+          "wahren Spieler auf OPSUCHT!",
+          "",
+          "Signiert von OPSUCHT am 01.01.2026",
+          "",
+          "➥ Effekt: Totem (Off-Hand)",
+          "",
+          "Achtung: Insgesamt 3 Benutzungen!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "55785186-ace6-47ea-8523-9149423edd7f",
+      "bids": {
+        "55785186-ace6-47ea-8523-9149423edd7f": 50001
+      },
+      "startTime": "2026-02-11T20:11:37.567Z",
+      "endTime": "2026-02-11T21:11:37.567Z",
+      "finalPrice": 50001
+    }
   ]
 }
