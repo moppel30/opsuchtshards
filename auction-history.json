@@ -2304,6 +2304,36 @@
       "startTime": "2026-02-10T20:58:51.603Z",
       "endTime": "2026-02-11T21:03:22.118Z",
       "finalPrice": 451013.4
+    },
+    {
+      "uid": "b487adb5df25a70040e5b8fb8a354904",
+      "seller": "e0ff16cb-002d-4e34-b228-5b9c5cbe5cf3",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 425000,
+      "currentBid": 425001,
+      "highestBidder": "36127163-6f36-4e75-b41e-0dbdd7307366",
+      "bids": {
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 425001
+      },
+      "startTime": "2026-02-11T20:15:06.473Z",
+      "endTime": "2026-02-11T21:15:06.473Z",
+      "finalPrice": 425001
     }
   ],
   "POTION": [
@@ -11952,6 +11982,40 @@
       "startTime": "2026-02-11T20:11:56.878Z",
       "endTime": "2026-02-11T21:11:56.878Z",
       "finalPrice": 100000
+    },
+    {
+      "uid": "4c52747b7140cceb2171cef0a640e500",
+      "seller": "e6f90a44-355c-44e4-8f64-57475335f7a8",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Sculkschuhe",
+        "lore": [
+          "",
+          "Sculkkollektion (8/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:feather_falling": 4,
+          "minecraft:protection": 6,
+          "minecraft:depth_strider": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 102000,
+      "highestBidder": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "bids": {
+        "d72075d7-12d3-4fc5-8f58-a1678b0ec333": 102000,
+        "6973a780-0222-440f-a044-7e40e3593308": 100000
+      },
+      "startTime": "2026-02-11T20:11:56.878Z",
+      "endTime": "2026-02-11T21:12:26.916Z",
+      "finalPrice": 102000
     }
   ],
   "❅ Phils Flockenschild ❅": [
@@ -13524,6 +13588,36 @@
       "startTime": "2026-02-11T21:07:22.529Z",
       "endTime": "2026-02-11T21:22:22.529Z",
       "finalPrice": 8000
+    }
+  ],
+  "Rosenstrauß": [
+    {
+      "uid": "7b90d3a2f7adef557307114f1995b8c6",
+      "seller": "55785186-ace6-47ea-8523-9149423edd7f",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 20000,
+      "currentBid": 22000,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "4093f25f-28b2-4ea0-b42e-ca8524830b37": 20002,
+        "732af855-caf8-48c8-aa99-855714e33e17": 22000
+      },
+      "startTime": "2026-02-11T19:10:14.208Z",
+      "endTime": "2026-02-11T22:10:14.208Z",
+      "finalPrice": 22000
     }
   ]
 }
