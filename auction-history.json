@@ -8327,5 +8327,44 @@
       "endTime": "2026-02-11T20:07:29.296Z",
       "finalPrice": 50001
     }
+  ],
+  "Erdspalter-Schaufel": [
+    {
+      "uid": "eef40a8d49680dcc8558e1a2117addbd",
+      "seller": "7b9468c7-dbca-47f6-99cc-52968b41412a",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "amount": 1,
+        "displayName": "Erdspalter-Schaufel",
+        "lore": [
+          "",
+          "Die Wucht dieser Schaufel bringt",
+          "sogar die Erdoberfläche zum Beben!",
+          "",
+          "➥ Effekt: +75% Job-XP beim Gräberjob",
+          "➥ Effekt: +15% Jobgeld beim Gräberjob",
+          "",
+          "Effekt wirkt nur auf Erdblöcke.",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1500000,
+      "currentBid": 1500001,
+      "highestBidder": "76aeec43-d43f-4c54-9512-4ea1cbd9181b",
+      "bids": {
+        "76aeec43-d43f-4c54-9512-4ea1cbd9181b": 1500001
+      },
+      "startTime": "2026-02-11T17:12:26.131Z",
+      "endTime": "2026-02-11T20:12:26.131Z",
+      "finalPrice": 1500001
+    }
   ]
 }
