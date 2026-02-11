@@ -14279,6 +14279,35 @@
       "startTime": "2026-02-10T22:21:20.088Z",
       "endTime": "2026-02-11T22:21:20.088Z",
       "finalPrice": 150000
+    },
+    {
+      "uid": "e07130e85c918e579bfd1f2ca2c65a7e",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Königliche OPSUCHT Krone",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.06.2023",
+          "Signiert von SkyGuyTV am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 20000,
+      "currentBid": 25000,
+      "highestBidder": "00000000-0000-0000-0009-01f7496fca1e",
+      "bids": {
+        "00000000-0000-0000-0009-01f69573c35f": 20001,
+        "00000000-0000-0000-0009-01f7496fca1e": 25000
+      },
+      "startTime": "2026-02-11T19:41:52.016Z",
+      "endTime": "2026-02-11T22:41:52.016Z",
+      "finalPrice": 25000
     }
   ],
   "Supporter-Team": [
@@ -14452,6 +14481,90 @@
       "startTime": "2026-02-10T21:39:04.236Z",
       "endTime": "2026-02-11T21:39:04.236Z",
       "finalPrice": 2000004
+    }
+  ],
+  "Mitarbeitermaske": [
+    {
+      "uid": "e8f3c514ee3261a21a3a1507d9e9fff1",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Mitarbeitermaske",
+        "lore": [
+          "",
+          "1. Immer die Maske tragen.",
+          "2. Nicht unerlaubt reden.",
+          "3. Nicht unerlaubt bewegen.",
+          "",
+          "Signiert vom Frontman am 01.02.2025",
+          "",
+          "SQUID GAME KOLLEKTION (3/6)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:projectile_protection": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 5,
+          "minecraft:aqua_affinity": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 27000,
+      "highestBidder": "00000000-0000-0000-0009-01f60f1fadad",
+      "bids": {
+        "77fe7ef6-1f6f-4ae7-8b3d-131190e79283": 15000,
+        "eb4fbdf6-9ffd-45cc-9b02-2552a72f0bed": 10001,
+        "00000000-0000-0000-0009-01f60f1fadad": 27000,
+        "00000000-0000-0000-0009-01f7496fca1e": 25000
+      },
+      "startTime": "2026-02-11T19:42:26.839Z",
+      "endTime": "2026-02-11T22:42:26.838Z",
+      "finalPrice": 27000
+    }
+  ],
+  "Mitarbeiterstiefel": [
+    {
+      "uid": "b54d17168c3ce5789f1c6a8153706e7d",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Mitarbeiterstiefel",
+        "lore": [
+          "",
+          "1. Immer die Maske tragen.",
+          "2. Nicht unerlaubt reden.",
+          "3. Nicht unerlaubt bewegen.",
+          "",
+          "Signiert vom Frontman am 01.02.2025",
+          "",
+          "SQUID GAME KOLLEKTION (6/6)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:projectile_protection": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 10001
+      },
+      "startTime": "2026-02-11T19:42:41.565Z",
+      "endTime": "2026-02-11T22:42:41.565Z",
+      "finalPrice": 10001
     }
   ]
 }
