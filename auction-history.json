@@ -9250,6 +9250,38 @@
       "startTime": "2026-02-11T17:28:14.416Z",
       "endTime": "2026-02-11T20:28:14.416Z",
       "finalPrice": 1500000
+    },
+    {
+      "uid": "5eeca2eb12ab390d11dc5d96f21d2c5a",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Phils Kristallkrone",
+        "lore": [
+          "",
+          "In ihrem Kristall spiegelt sich der",
+          "Glanz vergangener Triumphe.",
+          "",
+          "Signiert von OPPhil am 01.01.2026",
+          "",
+          "➥ Effekt: Kein Hunger (Off-Hand, Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 2500000,
+      "currentBid": 2600000,
+      "highestBidder": "cccbba6d-58f7-4d80-9810-5a38dba014f2",
+      "bids": {
+        "cccbba6d-58f7-4d80-9810-5a38dba014f2": 2600000
+      },
+      "startTime": "2026-02-11T18:35:34.285Z",
+      "endTime": "2026-02-11T21:35:34.285Z",
+      "finalPrice": 2600000
     }
   ],
   "NETHERITE_INGOT": [
