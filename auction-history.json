@@ -18753,5 +18753,40 @@
       "endTime": "2026-02-11T22:59:02.956Z",
       "finalPrice": 200500
     }
+  ],
+  "Sculkhose": [
+    {
+      "uid": "8001289d00793b9eec67354348a68b4c",
+      "seller": "e808c0f0-e8b8-4977-a694-321477a4f278",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Sculkhose",
+        "lore": [
+          "",
+          "Sculkkollektion (7/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 102000,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 102000,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 10001,
+        "d6b34ee4-283a-4a2d-be35-8ea0a3384ed2": 100000
+      },
+      "startTime": "2026-02-11T21:04:40.462Z",
+      "endTime": "2026-02-12T00:04:40.462Z",
+      "finalPrice": 102000
+    }
   ]
 }
