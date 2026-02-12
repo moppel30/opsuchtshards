@@ -14931,6 +14931,55 @@
       "startTime": "2026-02-10T23:01:16.297Z",
       "endTime": "2026-02-11T23:01:16.297Z",
       "finalPrice": 1900001
+    },
+    {
+      "uid": "142bf144a32603c591d66a46f98dd643",
+      "seller": "15578e68-e1fd-4320-be77-3f26a92aa58c",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Businezz Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Businezz am 01.01.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 1,
+      "currentBid": 1514000,
+      "highestBidder": "e17907b2-e3a1-493b-ae81-226d6228b196",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 450000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 125426.84,
+        "e17907b2-e3a1-493b-ae81-226d6228b196": 1514000,
+        "68aec8f2-eee3-472c-8821-c9b6124a352a": 1010000.7,
+        "6035d649-ffce-4906-a3ab-2eebcf5416ec": 100000,
+        "c5962c64-1fcc-4a5f-9805-cd98730c32a0": 408000,
+        "8867ccef-e0a5-4aa2-8dce-9c48f20289da": 6000,
+        "39506b76-f353-4225-ac72-28a3b3ea4af9": 17800,
+        "45788ddc-1da7-4579-bef8-b617343d97dc": 11026,
+        "c71e3894-dc2a-4a71-9325-80be2ca9e316": 1400000,
+        "6ed79498-1a3a-4dd3-a851-405069850d74": 5000,
+        "c2c9ab12-e2e6-4a16-b518-664c0d1311b4": 10500,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 16537.5,
+        "5974d1e2-c213-44ea-a6fc-20f3d24cea57": 10000,
+        "c01ed2de-a79d-4cba-b713-eceb1c55edf7": 109242
+      },
+      "startTime": "2026-02-12T14:42:17.154Z",
+      "endTime": "2026-02-12T15:42:17.154Z",
+      "finalPrice": 1514000
     }
   ],
   "Träumerschwert": [
