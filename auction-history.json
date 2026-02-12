@@ -22162,5 +22162,29 @@
       "endTime": "2026-02-12T16:11:07.445Z",
       "finalPrice": 2500001
     }
+  ],
+  "27 Sammler Karten": [
+    {
+      "uid": "e6c4ae3a14f4a77084568ab1cd116f35",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "LIME_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/lime_shulker_box.png",
+        "amount": 1,
+        "displayName": "27 Sammler Karten",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 300000,
+      "currentBid": 300001,
+      "highestBidder": "2c09061f-aa13-48c4-9806-70e5f20aa4f8",
+      "bids": {
+        "2c09061f-aa13-48c4-9806-70e5f20aa4f8": 300001
+      },
+      "startTime": "2026-02-11T16:31:29.357Z",
+      "endTime": "2026-02-12T16:31:29.357Z",
+      "finalPrice": 300001
+    }
   ]
 }
