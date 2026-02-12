@@ -14975,6 +14975,42 @@
       "startTime": "2026-02-11T20:31:22.814Z",
       "endTime": "2026-02-11T21:32:44.814Z",
       "finalPrice": 816001.02
+    },
+    {
+      "uid": "e280fa60d220399ef424df511bb26e78",
+      "seller": "0b01f106-c2ba-4ff1-bc55-0e1f97f436b3",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "icon": "https://img.mc-api.io/netherite_pickaxe.png",
+        "amount": 1,
+        "displayName": "Glück Spitzhacke",
+        "lore": [
+          "Nach der Benutzung einfach",
+          "bei /sw Build [CB2]",
+          "wieder verkaufen ^^",
+          "────────────────────",
+          "Signiert von Katzenmeister am 01.01.2026"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 30000,
+      "currentBid": 55125,
+      "highestBidder": "4ee48800-8ac3-420e-bc09-b608569dbf6b",
+      "bids": {
+        "61ada9c8-4805-497e-8c31-5348cbdcc802": 50000,
+        "4b7091c5-018f-4e95-adca-62919cd529c8": 52500,
+        "00000000-0000-0000-0009-01f090fb0e7f": 30001,
+        "4ee48800-8ac3-420e-bc09-b608569dbf6b": 55125
+      },
+      "startTime": "2026-02-12T11:34:19.566Z",
+      "endTime": "2026-02-12T17:34:19.566Z",
+      "finalPrice": 55125
     }
   ],
   "Kartenflügel": [
@@ -21515,6 +21551,38 @@
       "startTime": "2026-02-11T20:17:19.445Z",
       "endTime": "2026-02-11T23:17:19.445Z",
       "finalPrice": 10001
+    },
+    {
+      "uid": "be01df6594357e1a1dce3caf0d90acd7",
+      "seller": "00000000-0000-0000-0009-01fc6e39551f",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Kristalle",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (13/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1500,
+      "currentBid": 1501,
+      "highestBidder": "934b8048-e99b-461f-96ea-0ae8d861d911",
+      "bids": {
+        "934b8048-e99b-461f-96ea-0ae8d861d911": 1501
+      },
+      "startTime": "2026-02-11T17:34:24.356Z",
+      "endTime": "2026-02-12T17:34:24.356Z",
+      "finalPrice": 1501
     }
   ],
   "Lotterieschwingen": [
@@ -21902,6 +21970,43 @@
       "startTime": "2026-02-11T02:08:41.906Z",
       "endTime": "2026-02-12T02:08:41.906Z",
       "finalPrice": 200000
+    },
+    {
+      "uid": "97aa7d4d59b46629fc27e7fc3cb634c6",
+      "seller": "00000000-0000-0000-0009-01f649ad8b32",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "icon": "https://img.mc-api.io/totem_of_undying.png",
+        "amount": 1,
+        "displayName": "Unsichtbarkeitstalisman",
+        "lore": [
+          "",
+          "Dieses Artefakt schützt dich stets",
+          "vor den Blicken der Mobs und Spielern!",
+          "Aber Achtung, ziehe deine Rüstung aus!",
+          "",
+          "➥ Effekt: Unsichtbarkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 50000,
+      "currentBid": 150000,
+      "highestBidder": "00000000-0000-0000-0009-01f91a373a15",
+      "bids": {
+        "00000000-0000-0000-0009-01f91a373a15": 150000,
+        "7506af89-cadd-44f2-a2ea-4c7e179efd5d": 55188,
+        "ca381bea-ab14-4774-be00-a8317fcca556": 60000,
+        "00000000-0000-0000-0009-01f1ee0a8e38": 52560,
+        "83f16c1d-bdcc-4321-9285-625c36c95c6b": 80000,
+        "00000000-0000-0000-0009-01f350b96dad": 90000
+      },
+      "startTime": "2026-02-11T17:34:19.963Z",
+      "endTime": "2026-02-12T17:34:19.963Z",
+      "finalPrice": 150000
     }
   ],
   "Sculkhelm": [
