@@ -23254,5 +23254,37 @@
       "endTime": "2026-02-12T16:51:38.972Z",
       "finalPrice": 10500
     }
+  ],
+  "Plüsch oopslee ": [
+    {
+      "uid": "e29b56d74c9055ee97de8ecb8b78229e",
+      "seller": "884a3ff0-f414-4a95-9ffb-f033bf2a1a60",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Plüsch oopslee ",
+        "lore": [
+          "",
+          "Signiert von oopslee am 01.02.2026"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 100000,
+      "highestBidder": "e89093e7-0054-4243-b04c-62511cfe3e2f",
+      "bids": {
+        "01c9a312-1585-4405-ae1b-73fcb8a9b3a4": 2,
+        "e4f655ea-4c30-4a62-94ce-04833049ca98": 25000,
+        "bd0e2308-b59d-4c3d-b21f-c863161f7ad6": 26666,
+        "7598c49d-ca22-4a30-8c80-03854396d0d8": 10000,
+        "700b3d54-774d-45aa-8581-bb2ef40b3ad0": 19999,
+        "e89093e7-0054-4243-b04c-62511cfe3e2f": 100000,
+        "9f4b3e6b-6f16-47e2-8539-9102577c49ae": 10500
+      },
+      "startTime": "2026-02-12T16:40:48.416Z",
+      "endTime": "2026-02-12T16:55:48.416Z",
+      "finalPrice": 100000
+    }
   ]
 }
