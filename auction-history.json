@@ -2618,6 +2618,99 @@
       "startTime": "2026-02-11T23:14:46.946Z",
       "endTime": "2026-02-11T23:29:46.946Z",
       "finalPrice": 300001
+    },
+    {
+      "uid": "d927675da63c99b5bf71e501448dec8a",
+      "seller": "8158d82e-1299-4290-ac1c-59393294aa08",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 306001.02,
+      "highestBidder": "b85e95a2-de94-4375-bddc-62a24b6a46a1",
+      "bids": {
+        "b85e95a2-de94-4375-bddc-62a24b6a46a1": 306001.02,
+        "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f": 300001
+      },
+      "startTime": "2026-02-11T18:56:40.738Z",
+      "endTime": "2026-02-12T00:56:40.738Z",
+      "finalPrice": 306001.02
+    },
+    {
+      "uid": "21680a1531a2883ae6e2e21dc3751619",
+      "seller": "8158d82e-1299-4290-ac1c-59393294aa08",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 306001.02,
+      "highestBidder": "b85e95a2-de94-4375-bddc-62a24b6a46a1",
+      "bids": {
+        "b85e95a2-de94-4375-bddc-62a24b6a46a1": 306001.02,
+        "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f": 300001
+      },
+      "startTime": "2026-02-11T18:56:59.506Z",
+      "endTime": "2026-02-12T00:56:59.506Z",
+      "finalPrice": 306001.02
+    },
+    {
+      "uid": "aecac40a1e6a0219ba8b76c3f05aa348",
+      "seller": "8158d82e-1299-4290-ac1c-59393294aa08",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 306001.02,
+      "highestBidder": "b85e95a2-de94-4375-bddc-62a24b6a46a1",
+      "bids": {
+        "b85e95a2-de94-4375-bddc-62a24b6a46a1": 306001.02,
+        "611a7e94-6c2f-43fe-a1e0-bf2aaf75cc0f": 300001
+      },
+      "startTime": "2026-02-11T18:57:17.955Z",
+      "endTime": "2026-02-12T00:57:17.955Z",
+      "finalPrice": 306001.02
     }
   ],
   "POTION": [
@@ -6274,6 +6367,40 @@
       "startTime": "2026-02-11T21:10:03.855Z",
       "endTime": "2026-02-11T21:25:43.286Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "3c3e99bc7556cbcbc1ba262fbd8c0c8e",
+      "seller": "00000000-0000-0000-0009-01f69b489249",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Minion",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (15/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 5,
+      "currentBid": 1050,
+      "highestBidder": "2b63867d-e5c4-404f-a0a7-aec069af8fd3",
+      "bids": {
+        "76aeec43-d43f-4c54-9512-4ea1cbd9181b": 61,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "2b63867d-e5c4-404f-a0a7-aec069af8fd3": 1050
+      },
+      "startTime": "2026-02-11T13:05:34.496Z",
+      "endTime": "2026-02-12T01:05:34.496Z",
+      "finalPrice": 1050
     }
   ],
   "OP-Kiste": [
@@ -9752,6 +9879,38 @@
       "startTime": "2026-02-11T16:49:27.325Z",
       "endTime": "2026-02-11T19:49:27.325Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "754de605748c640fb2f37ccc2df60386",
+      "seller": "85d9201b-0bb5-4931-81d5-25a4fa7c6748",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Playbutton",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (23/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "e97a531a-b31a-439c-b16e-89b9fa3ccd79",
+      "bids": {
+        "e97a531a-b31a-439c-b16e-89b9fa3ccd79": 10001
+      },
+      "startTime": "2026-02-11T21:24:15.361Z",
+      "endTime": "2026-02-12T00:24:15.361Z",
+      "finalPrice": 10001
     }
   ],
   "OP Teppichmesser": [
@@ -18817,6 +18976,133 @@
       "startTime": "2026-02-11T21:04:40.462Z",
       "endTime": "2026-02-12T00:04:40.462Z",
       "finalPrice": 102000
+    }
+  ],
+  "OPPhil": [
+    {
+      "uid": "77f0f526fed9d2822f63cebaf9cebc47",
+      "seller": "c325ee79-f948-476c-817a-52ef6da71261",
+      "item": {
+        "material": "PLAYER_HEAD",
+        "icon": "https://img.mc-api.io/player_head.png",
+        "amount": 1,
+        "displayName": "OPPhil",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 50000,
+      "currentBid": 50100,
+      "highestBidder": "a06f2fd4-8cf0-45e0-b834-0bb5c6a729e7",
+      "bids": {
+        "a06f2fd4-8cf0-45e0-b834-0bb5c6a729e7": 50100
+      },
+      "startTime": "2026-02-11T12:33:44.215Z",
+      "endTime": "2026-02-12T00:33:44.215Z",
+      "finalPrice": 50100
+    }
+  ],
+  "Normale ★ Schuhe": [
+    {
+      "uid": "49d15115f748e51b60ad7b34de91d2fe",
+      "seller": "476114b2-b041-4bd6-8513-22d8c3b61dd2",
+      "item": {
+        "material": "NETHERITE_BOOTS",
+        "icon": "https://img.mc-api.io/netherite_boots.png",
+        "amount": 1,
+        "displayName": "Normale ★ Schuhe",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1000,
+      "currentBid": 6500,
+      "highestBidder": "00000000-0000-0000-0009-01f6f576ee01",
+      "bids": {
+        "0ebc0a73-2b92-4987-92c6-719cd7642f56": 1001,
+        "00000000-0000-0000-0009-01f6f576ee01": 6500
+      },
+      "startTime": "2026-02-11T12:40:36.676Z",
+      "endTime": "2026-02-12T00:40:36.676Z",
+      "finalPrice": 6500
+    }
+  ],
+  "Marktplatz": [
+    {
+      "uid": "fcda066aee7db177cada6a1162c10e30",
+      "seller": "85d9201b-0bb5-4931-81d5-25a4fa7c6748",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Marktplatz",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (19/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "e97a531a-b31a-439c-b16e-89b9fa3ccd79",
+      "bids": {
+        "e97a531a-b31a-439c-b16e-89b9fa3ccd79": 10001
+      },
+      "startTime": "2026-02-11T21:24:41.325Z",
+      "endTime": "2026-02-12T00:24:41.325Z",
+      "finalPrice": 10001
+    }
+  ],
+  "Creator Kamera": [
+    {
+      "uid": "6179d3fbd53a481889b0e27eedd56e7a",
+      "seller": "1f0bea02-deca-40c1-800f-9f470992753e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Creator Kamera",
+        "lore": [
+          "",
+          "Mit dieser Kamera werden alle",
+          "Streams und Videos aufgenommen.",
+          "",
+          "Signiert von Creator+ am 01.02.2026",
+          "Signiert von Creator am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 70000,
+      "currentBid": 70001,
+      "highestBidder": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
+      "bids": {
+        "3fd11c20-a1be-437c-b165-c53cbcda7c11": 70001
+      },
+      "startTime": "2026-02-11T21:46:20.210Z",
+      "endTime": "2026-02-12T00:46:20.210Z",
+      "finalPrice": 70001
     }
   ]
 }
