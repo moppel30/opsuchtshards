@@ -23031,5 +23031,32 @@
       "endTime": "2026-02-12T16:51:14.646Z",
       "finalPrice": 10000
     }
+  ],
+  "Wumpus Helm": [
+    {
+      "uid": "81d0d0181694e96b10468a8c58b2dbec",
+      "seller": "285d7804-d25e-4c34-b959-8e1266ec9222",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Wumpus Helm",
+        "lore": [
+          "",
+          "Willkommen auf unserem Discord"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 9000,
+      "currentBid": 10500,
+      "highestBidder": "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d",
+      "bids": {
+        "00000000-0000-0000-0009-01f491a40751": 10000,
+        "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d": 10500
+      },
+      "startTime": "2026-02-11T16:51:38.972Z",
+      "endTime": "2026-02-12T16:51:38.972Z",
+      "finalPrice": 10500
+    }
   ]
 }
