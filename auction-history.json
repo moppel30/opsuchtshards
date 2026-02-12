@@ -9890,6 +9890,39 @@
       "startTime": "2026-02-11T20:17:11.200Z",
       "endTime": "2026-02-11T23:17:11.200Z",
       "finalPrice": 10002
+    },
+    {
+      "uid": "a7242f778bdb330be8b47679fc5c841e",
+      "seller": "94c21070-d5d0-4f41-b725-70d37f25c907",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP Pass",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (12/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1000,
+      "highestBidder": "6338ad61-ca04-4c12-9404-e7d6fad90d5d",
+      "bids": {
+        "1893df48-b2ba-44ba-ae2a-88bff0006ee6": 100,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000
+      },
+      "startTime": "2026-02-11T16:31:23.465Z",
+      "endTime": "2026-02-12T04:31:23.464Z",
+      "finalPrice": 1000
     }
   ],
   "NETHERITE_HELMET": [
@@ -10016,6 +10049,40 @@
       "startTime": "2026-02-11T21:24:15.361Z",
       "endTime": "2026-02-12T00:24:15.361Z",
       "finalPrice": 10001
+    },
+    {
+      "uid": "0b5768a212da1c040ab98b954a612aaf",
+      "seller": "94c21070-d5d0-4f41-b725-70d37f25c907",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Playbutton",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (23/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1050,
+      "highestBidder": "497ad345-1ba4-462e-bc3a-b882e65ee5bf",
+      "bids": {
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "d89dfbaf-b158-42b8-afd7-b323b2300d9a": 2,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 1050
+      },
+      "startTime": "2026-02-11T16:30:57.695Z",
+      "endTime": "2026-02-12T04:30:57.695Z",
+      "finalPrice": 1050
     }
   ],
   "OP Teppichmesser": [
@@ -14839,6 +14906,39 @@
       "startTime": "2026-02-11T17:21:45.147Z",
       "endTime": "2026-02-11T20:22:38.919Z",
       "finalPrice": 1051.05
+    },
+    {
+      "uid": "44913ddbaa65c941e4ba5cbf0699b936",
+      "seller": "94c21070-d5d0-4f41-b725-70d37f25c907",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Farmwelt",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (16/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 2000,
+      "highestBidder": "00000000-0000-0000-0009-01f8bb1ceead",
+      "bids": {
+        "00000000-0000-0000-0009-01f8bb1ceead": 2000,
+        "00000000-0000-0000-0009-01f50a10cb40": 3
+      },
+      "startTime": "2026-02-11T16:31:11.909Z",
+      "endTime": "2026-02-12T04:31:11.909Z",
+      "finalPrice": 2000
     }
   ],
   "NETHERITE_BOOTS": [
