@@ -4783,6 +4783,38 @@
       "startTime": "2026-02-10T21:15:40.927Z",
       "endTime": "2026-02-11T21:15:40.927Z",
       "finalPrice": 205000
+    },
+    {
+      "uid": "df72c8ea27774b945b154a8a7dc02d68",
+      "seller": "7b11cb8b-1240-4179-bcdc-2883e47afa91",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Emmys Videokamera",
+        "lore": [
+          "",
+          "Hiermit dreht Emmy ihre",
+          "Videos für YouTube!",
+          "",
+          "Signiert von EinfachEmmy am 01.10.2025",
+          "",
+          "➥ Effekt: Lokalisiert nächstes Smaragderz (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 60000,
+      "highestBidder": "00000000-0000-0000-0009-01fa64e8d806",
+      "bids": {
+        "00000000-0000-0000-0009-01fa64e8d806": 60000
+      },
+      "startTime": "2026-02-11T20:17:51.620Z",
+      "endTime": "2026-02-12T02:17:51.620Z",
+      "finalPrice": 60000
     }
   ],
   "Infinity Hacke": [
