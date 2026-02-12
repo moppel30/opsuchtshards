@@ -21111,5 +21111,33 @@
       "endTime": "2026-02-12T11:52:04.160Z",
       "finalPrice": 1001
     }
+  ],
+  "NETHERITE_SHOVEL": [
+    {
+      "uid": "dd26f5e56007afa2d5452a5e1d0cf938",
+      "seller": "b01db8b6-ecc7-4595-a320-eb5c28d2603c",
+      "item": {
+        "material": "NETHERITE_SHOVEL",
+        "icon": "https://img.mc-api.io/netherite_shovel.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools",
+      "startBid": 30000,
+      "currentBid": 36000,
+      "highestBidder": "b87f948c-1de9-4325-b8e0-865fcd493ad2",
+      "bids": {
+        "b87f948c-1de9-4325-b8e0-865fcd493ad2": 36000
+      },
+      "startTime": "2026-02-11T11:55:13.470Z",
+      "endTime": "2026-02-12T11:55:13.470Z",
+      "finalPrice": 36000
+    }
   ]
 }
