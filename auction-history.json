@@ -6815,6 +6815,44 @@
       "startTime": "2026-02-11T12:02:45.412Z",
       "endTime": "2026-02-12T12:02:45.412Z",
       "finalPrice": 215000
+    },
+    {
+      "uid": "1000597c946f517dc1eccc55c303888e",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "amount": 1,
+        "displayName": "Engelschuhe v3",
+        "lore": [
+          "Flügel I",
+          "",
+          "Signiert vom Engel am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 500000,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "ab3c32c5-2df0-437c-b401-15d80a54845a": 2000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 11025,
+        "4df435f0-4028-451b-9f7f-9357ca42f36e": 3150,
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 6000,
+        "00000000-0000-0000-0009-01ffca470056": 10000,
+        "0f4361fe-3e34-4493-bfce-21234f2c2c67": 3000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 500000,
+        "5b79c8b0-c5ad-47db-8349-f9df72987a6c": 2
+      },
+      "startTime": "2026-02-12T00:17:28.551Z",
+      "endTime": "2026-02-12T12:17:28.551Z",
+      "finalPrice": 500000
     }
   ],
   "Engelshemd": [
@@ -21369,6 +21407,46 @@
       "startTime": "2026-02-11T11:30:52.368Z",
       "endTime": "2026-02-12T11:30:52.368Z",
       "finalPrice": 1001
+    }
+  ],
+  "Emmys Blume": [
+    {
+      "uid": "a61e1a4f2841329725b4dead98d0f98f",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "ALLIUM",
+        "icon": "https://img.mc-api.io/allium.png",
+        "amount": 1,
+        "displayName": "Emmys Blume",
+        "lore": [
+          "",
+          "Diese Blume bringt Glück.",
+          "",
+          "Signiert von EinfachEmmy am 01.04.2025",
+          "",
+          "➥ Effekt: +20% Geschwindigkeit",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:fortune": 5
+        }
+      },
+      "category": "op_items",
+      "startBid": 1,
+      "currentBid": 110.25,
+      "highestBidder": "e159dceb-dffc-4d26-9505-08e32c4375b9",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 105,
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 110.25,
+        "e8f1c655-b296-46e1-9f45-c26b0a394152": 100,
+        "5b79c8b0-c5ad-47db-8349-f9df72987a6c": 2
+      },
+      "startTime": "2026-02-12T00:17:11.060Z",
+      "endTime": "2026-02-12T12:17:11.060Z",
+      "finalPrice": 110.25
     }
   ]
 }
