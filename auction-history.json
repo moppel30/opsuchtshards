@@ -19078,6 +19078,43 @@
       "startTime": "2026-02-11T21:04:40.462Z",
       "endTime": "2026-02-12T00:04:40.462Z",
       "finalPrice": 102000
+    },
+    {
+      "uid": "478059af34868a763c94d39b723556da",
+      "seller": "00000000-0000-0000-0009-01faf607ca6d",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Sculkhose",
+        "lore": [
+          "",
+          "Sculkkollektion (7/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 40000,
+      "currentBid": 106121.82,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "2bfd0b5e-a9f0-42bf-8919-419d006ac3d2": 104041,
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 45150,
+        "00000000-0000-0000-0009-01fe800c1748": 43000,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 106121.82,
+        "0f4361fe-3e34-4493-bfce-21234f2c2c67": 70000,
+        "497ad345-1ba4-462e-bc3a-b882e65ee5bf": 102000,
+        "00000000-0000-0000-0009-01f547d93d6a": 100000
+      },
+      "startTime": "2026-02-11T14:40:28.183Z",
+      "endTime": "2026-02-12T02:40:28.183Z",
+      "finalPrice": 106121.82
     }
   ],
   "OPPhil": [
@@ -19341,6 +19378,77 @@
       "startTime": "2026-02-11T02:08:41.906Z",
       "endTime": "2026-02-12T02:08:41.906Z",
       "finalPrice": 200000
+    }
+  ],
+  "Sculkhelm": [
+    {
+      "uid": "16999d92bc91951760d6161e6a575a6a",
+      "seller": "00000000-0000-0000-0009-01faf607ca6d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Sculkhelm",
+        "lore": [
+          "",
+          "Sculkkollektion (5/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 183600,
+      "highestBidder": "4702e929-73b8-4e8c-9458-b4ddae39c51a",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 50002,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 183600,
+        "7598c49d-ca22-4a30-8c80-03854396d0d8": 100000,
+        "00000000-0000-0000-0009-01f547d93d6a": 150000,
+        "d6b34ee4-283a-4a2d-be35-8ea0a3384ed2": 180000
+      },
+      "startTime": "2026-02-11T14:40:08.787Z",
+      "endTime": "2026-02-12T02:40:08.787Z",
+      "finalPrice": 183600
+    }
+  ],
+  "Grillanzünder": [
+    {
+      "uid": "1d2ac9e3574bbe53488210591b236e4b",
+      "seller": "00000000-0000-0000-0009-01faf607ca6d",
+      "item": {
+        "material": "FIRE_CHARGE",
+        "icon": "https://img.mc-api.io/fire_charge.png",
+        "amount": 1,
+        "displayName": "Grillanzünder",
+        "lore": [
+          "",
+          "Der erste Funke",
+          "jeder Grillparty.",
+          "",
+          "➥ Effekt: +3 Herzen (Hand, Off-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 0,
+      "currentBid": 159,
+      "highestBidder": "1893df48-b2ba-44ba-ae2a-88bff0006ee6",
+      "bids": {
+        "00000000-0000-0000-0009-01fc96448ee4": 150,
+        "1893df48-b2ba-44ba-ae2a-88bff0006ee6": 159,
+        "00000000-0000-0000-0009-01f1958a6abc": 100
+      },
+      "startTime": "2026-02-11T14:40:38.432Z",
+      "endTime": "2026-02-12T02:40:38.432Z",
+      "finalPrice": 159
     }
   ]
 }
