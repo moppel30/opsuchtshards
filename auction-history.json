@@ -8833,6 +8833,42 @@
       "startTime": "2026-02-11T16:48:26.158Z",
       "endTime": "2026-02-11T19:54:19.893Z",
       "finalPrice": 2000000
+    },
+    {
+      "uid": "d99beb54e2339b1b46a2968c9d1b8113",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Odin's Schwingen",
+        "lore": [
+          "",
+          "Gewoben aus den Federn der Raben Odins,",
+          "tragen dich diese Schwingen durch die neun Reiche.",
+          "",
+          "Signiert von Odin am 23.01.2024",
+          "",
+          "➥ Effekt: +60% Geschwindigkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1010000,
+      "highestBidder": "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec",
+      "bids": {
+        "fd3aa44a-96d0-48e8-920c-2dcbd3134f4c": 100,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 110.25,
+        "00000000-0000-0000-0009-00000b5785fd": 100000,
+        "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec": 1010000,
+        "f1a8a0de-d9b1-4015-b18b-5ea2dcbf13ac": 1000000
+      },
+      "startTime": "2026-02-12T00:17:41.946Z",
+      "endTime": "2026-02-12T12:17:41.946Z",
+      "finalPrice": 1010000
     }
   ],
   "Mini One Hit Wonder": [
@@ -21447,6 +21483,175 @@
       "startTime": "2026-02-12T00:17:11.060Z",
       "endTime": "2026-02-12T12:17:11.060Z",
       "finalPrice": 110.25
+    }
+  ],
+  "Der Vorschlaghammer": [
+    {
+      "uid": "489d15394c607d743759bffcd0ea3e30",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "icon": "https://img.mc-api.io/netherite_pickaxe.png",
+        "amount": 1,
+        "displayName": "Der Vorschlaghammer",
+        "lore": [
+          "Signiert von DURCHRASTEN am 22.10.2021",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "tools",
+      "startBid": 1,
+      "currentBid": 816001,
+      "highestBidder": "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 357000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 481.98,
+        "90a741dc-dc58-4046-a88a-2a5568b039d2": 100000,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 500000,
+        "12a5dbce-900d-4db2-b70f-6e1a1e61e0c9": 816001,
+        "ac866283-cc13-46df-be58-5d1f8b9303f6": 800000,
+        "5b79c8b0-c5ad-47db-8349-f9df72987a6c": 459,
+        "b7d4de8a-7273-428d-a2e3-75648e98f621": 728281.02
+      },
+      "startTime": "2026-02-12T00:17:55.409Z",
+      "endTime": "2026-02-12T12:17:55.409Z",
+      "finalPrice": 816001
+    }
+  ],
+  "GOLDEN BLACK Angel": [
+    {
+      "uid": "0f27391b873d6b79b26ac058fc8cc5fa",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "FISHING_ROD",
+        "amount": 1,
+        "displayName": "GOLDEN BLACK Angel",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 28.11.2025",
+          "",
+          "GOLDEN BLACK Drop (10/11)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:luck_of_the_sea": 7,
+          "minecraft:unbreaking": 7,
+          "minecraft:lure": 7
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 260101.03,
+      "highestBidder": "dc88e01d-e678-4402-b4a8-d627b2dd6e2a",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 2,
+        "d0452e34-a721-46aa-945c-4739fcc5be4c": 3,
+        "dc88e01d-e678-4402-b4a8-d627b2dd6e2a": 260101.03,
+        "90a741dc-dc58-4046-a88a-2a5568b039d2": 250000,
+        "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d": 255001
+      },
+      "startTime": "2026-02-12T00:18:07.445Z",
+      "endTime": "2026-02-12T12:18:07.445Z",
+      "finalPrice": 260101.03
+    }
+  ],
+  "Marcels Adminstiefel": [
+    {
+      "uid": "5554fdf88d73622e13d8278a5184ba0d",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "Marcels Adminstiefel",
+        "lore": [
+          "",
+          "Ein Symbol für Marcels",
+          "technische Exzellenz!",
+          "",
+          "Signiert von ByteException_ am 01.01.2025",
+          "",
+          "Marcels Kollektion (5/5)",
+          "",
+          "➥ Effekt: +20% Geschwindigkeit (Füße)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 8,
+          "minecraft:protection": 12
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 220000,
+      "highestBidder": "5210d5d8-f374-4c49-be4d-b83ef8bff82e",
+      "bids": {
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 60000,
+        "5210d5d8-f374-4c49-be4d-b83ef8bff82e": 220000,
+        "00000000-0000-0000-0009-01f8035031f9": 100000,
+        "5dc53686-554e-4011-84b5-a15c149d1241": 2,
+        "ad2296ea-4487-454f-aa28-ae2433429f55": 204000
+      },
+      "startTime": "2026-02-12T00:18:19.603Z",
+      "endTime": "2026-02-12T12:18:19.603Z",
+      "finalPrice": 220000
+    }
+  ],
+  "Anubisshelm": [
+    {
+      "uid": "d82807faacf5830ec622202b4dd4ad44",
+      "seller": "34a85323-e2a5-46bc-bccc-fd65e6c63d67",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Anubisshelm",
+        "lore": [
+          "",
+          "Urteile im Namen der Götter",
+          "über Leben und Tod!",
+          "",
+          "Signiert von Anubis am 01.07.2025",
+          "",
+          "Anubiskollektion (5/8)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:fire_protection": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 10
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 153000,
+      "highestBidder": "6973a780-0222-440f-a044-7e40e3593308",
+      "bids": {
+        "00000000-0000-0000-0009-01f407485fb5": 5000,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 105,
+        "8f509985-4e1e-4d17-b1a1-41218eb4d93b": 55125,
+        "00000000-0000-0000-0009-01f8035031f9": 150000,
+        "6973a780-0222-440f-a044-7e40e3593308": 153000
+      },
+      "startTime": "2026-02-12T00:18:32.048Z",
+      "endTime": "2026-02-12T12:18:32.048Z",
+      "finalPrice": 153000
     }
   ]
 }
