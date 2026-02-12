@@ -24204,6 +24204,42 @@
       "startTime": "2026-02-11T17:46:25.884Z",
       "endTime": "2026-02-12T17:46:25.884Z",
       "finalPrice": 20000
+    },
+    {
+      "uid": "3e2c6ddffceacd56cfab258cf0fb935d",
+      "seller": "00000000-0000-0000-0009-01f0137caa09",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Spawnegg | Elefant",
+        "lore": [
+          "5x Elefant",
+          "",
+          "Dieses Item verschwindet,",
+          "wenn alle Mobs platziert sind.",
+          "",
+          "Achtung: Nur in den Farmwelten",
+          "platzierbar!"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1
+        }
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 21000,
+      "highestBidder": "4dd7aac9-7b8a-44f0-869e-f10c6bed8f56",
+      "bids": {
+        "00000000-0000-0000-0009-01f08e99be02": 20000,
+        "45cbdbe7-abb0-4c05-a61f-d0976b74dff0": 15500,
+        "00000000-0000-0000-0009-01f491a40751": 10500,
+        "7734891c-ec9d-4d32-8bec-767be9e2365e": 16275,
+        "4dd7aac9-7b8a-44f0-869e-f10c6bed8f56": 21000,
+        "2b63867d-e5c4-404f-a0a7-aec069af8fd3": 11025
+      },
+      "startTime": "2026-02-11T17:46:25.884Z",
+      "endTime": "2026-02-12T17:48:03.922Z",
+      "finalPrice": 21000
     }
   ]
 }
