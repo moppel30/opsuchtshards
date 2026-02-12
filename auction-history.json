@@ -6009,6 +6009,48 @@
       "startTime": "2026-02-11T16:49:04.360Z",
       "endTime": "2026-02-11T19:49:04.360Z",
       "finalPrice": 10100000
+    },
+    {
+      "uid": "3c6547eef4ab35cf8ecdae16d065ec54",
+      "seller": "ed5d8793-099a-413f-b8c0-a1b8c009052f",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Magnet",
+        "lore": [
+          "",
+          "Werde zum Herren über die Gesetze",
+          "der Anziehung und Abstoßung!",
+          "",
+          "➥ Effekt: Abgebautes wird automatisch aufgesammelt",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 9000000,
+      "highestBidder": "00000000-0000-0000-0009-01f2c6b2de98",
+      "bids": {
+        "753fcea9-2edc-462f-ba88-f4ca78abd3cf": 184000,
+        "ef2e981c-ea58-4602-ac27-bb78941e67aa": 5000000,
+        "314d4cce-e986-4400-8182-14931cd9ce26": 100000,
+        "8ef802ca-edbf-436b-812e-e25226fa670c": 1762500,
+        "00000000-0000-0000-0009-01f5c8cb40b8": 1904573.48,
+        "00000000-0000-0000-0009-01f49a998575": 3535000,
+        "00000000-0000-0000-0009-01f2c6b2de98": 9000000,
+        "421bc9a7-7289-4d93-9b27-0d1b34e9c701": 8000000,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 1,
+        "7c34e90b-f531-4bf1-bda7-5b07db7c1e39": 3862516,
+        "c5079fe8-27ed-49c4-b142-c58b24910a42": 80000,
+        "0d148f6a-0367-4fab-b77e-ced58bc7df01": 1094840,
+        "9f5e4fa6-e98d-4898-a3ec-b4ad93d28d21": 7000000
+      },
+      "startTime": "2026-02-11T19:30:55.066Z",
+      "endTime": "2026-02-12T01:30:55.066Z",
+      "finalPrice": 9000000
     }
   ],
   "Engelschuhe v3": [
