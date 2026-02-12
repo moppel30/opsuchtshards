@@ -10795,6 +10795,33 @@
       "startTime": "2026-02-10T21:17:43.129Z",
       "endTime": "2026-02-11T21:17:43.129Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "2b8cb137797aaaab5d3525fd5cda3f1d",
+      "seller": "00000000-0000-0000-0009-01fc6e39551f",
+      "item": {
+        "material": "PLAYER_HEAD",
+        "icon": "https://img.mc-api.io/player_head.png",
+        "amount": 1,
+        "displayName": "ByteException_",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1500,
+      "currentBid": 4000,
+      "highestBidder": "00000000-0000-0000-0009-01ff58e4cefb",
+      "bids": {
+        "00000000-0000-0000-0009-01fd40c5be85": 3000,
+        "00000000-0000-0000-0009-01ff58e4cefb": 4000
+      },
+      "startTime": "2026-02-11T17:33:34.928Z",
+      "endTime": "2026-02-12T17:33:34.928Z",
+      "finalPrice": 4000
     }
   ],
   "Starter Äpfel": [
