@@ -13684,6 +13684,48 @@
       "startTime": "2026-02-12T13:34:22.463Z",
       "endTime": "2026-02-12T16:36:34.662Z",
       "finalPrice": 69457.5
+    },
+    {
+      "uid": "2bfd1cf94f4a51bd06c9aa97be70ba71",
+      "seller": "92942b23-2e75-451d-b95d-ef67487a0495",
+      "item": {
+        "material": "LEATHER_LEGGINGS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 57881.25,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "e9c9d2b6-5953-486e-83be-4ecaff57b631": 2205,
+        "00000000-0000-0000-0009-01fe84aa34dd": 50000,
+        "95800573-4d83-45d1-b815-7b27c3d22c70": 2552.66,
+        "bdb97cfc-3af9-44c9-adb3-b79bd44cbca9": 2000,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "ffafca53-22f1-430a-b155-37100c3d7186": 1575,
+        "00000000-0000-0000-0009-01f390777d71": 1500,
+        "861e3238-3b8f-4580-be86-d752060500f4": 1653.75,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 57881.25,
+        "e153a44e-5f16-447c-8fb2-77b3cb25e38c": 55125
+      },
+      "startTime": "2026-02-12T10:52:42.803Z",
+      "endTime": "2026-02-12T16:52:42.803Z",
+      "finalPrice": 57881.25
     }
   ],
   "Tunnelgräber Schaufel": [
