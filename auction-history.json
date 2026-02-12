@@ -22793,5 +22793,34 @@
       "endTime": "2026-02-12T16:38:13.030Z",
       "finalPrice": 130000
     }
+  ],
+  "Frosch-Spawn-Egg": [
+    {
+      "uid": "3a13b9a6ba96220f9b71a9b73a6c3100",
+      "seller": "eb9cdb1c-4492-469d-a14c-5945aed3c0ea",
+      "item": {
+        "material": "FROG_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/frog_spawn_egg.png",
+        "amount": 1,
+        "displayName": "Frosch-Spawn-Egg",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 1,
+      "currentBid": 11666.67,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 11666.67,
+        "00000000-0000-0000-0009-01faab3ea276": 11111.11
+      },
+      "startTime": "2026-02-11T16:39:34.071Z",
+      "endTime": "2026-02-12T16:39:34.071Z",
+      "finalPrice": 11666.67
+    }
   ]
 }
