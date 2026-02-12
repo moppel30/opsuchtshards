@@ -20080,5 +20080,122 @@
       "endTime": "2026-02-12T06:11:12.803Z",
       "finalPrice": 70000000
     }
+  ],
+  "GOLDEN BLACK Beinschutz": [
+    {
+      "uid": "15a8be54b9b08e1bb449b6b7c4843330",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "GOLDEN BLACK Beinschutz",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 28.11.2025",
+          "",
+          "GOLDEN BLACK Drop (8/11)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 7,
+          "minecraft:protection": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 320000,
+      "highestBidder": "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d",
+      "bids": {
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 250001,
+        "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d": 320000,
+        "08c6f5e6-97d6-4c05-90b2-6f2a1b73f7e6": 300000
+      },
+      "startTime": "2026-02-11T06:31:43.664Z",
+      "endTime": "2026-02-12T06:31:43.664Z",
+      "finalPrice": 320000
+    }
+  ],
+  "GOLDEN BLACK Stiefel": [
+    {
+      "uid": "dbb4feca6423a61dfd53473275ff47d1",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216",
+      "item": {
+        "material": "IRON_BOOTS",
+        "amount": 1,
+        "displayName": "GOLDEN BLACK Stiefel",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 28.11.2025",
+          "",
+          "GOLDEN BLACK Drop (9/11)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 7,
+          "minecraft:feather_falling": 5,
+          "minecraft:protection": 8
+        }
+      },
+      "category": "custom_items",
+      "startBid": 250000,
+      "currentBid": 357000,
+      "highestBidder": "c2c9ab12-e2e6-4a16-b518-664c0d1311b4",
+      "bids": {
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 300000,
+        "c2c9ab12-e2e6-4a16-b518-664c0d1311b4": 357000,
+        "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d": 350000,
+        "08c6f5e6-97d6-4c05-90b2-6f2a1b73f7e6": 306000
+      },
+      "startTime": "2026-02-11T06:32:00.163Z",
+      "endTime": "2026-02-12T06:32:00.163Z",
+      "finalPrice": 357000
+    }
+  ],
+  "GOLDEN BLACK Helm": [
+    {
+      "uid": "7ff4026e5f1f0fcd0da88874edb55b61",
+      "seller": "cacbe986-7145-49b5-bb5b-143111733216",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "GOLDEN BLACK Helm",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 28.11.2025",
+          "",
+          "GOLDEN BLACK Drop (6/11)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:unbreaking": 7,
+          "minecraft:protection": 8,
+          "minecraft:respiration": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 420000,
+      "highestBidder": "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d",
+      "bids": {
+        "e357ce61-d6dd-4348-8f01-be3a1d0713c8": 400000,
+        "8ca07dfe-dc41-412c-af0e-4c3ae303ae2d": 420000,
+        "08c6f5e6-97d6-4c05-90b2-6f2a1b73f7e6": 357000
+      },
+      "startTime": "2026-02-11T06:32:13.853Z",
+      "endTime": "2026-02-12T06:32:13.853Z",
+      "finalPrice": 420000
+    }
   ]
 }
