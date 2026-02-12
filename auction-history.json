@@ -19216,5 +19216,37 @@
       "endTime": "2026-02-12T01:46:27.720Z",
       "finalPrice": 60000001
     }
+  ],
+  "SkyGuyTV": [
+    {
+      "uid": "25a64e6661642439daf236b38db38553",
+      "seller": "00000000-0000-0000-0009-01f1e8bee976",
+      "item": {
+        "material": "PLAYER_HEAD",
+        "icon": "https://img.mc-api.io/player_head.png",
+        "amount": 1,
+        "displayName": "SkyGuyTV",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1000,
+      "currentBid": 6000,
+      "highestBidder": "00000000-0000-0000-0009-01ff58e4cefb",
+      "bids": {
+        "00000000-0000-0000-0009-01f9f16497d4": 2000,
+        "99077d88-aceb-4d73-a38e-e18bd9469bb6": 3000,
+        "00000000-0000-0000-0009-01ffc982eaac": 1100,
+        "00000000-0000-0000-0009-01ff58e4cefb": 6000,
+        "00000000-0000-0000-0009-01f4bd0dcd8b": 5000
+      },
+      "startTime": "2026-02-11T01:58:27.960Z",
+      "endTime": "2026-02-12T01:58:27.960Z",
+      "finalPrice": 6000
+    }
   ]
 }
