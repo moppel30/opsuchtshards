@@ -18477,6 +18477,32 @@
       "startTime": "2026-02-11T20:50:32.058Z",
       "endTime": "2026-02-11T21:05:32.058Z",
       "finalPrice": 100
+    },
+    {
+      "uid": "7a9d8952059b1ca4403e543c5cad0651",
+      "seller": "00000000-0000-0000-0009-01fb840db809",
+      "item": {
+        "material": "TRADER_LLAMA_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/trader_llama_spawn_egg.png",
+        "amount": 1,
+        "displayName": "Händlerlama-Spawn-Egg",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 2000000,
+      "currentBid": 2000001,
+      "highestBidder": "cd9bc16d-f8df-4bb7-afb0-fcc6a23bf645",
+      "bids": {
+        "cd9bc16d-f8df-4bb7-afb0-fcc6a23bf645": 2000001
+      },
+      "startTime": "2026-02-12T11:55:34.109Z",
+      "endTime": "2026-02-12T17:55:34.109Z",
+      "finalPrice": 2000001
     }
   ],
   "Mod-Team": [
