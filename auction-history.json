@@ -2773,6 +2773,70 @@
       "startTime": "2026-02-11T22:58:34.474Z",
       "endTime": "2026-02-12T04:58:34.474Z",
       "finalPrice": 261121.05
+    },
+    {
+      "uid": "2cdc53f939a13d4c2f670698301a1c39",
+      "seller": "e1023d63-3766-42c0-93e9-c50988da4d15",
+      "item": {
+        "material": "PAPER",
+        "amount": 2,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 650000,
+      "currentBid": 663001.02,
+      "highestBidder": "e159dceb-dffc-4d26-9505-08e32c4375b9",
+      "bids": {
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 663001.02,
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 650001
+      },
+      "startTime": "2026-02-11T22:01:00.070Z",
+      "endTime": "2026-02-12T10:01:00.070Z",
+      "finalPrice": 663001.02
+    },
+    {
+      "uid": "1e966ebf98be4299943b333781532cc1",
+      "seller": "5210d5d8-f374-4c49-be4d-b83ef8bff82e",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 250000,
+      "highestBidder": "6c1c9156-433a-4995-9b84-b2a67b0449b9",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 200001,
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 210000,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 204001.02,
+        "6c1c9156-433a-4995-9b84-b2a67b0449b9": 250000
+      },
+      "startTime": "2026-02-11T22:03:43.117Z",
+      "endTime": "2026-02-12T10:03:43.117Z",
+      "finalPrice": 250000
     }
   ],
   "POTION": [
@@ -9513,6 +9577,48 @@
       "startTime": "2026-02-11T18:31:56.742Z",
       "endTime": "2026-02-11T19:31:56.741Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "af4127bdb3317d46269a00a8e2658e70",
+      "seller": "f069fbda-be2b-4a5d-80ae-036018fe38b6",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": "Tauhelm",
+        "lore": [
+          "",
+          "Schützt den Kopf des Trägers mit",
+          "dem kühlen Glanz der Morgenluft!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (5/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "armor",
+      "startBid": 1,
+      "currentBid": 2000,
+      "highestBidder": "00000000-0000-0000-0009-01ff58e4cefb",
+      "bids": {
+        "00000000-0000-0000-0009-01f176514cc8": 210,
+        "99077d88-aceb-4d73-a38e-e18bd9469bb6": 5,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 2,
+        "00000000-0000-0000-0009-00000bc8ed52": 63,
+        "3834e80d-0870-4df7-bf76-42b97833c3b5": 200,
+        "6399047b-47fb-483c-b034-e7acfe2785f3": 220.5,
+        "00000000-0000-0000-0009-01ff58e4cefb": 2000
+      },
+      "startTime": "2026-02-11T10:26:54.754Z",
+      "endTime": "2026-02-12T10:26:54.754Z",
+      "finalPrice": 2000
     }
   ],
   "Episode 6: Das Vermächtnis wächst": [
@@ -16967,6 +17073,39 @@
       "startTime": "2026-02-10T22:59:29.669Z",
       "endTime": "2026-02-11T22:59:29.669Z",
       "finalPrice": 30001
+    },
+    {
+      "uid": "f0863477690196e4c085471ec68fbd98",
+      "seller": "f069fbda-be2b-4a5d-80ae-036018fe38b6",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1050,
+      "highestBidder": "732af855-caf8-48c8-aa99-855714e33e17",
+      "bids": {
+        "95800573-4d83-45d1-b815-7b27c3d22c70": 276,
+        "732af855-caf8-48c8-aa99-855714e33e17": 1050,
+        "3834e80d-0870-4df7-bf76-42b97833c3b5": 250,
+        "0df7982f-5214-4075-a5e4-2f21408c01b8": 2,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "8c4f81b1-405a-4e03-9d57-c5f17826eccc": 10,
+        "bcffa2da-e821-40bf-ab6a-70e6613d7265": 262.5
+      },
+      "startTime": "2026-02-11T10:27:02.403Z",
+      "endTime": "2026-02-12T10:27:02.403Z",
+      "finalPrice": 1050
     }
   ],
   "Pilz Paket": [
@@ -17178,6 +17317,39 @@
       "startTime": "2026-02-11T21:09:14.223Z",
       "endTime": "2026-02-11T21:26:00.413Z",
       "finalPrice": 2752
+    },
+    {
+      "uid": "52d6e3d665716dbb61da44fb1dfe881b",
+      "seller": "e29e3727-820c-4be1-bed7-e98fe72ba831",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Supporter-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (8/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 5250,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 5250,
+        "90a741dc-dc58-4046-a88a-2a5568b039d2": 5000
+      },
+      "startTime": "2026-02-11T22:46:47.267Z",
+      "endTime": "2026-02-12T10:46:47.267Z",
+      "finalPrice": 5250
     }
   ],
   "Sammelkarten GÜNSTIG": [
@@ -20196,6 +20368,99 @@
       "startTime": "2026-02-11T06:32:13.853Z",
       "endTime": "2026-02-12T06:32:13.853Z",
       "finalPrice": 420000
+    }
+  ],
+  "Dornenkuss der Rosennacht": [
+    {
+      "uid": "ddddc33891542d29a7a25adda0c168c8",
+      "seller": "e604f9cc-5ebb-493b-9d44-19e8d4219d50",
+      "item": {
+        "material": "ROSE_BUSH",
+        "icon": "https://img.mc-api.io/rose_bush.png",
+        "amount": 1,
+        "displayName": "Dornenkuss der Rosennacht",
+        "lore": [
+          "",
+          "Wenn Rosen träumen, weckt ihr Duft",
+          "Herzen und Heilung im Mondlicht.",
+          "",
+          "➥ Effekt: -30% Brenndauer (Off-Hand)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 12500,
+      "currentBid": 13000,
+      "highestBidder": "00000000-0000-0000-0009-01ff2f05f4e3",
+      "bids": {
+        "00000000-0000-0000-0009-01ff2f05f4e3": 13000
+      },
+      "startTime": "2026-02-11T10:44:56.077Z",
+      "endTime": "2026-02-12T10:44:56.077Z",
+      "finalPrice": 13000
+    }
+  ],
+  "Runenbrecher": [
+    {
+      "uid": "2e48d5730e022a7abc540cbae2cbc2c3",
+      "seller": "90396998-1d97-4a21-b152-01d7a143bc5b",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Runenbrecher",
+        "lore": [
+          "",
+          "Diese Axt fällt Bäume, ",
+          "wie Staub im Wind verweht.",
+          "",
+          "➥ Effekt: Baut 1x1 Bäume mit einem Klick ab",
+          "",
+          "Effekt wirkt nicht auf Bäume mit 2x2 Stämmen.",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 6000000,
+      "currentBid": 6000002,
+      "highestBidder": "91f16f39-6e34-479b-a850-9d3b53940da3",
+      "bids": {
+        "91f16f39-6e34-479b-a850-9d3b53940da3": 6000002
+      },
+      "startTime": "2026-02-11T22:04:07.554Z",
+      "endTime": "2026-02-12T10:04:07.554Z",
+      "finalPrice": 6000002
+    }
+  ],
+  "BLACK_STAINED_GLASS": [
+    {
+      "uid": "21649e3040b447a62a7768e37df81028",
+      "seller": "00000000-0000-0000-0009-01f5dcb68fe2",
+      "item": {
+        "material": "BLACK_STAINED_GLASS",
+        "icon": "https://img.mc-api.io/black_stained_glass.png",
+        "amount": 34,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 50,
+      "currentBid": 51,
+      "highestBidder": "d74d609c-6d42-42d5-ae07-6c642ca8c409",
+      "bids": {
+        "d74d609c-6d42-42d5-ae07-6c642ca8c409": 51
+      },
+      "startTime": "2026-02-12T08:55:48.261Z",
+      "endTime": "2026-02-12T09:55:48.261Z",
+      "finalPrice": 51
     }
   ]
 }
