@@ -22295,5 +22295,36 @@
       "endTime": "2026-02-12T16:31:29.357Z",
       "finalPrice": 300001
     }
+  ],
+  "Fliegermütze": [
+    {
+      "uid": "be1538f00c8fa8628e61204f9dde17c6",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Fliegermütze",
+        "lore": [
+          "",
+          "Geboren für den Wind, ",
+          "getragen von Träumern. ",
+          "",
+          "➥ Effekt: +10 Rüstung (Kopf)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "08235de1-880b-4a5a-a92e-ea6965202381",
+      "bids": {
+        "08235de1-880b-4a5a-a92e-ea6965202381": 50001
+      },
+      "startTime": "2026-02-11T16:34:20.102Z",
+      "endTime": "2026-02-12T16:34:20.102Z",
+      "finalPrice": 50001
+    }
   ]
 }
