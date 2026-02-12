@@ -23363,5 +23363,33 @@
       "endTime": "2026-02-12T16:56:12.383Z",
       "finalPrice": 300000
     }
+  ],
+  "DEKO | Box": [
+    {
+      "uid": "541cb9240e056f8fe0c5842f4f26518b",
+      "seller": "ebcb4078-aa9a-4493-9c39-8fa692e2c599",
+      "item": {
+        "material": "WHITE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/white_shulker_box.png",
+        "amount": 1,
+        "displayName": "DEKO | Box",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 200000,
+      "currentBid": 200001,
+      "highestBidder": "b52d3922-fa14-4fbc-9eb7-930426b06c3b",
+      "bids": {
+        "b52d3922-fa14-4fbc-9eb7-930426b06c3b": 200001
+      },
+      "startTime": "2026-02-12T05:22:22.009Z",
+      "endTime": "2026-02-12T17:22:22.008Z",
+      "finalPrice": 200001
+    }
   ]
 }
