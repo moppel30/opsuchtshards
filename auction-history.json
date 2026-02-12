@@ -23004,5 +23004,32 @@
       "endTime": "2026-02-12T16:41:42.393Z",
       "finalPrice": 30000
     }
+  ],
+  "Wumpus Jetpack": [
+    {
+      "uid": "08b712acd95526ca91fbda8869e15110",
+      "seller": "285d7804-d25e-4c34-b959-8e1266ec9222",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Wumpus Jetpack",
+        "lore": [
+          "",
+          "Willkommen auf unserem Discord"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 9000,
+      "currentBid": 10000,
+      "highestBidder": "3b2ed0ca-ae8d-43f0-a40b-a26362f659bb",
+      "bids": {
+        "00000000-0000-0000-0009-01fd606c6b7d": 9001,
+        "3b2ed0ca-ae8d-43f0-a40b-a26362f659bb": 10000
+      },
+      "startTime": "2026-02-11T16:51:14.646Z",
+      "endTime": "2026-02-12T16:51:14.646Z",
+      "finalPrice": 10000
+    }
   ]
 }
