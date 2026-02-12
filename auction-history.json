@@ -7250,6 +7250,39 @@
       "startTime": "2026-02-11T20:53:32.756Z",
       "endTime": "2026-02-11T21:55:20.661Z",
       "finalPrice": 520.5
+    },
+    {
+      "uid": "eedf3c7cd87ba273925d6b2de319da4d",
+      "seller": "2054054e-b7a9-4a86-bd32-effd6982b880",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-Kiste",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (11/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 4000,
+      "currentBid": 4201.05,
+      "highestBidder": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "bids": {
+        "d72075d7-12d3-4fc5-8f58-a1678b0ec333": 4201.05,
+        "69a37f71-c495-41e5-8c21-2bbb5bf88cd6": 4001
+      },
+      "startTime": "2026-02-11T16:03:42.532Z",
+      "endTime": "2026-02-12T16:04:20.654Z",
+      "finalPrice": 4201.05
     }
   ],
   "OP-City": [
