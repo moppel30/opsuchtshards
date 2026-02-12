@@ -24277,5 +24277,48 @@
       "endTime": "2026-02-12T17:48:25.209Z",
       "finalPrice": 48620.25
     }
+  ],
+  "ADMIN Banhammer": [
+    {
+      "uid": "710e507d26164b020af64ad39554c334",
+      "seller": "78b7e6fc-5822-4bba-bf1a-afdd1f841d59",
+      "item": {
+        "material": "MACE",
+        "amount": 1,
+        "displayName": "ADMIN Banhammer",
+        "lore": [
+          "",
+          "Signiert von ByteException_ am 01.08.2025",
+          "Signiert von EinfachEmmy am 01.08.2025",
+          "Signiert von Christianoooo am 01.08.2025",
+          "Signiert von JonCarr am 01.08.2025",
+          "",
+          "➥ Effekt: Explosion (Rechtsklick auf den Boden)",
+          "➥ Effekt: Große Explosion (Beim Töten eines Mobs)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:wind_burst": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 6,
+          "minecraft:looting": 5,
+          "minecraft:density": 7
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1000000,
+      "currentBid": 1212000,
+      "highestBidder": "e94f10be-09ae-47a5-9eee-3cd6d6082a7d",
+      "bids": {
+        "3f237c18-1a92-4fc0-b873-bb23e68a1450": 1100000,
+        "7275afba-9c3b-4ac4-b630-2ac16195f231": 1200000,
+        "e94f10be-09ae-47a5-9eee-3cd6d6082a7d": 1212000
+      },
+      "startTime": "2026-02-11T17:49:09.123Z",
+      "endTime": "2026-02-12T17:49:09.123Z",
+      "finalPrice": 1212000
+    }
   ]
 }
