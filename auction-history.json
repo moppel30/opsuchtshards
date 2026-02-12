@@ -23451,5 +23451,28 @@
       "endTime": "2026-02-12T17:22:22.008Z",
       "finalPrice": 200001
     }
+  ],
+  "NETHERITE_UPGRADE_SMITHING_TEMPLATE": [
+    {
+      "uid": "c2cfee607f506a335d777998751c5ac6",
+      "seller": "f2d97489-6e1a-41e1-9a8d-c2ff282a3cd5",
+      "item": {
+        "material": "NETHERITE_UPGRADE_SMITHING_TEMPLATE",
+        "icon": "https://img.mc-api.io/netherite_upgrade_smithing_template.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 500,
+      "currentBid": 501,
+      "highestBidder": "a3b6935a-33d6-42cd-ad9f-0252cd7efadd",
+      "bids": {
+        "a3b6935a-33d6-42cd-ad9f-0252cd7efadd": 501
+      },
+      "startTime": "2026-02-12T16:28:13.529Z",
+      "endTime": "2026-02-12T17:28:13.528Z",
+      "finalPrice": 501
+    }
   ]
 }
