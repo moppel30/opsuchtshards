@@ -21169,5 +21169,105 @@
       "endTime": "2026-02-12T11:55:13.470Z",
       "finalPrice": 36000
     }
+  ],
+  "Wichtelschuhe": [
+    {
+      "uid": "409cda8f8ba1b6038e3c01365549d010",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "icon": "https://img.mc-api.io/leather_boots.png",
+        "amount": 1,
+        "displayName": "Wichtelschuhe",
+        "lore": [
+          "Adventskalender Item vom 18.12.2025"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1001
+      },
+      "startTime": "2026-02-11T12:01:37.366Z",
+      "endTime": "2026-02-12T12:01:37.366Z",
+      "finalPrice": 1001
+    }
+  ],
+  "Wichtelbrustplatte": [
+    {
+      "uid": "bba722ba296fbeec68a3840d5e97bd03",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e",
+      "item": {
+        "material": "LEATHER_CHESTPLATE",
+        "icon": "https://img.mc-api.io/leather_chestplate.png",
+        "amount": 1,
+        "displayName": "Wichtelbrustplatte",
+        "lore": [
+          "Adventskalender Item vom 10.12.2025"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 5,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1000,
+      "currentBid": 1103.61,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1103.61,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 1051.05
+      },
+      "startTime": "2026-02-11T12:02:00.246Z",
+      "endTime": "2026-02-12T12:02:00.246Z",
+      "finalPrice": 1103.61
+    }
+  ],
+  "Schneestiefel": [
+    {
+      "uid": "4daea5edbdf2b03cf4e5768e6b071b63",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "icon": "https://img.mc-api.io/leather_boots.png",
+        "amount": 1,
+        "displayName": "Schneestiefel",
+        "lore": [
+          "",
+          "Diese Stiefel tragen dich selbst",
+          "bei Hochschnee durch die Farmwelt!",
+          "",
+          "➥ Effekt: Über Pulverschnee laufen (Füße)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 6
+        }
+      },
+      "category": "op_items",
+      "startBid": 1000,
+      "currentBid": 10500,
+      "highestBidder": "e159dceb-dffc-4d26-9505-08e32c4375b9",
+      "bids": {
+        "00000000-0000-0000-0009-01fc80074b82": 10000,
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 10500,
+        "e4719d82-3496-4a05-8dac-1b30c5859bf7": 1001
+      },
+      "startTime": "2026-02-11T12:02:25.951Z",
+      "endTime": "2026-02-12T12:02:25.951Z",
+      "finalPrice": 10500
+    }
   ]
 }
