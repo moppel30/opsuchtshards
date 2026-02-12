@@ -6853,6 +6853,37 @@
       "startTime": "2026-02-12T00:17:28.551Z",
       "endTime": "2026-02-12T12:17:28.551Z",
       "finalPrice": 500000
+    },
+    {
+      "uid": "5547fe665f97bfeade46e2841963e992",
+      "seller": "00000000-0000-0000-0009-01fb8d54c4b1",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "amount": 1,
+        "displayName": "Engelschuhe v3",
+        "lore": [
+          "Flügel I",
+          "",
+          "Signiert vom Engel am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 999999,
+      "currentBid": 1000000,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 1000000
+      },
+      "startTime": "2026-02-11T16:41:08.570Z",
+      "endTime": "2026-02-12T16:41:08.570Z",
+      "finalPrice": 1000000
     }
   ],
   "Engelshemd": [
