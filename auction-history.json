@@ -2981,6 +2981,42 @@
       "startTime": "2026-02-11T22:03:43.117Z",
       "endTime": "2026-02-12T10:07:10.177Z",
       "finalPrice": 422222
+    },
+    {
+      "uid": "1e966ebf98be4299943b333781532cc1",
+      "seller": "5210d5d8-f374-4c49-be4d-b83ef8bff82e",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 430666.44,
+      "highestBidder": "5a2bdf33-ede2-49ba-8b42-dbba4fb5fea7",
+      "bids": {
+        "39506b76-f353-4225-ac72-28a3b3ea4af9": 318362.4,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 200001,
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 210000,
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 422222,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 204001.02,
+        "6c1c9156-433a-4995-9b84-b2a67b0449b9": 300000,
+        "5a2bdf33-ede2-49ba-8b42-dbba4fb5fea7": 430666.44
+      },
+      "startTime": "2026-02-11T22:03:43.117Z",
+      "endTime": "2026-02-12T10:09:08.217Z",
+      "finalPrice": 430666.44
     }
   ],
   "POTION": [
@@ -20669,6 +20705,40 @@
       "startTime": "2026-02-12T08:55:48.261Z",
       "endTime": "2026-02-12T09:55:48.261Z",
       "finalPrice": 51
+    }
+  ],
+  "Normale ★ Hose": [
+    {
+      "uid": "bc25108794d22fd8700d67be84e173b8",
+      "seller": "00000000-0000-0000-0009-01f692abfedb",
+      "item": {
+        "material": "NETHERITE_LEGGINGS",
+        "icon": "https://img.mc-api.io/netherite_leggings.png",
+        "amount": 1,
+        "displayName": "Normale ★ Hose",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 1200,
+      "currentBid": 7000,
+      "highestBidder": "00000000-0000-0000-0009-01fcd6dfb177",
+      "bids": {
+        "6fe5bc40-28cf-4bb8-90db-69b682f68d59": 5000,
+        "6bbed69d-0ce3-444a-9950-7304e3411477": 1201,
+        "6399047b-47fb-483c-b034-e7acfe2785f3": 1500,
+        "00000000-0000-0000-0009-01fcd6dfb177": 7000
+      },
+      "startTime": "2026-02-11T11:06:54.268Z",
+      "endTime": "2026-02-12T11:06:54.268Z",
+      "finalPrice": 7000
     }
   ]
 }
