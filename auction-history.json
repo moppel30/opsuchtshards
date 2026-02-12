@@ -22125,5 +22125,42 @@
       "endTime": "2026-02-12T15:59:17.743Z",
       "finalPrice": 9000
     }
+  ],
+  "Blutige Klinge": [
+    {
+      "uid": "fac4da5d8595f98dd626840f932f1517",
+      "seller": "2c287c40-a572-453e-990e-a0def5882fb8",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "icon": "https://img.mc-api.io/netherite_sword.png",
+        "amount": 1,
+        "displayName": "Blutige Klinge",
+        "lore": [
+          "",
+          "Diese Klinge verleiht dir Ruhm und Ehre.",
+          "",
+          "➥ Effekt: +10% Jobgeld beim Jägerjob",
+          "➥ Effekt: +10% Job-XP beim Jägerjob",
+          "",
+          "➥ OP Pass Belohnung des 6. Chapter"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4,
+          "minecraft:sweeping_edge": 3
+        }
+      },
+      "category": "op_items",
+      "startBid": 2500000,
+      "currentBid": 2500001,
+      "highestBidder": "0a23b04b-7ac2-412e-9bf9-5a6a248b8180",
+      "bids": {
+        "0a23b04b-7ac2-412e-9bf9-5a6a248b8180": 2500001
+      },
+      "startTime": "2026-02-12T10:11:07.445Z",
+      "endTime": "2026-02-12T16:11:07.445Z",
+      "finalPrice": 2500001
+    }
   ]
 }
