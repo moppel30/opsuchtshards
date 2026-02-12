@@ -20032,5 +20032,53 @@
       "endTime": "2026-02-12T04:11:30.654Z",
       "finalPrice": 120000
     }
+  ],
+  "x Will´s Bauhacke x": [
+    {
+      "uid": "1b3557cc1747cd42b392435131d53ee7",
+      "seller": "ca830aa4-8711-4951-8c4d-f078cc5d7f65",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "x Will´s Bauhacke x",
+        "lore": [
+          "",
+          "Geschaffen am ersten Tag,",
+          "trägt diese Spitzhacke Will's Kräfte!",
+          "",
+          "Signiert von SkyGuyTV am 23.01.2024",
+          "",
+          "Will's Kollektion (1/6)",
+          "",
+          "➥ Effekt: +6 Mobschild",
+          "",
+          "Zustand: ✯✯✯",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 8,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 10,
+          "minecraft:knockback": 6,
+          "minecraft:unbreaking": 12,
+          "minecraft:fortune": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 50000000,
+      "currentBid": 70000000,
+      "highestBidder": "0a6af760-3b0d-4f74-ad70-6acd589ba923",
+      "bids": {
+        "aabab78f-167a-4560-97e4-9fc495e6fe79": 56250000,
+        "9d3a919a-8700-402d-8355-7a1e6feecfde": 55555555,
+        "0a6af760-3b0d-4f74-ad70-6acd589ba923": 70000000,
+        "7b11cb8b-1240-4179-bcdc-2883e47afa91": 50000001
+      },
+      "startTime": "2026-02-11T18:11:12.804Z",
+      "endTime": "2026-02-12T06:11:12.803Z",
+      "finalPrice": 70000000
+    }
   ]
 }
