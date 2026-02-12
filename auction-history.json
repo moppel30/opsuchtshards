@@ -19036,6 +19036,36 @@
       "startTime": "2026-02-11T12:40:36.676Z",
       "endTime": "2026-02-12T00:40:36.676Z",
       "finalPrice": 6500
+    },
+    {
+      "uid": "2216b80433fb7400cce384b2551a9d80",
+      "seller": "363c2c0b-9743-447c-be13-fb64b2f4b554",
+      "item": {
+        "material": "NETHERITE_BOOTS",
+        "icon": "https://img.mc-api.io/netherite_boots.png",
+        "amount": 1,
+        "displayName": "Normale ★ Schuhe",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "armor",
+      "startBid": 500,
+      "currentBid": 6500,
+      "highestBidder": "00000000-0000-0000-0009-01f6f576ee01",
+      "bids": {
+        "00000000-0000-0000-0009-00000904c77e": 1000,
+        "00000000-0000-0000-0009-01f6f576ee01": 6500
+      },
+      "startTime": "2026-02-11T13:27:52.963Z",
+      "endTime": "2026-02-12T01:27:52.963Z",
+      "finalPrice": 6500
     }
   ],
   "Marktplatz": [
