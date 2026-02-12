@@ -16571,6 +16571,45 @@
       "startTime": "2026-02-10T21:17:59.283Z",
       "endTime": "2026-02-11T21:17:59.283Z",
       "finalPrice": 4444.44
+    },
+    {
+      "uid": "92d63eebd0d6d20bf288dc1da806d79d",
+      "seller": "7f7e0627-960d-4692-869b-d73733ef71f7",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OPSUCHT Kaffeetasse",
+        "lore": [
+          "",
+          "Kaffee am Morgen vertreibt",
+          "Kummer und Sorgen!",
+          "",
+          "Signiert von OPSUCHT am 01.09.2025",
+          "",
+          "➥ Effekt: Eile 2 beim Verzehr",
+          "➥ Effekt: Kein Hunger beim Verzehr",
+          "➥ Dauer: 15 Minuten",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 5000,
+      "highestBidder": "e987a8ea-a996-437a-a106-4a98449578fc",
+      "bids": {
+        "95800573-4d83-45d1-b815-7b27c3d22c70": 31.5,
+        "ab3c32c5-2df0-437c-b401-15d80a54845a": 2226,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 1050,
+        "e987a8ea-a996-437a-a106-4a98449578fc": 5000,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "39c73021-e710-4acc-b9de-0fb76cf220fb": 2120
+      },
+      "startTime": "2026-02-11T17:31:10.510Z",
+      "endTime": "2026-02-12T17:31:10.510Z",
+      "finalPrice": 5000
     }
   ],
   "Lebkuchen Marcel": [
