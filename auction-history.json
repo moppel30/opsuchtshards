@@ -22478,5 +22478,84 @@
       "endTime": "2026-02-12T16:35:18.817Z",
       "finalPrice": 35001
     }
+  ],
+  "Narrenmütze": [
+    {
+      "uid": "6faa679233d18739c64235a5f0de6671",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Narrenmütze",
+        "lore": [
+          "",
+          "Diese Mütze trägt die Farben des Narren und",
+          "verbirgt sein schlaues Lächeln geschickt.",
+          "",
+          "Signiert vom Narren am 01.02.2026",
+          "",
+          "Narrenkollektion (1/4)",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5,
+          "minecraft:protection": 5,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 35000,
+      "currentBid": 100000,
+      "highestBidder": "5b561e4f-a9be-4657-ba58-dcc8be9db147",
+      "bids": {
+        "00000000-0000-0000-0009-00000b5785fd": 35001,
+        "00000000-0000-0000-0009-01fb8d54c4b1": 67676.61,
+        "0dae71f9-1691-44b0-8946-15ba3b4d693f": 36751.05,
+        "5b561e4f-a9be-4657-ba58-dcc8be9db147": 100000
+      },
+      "startTime": "2026-02-11T16:35:44.857Z",
+      "endTime": "2026-02-12T16:35:44.857Z",
+      "finalPrice": 100000
+    }
+  ],
+  "Emmys Diamant": [
+    {
+      "uid": "042ac7e45b83591d07be10393a693c4e",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "Emmys Diamant",
+        "lore": [
+          "",
+          "Dieser Diamant funkelt",
+          "wie Emmy selbst!",
+          "",
+          "Signiert von EinfachEmmy am 01.01.2026",
+          "",
+          "➥ Effekt: +2 Herzen (Hand, Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 1155,
+      "highestBidder": "d72075d7-12d3-4fc5-8f58-a1678b0ec333",
+      "bids": {
+        "d72075d7-12d3-4fc5-8f58-a1678b0ec333": 1155,
+        "8c4f81b1-405a-4e03-9d57-c5f17826eccc": 100,
+        "3b2ed0ca-ae8d-43f0-a40b-a26362f659bb": 1000,
+        "00000000-0000-0000-0009-01f30ccf6b7a": 1100
+      },
+      "startTime": "2026-02-12T13:34:01.943Z",
+      "endTime": "2026-02-12T16:35:44.600Z",
+      "finalPrice": 1155
+    }
   ]
 }
