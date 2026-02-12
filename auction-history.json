@@ -22557,5 +22557,29 @@
       "endTime": "2026-02-12T16:35:44.600Z",
       "finalPrice": 1155
     }
+  ],
+  "Rahmen (unsichtbar)": [
+    {
+      "uid": "7cfdbec35c8a73cb25f62cd47a33771c",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "ITEM_FRAME",
+        "icon": "https://img.mc-api.io/item_frame.png",
+        "amount": 2,
+        "displayName": "Rahmen (unsichtbar)",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "8d92162e-0074-4092-853e-4e17215bb8bc",
+      "bids": {
+        "8d92162e-0074-4092-853e-4e17215bb8bc": 10001
+      },
+      "startTime": "2026-02-11T16:36:00.392Z",
+      "endTime": "2026-02-12T16:36:00.392Z",
+      "finalPrice": 10001
+    }
   ]
 }
