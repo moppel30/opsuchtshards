@@ -21083,6 +21083,46 @@
       "startTime": "2026-02-10T23:01:00.244Z",
       "endTime": "2026-02-11T23:01:00.244Z",
       "finalPrice": 1900500
+    },
+    {
+      "uid": "d5afc3093222f29bcc071cfcbe81fd4c",
+      "seller": "884a3ff0-f414-4a95-9ffb-f033bf2a1a60",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Polips Modpicke",
+        "lore": [
+          "",
+          "Die Macht des Moderators.",
+          "",
+          "Signiert von Polip361 am 01.12.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 1,
+      "currentBid": 1700000,
+      "highestBidder": "8cae1a1d-48d1-4131-8184-3b501acdb959",
+      "bids": {
+        "01c9a312-1585-4405-ae1b-73fcb8a9b3a4": 6,
+        "befe1afb-b1eb-416b-9efa-a1218631c1be": 1650000,
+        "4ec7cc75-0404-4dbf-8b52-f8d5e58f6222": 168300,
+        "8cae1a1d-48d1-4131-8184-3b501acdb959": 1700000,
+        "00000000-0000-0000-0009-01fccbbba798": 2,
+        "00000000-0000-0000-0009-01facfc82642": 4
+      },
+      "startTime": "2026-02-12T16:41:23.408Z",
+      "endTime": "2026-02-12T16:56:39.228Z",
+      "finalPrice": 1700000
     }
   ],
   "Tigerpelz": [
