@@ -22443,5 +22443,40 @@
       "endTime": "2026-02-12T16:35:07.665Z",
       "finalPrice": 1102.5
     }
+  ],
+  "Herzglanzschaufel": [
+    {
+      "uid": "75459e15ddddc5e161b45af31ae80596",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "DIAMOND_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Herzglanzschaufel",
+        "lore": [
+          "",
+          "Geschmiedet aus reiner Liebe, vereint ",
+          "durch zwei Herzen im ewigen Glanz.",
+          "",
+          "Herzglanzkollektion (3/4)",
+          "",
+          "➥ Kombinierbar in der OP-Werkstatt",
+          "",
+          "ACHTUNG: Nur einmal verwendbar!",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 35000,
+      "currentBid": 35001,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 35001
+      },
+      "startTime": "2026-02-11T16:35:18.817Z",
+      "endTime": "2026-02-12T16:35:18.817Z",
+      "finalPrice": 35001
+    }
   ]
 }
