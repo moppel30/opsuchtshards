@@ -17052,6 +17052,46 @@
       "startTime": "2026-02-11T16:41:42.358Z",
       "endTime": "2026-02-12T16:41:42.358Z",
       "finalPrice": 74088
+    },
+    {
+      "uid": "1899305969dc5c46a4744e08d1831267",
+      "seller": "e17907b2-e3a1-493b-ae81-226d6228b196",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Wasserwaage",
+        "lore": [
+          "",
+          "Zum Nachprüfen, ob die Playbuttons",
+          "tatsächlich gerade an der Wand hängen.",
+          "",
+          "Signiert von OPPhil am 01.06.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:knockback": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:looting": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 606464,
+      "highestBidder": "5211b8c1-75f6-481c-9553-3c514870e9a2",
+      "bids": {
+        "0c780b5c-b9d3-473a-ad31-06655e45f47c": 52501.06,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 50001,
+        "1ddb0860-19a3-4e3c-8f8b-d122beac0102": 163200,
+        "00000000-0000-0000-0009-01f6646064d6": 70560,
+        "5211b8c1-75f6-481c-9553-3c514870e9a2": 606464
+      },
+      "startTime": "2026-02-11T16:41:42.358Z",
+      "endTime": "2026-02-12T16:46:46.910Z",
+      "finalPrice": 606464
     }
   ],
   "DRAGON_HEAD": [
