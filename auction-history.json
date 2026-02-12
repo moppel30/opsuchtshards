@@ -19517,5 +19517,36 @@
       "endTime": "2026-02-12T03:09:41.385Z",
       "finalPrice": 2500000
     }
+  ],
+  "OPSUCHT Rucksack": [
+    {
+      "uid": "f6a93f4a4f9fdf3e2626d5eb97fda164",
+      "seller": "b6e68a4e-8824-40fd-9c34-4a9893b4b293",
+      "item": {
+        "material": "LIGHT_BLUE_SHULKER_BOX",
+        "icon": "https://img.mc-api.io/light_blue_shulker_box.png",
+        "amount": 1,
+        "displayName": "OPSUCHT Rucksack",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 23.01.2024",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 95000,
+      "currentBid": 102000,
+      "highestBidder": "00000000-0000-0000-0009-01f2c6b2de98",
+      "bids": {
+        "00000000-0000-0000-0009-01fdbe9effda": 100000,
+        "00000000-0000-0000-0009-01f2c6b2de98": 102000
+      },
+      "startTime": "2026-02-11T21:30:20.318Z",
+      "endTime": "2026-02-12T03:30:20.318Z",
+      "finalPrice": 102000
+    }
   ]
 }
