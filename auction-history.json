@@ -19207,6 +19207,44 @@
       "startTime": "2026-02-11T19:41:52.016Z",
       "endTime": "2026-02-11T22:41:52.016Z",
       "finalPrice": 25000
+    },
+    {
+      "uid": "bf2ecf408f046ff95637131fe682088f",
+      "seller": "00000000-0000-0000-0009-01f0137caa09",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Königliche OPSUCHT Krone",
+        "lore": [
+          "",
+          "Signiert von OPPhil am 01.06.2023",
+          "Signiert von SkyGuyTV am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 50000,
+      "highestBidder": "00000000-0000-0000-0009-01f08e99be02",
+      "bids": {
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 11000,
+        "369f97f4-cce7-408c-8aed-c349330b80ef": 11550,
+        "00000000-0000-0000-0009-01f176514cc8": 20000,
+        "c769c5f6-2f6e-4d59-adf7-f4363d04a4ac": 33075,
+        "00000000-0000-0000-0009-01f08e99be02": 50000,
+        "00000000-0000-0000-0009-01f69573c35f": 31500,
+        "189d352f-35e4-4485-9b89-000605ac4625": 44728.75,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 14700,
+        "295ef16c-95c8-4542-b791-7a17c157341e": 30000,
+        "b60c1dee-8452-4972-ad25-c280b99543bb": 12735.45,
+        "893c510b-4e52-45b5-a3e7-fa0a69662277": 12129
+      },
+      "startTime": "2026-02-11T17:45:54.981Z",
+      "endTime": "2026-02-12T17:45:54.981Z",
+      "finalPrice": 50000
     }
   ],
   "Supporter-Team": [
