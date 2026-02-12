@@ -15702,6 +15702,38 @@
       "startTime": "2026-02-11T16:31:11.909Z",
       "endTime": "2026-02-12T04:31:11.909Z",
       "finalPrice": 2000
+    },
+    {
+      "uid": "34d7eb8c0b3139f91007e35514c9d34e",
+      "seller": "00000000-0000-0000-0009-000007c2ba22",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Farmwelt",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (16/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 3800,
+      "currentBid": 3801,
+      "highestBidder": "0adb895e-7da3-47b8-b762-ef011bc423b6",
+      "bids": {
+        "0adb895e-7da3-47b8-b762-ef011bc423b6": 3801
+      },
+      "startTime": "2026-02-11T15:37:19.210Z",
+      "endTime": "2026-02-12T15:38:07.231Z",
+      "finalPrice": 3801
     }
   ],
   "NETHERITE_BOOTS": [
