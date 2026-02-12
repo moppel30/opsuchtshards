@@ -24580,6 +24580,49 @@
       "startTime": "2026-02-11T17:54:41.360Z",
       "endTime": "2026-02-12T17:54:41.360Z",
       "finalPrice": 208081.02
+    },
+    {
+      "uid": "db471b6d6b414310e19fd91967471b6b",
+      "seller": "2604f799-4370-4d48-af5c-947d696bc4b0",
+      "item": {
+        "material": "IRON_LEGGINGS",
+        "amount": 1,
+        "displayName": "Amors Beinschutz",
+        "lore": [
+          "",
+          "Eine Kollektion,",
+          "geschaffen durch den",
+          "Liebesgott Amor selbst.",
+          "",
+          "Signiert von Amor am 14.02.2025",
+          "",
+          "Amors Kollektion (3/5)",
+          "",
+          "➥ Effekt: +5 Herzen (Beine)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:fire_protection": 7,
+          "minecraft:unbreaking": 14,
+          "minecraft:protection": 7,
+          "minecraft:blast_protection": 7
+        }
+      },
+      "category": "custom_items",
+      "startBid": 100000,
+      "currentBid": 204000,
+      "highestBidder": "1ce114fd-7a66-4076-8aa4-a89c027b5038",
+      "bids": {
+        "d5585b3a-f565-4fd1-a0ab-1d661ba0862d": 100001,
+        "1ce114fd-7a66-4076-8aa4-a89c027b5038": 204000,
+        "00000000-0000-0000-0009-01fb9da9b357": 200000
+      },
+      "startTime": "2026-02-11T17:55:00.624Z",
+      "endTime": "2026-02-12T17:55:00.624Z",
+      "finalPrice": 204000
     }
   ]
 }
