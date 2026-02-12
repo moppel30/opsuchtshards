@@ -21038,5 +21038,32 @@
       "endTime": "2026-02-12T11:46:55.048Z",
       "finalPrice": 3500000
     }
+  ],
+  "DIAMOND_AXE": [
+    {
+      "uid": "46c6890451a1f9e0a1a6dc1d4b9520b1",
+      "seller": "a850fb26-de8b-49ca-a0b3-5c18428b9615",
+      "item": {
+        "material": "DIAMOND_AXE",
+        "icon": "https://img.mc-api.io/diamond_axe.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:efficiency": 2,
+          "minecraft:unbreaking": 2
+        }
+      },
+      "category": "other",
+      "startBid": 1000,
+      "currentBid": 2000,
+      "highestBidder": "79d1b8c1-d79a-4ee6-b340-11578eebad2a",
+      "bids": {
+        "6399047b-47fb-483c-b034-e7acfe2785f3": 1500,
+        "79d1b8c1-d79a-4ee6-b340-11578eebad2a": 2000
+      },
+      "startTime": "2026-02-11T11:51:14.603Z",
+      "endTime": "2026-02-12T11:51:14.603Z",
+      "finalPrice": 2000
+    }
   ]
 }
