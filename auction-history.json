@@ -19450,5 +19450,40 @@
       "endTime": "2026-02-12T02:40:38.432Z",
       "finalPrice": 159
     }
+  ],
+  "Unendliche Kohle": [
+    {
+      "uid": "a5eb272e5fbda72ad57a77dd59cbbd27",
+      "seller": "647a9de1-20b8-4ad1-aac7-7b743901eb7a",
+      "item": {
+        "material": "COAL",
+        "amount": 2,
+        "displayName": "Unendliche Kohle",
+        "lore": [
+          "",
+          "Diese Kohle bietet dir eine",
+          "unerschöpfliche Energiequelle!",
+          "",
+          "➥ Diese Kohle wird niemals verbraucht sein",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 2000000,
+      "currentBid": 2500000,
+      "highestBidder": "5d94dbc7-a46b-4c9c-a67a-2c675e6ab040",
+      "bids": {
+        "c8d30fc5-33af-4307-b14a-c9e94f69c926": 2140201.02,
+        "5d94dbc7-a46b-4c9c-a67a-2c675e6ab040": 2500000,
+        "4deb64ed-6295-44f9-9366-c11238c97952": 2000001,
+        "9a8639cd-fee7-4f0d-a4e7-0ff0ab49d592": 2020001.01
+      },
+      "startTime": "2026-02-11T03:09:41.385Z",
+      "endTime": "2026-02-12T03:09:41.385Z",
+      "finalPrice": 2500000
+    }
   ]
 }
