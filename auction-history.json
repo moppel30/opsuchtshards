@@ -19735,5 +19735,72 @@
       "endTime": "2026-02-12T03:30:20.318Z",
       "finalPrice": 102000
     }
+  ],
+  "Oxidtalisman": [
+    {
+      "uid": "583a1a5f7af537740afcb93144a49c32",
+      "seller": "87504f27-e60d-4ccf-b9d5-ee75cb9bc7a3",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Oxidtalisman",
+        "lore": [
+          "",
+          "Beschleunige den",
+          "Oxidationsprozess",
+          "deines Kupfers!",
+          "",
+          "➥ Effekt: Oxidiere Kupferblöcke (Rechtsklick)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 50001,
+      "highestBidder": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
+      "bids": {
+        "3fd11c20-a1be-437c-b165-c53cbcda7c11": 50001
+      },
+      "startTime": "2026-02-11T16:11:16.320Z",
+      "endTime": "2026-02-12T04:11:16.320Z",
+      "finalPrice": 50001
+    }
+  ],
+  "Kleiner Beschützer Marcel": [
+    {
+      "uid": "5d7dba5bac278f4ff1911633186316d6",
+      "seller": "87504f27-e60d-4ccf-b9d5-ee75cb9bc7a3",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "amount": 1,
+        "displayName": "Kleiner Beschützer Marcel",
+        "lore": [
+          "",
+          "Dein Schutzengel.",
+          "",
+          "Signiert von ByteException_ am 01.09.2025",
+          "",
+          "➥ Effekt: Totem (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 120000,
+      "highestBidder": "00000000-0000-0000-0009-01ffa2e0222d",
+      "bids": {
+        "00000000-0000-0000-0009-01ffa2e0222d": 120000,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 100000
+      },
+      "startTime": "2026-02-11T16:11:30.654Z",
+      "endTime": "2026-02-12T04:11:30.654Z",
+      "finalPrice": 120000
+    }
   ]
 }
