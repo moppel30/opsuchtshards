@@ -20962,5 +20962,46 @@
       "endTime": "2026-02-12T11:38:13.665Z",
       "finalPrice": 306001.02
     }
+  ],
+  "+20% Speed Upgrade Modul": [
+    {
+      "uid": "728138c9b59da810a3d5bb4b0352962a",
+      "seller": "00000000-0000-0000-0009-01f99ab40c42",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "+20% Speed Upgrade Modul",
+        "lore": [
+          "",
+          "Mit diesem Modul kannst du einem Fahrzeug,",
+          "welches auf der Luxury Island gekauft wurde,",
+          "beim Mechaniker-NPC der Luxury Island",
+          "+20% mehr Speed hinzufügen.",
+          "",
+          "Lege dieses Item hierfür mit dem Fahrzeug",
+          "in das entsprechende Upgrade-Menü des NPC.",
+          "",
+          "Wichtig: Beachte hier die maximale",
+          "Tuninggeschwindigkeit beim Mechaniker-NPC.",
+          "",
+          "✯✯✯ OP CARS ✯✯✯",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000000,
+      "currentBid": 3500000,
+      "highestBidder": "c729dc69-783a-480d-b8ce-7dde06f2b97d",
+      "bids": {
+        "bfa9f8f3-91fd-4874-88fd-fb0c6621b217": 1000001,
+        "c729dc69-783a-480d-b8ce-7dde06f2b97d": 3500000
+      },
+      "startTime": "2026-02-11T23:46:55.048Z",
+      "endTime": "2026-02-12T11:46:55.048Z",
+      "finalPrice": 3500000
+    }
   ]
 }
