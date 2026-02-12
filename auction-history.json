@@ -11832,6 +11832,43 @@
       "startTime": "2026-02-11T14:58:03.561Z",
       "endTime": "2026-02-11T20:58:03.561Z",
       "finalPrice": 353001.02
+    },
+    {
+      "uid": "325c1b238c29602249bd60bcb06025fb",
+      "seller": "674ddcd6-c6dc-468a-92d1-239d3bd331f4",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Gletscheraxt",
+        "lore": [
+          "",
+          "Geschmiedet aus gefrorenem",
+          "Stahl und durch die Kälte verhärtet!",
+          "",
+          "Signiert vom Eiswanderer am 01.11.2025",
+          "",
+          "Gletscherkollektion (2/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 4,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 33000,
+      "currentBid": 60000,
+      "highestBidder": "08dd38a1-4f64-4082-86a8-de39c4b898a0",
+      "bids": {
+        "00000000-0000-0000-0009-01fdcfb334d5": 50000,
+        "08dd38a1-4f64-4082-86a8-de39c4b898a0": 60000,
+        "c44f3613-d25b-467f-972b-7f488e092846": 34651.06,
+        "41d1f529-5baa-4736-99d4-91841d833580": 33001
+      },
+      "startTime": "2026-02-11T11:45:00.568Z",
+      "endTime": "2026-02-12T11:45:00.568Z",
+      "finalPrice": 60000
     }
   ],
   "NETHERITE_CHESTPLATE": [
