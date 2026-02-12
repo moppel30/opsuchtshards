@@ -9922,6 +9922,42 @@
       "startTime": "2026-02-11T10:26:54.754Z",
       "endTime": "2026-02-12T10:26:54.754Z",
       "finalPrice": 2000
+    },
+    {
+      "uid": "094a3d2ffc6a7580be0d12eca12e6cb7",
+      "seller": "00000000-0000-0000-0009-00000ba4f50d",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": "Tauhelm",
+        "lore": [
+          "",
+          "Schützt den Kopf des Trägers mit",
+          "dem kühlen Glanz der Morgenluft!",
+          "",
+          "Signiert vom Frosttau am 01.02.2026",
+          "",
+          "Taukollektion (5/8)"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3,
+          "minecraft:protection": 4,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "armor",
+      "startBid": 1850,
+      "currentBid": 1851,
+      "highestBidder": "e159dceb-dffc-4d26-9505-08e32c4375b9",
+      "bids": {
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 1851
+      },
+      "startTime": "2026-02-11T23:07:43.522Z",
+      "endTime": "2026-02-12T11:07:43.522Z",
+      "finalPrice": 1851
     }
   ],
   "Episode 6: Das Vermächtnis wächst": [
