@@ -6768,6 +6768,53 @@
       "startTime": "2026-02-11T16:29:49.225Z",
       "endTime": "2026-02-11T19:34:23.157Z",
       "finalPrice": 1100000
+    },
+    {
+      "uid": "ea2b8cc2d4e699d32e1332a14be7a5da",
+      "seller": "4d1b4e91-6d65-44ba-b053-e279343e5c4e",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "amount": 1,
+        "displayName": "Engelschuhe v3",
+        "lore": [
+          "Flügel I",
+          "",
+          "Signiert vom Engel am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 215000,
+      "highestBidder": "00000000-0000-0000-0009-01f746a56532",
+      "bids": {
+        "53b61fb0-9590-4cba-b565-00de7b519207": 57750,
+        "bca07e5f-2b1d-4db9-81e7-4c39e307fd83": 112200,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1001,
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 209100,
+        "00000000-0000-0000-0009-01f746a56532": 215000,
+        "00000000-0000-0000-0009-01f60f1fadad": 3000,
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 55000,
+        "d097a3e3-8d54-4e12-a6fd-0a24a2bf5566": 1051.05,
+        "efea52c2-17b2-4280-8f8e-36750b361445": 3151,
+        "d194d22d-1925-4853-8c72-2cc65484de8c": 3500,
+        "3df13cd1-c789-49ee-acdc-e40d9d77f5b2": 3675,
+        "76aeec43-d43f-4c54-9512-4ea1cbd9181b": 102000,
+        "09003592-1ded-47da-a01d-39d775e10096": 3858.75,
+        "55785186-ace6-47ea-8523-9149423edd7f": 68250,
+        "00000000-0000-0000-0009-01faab3ea276": 5637.24,
+        "00000000-0000-0000-0009-01f364869080": 205000,
+        "56f4f34b-d27f-4bb8-bdff-42fded6f1aeb": 3308.55
+      },
+      "startTime": "2026-02-11T12:02:45.412Z",
+      "endTime": "2026-02-12T12:02:45.412Z",
+      "finalPrice": 215000
     }
   ],
   "Engelshemd": [
@@ -21268,6 +21315,29 @@
       "startTime": "2026-02-11T12:02:25.951Z",
       "endTime": "2026-02-12T12:02:25.951Z",
       "finalPrice": 10500
+    }
+  ],
+  "MUSIC_DISC_OTHERSIDE": [
+    {
+      "uid": "06359efd1fd4ebf62499901723d4a8a0",
+      "seller": "00000000-0000-0000-0009-01f26663ff57",
+      "item": {
+        "material": "MUSIC_DISC_OTHERSIDE",
+        "icon": "https://img.mc-api.io/music_disc_otherside.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "other",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "50be75cf-ea46-4a26-9c8d-457ecf791b98",
+      "bids": {
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 1001
+      },
+      "startTime": "2026-02-11T11:30:52.368Z",
+      "endTime": "2026-02-12T11:30:52.368Z",
+      "finalPrice": 1001
     }
   ]
 }
