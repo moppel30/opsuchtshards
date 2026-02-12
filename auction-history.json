@@ -19527,6 +19527,45 @@
       "startTime": "2026-02-11T14:40:08.787Z",
       "endTime": "2026-02-12T02:42:47.011Z",
       "finalPrice": 275000
+    },
+    {
+      "uid": "16999d92bc91951760d6161e6a575a6a",
+      "seller": "00000000-0000-0000-0009-01faf607ca6d",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Sculkhelm",
+        "lore": [
+          "",
+          "Sculkkollektion (5/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 6,
+          "minecraft:aqua_affinity": 1,
+          "minecraft:respiration": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 400000,
+      "highestBidder": "ec028527-132e-458b-b2b7-c9be00d8075a",
+      "bids": {
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 50002,
+        "4702e929-73b8-4e8c-9458-b4ddae39c51a": 183600,
+        "1a2e3f9f-f41f-4835-8edb-bf08259506a6": 275000,
+        "ec028527-132e-458b-b2b7-c9be00d8075a": 400000,
+        "7598c49d-ca22-4a30-8c80-03854396d0d8": 100000,
+        "00000000-0000-0000-0009-01f547d93d6a": 150000,
+        "d6b34ee4-283a-4a2d-be35-8ea0a3384ed2": 180000
+      },
+      "startTime": "2026-02-11T14:40:08.787Z",
+      "endTime": "2026-02-12T02:43:23.827Z",
+      "finalPrice": 400000
     }
   ],
   "Grillanzünder": [
