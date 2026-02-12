@@ -20831,5 +20831,29 @@
       "endTime": "2026-02-12T11:06:54.268Z",
       "finalPrice": 7000
     }
+  ],
+  "Fontäne": [
+    {
+      "uid": "1a4319564f2f6200510712821328e5c9",
+      "seller": "7e18a731-242f-45b7-b2ab-a3cd298846db",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Fontäne",
+        "lore": [],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 300000,
+      "currentBid": 306001.02,
+      "highestBidder": "c769c5f6-2f6e-4d59-adf7-f4363d04a4ac",
+      "bids": {
+        "c769c5f6-2f6e-4d59-adf7-f4363d04a4ac": 306001.02,
+        "8d92162e-0074-4092-853e-4e17215bb8bc": 300001
+      },
+      "startTime": "2026-02-12T08:38:13.666Z",
+      "endTime": "2026-02-12T11:38:13.665Z",
+      "finalPrice": 306001.02
+    }
   ]
 }
