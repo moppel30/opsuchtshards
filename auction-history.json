@@ -22720,5 +22720,38 @@
       "endTime": "2026-02-12T16:37:04.327Z",
       "finalPrice": 53858
     }
+  ],
+  "Sculkschild": [
+    {
+      "uid": "cfeb27de5bac20954273cf15676620e6",
+      "seller": "b9c89258-fe69-483b-9a5a-e47eae973c42",
+      "item": {
+        "material": "SHIELD",
+        "amount": 1,
+        "displayName": "Sculkschild",
+        "lore": [
+          "",
+          "Sculkkollektion (9/10)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 125000,
+      "currentBid": 130000,
+      "highestBidder": "7d46edfe-1ce5-4857-9200-22c47b7ca5ff",
+      "bids": {
+        "00000000-0000-0000-0009-01f407485fb5": 125500,
+        "7d46edfe-1ce5-4857-9200-22c47b7ca5ff": 130000
+      },
+      "startTime": "2026-02-11T16:38:13.030Z",
+      "endTime": "2026-02-12T16:38:13.030Z",
+      "finalPrice": 130000
+    }
   ]
 }
