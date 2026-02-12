@@ -17357,6 +17357,51 @@
       "startTime": "2026-02-12T14:43:10.830Z",
       "endTime": "2026-02-12T15:49:14.669Z",
       "finalPrice": 169793.28
+    },
+    {
+      "uid": "666f3feee374f70efb98047abd23ef8e",
+      "seller": "92942b23-2e75-451d-b95d-ef67487a0495",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "amount": 1,
+        "displayName": "Mini Obsihacke",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 01.05.2025",
+          "",
+          "➥ Effekt: Zerstört Obsidian mit einem Klick (bis zu 2.500)",
+          "",
+          "Nach 2.500 Nutzungen wird dieses Item zerstört!",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 102000,
+      "highestBidder": "00000000-0000-0000-0009-01fccbbba798",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 20326.95,
+        "00000000-0000-0000-0009-01fccbbba798": 102000,
+        "c8f191a0-be06-4b8a-b724-d04b13059f10": 19359,
+        "bdb97cfc-3af9-44c9-adb3-b79bd44cbca9": 10500,
+        "c2c9ab12-e2e6-4a16-b518-664c0d1311b4": 100000,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "ffafca53-22f1-430a-b155-37100c3d7186": 2100,
+        "b60c1dee-8452-4972-ad25-c280b99543bb": 2205,
+        "7ef99c5d-514c-44a2-b005-302d3252613b": 13144,
+        "861e3238-3b8f-4580-be86-d752060500f4": 2315.25,
+        "2e2fe457-260f-4a4f-ae05-8b04d51edd4b": 18436.95
+      },
+      "startTime": "2026-02-12T10:53:03.803Z",
+      "endTime": "2026-02-12T16:53:03.803Z",
+      "finalPrice": 102000
     }
   ],
   "EinfachEmmy": [
