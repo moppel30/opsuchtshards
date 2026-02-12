@@ -21417,6 +21417,40 @@
       "startTime": "2026-02-12T03:51:21.160Z",
       "endTime": "2026-02-12T15:51:21.160Z",
       "finalPrice": 1001
+    },
+    {
+      "uid": "8dc507e10d7759bc9b3e474369172fb0",
+      "seller": "00000000-0000-0000-0009-01fc6e39551f",
+      "item": {
+        "material": "APPLE",
+        "amount": 4,
+        "displayName": "Zwergenpilz",
+        "lore": [
+          "",
+          "Dieser Pilz schrumpft",
+          "den Esser auf Mausgröße!",
+          "",
+          "Signiert von OPSUCHT am 01.03.2025",
+          "Signiert von Mario am 01.03.2025",
+          "",
+          "➥ Effekt: Verkleinert dich beim Verzehr",
+          "➥ Dauer: 5 Minuten",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 10001,
+      "highestBidder": "d46d4a38-f07c-4d30-a922-705c7c920680",
+      "bids": {
+        "d46d4a38-f07c-4d30-a922-705c7c920680": 10001
+      },
+      "startTime": "2026-02-11T17:34:45.026Z",
+      "endTime": "2026-02-12T17:34:45.026Z",
+      "finalPrice": 10001
     }
   ],
   "Polips Modpicke": [
