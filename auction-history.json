@@ -19248,5 +19248,39 @@
       "endTime": "2026-02-12T01:58:27.960Z",
       "finalPrice": 6000
     }
+  ],
+  "Unsichtbarkeitstalisman": [
+    {
+      "uid": "c48054c3df4804bac6257c890057dc23",
+      "seller": "3fd11c20-a1be-437c-b165-c53cbcda7c11",
+      "item": {
+        "material": "TOTEM_OF_UNDYING",
+        "icon": "https://img.mc-api.io/totem_of_undying.png",
+        "amount": 1,
+        "displayName": "Unsichtbarkeitstalisman",
+        "lore": [
+          "",
+          "Dieses Artefakt schützt dich stets",
+          "vor den Blicken der Mobs und Spielern!",
+          "Aber Achtung, ziehe deine Rüstung aus!",
+          "",
+          "➥ Effekt: Unsichtbarkeit (Off-Hand)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "op_items",
+      "startBid": 150000,
+      "currentBid": 200000,
+      "highestBidder": "6ab51817-9b69-4054-8edd-8065f01897b3",
+      "bids": {
+        "6ab51817-9b69-4054-8edd-8065f01897b3": 200000
+      },
+      "startTime": "2026-02-11T02:08:41.906Z",
+      "endTime": "2026-02-12T02:08:41.906Z",
+      "finalPrice": 200000
+    }
   ]
 }
