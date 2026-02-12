@@ -22000,5 +22000,39 @@
       "endTime": "2026-02-12T15:51:02.891Z",
       "finalPrice": 3602
     }
+  ],
+  "Normale ★ Brust": [
+    {
+      "uid": "2b68f6895130e515e3c15fc0a36f92c2",
+      "seller": "b3554de2-2e1c-4621-b049-e77f45ec1d6b",
+      "item": {
+        "material": "NETHERITE_CHESTPLATE",
+        "icon": "https://img.mc-api.io/netherite_chestplate.png",
+        "amount": 1,
+        "displayName": "Normale ★ Brust",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Selten"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 4,
+          "minecraft:protection": 4
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 500,
+      "currentBid": 9000,
+      "highestBidder": "7d2a3fa1-32ac-4d86-aefe-48662c1112a6",
+      "bids": {
+        "6fe5bc40-28cf-4bb8-90db-69b682f68d59": 5000,
+        "00000000-0000-0000-0009-01f836ffb2ab": 501,
+        "7d2a3fa1-32ac-4d86-aefe-48662c1112a6": 9000,
+        "00000000-0000-0000-0009-01fba0c811b5": 6000
+      },
+      "startTime": "2026-02-11T15:59:17.743Z",
+      "endTime": "2026-02-12T15:59:17.743Z",
+      "finalPrice": 9000
+    }
   ]
 }
