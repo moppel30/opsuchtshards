@@ -12902,6 +12902,52 @@
       "startTime": "2026-02-10T19:45:36.730Z",
       "endTime": "2026-02-11T19:46:52.741Z",
       "finalPrice": 2500001
+    },
+    {
+      "uid": "aaa74a93e257d486ab5d72df1a42a16c",
+      "seller": "00000000-0000-0000-0009-01fc6e39551f",
+      "item": {
+        "material": "NETHERITE_PICKAXE",
+        "icon": "https://img.mc-api.io/netherite_pickaxe.png",
+        "amount": 1,
+        "displayName": "Streak Spitzhacke",
+        "lore": [
+          "",
+          "Geformt aus der Macht von 150",
+          "Tagen unerschütterlicher Präsenz!"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 4,
+          "minecraft:fortune": 3
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 30000,
+      "currentBid": 860885.6,
+      "highestBidder": "3bad77cf-8a02-461b-825f-505e56f1b589",
+      "bids": {
+        "4e729723-a075-4bb3-86ad-cfc51fe2e9fd": 62000,
+        "a850fb26-de8b-49ca-a0b3-5c18428b9615": 510000,
+        "3bad77cf-8a02-461b-825f-505e56f1b589": 860885.6,
+        "e3a2721a-4a5e-4cc8-a65e-03d51e4342e0": 150000,
+        "8158d82e-1299-4290-ac1c-59393294aa08": 200000,
+        "0cb6936e-566e-48b3-8f67-fda56202722d": 700000,
+        "00000000-0000-0000-0009-01fc112d7c75": 33000,
+        "00000000-0000-0000-0009-01fc7bc9fa6c": 35000,
+        "94f15056-3985-4058-8f8d-731d44338b88": 50000,
+        "767770c9-e7b5-4de9-adec-35e4875e5a86": 830280,
+        "4df435f0-4028-451b-9f7f-9357ca42f36e": 58275,
+        "00000000-0000-0000-0009-01fccbbba798": 225000,
+        "368544e5-d33e-4414-a0b2-b46fc010f350": 102000,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 204000,
+        "5b79c8b0-c5ad-47db-8349-f9df72987a6c": 244800,
+        "b7d4de8a-7273-428d-a2e3-75648e98f621": 212241.6
+      },
+      "startTime": "2026-02-11T17:34:04.812Z",
+      "endTime": "2026-02-12T17:34:04.812Z",
+      "finalPrice": 860885.6
     }
   ],
   "Phils Jeans": [
