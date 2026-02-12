@@ -17857,6 +17857,34 @@
       "startTime": "2026-02-11T15:44:04.624Z",
       "endTime": "2026-02-12T15:44:04.624Z",
       "finalPrice": 1500
+    },
+    {
+      "uid": "7d723c0ef6dcdab9f666108a60fb2358",
+      "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 11000,
+      "highestBidder": "e94f10be-09ae-47a5-9eee-3cd6d6082a7d",
+      "bids": {
+        "e94f10be-09ae-47a5-9eee-3cd6d6082a7d": 11000,
+        "f1a1bee1-42fd-4ebe-97db-a58f83de60d0": 10001
+      },
+      "startTime": "2026-02-12T03:51:05.486Z",
+      "endTime": "2026-02-12T15:51:05.486Z",
+      "finalPrice": 11000
     }
   ],
   "Pilz Paket": [
@@ -20213,6 +20241,37 @@
       "startTime": "2026-02-11T12:10:10.099Z",
       "endTime": "2026-02-12T12:10:10.099Z",
       "finalPrice": 1000
+    },
+    {
+      "uid": "af953f850e99621d208192500c2d806f",
+      "seller": "fb85cb2d-1595-4038-a7e3-e18394e5d053",
+      "item": {
+        "material": "APPLE",
+        "amount": 1,
+        "displayName": "Zwergenpilz",
+        "lore": [
+          "",
+          "Dieser Pilz schrumpft",
+          "den Esser auf Mausgröße!",
+          "",
+          "Signiert von OPSUCHT am 01.03.2025",
+          "Signiert von Mario am 01.03.2025",
+          "",
+          "➥ Effekt: Verkleinert dich beim Verzehr",
+          "➥ Dauer: 5 Minuten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 1001,
+      "highestBidder": "b60c1dee-8452-4972-ad25-c280b99543bb",
+      "bids": {
+        "b60c1dee-8452-4972-ad25-c280b99543bb": 1001
+      },
+      "startTime": "2026-02-12T03:51:21.160Z",
+      "endTime": "2026-02-12T15:51:21.160Z",
+      "finalPrice": 1001
     }
   ],
   "Polips Modpicke": [
@@ -21905,6 +21964,41 @@
       "startTime": "2026-02-11T15:44:13.453Z",
       "endTime": "2026-02-12T15:44:13.453Z",
       "finalPrice": 200000
+    }
+  ],
+  "Diamantspitzhacke": [
+    {
+      "uid": "a9176667e54e1e03400c26cb575d8329",
+      "seller": "00000000-0000-0000-0009-01f9d0ba3ed8",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Diamantspitzhacke",
+        "lore": [],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 3,
+          "minecraft:silk_touch": 1,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 0,
+      "currentBid": 3602,
+      "highestBidder": "30d2839e-b99f-4080-83ae-58a4029f0849",
+      "bids": {
+        "8867ccef-e0a5-4aa2-8dce-9c48f20289da": 1000,
+        "00000000-0000-0000-0009-01ffba4e961f": 105,
+        "5a3f4eab-4ac7-4d09-a783-fb515471c4b0": 3430,
+        "efb98b24-824e-400e-a892-87b33ff00d46": 110.25,
+        "afeb51ca-9c95-432f-ba44-bfcbc8e88811": 10,
+        "00000000-0000-0000-0009-01f2346bae4e": 300,
+        "30d2839e-b99f-4080-83ae-58a4029f0849": 3602
+      },
+      "startTime": "2026-02-12T09:50:27.608Z",
+      "endTime": "2026-02-12T15:51:02.891Z",
+      "finalPrice": 3602
     }
   ]
 }
