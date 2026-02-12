@@ -17013,6 +17013,45 @@
       "startTime": "2026-02-11T20:31:04.753Z",
       "endTime": "2026-02-11T20:46:04.752Z",
       "finalPrice": 20000
+    },
+    {
+      "uid": "1899305969dc5c46a4744e08d1831267",
+      "seller": "e17907b2-e3a1-493b-ae81-226d6228b196",
+      "item": {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "displayName": "Wasserwaage",
+        "lore": [
+          "",
+          "Zum Nachprüfen, ob die Playbuttons",
+          "tatsächlich gerade an der Wand hängen.",
+          "",
+          "Signiert von OPPhil am 01.06.2025",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 1,
+          "minecraft:knockback": 3,
+          "minecraft:unbreaking": 5,
+          "minecraft:looting": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 74088,
+      "highestBidder": "1ddb0860-19a3-4e3c-8f8b-d122beac0102",
+      "bids": {
+        "0c780b5c-b9d3-473a-ad31-06655e45f47c": 52501.06,
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 50001,
+        "1ddb0860-19a3-4e3c-8f8b-d122beac0102": 74088,
+        "00000000-0000-0000-0009-01f6646064d6": 70560
+      },
+      "startTime": "2026-02-11T16:41:42.358Z",
+      "endTime": "2026-02-12T16:41:42.358Z",
+      "finalPrice": 74088
     }
   ],
   "DRAGON_HEAD": [
@@ -22852,6 +22891,45 @@
       "startTime": "2026-02-11T16:39:34.071Z",
       "endTime": "2026-02-12T16:39:34.071Z",
       "finalPrice": 11666.67
+    }
+  ],
+  "Herzglanzklinge": [
+    {
+      "uid": "57d0e4ee752253e264cebd67a52bd915",
+      "seller": "e17907b2-e3a1-493b-ae81-226d6228b196",
+      "item": {
+        "material": "DIAMOND_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Herzglanzklinge",
+        "lore": [
+          "",
+          "Geschmiedet aus reiner Liebe, vereint ",
+          "durch zwei Herzen im ewigen Glanz.",
+          "",
+          "Herzglanzkollektion (4/4)",
+          "",
+          "➥ Kombinierbar in der OP-Werkstatt",
+          "",
+          "ACHTUNG: Nur einmal verwendbar!",
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 30000,
+      "highestBidder": "5237daaf-bffc-4983-a834-aa4050407d7f",
+      "bids": {
+        "c769c5f6-2f6e-4d59-adf7-f4363d04a4ac": 25526.55,
+        "1ddb0860-19a3-4e3c-8f8b-d122beac0102": 23152.5,
+        "00000000-0000-0000-0009-01f746a56532": 20000,
+        "0f4361fe-3e34-4493-bfce-21234f2c2c67": 21000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 30000
+      },
+      "startTime": "2026-02-11T16:41:12.778Z",
+      "endTime": "2026-02-12T16:41:42.393Z",
+      "finalPrice": 30000
     }
   ]
 }
