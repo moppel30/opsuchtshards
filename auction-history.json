@@ -17783,6 +17783,38 @@
       "startTime": "2026-02-11T10:27:02.403Z",
       "endTime": "2026-02-12T10:27:02.403Z",
       "finalPrice": 1050
+    },
+    {
+      "uid": "ddc04adf22038d549e655d129e0bfd61",
+      "seller": "da005dc1-063d-40f8-94ec-a9c4f2a99ebe",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Rosenstrauß",
+        "lore": [
+          "",
+          "Jede Blüte flüstert, was ",
+          "Worte nicht sagen können.",
+          "",
+          "➥ Effekt: +2 Herzen (Main-Hand)"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 1500,
+      "highestBidder": "e94f10be-09ae-47a5-9eee-3cd6d6082a7d",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 2,
+        "732af855-caf8-48c8-aa99-855714e33e17": 1050,
+        "e94f10be-09ae-47a5-9eee-3cd6d6082a7d": 1500,
+        "6338ad61-ca04-4c12-9404-e7d6fad90d5d": 1000,
+        "f1a1bee1-42fd-4ebe-97db-a58f83de60d0": 1102.51,
+        "6e78048a-76b4-424c-95b1-a72aa372828d": 900
+      },
+      "startTime": "2026-02-11T15:44:04.624Z",
+      "endTime": "2026-02-12T15:44:04.624Z",
+      "finalPrice": 1500
     }
   ],
   "Pilz Paket": [
@@ -21770,6 +21802,40 @@
       "startTime": "2026-02-12T00:18:32.048Z",
       "endTime": "2026-02-12T12:18:32.048Z",
       "finalPrice": 153000
+    }
+  ],
+  "Grüne Pelzmütze": [
+    {
+      "uid": "f49eb1b7f4c0c43bfd6b06402462e407",
+      "seller": "00000000-0000-0000-0009-01fb5751b28e",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Grüne Pelzmütze",
+        "lore": [
+          "",
+          "Signiert von OPSUCHT am 06.12.2024",
+          "",
+          "➥ Effekt: +5 Herzen (Kopf)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:protection": 5,
+          "minecraft:blast_protection": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 74000,
+      "currentBid": 200000,
+      "highestBidder": "83271af6-60fb-4a04-b0e4-cf7a705c30ef",
+      "bids": {
+        "83271af6-60fb-4a04-b0e4-cf7a705c30ef": 200000
+      },
+      "startTime": "2026-02-11T15:44:13.453Z",
+      "endTime": "2026-02-12T15:44:13.453Z",
+      "finalPrice": 200000
     }
   ]
 }
