@@ -7961,6 +7961,38 @@
       "startTime": "2026-02-11T15:48:35.390Z",
       "endTime": "2026-02-11T21:52:04.360Z",
       "finalPrice": 2550250
+    },
+    {
+      "uid": "1bafb273e86cce78fa50670ae73f64ef",
+      "seller": "00000000-0000-0000-0009-01f923ae25d5",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Thanos Handschuh",
+        "lore": [
+          "",
+          "Mit diesem mächtigen Artefakt kannst du",
+          "die Beschaffenheit der Realität ändern!",
+          "",
+          "➥ Effekt: Wandle Wasser zu Eis",
+          "➥ Effekt: Wandle Lava zu Obsidian",
+          "➥ Effekt: Sanfter Fall",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 2000000,
+      "currentBid": 2380000,
+      "highestBidder": "0f6725c3-424d-4787-99ad-36ddfbe5040b",
+      "bids": {
+        "0f6725c3-424d-4787-99ad-36ddfbe5040b": 2380000
+      },
+      "startTime": "2026-02-11T17:29:01.247Z",
+      "endTime": "2026-02-12T05:29:01.247Z",
+      "finalPrice": 2380000
     }
   ],
   "Odin's Schwingen": [
