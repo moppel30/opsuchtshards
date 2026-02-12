@@ -21484,6 +21484,33 @@
       "startTime": "2026-02-11T11:52:04.160Z",
       "endTime": "2026-02-12T11:52:04.160Z",
       "finalPrice": 1001
+    },
+    {
+      "uid": "50bbff2db7e4a3c876a041baa0768557",
+      "seller": "00000000-0000-0000-0009-01f9d0ba3ed8",
+      "item": {
+        "material": "DIAMOND_AXE",
+        "icon": "https://img.mc-api.io/diamond_axe.png",
+        "amount": 1,
+        "lore": [],
+        "enchantments": {
+          "minecraft:bane_of_arthropods": 4,
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 5,
+          "minecraft:unbreaking": 3
+        }
+      },
+      "category": "other",
+      "startBid": 0,
+      "currentBid": 200,
+      "highestBidder": "00000000-0000-0000-0009-01f2346bae4e",
+      "bids": {
+        "c5e7583e-51ac-4533-92b6-d78405c54372": 1,
+        "00000000-0000-0000-0009-01f2346bae4e": 200
+      },
+      "startTime": "2026-02-12T09:50:14.507Z",
+      "endTime": "2026-02-12T15:50:14.507Z",
+      "finalPrice": 200
     }
   ],
   "NETHERITE_SHOVEL": [
