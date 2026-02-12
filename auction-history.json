@@ -17792,6 +17792,41 @@
       "startTime": "2026-02-11T22:46:47.267Z",
       "endTime": "2026-02-12T10:48:45.963Z",
       "finalPrice": 5788.13
+    },
+    {
+      "uid": "52d6e3d665716dbb61da44fb1dfe881b",
+      "seller": "e29e3727-820c-4be1-bed7-e98fe72ba831",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Supporter-Team",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✰✰",
+          "",
+          "1. EDITION (8/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 20000,
+      "highestBidder": "79d13f29-8bf0-40ec-bd55-50e1cbfc96f6",
+      "bids": {
+        "c769c5f6-2f6e-4d59-adf7-f4363d04a4ac": 5512.5,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 5788.13,
+        "90a741dc-dc58-4046-a88a-2a5568b039d2": 5000,
+        "79d13f29-8bf0-40ec-bd55-50e1cbfc96f6": 20000
+      },
+      "startTime": "2026-02-11T22:46:47.267Z",
+      "endTime": "2026-02-12T10:50:01.013Z",
+      "finalPrice": 20000
     }
   ],
   "Sammelkarten GÜNSTIG": [
