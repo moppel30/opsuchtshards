@@ -22660,5 +22660,32 @@
       "endTime": "2026-02-12T16:36:00.392Z",
       "finalPrice": 10001
     }
+  ],
+  "Schubkarre": [
+    {
+      "uid": "66ba5286698606ac6ce252eb460c3e63",
+      "seller": "00000000-0000-0000-0009-01f68e03ad86",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Schubkarre",
+        "lore": [
+          "",
+          "➥ OP Pass Belohnung der 1. Edition Season"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 50000,
+      "currentBid": 53858,
+      "highestBidder": "1d6c4db8-eded-4ea8-a288-186ecc9cbeca",
+      "bids": {
+        "1d6c4db8-eded-4ea8-a288-186ecc9cbeca": 53858,
+        "00000000-0000-0000-0009-00000b5785fd": 50001
+      },
+      "startTime": "2026-02-11T16:37:04.327Z",
+      "endTime": "2026-02-12T16:37:04.327Z",
+      "finalPrice": 53858
+    }
   ]
 }
