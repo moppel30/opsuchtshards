@@ -23286,5 +23286,42 @@
       "endTime": "2026-02-12T16:55:48.416Z",
       "finalPrice": 100000
     }
+  ],
+  "Knochenaxt": [
+    {
+      "uid": "016ec399667b232babcf199b69117b15",
+      "seller": "884a3ff0-f414-4a95-9ffb-f033bf2a1a60",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Knochenaxt",
+        "lore": [
+          "",
+          "Knochenkollektion (2/12)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 6,
+          "minecraft:unbreaking": 5
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 300000,
+      "highestBidder": "bd0e2308-b59d-4c3d-b21f-c863161f7ad6",
+      "bids": {
+        "01c9a312-1585-4405-ae1b-73fcb8a9b3a4": 10.5,
+        "befe1afb-b1eb-416b-9efa-a1218631c1be": 260100,
+        "bd0e2308-b59d-4c3d-b21f-c863161f7ad6": 300000,
+        "5c309515-888f-4e16-8154-b717628b35a8": 10,
+        "9f4b3e6b-6f16-47e2-8539-9102577c49ae": 255000
+      },
+      "startTime": "2026-02-12T16:41:12.383Z",
+      "endTime": "2026-02-12T16:56:12.383Z",
+      "finalPrice": 300000
+    }
   ]
 }
