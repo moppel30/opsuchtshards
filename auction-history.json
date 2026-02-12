@@ -9430,6 +9430,43 @@
       "startTime": "2026-02-11T19:44:46.313Z",
       "endTime": "2026-02-11T22:51:32.725Z",
       "finalPrice": 185000
+    },
+    {
+      "uid": "56ce03e9599549be273156e7cf4a6bed",
+      "seller": "15578e68-e1fd-4320-be77-3f26a92aa58c",
+      "item": {
+        "material": "DIAMOND_HELMET",
+        "icon": "https://img.mc-api.io/diamond_helmet.png",
+        "amount": 1,
+        "displayName": ".. Flinks Admin-Helm ..",
+        "lore": [
+          "",
+          "Signiert von Flink040 am 01.02.2026",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Unbezahlbar"
+        ],
+        "enchantments": {
+          "minecraft:unbreaking": 10,
+          "minecraft:protection": 10,
+          "minecraft:aqua_affinity": 6,
+          "minecraft:respiration": 8
+        }
+      },
+      "category": "tools_armor",
+      "startBid": 1,
+      "currentBid": 400000,
+      "highestBidder": "c71e3894-dc2a-4a71-9325-80be2ca9e316",
+      "bids": {
+        "18b8ef10-2b0c-4814-95c0-cd8463b8a51d": 100000,
+        "e17907b2-e3a1-493b-ae81-226d6228b196": 124040,
+        "c71e3894-dc2a-4a71-9325-80be2ca9e316": 400000,
+        "6ed79498-1a3a-4dd3-a851-405069850d74": 5000,
+        "c01ed2de-a79d-4cba-b713-eceb1c55edf7": 102000
+      },
+      "startTime": "2026-02-12T14:43:00.581Z",
+      "endTime": "2026-02-12T15:43:00.580Z",
+      "finalPrice": 400000
     }
   ],
   "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE": [
