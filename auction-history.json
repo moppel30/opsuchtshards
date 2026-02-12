@@ -6902,6 +6902,40 @@
       "startTime": "2026-02-11T20:53:07.218Z",
       "endTime": "2026-02-11T21:54:43.529Z",
       "finalPrice": 220.5
+    },
+    {
+      "uid": "f7c420264aadac47d47754f6ec12a8c8",
+      "seller": "00000000-0000-0000-0009-01fe1e6e03aa",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "OP-City",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✰✰✰",
+          "",
+          "1. EDITION (14/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 500,
+      "currentBid": 6000,
+      "highestBidder": "00000000-0000-0000-0009-00000a6d41ea",
+      "bids": {
+        "00000000-0000-0000-0009-01fc27b58236": 5000,
+        "00000000-0000-0000-0009-000007c2ba22": 700,
+        "00000000-0000-0000-0009-00000a6d41ea": 6000
+      },
+      "startTime": "2026-02-11T05:52:12.048Z",
+      "endTime": "2026-02-12T05:52:12.048Z",
+      "finalPrice": 6000
     }
   ],
   ".. Flinks Admin-Stiefel ..": [
