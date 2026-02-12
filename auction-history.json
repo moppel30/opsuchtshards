@@ -23885,5 +23885,33 @@
       "endTime": "2026-02-12T17:28:13.528Z",
       "finalPrice": 501
     }
+  ],
+  "Hoglin-Spawn-Egg": [
+    {
+      "uid": "d1d350e900ade18a5261e99ed014932b",
+      "seller": "00000000-0000-0000-0009-01f649ad8b32",
+      "item": {
+        "material": "HOGLIN_SPAWN_EGG",
+        "icon": "https://img.mc-api.io/hoglin_spawn_egg.png",
+        "amount": 1,
+        "displayName": "Hoglin-Spawn-Egg",
+        "lore": [
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {}
+      },
+      "category": "spawn_eggs",
+      "startBid": 100000,
+      "currentBid": 101000,
+      "highestBidder": "00000000-0000-0000-0009-01f08e99be02",
+      "bids": {
+        "00000000-0000-0000-0009-01f08e99be02": 101000
+      },
+      "startTime": "2026-02-11T17:34:04.092Z",
+      "endTime": "2026-02-12T17:34:36.756Z",
+      "finalPrice": 101000
+    }
   ]
 }
