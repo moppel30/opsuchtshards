@@ -19176,5 +19176,45 @@
       "endTime": "2026-02-12T00:46:20.210Z",
       "finalPrice": 70001
     }
+  ],
+  "Allay Spitzhacke": [
+    {
+      "uid": "ba3c47b8624eacad154da8fa7f1024be",
+      "seller": "91873160-d330-42a8-81b1-61e2cc1c804f",
+      "item": {
+        "material": "DIAMOND_PICKAXE",
+        "icon": "https://img.mc-api.io/diamond_pickaxe.png",
+        "amount": 1,
+        "displayName": "Allay Spitzhacke",
+        "lore": [
+          "",
+          "Ein Allay, flink und fein,",
+          "sammelt Schätze, dein wird sein.",
+          "",
+          "Signiert vom Allay am 01.02.2025",
+          "",
+          "ALLAY KOLLEKTION (1/8)",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Jackpot"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:efficiency": 10,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "tools",
+      "startBid": 60000000,
+      "currentBid": 60000001,
+      "highestBidder": "00000000-0000-0000-0009-01fa990a099e",
+      "bids": {
+        "00000000-0000-0000-0009-01fa990a099e": 60000001
+      },
+      "startTime": "2026-02-11T13:46:27.720Z",
+      "endTime": "2026-02-12T01:46:27.720Z",
+      "finalPrice": 60000001
+    }
   ]
 }
