@@ -15338,6 +15338,40 @@
       "startTime": "2026-02-11T20:09:18.964Z",
       "endTime": "2026-02-11T20:35:34.383Z",
       "finalPrice": 3250000
+    },
+    {
+      "uid": "07781846a1d1a1adfa755a92fe748fab",
+      "seller": "00000000-0000-0000-0009-01f649ad8b32",
+      "item": {
+        "material": "NETHERITE_AXE",
+        "amount": 1,
+        "displayName": "Builder Axt",
+        "lore": [
+          "",
+          "Signiert vom Builder-Team am 01.06.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Legendär"
+        ],
+        "enchantments": {
+          "minecraft:sharpness": 5,
+          "minecraft:mending": 2,
+          "minecraft:efficiency": 8,
+          "minecraft:unbreaking": 10,
+          "minecraft:fortune": 4
+        }
+      },
+      "category": "custom_items",
+      "startBid": 1000000,
+      "currentBid": 1010001.02,
+      "highestBidder": "45788ddc-1da7-4579-bef8-b617343d97dc",
+      "bids": {
+        "45788ddc-1da7-4579-bef8-b617343d97dc": 1010001.02,
+        "0b47727a-eb6c-4130-8c28-edea644b7582": 1000001
+      },
+      "startTime": "2026-02-11T17:33:28.358Z",
+      "endTime": "2026-02-12T17:33:28.358Z",
+      "finalPrice": 1010001.02
     }
   ],
   "Businezz Modpicke": [
