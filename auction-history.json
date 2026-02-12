@@ -13508,6 +13508,46 @@
       "startTime": "2026-02-12T13:34:15.963Z",
       "endTime": "2026-02-12T16:34:15.963Z",
       "finalPrice": 100000
+    },
+    {
+      "uid": "e329227ba66bfca6728b6729cea2cec9",
+      "seller": "a875f4b7-446e-403c-a61a-ea31bcd31a16",
+      "item": {
+        "material": "LEATHER_BOOTS",
+        "amount": 1,
+        "displayName": "H4CKER.exe",
+        "lore": [
+          "ds101ds010110sdh",
+          "",
+          "Signiert vom Hacker am 01.04.2023",
+          "",
+          "Gewinntyp » Item",
+          "Seltenheit » Episch"
+        ],
+        "enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 2,
+          "minecraft:feather_falling": 6,
+          "minecraft:protection": 22,
+          "minecraft:aqua_affinity": 6
+        }
+      },
+      "category": "custom_items",
+      "startBid": 0,
+      "currentBid": 100000,
+      "highestBidder": "00000000-0000-0000-0009-01fa6b6c26f0",
+      "bids": {
+        "aeff7d2e-964a-45c9-824f-4199b0f7f903": 1,
+        "ffafca53-22f1-430a-b155-37100c3d7186": 525,
+        "5dc53686-554e-4011-84b5-a15c149d1241": 30500,
+        "0d02d5aa-e6b2-4c22-949a-15b9cf6b569c": 60000,
+        "5237daaf-bffc-4983-a834-aa4050407d7f": 63000,
+        "ab9ed788-f243-4944-b512-5211bdf3dfbc": 1.05,
+        "00000000-0000-0000-0009-01fa6b6c26f0": 100000
+      },
+      "startTime": "2026-02-12T13:34:29.094Z",
+      "endTime": "2026-02-12T16:34:29.094Z",
+      "finalPrice": 100000
     }
   ],
   "Tunnelgräber Schaufel": [
