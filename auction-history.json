@@ -2837,6 +2837,42 @@
       "startTime": "2026-02-11T22:03:43.117Z",
       "endTime": "2026-02-12T10:03:43.117Z",
       "finalPrice": 250000
+    },
+    {
+      "uid": "1e966ebf98be4299943b333781532cc1",
+      "seller": "5210d5d8-f374-4c49-be4d-b83ef8bff82e",
+      "item": {
+        "material": "PAPER",
+        "amount": 1,
+        "displayName": "1. EDITION Boosterpack",
+        "lore": [
+          "",
+          "Dieses Boosterpack enthält",
+          "3 Sammelkarten der 1. Edition.",
+          "Dabei ist eine exklusive Karte mit",
+          "mindestens ✯✯✰✰✰ garantiert.",
+          "",
+          "Klicke, um dieses",
+          "Boosterpack zu öffnen."
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 200000,
+      "currentBid": 366666,
+      "highestBidder": "36127163-6f36-4e75-b41e-0dbdd7307366",
+      "bids": {
+        "39506b76-f353-4225-ac72-28a3b3ea4af9": 318362.4,
+        "50be75cf-ea46-4a26-9c8d-457ecf791b98": 200001,
+        "e159dceb-dffc-4d26-9505-08e32c4375b9": 210000,
+        "36127163-6f36-4e75-b41e-0dbdd7307366": 366666,
+        "ea5f6a5e-3b8f-46ee-a2a8-ab06d838610e": 204001.02,
+        "6c1c9156-433a-4995-9b84-b2a67b0449b9": 300000,
+        "5a2bdf33-ede2-49ba-8b42-dbba4fb5fea7": 340999
+      },
+      "startTime": "2026-02-11T22:03:43.117Z",
+      "endTime": "2026-02-12T10:04:01.362Z",
+      "finalPrice": 366666
     }
   ],
   "POTION": [
@@ -16183,6 +16219,38 @@
       "startTime": "2026-02-11T19:57:06.810Z",
       "endTime": "2026-02-11T20:59:51.012Z",
       "finalPrice": 1530151.05
+    },
+    {
+      "uid": "2c4769124e82807d30f3ba85d4e6992e",
+      "seller": "00000000-0000-0000-0009-01ffca470056",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "EinfachEmmy",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✯✯✯✰",
+          "",
+          "1. EDITION (4/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 3000000,
+      "currentBid": 3000001,
+      "highestBidder": "20bb805f-e89c-4f7e-b7b0-c6e57cd3d476",
+      "bids": {
+        "20bb805f-e89c-4f7e-b7b0-c6e57cd3d476": 3000001
+      },
+      "startTime": "2026-02-11T23:00:15.403Z",
+      "endTime": "2026-02-12T11:00:15.403Z",
+      "finalPrice": 3000001
     }
   ],
   "Sculkbrustplatte": [
