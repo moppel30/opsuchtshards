@@ -6669,6 +6669,40 @@
       "startTime": "2026-02-11T19:51:17.479Z",
       "endTime": "2026-02-11T22:51:30.613Z",
       "finalPrice": 12000
+    },
+    {
+      "uid": "7ba0303dab57ce59189c3d1785c10499",
+      "seller": "b5fa27d4-3279-4476-81f1-daeb02565c97",
+      "item": {
+        "material": "APPLE",
+        "amount": 1,
+        "displayName": "Riesenpilz",
+        "lore": [
+          "",
+          "Dieser Pilz verleiht",
+          "dem Esser gigantische Größe!",
+          "",
+          "Signiert von OPSUCHT am 01.03.2025",
+          "Signiert von Mario am 01.03.2025",
+          "",
+          "➥ Effekt: Vergrößert dich beim Verzehr",
+          "➥ Dauer: 5 Minuten"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1,
+      "currentBid": 2000,
+      "highestBidder": "00000000-0000-0000-0009-01f08e99be02",
+      "bids": {
+        "85746ace-b0d9-4301-9118-4d9c5fc1db47": 21,
+        "00000000-0000-0000-0009-01f08e99be02": 2000,
+        "054e0dbb-4942-408d-a0c1-d4c657f02c37": 3,
+        "72d46f27-e9fc-41ff-babf-8141766dba3f": 5
+      },
+      "startTime": "2026-02-12T17:22:22.905Z",
+      "endTime": "2026-02-12T17:30:22.765Z",
+      "finalPrice": 2000
     }
   ],
   "Kamel-Spawn-Egg": [
