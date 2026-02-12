@@ -24241,5 +24241,41 @@
       "endTime": "2026-02-12T17:48:03.922Z",
       "finalPrice": 21000
     }
+  ],
+  "Pokéball": [
+    {
+      "uid": "bf4fd837ff4e875a560be40f773b0e9e",
+      "seller": "00000000-0000-0000-0009-01f0137caa09",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Pokéball",
+        "lore": [
+          "",
+          "Fangt Tiere in der Farmwelt",
+          "und bringt sie in die Plotwelt.",
+          "",
+          "Von Kühen bis Elefanten,",
+          "die Möglichkeiten sind endlos!",
+          "",
+          "Achtung: Insgesamt 1 Benutzung!"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 10000,
+      "currentBid": 48620.25,
+      "highestBidder": "4dd7aac9-7b8a-44f0-869e-f10c6bed8f56",
+      "bids": {
+        "5a206c44-8711-42eb-b46d-d78278388f3a": 44100,
+        "e1d52bc6-b981-42b2-a47f-5b9fed4f28ec": 31500,
+        "00000000-0000-0000-0009-01fddea05acf": 30000,
+        "7734891c-ec9d-4d32-8bec-767be9e2365e": 46305,
+        "4dd7aac9-7b8a-44f0-869e-f10c6bed8f56": 48620.25
+      },
+      "startTime": "2026-02-11T17:46:51.846Z",
+      "endTime": "2026-02-12T17:48:25.209Z",
+      "finalPrice": 48620.25
+    }
   ]
 }
