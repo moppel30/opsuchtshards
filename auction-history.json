@@ -14709,6 +14709,38 @@
       "startTime": "2026-02-10T22:43:26.739Z",
       "endTime": "2026-02-11T22:43:26.739Z",
       "finalPrice": 2000
+    },
+    {
+      "uid": "fc1b6d3c4ca9cb7816cd83a5ae0e33d7",
+      "seller": "a6581089-ed2a-43cc-b60b-65a932eb2146",
+      "item": {
+        "material": "GOLDEN_HORSE_ARMOR",
+        "amount": 1,
+        "displayName": "Filmstudio",
+        "lore": [
+          "",
+          "Sammle diese Sammelkarte",
+          "in deinem /Album.",
+          "",
+          "Gewinntyp » Sammelkarte",
+          "Seltenheit » ✯✰✰✰✰",
+          "",
+          "1. EDITION (24/24)",
+          "",
+          "Off-Hand: Karte anschauen"
+        ],
+        "enchantments": {}
+      },
+      "category": "custom_items",
+      "startBid": 1000,
+      "currentBid": 2000,
+      "highestBidder": "00000000-0000-0000-0009-01f64a2a2df0",
+      "bids": {
+        "00000000-0000-0000-0009-01f64a2a2df0": 2000
+      },
+      "startTime": "2026-02-11T15:23:48.351Z",
+      "endTime": "2026-02-12T03:23:48.351Z",
+      "finalPrice": 2000
     }
   ],
   "Farmwelt": [
