@@ -3672,5 +3672,27 @@
       "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"#926428\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Holzbündel\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=625,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"#926428\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Holzbündel\",\"underlined\":false}],\"text\":\"\"}']",
       "target": "opshards"
     }
+  ],
+  "1771097128875": [
+    {
+      "exchangeRate": 11.04,
+      "source": "diamond_block",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 54.28,
+      "source": "netherite_ingot",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 19.85,
+      "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Gräbergemisch\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=626,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Gräbergemisch\",\"underlined\":false}],\"text\":\"\"}']",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 18.82,
+      "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"#926428\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Holzbündel\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=625,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"#926428\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Holzbündel\",\"underlined\":false}],\"text\":\"\"}']",
+      "target": "opshards"
+    }
   ]
 }
