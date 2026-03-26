@@ -23450,5 +23450,32 @@
       "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Steinplatten\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=635,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Steinplatten\",\"underlined\":false}],\"text\":\"\"}']",
       "target": "opshards"
     }
+  ],
+  "1774501642255": [
+    {
+      "exchangeRate": 10.41,
+      "source": "diamond_block",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 43.5,
+      "source": "netherite_ingot",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 21.2,
+      "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Gräbergemisch\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=626,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"gray\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Gräbergemisch\",\"underlined\":false}],\"text\":\"\"}']",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 22.67,
+      "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"#926428\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Holzbündel\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=625,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"#926428\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Holzbündel\",\"underlined\":false}],\"text\":\"\"}']",
+      "target": "opshards"
+    },
+    {
+      "exchangeRate": 13.29,
+      "source": "minecraft:paper[item_name='{\"extra\":[{\"bold\":true,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Steinplatten\",\"underlined\":false}],\"text\":\"\"}',custom_model_data=635,custom_name='{\"extra\":[{\"bold\":true,\"color\":\"white\",\"italic\":false,\"obfuscated\":false,\"strikethrough\":false,\"text\":\"Steinplatten\",\"underlined\":false}],\"text\":\"\"}']",
+      "target": "opshards"
+    }
   ]
 }
