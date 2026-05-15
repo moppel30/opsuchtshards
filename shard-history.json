@@ -55838,5 +55838,43 @@
       "source": "redstone_ore",
       "target": "opshards"
     }
+  ],
+  "1778829239901": [
+    {
+      "base": 8,
+      "exchangeRate": 7.3,
+      "source": "diamond_block",
+      "target": "opshards"
+    },
+    {
+      "base": 60,
+      "exchangeRate": 67.8,
+      "source": "netherite_ingot",
+      "target": "opshards"
+    },
+    {
+      "base": 20,
+      "exchangeRate": 22.35,
+      "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"gray\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Gräbergemisch\", underlined: 0b}], text: \"\"},custom_model_data={floats: [626.0f]},item_name={extra: [{bold: 1b, color: \"gray\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Gräbergemisch\", underlined: 0b}], text: \"\"}]",
+      "target": "opshards"
+    },
+    {
+      "base": 20,
+      "exchangeRate": 19.8,
+      "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"#926428\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Holzbündel\", underlined: 0b}], text: \"\"},custom_model_data={floats: [625.0f]},item_name={extra: [{bold: 1b, color: \"#926428\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Holzbündel\", underlined: 0b}], text: \"\"}]",
+      "target": "opshards"
+    },
+    {
+      "base": 15,
+      "exchangeRate": 14.12,
+      "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"white\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Steinplatten\", underlined: 0b}], text: \"\"},custom_model_data={floats: [635.0f]},item_name={extra: [{bold: 1b, color: \"white\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Steinplatten\", underlined: 0b}], text: \"\"}]",
+      "target": "opshards"
+    },
+    {
+      "base": 2,
+      "exchangeRate": 1.89,
+      "source": "redstone_ore",
+      "target": "opshards"
+    }
   ]
 }
