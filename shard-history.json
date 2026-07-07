@@ -83934,5 +83934,37 @@
       "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"white\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Steinplatten\", underlined: 0b}], text: \"\"},custom_model_data={floats: [635.0f]},item_name={extra: [{bold: 1b, color: \"white\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Steinplatten\", underlined: 0b}], text: \"\"}]",
       "target": "opshards"
     }
+  ],
+  "1783412590984": [
+    {
+      "base": 12,
+      "exchangeRate": 10.63,
+      "source": "diamond_block",
+      "target": "opshards"
+    },
+    {
+      "base": 60,
+      "exchangeRate": 53.76,
+      "source": "netherite_ingot",
+      "target": "opshards"
+    },
+    {
+      "base": 16,
+      "exchangeRate": 16.23,
+      "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"gray\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Gräbergemisch\", underlined: 0b}], text: \"\"},custom_model_data={floats: [626.0f]},item_name={extra: [{bold: 1b, color: \"gray\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Gräbergemisch\", underlined: 0b}], text: \"\"}]",
+      "target": "opshards"
+    },
+    {
+      "base": 21,
+      "exchangeRate": 19.51,
+      "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"#926428\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Holzbündel\", underlined: 0b}], text: \"\"},custom_model_data={floats: [625.0f]},item_name={extra: [{bold: 1b, color: \"#926428\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Holzbündel\", underlined: 0b}], text: \"\"}]",
+      "target": "opshards"
+    },
+    {
+      "base": 15,
+      "exchangeRate": 14.41,
+      "source": "minecraft:paper[custom_name={extra: [{bold: 1b, color: \"white\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Steinplatten\", underlined: 0b}], text: \"\"},custom_model_data={floats: [635.0f]},item_name={extra: [{bold: 1b, color: \"white\", italic: 0b, obfuscated: 0b, strikethrough: 0b, text: \"Steinplatten\", underlined: 0b}], text: \"\"}]",
+      "target": "opshards"
+    }
   ]
 }
