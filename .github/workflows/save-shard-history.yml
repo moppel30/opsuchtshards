@@ -5,17 +5,24 @@ on:
   schedule:
     - cron: '0 * * * *'
 
+concurrency:
+  group: save-shard-history
+  cancel-in-progress: false
+
 jobs:
   save_history:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install axios firebase-admin
@@ -25,12 +32,20 @@ jobs:
         env:
           FIREBASE_CONFIG: ${{ secrets.FIREBASE_CONFIG }}
 
-      # NEU: Dieser Schritt lädt die neue JSON-Datei ins Repository hoch
       - name: Commit and push shard history file
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+
           git add shard-history.json
-          # Commit nur, wenn es Änderungen gibt
-          git diff --staged --quiet || git commit -m "Update shard-history.json"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen vorhanden."
+            exit 0
+          fi
+
+          git commit -m "Update shard-history.json"
+
+          git pull --rebase origin main
+
+          git push origin main
